@@ -1,0 +1,7 @@
+#Ignore files
+*.data
+*.onnx
+*.pt
+
+#Ignore folders
+data
