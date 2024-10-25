@@ -2,6 +2,7 @@
 *.data
 *.onnx
 *.pt
+.DS_Store
 
 #Ignore folders
 data
