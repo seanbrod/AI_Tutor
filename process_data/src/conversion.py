@@ -1,9 +1,8 @@
 from moviepy.editor import *
 
 def MP4toMP3(mp4, mp3):
-    file_mp4 = AudioFileClip(mp4)
-    file_mp4.write_audiofile(mp3)
-    file_mp4.close()
+    video = VideoFileClip(mp4)
+    video.audio.write_audiofile(mp3)
 
 
 def main():
