@@ -7,8 +7,10 @@ def MP4toMP3(mp4, mp3):
 
 def main():
     file_name: str = input("Enter an audiofile: ")
-    input_file = "process_data\\data_vidUC\\{}".format(file_name)
+    input_file = "process_data\\data_vid\\{}".format(file_name)
+    print(input_file+"\n")
     output_file = input_file[:-4]+".mp3"
+    print(output_file)
     if(file_name[-4:]==".mp4"):
         MP4toMP3(input_file, output_file)
         print("complete")
