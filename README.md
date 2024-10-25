@@ -11,8 +11,7 @@ Personalized AI tutor for a selected class.
 pip install -U openai-whisper
 
 
-Next, you need to install scoop to install ffmpeg.
-Run the following commands
+#Next, you need to install scoop to install ffmpeg, run the following commands
 
 
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -20,7 +19,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 
-Following installation of scoop, install ffmpeg
+#Following installation of scoop, install ffmpeg
 
 
 scoop install ffmpeg
