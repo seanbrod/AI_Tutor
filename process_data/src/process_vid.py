@@ -22,13 +22,13 @@ def main():
     file_name: str = input("Enter an audiofile: ")
     input_file = "process_data\\data_vid\\{}".format(file_name)
     new_input_file = input_file[:-4]+".mp3"
-    if(file_name[:-4]==".mp4"):
+    if(file_name[-4:]==".mp4"):
         MP4toMP3(input_file, new_input_file)
         transcribe(new_input_file)
         print("complete")
     else:
         transcribe(input_file)
-        print("complete")
+        print("complete_nc")
 
 if __name__=="__main__":
     main()
