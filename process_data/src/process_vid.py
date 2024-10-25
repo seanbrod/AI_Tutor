@@ -1,0 +1,1 @@
+#use whisper AI and get lectures or videos to break down into text. 
