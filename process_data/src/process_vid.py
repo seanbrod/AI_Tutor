@@ -8,27 +8,16 @@ def MP4toMP3(mp4, mp3):
     file_mp4.close()
 
 def transcribe(file):
-<<<<<<< HEAD
     model = whisper.load_model("medium.en")
     try:
         result = model.transcribe(file)
         output_path  = "process_data\\output_vid"
         with open(output_path+"\\output.txt", "w") as f:
             f.write(result["text"]+"\n")
-        print(result["text"])
+        #print(result["text"])
     except Exception as e:
         print("Error", e)
 
-=======
-    model = whisper.load_model("turbo")
-    try:
-        result = model.transcribe(file)
-    except Exception as e:
-        print("Error", e)
-
-    #print(result["text"])
-
->>>>>>> d00ca0436d5da44d7240bba8a03b64a4ae6ebf49
 def main():
     file_name: str = input("Enter an audiofile: ")
     input_file = "process_data\\data_vid\\{}".format(file_name)
@@ -36,17 +25,10 @@ def main():
     if(file_name[:-4]==".mp4"):
         MP4toMP3(input_file, new_input_file)
         transcribe(new_input_file)
-<<<<<<< HEAD
         print("complete")
     else:
         transcribe(input_file)
         print("complete")
 
-=======
-    else:
-        transcribe(input_file)
-
-    
->>>>>>> d00ca0436d5da44d7240bba8a03b64a4ae6ebf49
 if __name__=="__main__":
     main()
