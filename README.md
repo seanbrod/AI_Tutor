@@ -5,7 +5,7 @@ Personalized AI tutor for a selected class.
 - OS: Windows 10/11
 - Python 3.9>
 
-#### Installing Whisper
+## Installing Whisper
 
 
 pip install -U openai-whisper
