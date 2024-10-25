@@ -19,7 +19,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 
-## Following installation of scoop, install ffmpeg
+## Following installation of scoop, install ffmpeg and rust
 
 
 scoop install ffmpeg
