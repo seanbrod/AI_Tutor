@@ -2,3 +2,6 @@
 #poppler, tesseract OCR
 
 #Python
+pdf2image==1.17.0
+pytesseract==0.3.13
+pillow==10.2.0
