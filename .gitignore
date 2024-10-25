@@ -3,6 +3,11 @@
 *.onnx
 *.pt
 .DS_Store
+*.pdf
+*.jpg
+*.txt
 
 #Ignore folders
 data
+poppler
+systen_req

@@ -4,19 +4,19 @@ import os
 import pytesseract
 from PIL import Image
 
-
-OUTPUT_FOLDER = 'process_data\\output_text\\pages_temp'
+pytesseract.pytesseract.tesseract_cmd = r'C:\\Users\\Andrew\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
+OUTPUT_FOLDER = 'process_data\\data_text\\pages_temp'
 
 #convert PDF of proposal to jpg
 def convertPDF_to_JPG(pdfName):
-    FILE_PATH = "process_data\\data_text{}".format(pdfName)
+    FILE_PATH = "process_data\\data_text\\{}".format(pdfName)
     global OUTPUT_FOLDER
 
     pages = convert_from_path(FILE_PATH, fmt='jpeg', output_file='page', paths_only=True, output_folder=OUTPUT_FOLDER)
 
 #make tsv file from running tesseract on jpgs
 def ocrTesseract():
-    dir = "process_data\\output_text\\pages_temp" 
+    dir = "process_data\\data_text\\pages_temp" 
     text_store = []
     for filename in os.listdir(dir):
         try:
@@ -31,10 +31,10 @@ def ocrTesseract():
 def main():
 
     fileName = input("Enter filename: ")
-    output_path = "process_data\\output_text"
+    output_path = "process_data\\output_text\\"
     convertPDF_to_JPG(fileName)
     ocr_proposal = ocrTesseract()
-    with open(output_path+"\output.txt", "w") as f:
+    with open(output_path+"output.txt", "w") as f:
         for item in ocr_proposal:
             f.write(str(item)+"\n")
 
