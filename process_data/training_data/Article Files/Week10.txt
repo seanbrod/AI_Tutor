@@ -8,7 +8,7 @@ Calenina Res, MD EBD Objective To evaluate the relationship between gait speed a
 Kimberly Baulleen Ph Design, Setting, and Participants Pooled analysis of 9 cohort studies (collected
 Marco Inzitari, MD, PhD between 1986 and 2000), using individual data from 34 485 community-dwelling older
 Jennifer Brach, PhD adults aged 65 years or older with baseline gait speed data, followed up for 6 to 21
-——— years. Participants were a mean (SD) age of 73.5 (5.9) years; 59.6%, women; and
+ï¿½ï¿½ï¿½ years. Participants were a mean (SD) age of 73.5 (5.9) years; 59.6%, women; and
 Julie Chandler, PhD 79.8%, white; and had a mean (SD) gait speed of 0.92 (0.27) m/s.
 Peggy Cawthon, PhD Main Outcome Measures Survival rates and life expectancy.
 Elizabeth Barrett Connor, MD Results There were 17528 deaths; the overall 5-year survival rate was 84.8% (confi-
@@ -17,7 +17,7 @@ Marplein Visser.PhD 70.6%). Gait speed was associated with survival in all studi
 SYJOLERE VIBSET, m/s, 0.88; 95% Cl, 0.87-0.90; P<.001). Survival increased across the full range of gait
 Stephen Kritchevsky, PhD speeds, with significant increments per 0.1 m/s. Atage 75, predicted 10-year survival across
 Stefania Badinelli, MD the range of gait speeds ranged from 19% to 87% in men and from 35% to 91% in wom-
-—_________*\____________ en. Predicted survival based on age, sex, and gait speed was as accurate as predicted based
+ï¿½_________*\____________ en. Predicted survival based on age, sex, and gait speed was as accurate as predicted based
 Tamara Harris, MD on age, sex, use of mobility aids, and self-reported function or as age, sex, chronic con-
 Anne B. Newman, MD ditions, smoking history, blood pressure, body mass index, and hospitalization.
 Jane Cauley, PhD Conclusion In this pooled analysis of individual data from 9 selected cohorts, gait
@@ -27,31 +27,31 @@ Jack Guralnik, MD, PhD TT SS TTT
 EMAINING YEARS OF LIFE VARY Mong the olderadults.'*The purpose of adults with gait speed data at baseline,
 widely in olderadults, and phy- this study is to evaluate the associationof monitored survival for at least 5 years.
 sidansshouldc onciee lifeex-  gaitspeed withsurvivalinolderadultsand Analyses performed herein were con-
-pectancy when assessing goals © determine the degree to which gait ducted in 2009 and 2010. All studies
+pectancy when assessing goals ï¿½ determine the degree to which gait ducted in 2009 and 2010. All studies
 of care and treatment plans.' However, life speed explains variability in survival af- required written informed consent and
 expectancy based on age and sex alone '*T accounting for age and sex. institutional review board approval.
 provides limited information because sur- METHODS Populations
 vival is also influenced by health and func- . . , ,
 tional abilities. There are currently no Overview All studies recruited community-
 well-established approaches to predict- We used individual participant data dwelling older adults. Although some
-ing life expectancy that incorporate health from 9 cohort studies, baseline datafor sought representative samples,*°7°?
+ing life expectancy that incorporate health from 9 cohort studies, baseline datafor sought representative samples,*ï¿½7ï¿½?
 and function, although several models which were collected between 1986 and _ others focused on healthier partici-
-have been developed from individualdata 2000 (TABLE 1).819161823 Each study,  pants,'®*'’ single sex,’ or older adults
-sources.>° Gait speed, also often termed which included more than 400 older from primary care practices.*! Only
+have been developed from individualdata 2000 (TABLE 1).819161823 Each study,  pants,'ï¿½*'ï¿½ single sex,ï¿½ or older adults
+sources.>ï¿½ Gait speed, also often termed which included more than 400 older from primary care practices.*! Only
 walking speed, has been shown to be as- Author Affiliations: Department of Medicine, Divi- | Autonomous University of Barcelona, Barcelona, Spain
 sociated with survival among older adults sion of Geratric Medicine, School of Medicine (Drs (Dr Inzitari); Merck Research Laboratories, North Wales,
 in individual epidemiological cohort _ Studenski and Perea), Department of Epidemiology, Pennsylvania (Dr Chandler); California Pacific Medi-
-dies’ and has b hi t Hect School of Public Health (Drs Rosano, Newman, and _cal Center Research Institute (Dr Cawthon), and Uni-
-studies” and has been shown to retlec Cauley), Department of Physical Therapy, School of __ versity of California at San Francisco (Dr Nevitt), Uni-
-health and functional status.'® Gaitspeed —_ Health and Rehabilitation (Dr Brach), University of Pitts- versity of California at San Diego (Dr Barrett Connor),
+diesï¿½ and has b hi t Hect School of Public Health (Drs Rosano, Newman, and _cal Center Research Institute (Dr Cawthon), and Uni-
+studiesï¿½ and has been shown to retlec Cauley), Department of Physical Therapy, School of __ versity of California at San Francisco (Dr Nevitt), Uni-
+health and functional status.'ï¿½ Gaitspeed ï¿½_ Health and Rehabilitation (Dr Brach), University of Pitts- versity of California at San Diego (Dr Barrett Connor),
 A burgh, and National Personal Protective Technology VU University, Amsterdam, the Netherlands (Dr Vis-
 has been recommended a4 potentially Laboratory (Dr Faulkner), Pittsburgh, Pennsylvania; ser); Wake Forest University, Winston-Salem, North
 useful clinical indicator of well-being Laboratory of Epidemiology, Demography, and Bi- Carolina (Dr Kritchevsky); and Geriatric Unit, Azienda
 ometry (Drs Patel, Harris, and Guralnik), and Clinical _sanitaria firenze, Florence, Italy (Dr Badinelli).
 Research Branch, Intramural Research Program (DrFer- Corresponding Author: Stephanie Studenski, MD,
 oe ae rucci), National Institute on Aging, Bethesda, Mary- MPH, Kaufmann Bldg, Ste 500, 3471 Fifth Ave, Pitts-
-For editorial comment see p 93. land; Pere Virgili Hospital and Institute on Aging, — burgh, PA 15143 (sas33@pitt.edu).
-50 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+For editorial comment see p 93. land; Pere Virgili Hospital and Institute on Aging, ï¿½ burgh, PA 15143 (sas33@pitt.edu).
+50 JAMA, January 5, 2011ï¿½Vol 305, No. 1 (Reprinted) ï¿½2011 American Medical Association. All rights reserved.
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
@@ -60,7 +60,7 @@ Table 1. Characteristics of Participants in the 9 Cohort Studies
 No. (%) of Participants by Study
 Osteoporotic Study of
 Health, Hispanic Invecciare Fractures NHANES Osteoporotic
-Study CHS® EPESE'® ABC'S” EPESE® in Chianti’? in Men’? ure? PEP” Fractures”
+Study CHSï¿½ EPESE'ï¿½ ABC'Sï¿½ EPESEï¿½ in Chiantiï¿½? in Menï¿½? ure? PEPï¿½ Fracturesï¿½
 Sample size, No. 5801 2128 3048 1905 972 5833 3958 491 10349
 Women 3336 (67.51) 1404 (65.98) 1575 (61.67) 1098 (67.64) 541 (65.66) ie} 2044 (61.64) 216 (43.99) 10349 (100)
 Race/ethnicity
@@ -109,7 +109,7 @@ follow-up
 Median survival years 13.25 9.57 NE 11.70 NE NE 9.86 11.15 17.23
 (95% Cl) (13.00-13.56)  (9.17-9.92) (11.11-NE) (9.53-10.19)  (9.82-11.92)  (16.97-17.47)
 Follow-up period, 13.25 9.57 9.00 11.54 6.00 6.84 9.86 14.15 15.03
-median (range), y  (0.01-18.06) (0.10-20.65)  0.02-9.00) 0.07-12.29) (0.18-6.00) —0.04-8.26)  0.08-17.75) (0.12-13.76) _(0.02-21.00)
+median (range), y  (0.01-18.06) (0.10-20.65)  0.02-9.00) 0.07-12.29) (0.18-6.00) ï¿½0.04-8.26)  0.08-17.75) (0.12-13.76) _(0.02-21.00)
 Length of walk 15 feet 8 feet 6m 8 feet 4m 6m 4m 4m 6m
 Year of baseline data 1989-90, 1987-1989 1997-1998 1995-1996 1998-2000 2000-2002 1988-1994 1996 1986-1988,
 collection 1992-93 1997
@@ -118,7 +118,7 @@ mortality follow-up
 Abbreviations: ABC, Aging and Body Composition; BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; CHS, Cardiovascular Health Study; Cl,
 confidence interval; EPESE, Established Populations for the Epidemiological Study of the Elderly; NA, not applicable; NE, not estimable due to insufficiently long follow-up and resulting
 in low mortality rate less than or close to 50%; NHANES III, Third National Health and Nutrition Examination Survey; PEP, Predicting Elderly Performance.
-©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 51
+ï¿½2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011ï¿½Vol 305, No.1 51
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
@@ -126,26 +126,26 @@ participants 65 years and older with mous variable reflecting difficulty inin- o
 baseline gait speed data were included strumental ADIs based on report of To examine the influence of early
 in this study. Individual study goals, re- difficulty or dependence with shopping, deaths, we repeated analyses exclud-
 cruitment methods, and target popu- meal preparation, or heavy housework _ ing deaths within 1 year of gait speed
-lations have been published.*!*”? due toa health or physical problem. Par- measurement and moved up the 0 time
+lations have been published.*!*ï¿½? due toa health or physical problem. Par- measurement and moved up the 0 time
 ticipants were then classified into 1 of 3 for survival assessment (results were
 Measures groups; dependent in ADLs, difficulty similar; eTable 1 available at http://www
 Gait speed was calculated for each par-_ withinstrumentalADLs, orindependent. _.jama.com). Subgroup analyses were re-
 ticipant using distance in meters and Physical activity datawere collectedin6 _ peated in strata by age (65-74, 75-84,
 time in seconds. Allstudies usedinstruc- studies, but time framesanditems varied or =85 years), sex, race, self-reported
 tions to walk at usual pace and froma __ widely. Twostudies used the PhysicalAc- health status, smoking history, BMI,
-standing start. The walk distance varied _ tivity Scale for the Elderly (PASE).*” We functional status, use of mobility aids,
-from 8 ft to 6 m. For 8 ft, we converted —_ dichotomized the PASEscoreat 100.*We and hospitalization and by report of
+standing start. The walk distance varied _ tivity Scale for the Elderly (PASE).*ï¿½ We functional status, use of mobility aids,
+from 8 ft to 6 m. For 8 ft, we converted ï¿½_ dichotomized the PASEscoreat 100.*We and hospitalization and by report of
 to 4-m gait speed by formula.* For6m, created operational definitions of other _ cancer, arthritis, diabetes, and heart dis-
-we created a conversion formula (4-m covariates that were reasonably consistent _ ease.” Results were pooled across sex
-speed =-0.0341+(6-m speed) X 0.9816 across studies. Covariates were identical — because no substantial sex differences
-with R’=0.93, based onacohortof6lin- forheight, weight, BMI, andsystolicblood _ existed in HRs within subgroup strata.
+we created a conversion formula (4-m covariates that were reasonably consistent _ ease.ï¿½ Results were pooled across sex
+speed =-0.0341+(6-m speed) X 0.9816 across studies. Covariates were identical ï¿½ because no substantial sex differences
+with Rï¿½=0.93, based onacohortof6lin- forheight, weight, BMI, andsystolicblood _ existed in HRs within subgroup strata.
 dividuals with concurrent 4- and 6-m__ pressure. Hospitalization within the prior To obtain simple and clinically us-
-walks). For 15 feet (4.57m),”* speed was _ year was determined largely byself-report, able estimates of survival probability
+walks). For 15 feet (4.57m),ï¿½* speed was _ year was determined largely byself-report, able estimates of survival probability
 simply meters divided by time. Where andchronicconditions were byself-report based on sex, age, and gait speed, we fit
 available, data on fast gait speed (walkas _ of physician diagnosis, with heartdisease _ logistic regression models separately for
-fast as comfortably able’”) and the Short — encompassingangina, coronary artery dis- each sex with dichotomized 5- and 10-
+fast as comfortably ableï¿½ï¿½) and the Short ï¿½ encompassingangina, coronary artery dis- each sex with dichotomized 5- and 10-
 Physical Performance Battery were ob- _ ease, heart attack, and heart failure. year survival as the response variable and
-tained.”° Survival for each individual used age, gait speed, and their interaction as
+tained.ï¿½ï¿½ Survival for each individual used age, gait speed, and their interaction as
 study monitoring methods, includingthe Statistical Analysis continuous predictors. To obtain esti-
 National Death Index and individual Descriptive statistics summarized par- mates of median survival (further life ex-
 study follow-up. Time from gait speed _ ticipant characteristics, follow-upperiod, _ pectancy), we fit Weibull accelerated fail-
@@ -156,7 +156,7 @@ Additional variables include sex, age, _ tion accounting for at least 25 individ
 race/ethnicity (white, black, Hispanic, statistical comparisons. Kaplan-Meier _ pare ability to predict survival among
 other, defined by participant), height (cen- _ product-limit survival curves graphically candidate variables and to determine
 timeters), weight (kilograms), body mass summarize lifetimes for each gaitspeed _ whether gait speed improves predictive
-index (BMI), calculated as weight in ki- category.” For graphical purposes, gait accuracy beyond other clinical mea-
+index (BMI), calculated as weight in ki- category.ï¿½ For graphical purposes, gait accuracy beyond other clinical mea-
 lograms divided by height in meters speed was categorized into 0.2-m/sin- sures, we fit logistic regression models
 squared (<25, 25-30, and >30),smok- crementswithlowerand upper extremes _ with dichotomized 5-year or 10-year sur-
 ing (never, past, current), use of mobil- being grouped as less than 0.4 m/sand___ vival as the response variable and vari-
@@ -168,16 +168,16 @@ physician-diagnosed medical conditions _ vival, adjusting for age at baseline, f
 (cancer, arthritis, diabetes, and heartdis- | which hazard ratios (HRs) correspond a measure predictive ofaccuracy for mor-
 ease, all yes/no). Measures of self-reported to a 0.1-m/s difference in gait speed. _ tality. All study-specific statistical analy-
 functional status were not collectedinall The analyses were repeated adjusting _ ses were performed using SAS version 9.2
-studies and varied in content and form. for height, sex, race, BMI, smoking — (SAS Institute Inc, Cary, North Carolina).
+studies and varied in content and form. for height, sex, race, BMI, smoking ï¿½ (SAS Institute Inc, Cary, North Carolina).
 Wecreateda dichotomous variablereflect- history systolic blood pressure, dis- Age-adjusted HRs were pooled fromall
 ing dependence in basic activities ofdaily eases, prior hospitalization, and self- studies using standard meta-analytic sta-
 living (ADLs) based onreportofbeingun- reported heath. Proportionality of _ tistical methodology. Heterogeneity of
 able orneeding help fromanotherperson hazards was verified by examining HRsacrossstudies was assessed using the
-to perform any basic activity, including Schoenfeld residual plots.° Appropri- | Qand I’ statistics.*"*’ We used a random-
+to perform any basic activity, including Schoenfeld residual plots.ï¿½ Appropri- | Qand Iï¿½ statistics.*"*ï¿½ We used a random-
 eating, toileting, hygiene, transfer,bath- ateness of using gait speed as a con- _ effects model to appropriately pool the
 ing, and dressing. For individuals inde- _ tinuous predictor was confirmed by ob- HRs on the log scale while incorporating
 pendent in ADLs, we createdadichoto- serving linearity in Cox models with any heterogeneity among study estimates
-52 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+52 JAMA, January 5, 2011ï¿½Vol 305, No. 1 (Reprinted) ï¿½2011 American Medical Association. All rights reserved.
 
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
@@ -191,14 +191,14 @@ frailty** (unrelated to the geriatric syn- Study" 1991
 drome frailty) model to individual partici- aera en he deriy22 1085 1 1g -
 pant data witha y-distributed frailty pa- jean, Aging, and Body Composition 348 3048 -
 rameter to account for study effect (results Study,""-1? 2009, 2005
-similar; not shown).**» Five- and 10-year ee enblodleal Stud otis Dea aE 972 1905 7
-pointwise survival rates from the Kaplan~  jnyecciere in Chianti” 2000 187 972 _
-Meier curves for each sex, age-group, and osteoporotic Fractures in Men,2° 2005 1073 5833 =
+similar; not shown).**ï¿½ Five- and 10-year ee enblodleal Stud otis Dea aE 972 1905 7
+pointwise survival rates from the Kaplan~  jnyecciere in Chiantiï¿½ 2000 187 972 _
+Meier curves for each sex, age-group, and osteoporotic Fractures in Men,2ï¿½ 2005 1073 5833 =
 gait speed category combination were Third National Health and Nutrition 2837 3958 5
 pooled across studies using a random- "32" Say 2004 oa
 effectsmodelon the complementarvlog. Pha Everly Performance, 2008 293 491 -
-5 On Lae COMP LATY 108- study of Osteoporotic Fractures,2° 1990 9612 10349 []
-log scale® and then appropriately inverted
+5 On Lae COMP LATY 108- study of Osteoporotic Fractures,2ï¿½ 1990 9612 10349 []
+log scaleï¿½ and then appropriately inverted
 to obtain overall estimates of survival, as Pooled (random effects) |
 presented in the tables. We further used Poled Ghared frailty mode) a
 the standard random effects meta-analytic 07 1.0 20
@@ -217,9 +217,9 @@ expectancy nomograms; and combine m/s (n=1247) to more than 1.4 m/s _ talactivit
 areas under ROC curves obtained from (n=1491). Study follow-up timeranged was 0.94 (P=.02) among those depen-
 9 studies. An increase of 0.025 inoverall from 6.0 to 21.0 years, with participants dent in ADLs. Because physical activ-
 area under ROC curve wasinterpretedas followed upforameanof12.2andame- __ ity measures were not sufficiently con-
-clinically relevant better accuracy.” Toap-  dianof 13.8years. There were 17 528total sistent across studies, effects could not
+clinically relevant better accuracy.ï¿½ Toap-  dianof 13.8years. There were 17 528total sistent across studies, effects could not
 propriately combine entire survival curves deaths across all studies, with rates vary- be pooled. The Osteoporotic Frac-
-across the 9 studies, we used the gener- ing from 18.40% to 91.87% inindividual _ tures in Men (MrOS)'° and Hispanic Es-
+across the 9 studies, we used the gener- ing from 18.40% to 91.87% inindividual _ tures in Men (MrOS)'ï¿½ and Hispanic Es-
 alized least squares method forjointanaly- studies. Mortality rates appear to bere- _ tablished Populations for Epidemio-
 sis of survival curves.* Weusedarandom- _ lated to length of follow-up (Table 1). logic Studies of the Elderly (EPESE)*
 effects model with weights obtained by To assess consistency across studies, used the Physical Activity Scale for the
@@ -232,14 +232,14 @@ stat Inc, Englewood, New Jersey) forall speed bystudyin subgroups, including 95%
 meta-analytic methods and Stata SE 8 _ age, sex, race/ethnicity, BMI, smoking the Hispanic EPESE, the HR for low
 (StataCorp, College Station, Texas) forfit- history, use of mobility aids, prior hos- _ physical activity was significant (0.92;
 ting shared frailty models. pitalization, self-reported health, func- 95% CI, 0.88-0.96) but the HR for
-—T——— _ tional status, and selected chronic dis- higher physical activity was not (0.99;
+ï¿½Tï¿½ï¿½ï¿½ _ tional status, and selected chronic dis- higher physical activity was not (0.99;
 RESULTS eases. There were consistentassociations 95% CI, 0.95-1.04).Pooled HRs for all
 The 9 participating studies contributed across studies, although given the large _ subgroups except functional status were
 a total of 34 485 participants (Table 1). sample sizes, Q statistics were oftensta- consistently in the range of 0.81 to 0.92
 Although moststudiesincludedmenand _ tistically significant (details availablein and all were significant (P<.002).
-women, 2 were sex specific."°? Of the eFigure 1A-M available at http://www The overall HR for survival per each
+women, 2 were sex specific."ï¿½? Of the eFigure 1A-M available at http://www The overall HR for survival per each
 total, 59.6% were women. There were .jama.com). For the 3 levels of func- 0.1 m/s faster gait speed was 0.88 (95%
-©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 53
+ï¿½2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011ï¿½Vol 305, No.1 53
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
@@ -261,7 +261,7 @@ ated at 5 and 10 years, presentedin3 age 80 years from 0.22 to 0.86 (eFigure 4B)
 groups) and graphs (eFigure 3 and eFig- Stratification by sex-specific median Weibull distribution, with age as a con-
 ure 4 predicted survival based on pooled _ height failed to show systematic differ- _ tinuous variable, and eTable 3, data are
 logistic regression coefficients, data pre- ences in survival rates between shortand derived from pooled Kaplan-Meier es-
-—————————————————————————————————————————
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 Table 2. Five- and 10-Year Survival in Men and Women by Age and Gait Speed Group
 5-Year Survival (95% Cl), %? 10-Year Survival (95% Cl), %
 Men Women Men Women
@@ -289,9 +289,9 @@ Gait aN
 354 speed, m/s 35 14 NS
 18, tat hye
 wes
-> 30 “ & 904 a2 NSS
-z als € 1 OS
-= fh 2 ‘. N,
+> 30 ï¿½ & 904 a2 NSS
+z als ï¿½ 1 OS
+= fh 2 ï¿½. N,
 = 25 3S = 25 1 SS
 5 Wa ea 5 os | eaear
 a 12], ( Gal Es
@@ -305,18 +305,18 @@ ar SSS See en SSS PSS SSS
 65 70 75 80 86 90 95 65 70 75 80 85 90 96
 Age, y Age, y
 A PDF of enlarged graphs is available at http://www.jama.com.
-54 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+54 JAMA, January 5, 2011ï¿½Vol 305, No. 1 (Reprinted) ï¿½2011 American Medical Association. All rights reserved.
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
 timates evaluated at 5 and 10 yearsin (Figure 2; a PDF of enlarged graphs is To compare the 5-year survival pre-
-3 age groups.) In the pooled sample, available at http:/Avww.jama.com). Gait — dictive ability between demographics and
+3 age groups.) In the pooled sample, available at http:/Avww.jama.com). Gait ï¿½ dictive ability between demographics and
 median survival in years for the age speeds of 1.0 m/s or higher consis- _ gait speed vs other combinations of vari-
 groups 65 through 74 years was 12.6 tently demonstrated survival that was _ ables, we used areas under the ROC curve
 for men and 16.8 for women; for 75 longer than expected by age and sex _(Csstatistics) in logistic regression mod-
 through 84 years, 7.9 formenand10.5 alone. In this older adult population, els for individual studies and pooled
 for women; and for 85 years or older, _ the relationship of gait speed with re-__ across studies (TABLE 3). Gait speed
-4.6 for men and 6.4 years for women maining years of life was consistent added substantially” to age and sex in
+4.6 for men and 6.4 years for women maining years of life was consistent added substantiallyï¿½ to age and sex in
 (eTable 3 available at http:/Awww.jama across age groups, but the absolute 7 of the 9 studies and in the pooled analy-
 .com). Predicted years of remaining life number of expected remaining years of _ sis. Cstatistics forage, sex, and gait speed
 for each sex and age increased as gait life was larger at younger ages. For 70- _ were greater than those forage, sex, and
@@ -331,7 +331,7 @@ C Statistic (95% Confidence Interval)
 a
 Osteoporotic Study of
 Outcome and Health, Hispanic Invecciare Fractures Osteoporotic
-Predictors CHS® EPESE"® ABC'S'7 EPESE® in Chianti"® inMen'® NHANES III? PEP”! Fractures” Pooled
+Predictors CHSï¿½ EPESE"ï¿½ ABC'S'7 EPESEï¿½ in Chianti"ï¿½ inMen'ï¿½ NHANES III? PEPï¿½! Fracturesï¿½ Pooled
 5-Year Mortality
 Age, sex 0.705 0.685 0.606 0.694 0.797 0.700 0.710 0.674 0.646 0.690
 (0.685-0.725) (0.658-0.712) (0.575-0.637) (0.662-0.725) (0.754-0.841) (0.677-0.723) (0.691-0.729) (0.616-0.732) (0.625-0.667) (0.662-0.717)
@@ -343,17 +343,17 @@ diseases (0.692-0.731) (0.665-0.719) (0.586-0.647) (0.671-0.725) (0.747-0.838) (
 Age, sex, 0.736 0.702 0.650 0.728 0.808 0.728 0.744 0.728 0.665 0.719
 
 diseases, (0.717- (0.676- (0.620- (0.698- (0.765- (0.706- (0.727- (0.674- (0.643- (0.693-
-BMI, 0.755)>.¢ 0.728) 0.680). 0.755)2.¢ 0.850) 0.749) 0.762)2¢ 0.781)P.¢ 0.686) 0.745)
+BMI, 0.755)>.ï¿½ 0.728) 0.680). 0.755)2.ï¿½ 0.850) 0.749) 0.762)2ï¿½ 0.781)P.ï¿½ 0.686) 0.745)
 systolic
 BP, prior
-——hespitalieations
+ï¿½ï¿½hespitalieations
 Age, sex, use NA NA NA 0.735 0.803 NA 0.738 0.720 NA 0.747
 of mobility (0.705-0.765) (0.756-0.851) (0.720-0.757) (0.663-0.776) (0.720-0.774)
 aid, functional
 eat C="
 Age, sex, gait 0.734 0.711 0.642 0.710 0.803 0.729 0.737 0.718 0.682 0.717
 speed (0.716- (0.685- (0.612 (0.679-0.741) (0.760- (0.707- (0.719- (0.664- (0.662. (0.694-0.740)
-0.753)¢ 0.737)° 0.673)P¢ (0.846) 0.751) 0.755) 0.771)¢ 0.703) 0.741
+0.753)ï¿½ 0.737)ï¿½ 0.673)Pï¿½ (0.846) 0.751) 0.755) 0.771)ï¿½ 0.703) 0.741
 (0.706-0.775)4
 10-Year Mortality
 Age, sex 0.721 0.725 NA 0.700 NA NA 0.741 0.674 0.689 0.712
@@ -373,10 +373,10 @@ Age, sex, NA NA NA 0.722 NA NA 0.761 0.702 NA 0.732
 functional (0.699-0.746) (0.746-0.776) (0.655-0.748) (0.698-0.767)
 status,
 walking aid
-use®
+useï¿½
 Age, sex, gait 0.740 0.753 NA 0.709 NA NA 0.766 0.723 0.719 0.737
 speed (0.727 (0.733- (0.685- (0.751- (0.679- (0.706- (0.718-0.755)>:
--0.754) 0.774) 0.732) 0.780)" 0.768)>.¢ 0.731)" 0.734
+-0.754) 0.774) 0.732) 0.780)" 0.768)>.ï¿½ 0.731)" 0.734
 (0.692-0.777)4
 
 Abbreviations: ABC, Aging and Body Composition; BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; BP, blood pressure; CHS, Cardiovas-
@@ -389,28 +389,28 @@ dependent is defined as no report of ADL dependence or instrumental ADL difficul
 
 bValue is the pooled estimate of the area under the receiver operator characteristic curve for age, sex, and gait speed for the studies that were used in the comparisons of gait speed with
 use of mobility aids and functional status. Four studies were included in the estimates of 5 y mortality and three in the estimates of 10 y mortality. Values are reported as the C statistic
-representing area under the receiver operator characteristic curve; values that differ by 0.025 or more are considered substantially different.”
+representing area under the receiver operator characteristic curve; values that differ by 0.025 or more are considered substantially different.ï¿½
 
 C statistic is greater than for age and sex alone.
 
 dC statistic is greater than for age, sex, and diseases.
 
-©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 55
+ï¿½2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011ï¿½Vol 305, No.1 55
 
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
 sex, and gait speed were approximately _ vecciare in Chianti (gait speed, 0.727; _ lished area under the curve range, 0.66-
-equivalent to those for age, sex, chronic 95% CI, 0.678-0.776; SPPB, 0.738; 95% — 0.82°! vs this study, 0.717 and 0.737).
+equivalent to those for age, sex, chronic 95% CI, 0.678-0.776; SPPB, 0.738; 95% ï¿½ 0.82ï¿½! vs this study, 0.717 and 0.737).
 diseases, BMI, systolic blood pressure, CI, 0.690-0.735); Predicting Elderly Per- The strengths of this study are the very
-and prior hospitalization in all9 stud- formance study’ (gait speed, 0.667; 95% — largesample of individual participant data
-iesandin the pooledanalysis. Therewere — CI, 0.610-0.724; SPPB, 0.691; 95% Cl, from multiple diverse populations of
+and prior hospitalization in all9 stud- formance studyï¿½ (gait speed, 0.667; 95% ï¿½ largesample of individual participant data
+iesandin the pooledanalysis. Therewere ï¿½ CI, 0.610-0.724; SPPB, 0.691; 95% Cl, from multiple diverse populations of
 4 studies that had sufficiently consistent 0.637-0.744); and worse than SPPB in community-dwelling elders who were fol-
 data on functional status to create 3 cat- _ the Established Populations for the Epi- lowed up for many years and use of con-
-egories: dependent in ADLs, difficulty  demiological Study of the Elderly” (gait _ sistent measures of performance and out-
+egories: dependent in ADLs, difficulty  demiological Study of the Elderlyï¿½ (gait _ sistent measures of performance and out-
 with instrumental ADLs, andindepen- speed, 0.638; 95% CI, 0.610-0.777; come. We provide survival estimates for
 dent. For these studies, gait speed, age, SPPB, 0.663; 95% CI, 0.636-0.691). a broad range of gait speeds and calcu-
-and sex yielded a C statistic (0.741) that }~————_____________1—1— late absolute rates and median years of
+and sex yielded a C statistic (0.741) that }~ï¿½ï¿½ï¿½ï¿½_____________1ï¿½1ï¿½ late absolute rates and median years of
 was not significantly different (P=.78) COMMENT survival. Compared with prior studies that
 from age, sex, mobility aids, and func- Gait speed, age, and sex may offer the cli-__ were too small to assess potential effect
 tional status (P=.75; Table 3). nician tools for assessing expected sur- modification by age, sex, race/ethnicity,
@@ -425,13 +425,13 @@ statistics with all the other factors forany Gait speed might help refine surviv
 study nor for the pooled analysis. Three _ timates in clinical practice or research be-_ represent the universe of possible data.
 studies had sufficiently consistent data _ cause it is simple and informative. Oursurvival estimates should be validated
 on functional status at baseline to allow Why would gait speed predictsurvival? in additional data sets. Only 1 of the 9
-pooling. Gait speed, age, andsex yielded Walking requiresenergy,movementcon- _ studies was based in clinical practice,’
+pooling. Gait speed, age, andsex yielded Walking requiresenergy,movementcon- _ studies was based in clinical practice,ï¿½
 a Cstatistic (0.734) that was not signifi- trol,andsupportand placesdemandson and advanced dementia is rare in popu-
 cantly different from age, sex, mobility multiple organ systems, including the _ lations who are competent to consent for
 aids, and functional status (0.732; heart, lungs, circulatory, nervous, and _ research. However, median years of sur-
 (P=.95; Table 3). musculoskeletal systems. Slowing gaitmay _ vival in this study resemble estimates for
 In addition, we used C statistics to as- _reflectboth damaged systemsandahigh- US adults across the sex and age range
-sess the ability of usual gait speed to pre-__ energy cost of walking."* Gait speed —_assessed.©* We were unable to assess
+sess the ability of usual gait speed to pre-__ energy cost of walking."* Gait speed ï¿½_assessed.ï¿½* We were unable to assess
 dict survival compared with other physi- could be considered a simple and acces- _ the association of physical activity with
 cal performance measures, such as fast _ siblesummaryindicator of vitality because __ survival in pooled analyses because mea-
 gait speed and the Short Physical Per- _ itintegratesknownand unrecognizeddis- sures of activity were highly variable
@@ -439,55 +439,55 @@ formance Battery (SPPB), a brief mea- _ turbancesinmultipleorgansystems,many acr
 sure that includes walk speed, chair rise of which affect survival. In addition, de- studies had no prior knowledge about the
 ability, and balance. We assessed usual creasing mobility may induce a vicious meaning of walking speed. In clinical use,
 vs fast gait speed in the single study with _ cycle of reduced physical activity andde- _ participants might walk differently if they
-both measures (Invecciare in Chianti’® conditioning that has a direct effect on _ are aware of the implications of the re-
-study: usual, 0.727 [95% CI, 0.678- health and survival.° sults. Although this study provides infor-
+both measures (Invecciare in Chiantiï¿½ï¿½ conditioning that has a direct effect on _ are aware of the implications of the re-
+study: usual, 0.727 [95% CI, 0.678- health and survival.ï¿½ sults. Although this study provides infor-
 0.776]; fast, 0.684 [95% CI, 0.630- The association between gait speed mation onsurvival, further workis needed
-0.739]), suggesting that fast walks did and survival is known.°’°"°° Prior _ to examine associations of other impor-
+0.739]), suggesting that fast walks did and survival is known.ï¿½ï¿½ï¿½"ï¿½ï¿½ Prior _ to examine associations of other impor-
 not have an advantage in survival pre- analyses used single cohorts and pre- _ tant pooled outcomes such as disability
 diction over usual-paced walks. Gait sented results as relative rather thanab- and health care use and to examine ef-
 speed was superior to the SPPB in the _ solute risk, as done herein. Similarly, fects in populations more completely
 Hispanic Established Populations forthe mortality prediction models have been _ based in clinical practice.
-Epidemiological Study of the Elderly® developed.*°°”°° Some models use self- Because gait speed can be assessed by
+Epidemiological Study of the Elderlyï¿½ developed.*ï¿½ï¿½ï¿½ï¿½ï¿½ Some models use self- Because gait speed can be assessed by
 (gait speed, 0.617; 95% CI, 0.585- reported information but others alsoin- _ nonprofessional staff using a 4-m walk-
-0.649; SPPB, 0.574; 95% CI, 0.539- clude physiological or performance data, way and a stopwatch,” it is relatively
+0.649; SPPB, 0.574; 95% CI, 0.539- clude physiological or performance data, way and a stopwatch,ï¿½ it is relatively
 0.649); was equivalent in the following for a total of 4 to more than 10 predic- simple to measure compared with many
 3 studies: Health, Aging, and Body Com- _ tive factors. Only a few models assess _ medical assessments. Nevertheless, meth-
-position (ABC) study and ABC'® (gait _ overall predictive capacity using C sta- _ odological issues suchas distance and ver-
-speed, 0.579; 95% CI, 0.548-0.610; tistics; the reported values are in the _ balinstructionsremain.® Self-reportis
+position (ABC) study and ABC'ï¿½ (gait _ overall predictive capacity using C sta- _ odological issues suchas distance and ver-
+speed, 0.579; 95% CI, 0.548-0.610; tistics; the reported values are in the _ balinstructionsremain.ï¿½ Self-reportis
 SPPB, 0.560; 95% CI, 0.528-0.592);In- range found in the present study (pub- _ an alternative to gait speed for reflecting
-56 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+56 JAMA, January 5, 2011ï¿½Vol 305, No. 1 (Reprinted) ï¿½2011 American Medical Association. All rights reserved.
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
 function. However, significant challenges _ mortality, perhaps those with gait speeds Nests wissen Kutchevshy. Harris, Newman, Cauley,
 . . . errucci, Gurainik,
-remain in the use of self-report as well, slower than0.6 mys. In these patients, fur-¢tatistical analysis: Studenski, Perera, Patel, Inzitari
+remain in the use of self-report as well, slower than0.6 mys. In these patients, fur-ï¿½tatistical analysis: Studenski, Perera, Patel, Inzitari
 such as choice of items and reliability, ther examinationis targeted at potentially Chandler, Guralnik. ; ;
 some of which can beaddressed byemerg- modifiable risks to health and survival. A Cane i Maat ectud eek : jpnanlet Ae ae
-ing techniques such as computer adap- recommended evaluation and manage- — Guralnik.
+ing techniques such as computer adap- recommended evaluation and manage- ï¿½ Guralnik.
 
 i . = Fae 7 Administrative, technical, or material support:
-tive testing based on item. response ment of slow walking includes cardiopul. studénski, Patel’ Rosa, Faullenér, Cawthory Nevit,
-theory.” The results found herein sug- monary, neurologicaland musculoskel- Visser, Badinelli, Harris, Newman, Cauley
+tive testing based on item. response ment of slow walking includes cardiopul. studï¿½nski, Patelï¿½ Rosa, Faullenï¿½r, Cawthory Nevit,
+theory.ï¿½ The results found herein sug- monary, neurologicaland musculoskel- Visser, Badinelli, Harris, Newman, Cauley
 
-hat gait speed appears to be espe- _ etal systems.°"* Third, gait speed might —_ Study supervision: Perera, Nevitt, Newman.
+hat gait speed appears to be espe- _ etal systems.ï¿½"* Third, gait speed might ï¿½_ Study supervision: Perera, Nevitt, Newman.
 Best v gall =P d Pps areto be ig cia systems a 2S Pp aL 8 A Conflict of Interest Disclosures: All authors have com-
 cially informative in older persons who promote communication. Primary clini- pleted and submitted the ICME Form for Disclosure
 report either no functional limitations or cians might characterizean olderadultas of Toten Conflicts of Interest, Dr Studensh re-
-“66. an . * . ported receiving institutional grant support, travel ex-
+ï¿½66. an . * . ported receiving institutional grant support, travel ex-
 only difficulty with instrumental ADIs _ likely to be in poor health and function Senses, and consultancy fees from Merck; consult-
 and may be less helpful for older adults _ because the gait speed is 0.5 m/s. In re- __lancy fees from Novartis and GTX; and royalties from
-who already report dependenceinbasic search manuscripts, baseline gait speed ‘ wing ah Nona grt supnort Com More Resa
+who already report dependenceinbasic search manuscripts, baseline gait speed ï¿½ wing ah Nona grt supnort Com More Resa
 ADLs. The research studies analyzed might help to characterize the overall Lab. Dr Inzitari reported receiving insitutional grant
 herein used trained staff to measure gait health of older research participants. sl haba nate tai he aH
 speed. Staffin clinical settings wouldneed Fourth, gait speed might be monitored ported eenine cabaultaney fees from Amgen and
-initial training and may produce more _ overtime, withadeclineindicatinganew —_ Merck. Dr Cauley reported receiving consultancy fees
+initial training and may produce more _ overtime, withadeclineindicatinganew ï¿½_ Merck. Dr Cauley reported receiving consultancy fees
 Al * F Z and institutional grant support from Novartis. Drs Pa-
-variable results. Long-distance walkshave _ health problem that requires evaluation. {¢1, Faulkner, Barett-Connor, Nevitt, Visser, Bandel-
+variable results. Long-distance walkshave _ health problem that requires evaluation. {ï¿½1, Faulkner, Barett-Connor, Nevitt, Visser, Bandel-
 become accepted in some medical fields _ Fifth, gaitspeed might be used to stratify _lini, Harris, Newman, Ferrucci, and Gurlanik reported
 5 zi HI zi < no disclosures.
 and may contribute information beyond risks from surgery or chemotherapy. Fi- Funding/Support: Additional support for the pooled
-short walks.°*°* However, the longer dis- nally, medical and behavioral interven- _ analyses was provided by grants AGO23641, AGO24827
+short walks.ï¿½*ï¿½* However, the longer dis- nally, medical and behavioral interven- _ analyses was provided by grants AGO23641, AGO24827
 tance and time to perform the test may _ tions might be assessed for their effecton 2nd the Intramural Research Program, National Inst
 sae: tye 4 s f ie . tute on Aging, NIH NIA Professional Services Contract
 limit feasibility in many clinicalsettings. gait speed in clinical trials. Such true ex- Health and Human Services number 11200800292P.
@@ -495,17 +495,17 @@ Although the sample size of very slow _ periments could then evaluate causal pat
 . . : form this work.
 walkers was small, our datasuggest that ways to determine whetherinterventions _ Role of the Sponsor: The role of Merck and Co in the de-
 there may be asubpopulation who walk _ thatimprove gait speed lead toimprove- _signand conduct of the study; collection, management,
-lowlyh ‘vettorl iod: nif J health andl . analysis, and interpretation of the data; and preparation,
-very slowly butsurvive lorlong periods. — ments in function, health, and longevity. review, or approval of the manuscripts as follows: Merck
+lowlyh ï¿½vettorl iod: nif J health andl . analysis, and interpretation of the data; and preparation,
+very slowly butsurvive lorlong periods. ï¿½ ments in function, health, and longevity. review, or approval of the manuscripts as follows: Merck
 It would be valuable to further charac- The data provided herein are in- _ andCoreviewedand approved an initial proposal to con-
 terize this subgroup. tended to aid clinicians, investigators, and Se iets ri aioe ame ea
 Although the gait speed-survival re- health system planners who seek simple _ reviewed the initial manuscript draft.
-lationship seems continuous across the _ indicators of health and survival in older Gnlneony Matera IDE ot enter f ead «
+lationship seems continuous across the _ indicators of health and survival in older Gnlneony Matera IDE ot enter f ead ï¿½
 entire range, cut points may help inter- adults. Gait speed has potential to be eee vnilable at http://www ama.com. a
 pretation. Several authors have proposed implemented in practice, using a stop
 that gait speeds faster than 1.0 m/ssug- watch and a 4-m course. Froma stand- REFERENCES
 gest healthier aging while gait speeds ing start, individuals are instructed tO 4, Reuben DB. Medical care for the final years of life:
-slower than 0.6 m/s increase the likeli- walk at their usual pace, as if they were “When you're 83, it’s not going to be 20 years." JAMA.
+slower than 0.6 m/s increase the likeli- walk at their usual pace, as if they were ï¿½When you're 83, itï¿½s not going to be 20 years." JAMA.
 ion 72! Oth- F i 2009;302(24):2686-2694.
 hood of poor health and function. Othe walking down the street, and given NO 3" Lubitz J, Cai L, kramarow E, Lentzner H. Health,
 ers propose one cutoff around 0.8 m/s. further encouragement or instructions. life expectancy, and health care spending among the
@@ -517,27 +517,27 @@ the median forageandsexoccursatabout interpret the results. Gait speed may be to
 pectancy beyond the median. Perhapsa _ health of the older person. velopment and validation of a prognostic index for
 gaitspeed faster than 1.0 m/ssuggestsbet- _quthor Contributions: Dr Studenski had full access to ial morrallty in older adults. JAMA, 2006;295
 ter thanaverage lifeexpectancy and above __ all of the data in the study and takes responsibility for 5" Schonberg MA, Davis RB, McCarthy EP, Marcantonio
-z “1 the integrity of the data and the accuracy of the data ER Index t dict 5-\ear mortality of .
-1.2 m/s suggests exceptional life expec- — gnalysic Index to predict 5-year mortality of community
+z ï¿½1 the integrity of the data and the accuracy of the data ER Index t dict 5-\ear mortality of .
+1.2 m/s suggests exceptional life expec- ï¿½ gnalysic Index to predict 5-year mortality of community
 as F ysis: + dwelling adults aged 65 and older using data from the
 tancy, butadditional research will be nec- Study concept and design: Studenski, Faulkner, National Health Interview Survey.J Gen Intern Med. 2009;
-« « H : Chandler, Nevitt, Kritchevsky, Ferrucci, Guralnik. 24(10):1115-1122. ‘
+ï¿½ ï¿½ H : Chandler, Nevitt, Kritchevsky, Ferrucci, Guralnik. 24(10):1115-1122. ï¿½
 essary to determine this relationship. . Acquisition of data: Studenski, Faulkner, Nevitt, Visser, 6, reat M, Kritchevsky SB, Newman AB, et al; Health,
 How might gait speed be used clini- Kritchevsky, Badinelli, Harris, Newman, Cauley, Aging and Body Composition Study. Added value of
 cally? First, gait speed might help iden- Ferrucci, Guralnik. . | physical performance measures in predicting adverse
 
 . . 2 3 Analysis and interpretation of data: Studenski, Perera, health-related events. J Am Geriatr Soc. 2009;
-tify older adults with a high probability Patel, Rosano, Faulkner, Inzitari, Brach, Chandler, — 57(2):251-259.
-of living for 5 or 10 more years, who may —Cawthon, Barrett-Connor, Nevitt, Visser, Harris, 7, Cesari M, Kritchevsky SB, Penninx BW, et al. Prog-
-5 “ f a & Newman, Cauley, Guralnik. nostic value of usual gait speed in well-functioning
+tify older adults with a high probability Patel, Rosano, Faulkner, Inzitari, Brach, Chandler, ï¿½ 57(2):251-259.
+of living for 5 or 10 more years, who may ï¿½Cawthon, Barrett-Connor, Nevitt, Visser, Harris, 7, Cesari M, Kritchevsky SB, Penninx BW, et al. Prog-
+5 ï¿½ f a & Newman, Cauley, Guralnik. nostic value of usual gait speed in well-functioning
 
-€ appropriate targets lor preventive M- —_pyafting of the manuscript: Studenski, Perera, Inzitari, older people. J Am Geriatr Soc. 2005;53(10):1675-
+ï¿½ appropriate targets lor preventive M- ï¿½_pyafting of the manuscript: Studenski, Perera, Inzitari, older people. J Am Geriatr Soc. 2005;53(10):1675-
 terventions that require years for benefit. Badboell 1680.
 
 . 3 . Critical revision of the manuscript for important in- 8. Markides KS, Stroup-Benham C, Black S, Satis S,
-Second, gaitspeed might be used toiden- tellectual content: Studenski, Perera, Patel, Rosano, — Perkowski L, Ostir G. The health of Mexican Ameri-
+Second, gaitspeed might be used toiden- tellectual content: Studenski, Perera, Patel, Rosano, ï¿½ Perkowski L, Ostir G. The health of Mexican Ameri-
 tify older adults with increased risk of early Faulkner, Brach, Chandler, Cawthon, Barrett-Connor, _ can elderly: Selected findings from the Hispanic EPESE.
-©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 57
+ï¿½2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011ï¿½Vol 305, No.1 57
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
 GAIT SPEED AND SURVIVAL IN OLDER ADULTS
@@ -546,10 +546,10 @@ the 21st Century. New York, NY: Springer; 1999: The Physical Activity Scale for 
 72-90. velopment and evaluation. J Clin Epidemiol. 1993; 50. Nebes RD, Pollock BG, Halligan EM, Kirshner MA,
 9. OstirGV, Kuo YF, BergesIM, MarkidesKS, Ottenbacher  46(2):153-162. Houck PR. Serum anticholinergic activity and motor
 KJ. Measures of lower body function and risk of mortal- 28. Martin FC, Hart D, Spector T, Doyle DV, Harari _ performance in elderly persons. J Gerontol A Biol Sci
-ity over 7 years of follow-up. Am J Epidemiol. 2007; _D. Fear of falling limiting activity in young-old women — Med Sci. 2007;62(1):83-85.
+ity over 7 years of follow-up. Am J Epidemiol. 2007; _D. Fear of falling limiting activity in young-old women ï¿½ Med Sci. 2007;62(1):83-85.
 166(5):599-605. is associated with reduced functional mobility rather 51. Rosano C, Aizenstein HJ, Studenski S, Newman
-10. Rolland Y, Lauwers-Cances V, Cesari M, VellasB, than psychological factors. Age Ageing. 2005;34 —_AB. A regions-of-interest volumetric analysis of mo-
-Pahor M, Grandjean H. Physical performance measures — (3):281-287. bility limitations in community-dwelling older adults.
+10. Rolland Y, Lauwers-Cances V, Cesari M, VellasB, than psychological factors. Age Ageing. 2005;34 ï¿½_AB. A regions-of-interest volumetric analysis of mo-
+Pahor M, Grandjean H. Physical performance measures ï¿½ (3):281-287. bility limitations in community-dwelling older adults.
 as predictors of mortality in acohortofcommunity-dwelling 29. Lawless JF. Statistical Models and Methods for J Gerontol A Biol Sci Med Sci. 2007;62(9):1048-
 older French women. Eur J Epidemiol. 2006;21(2): Lifetime Data. New York, NY: Wiley; 2002. 1055.
 113-122. 30. Thernau TM, Grambsch PM. Modeling Survival 52. Volpato S, Blaum C, Resnick H, Ferrucci L, Fried
@@ -564,17 +564,17 @@ length predicts 36 months dependency, mortality, and (11):1539-1558. Health. 200
 institutionalization in Chinese aged 70 and older.JAm 33. DerSimonian R, Laird N. Meta-analysis in clinical 54. Mian OS, Thom JM, Ardigo LP, Narici MV, Minetti
 Geriatr Soc. 1999;47(10):1257-1260. trials. Control Clin Trials. 1986;7(3):177-188. AE. Metabolic cost, mechanical work, and efficiency
 413. Abellan van Kan G, Rolland Y, Andrieu S, et al. 34. Klein JP, Moeschberger M. Survival Analysis: Tech- during walking in young and older men. Acta Physiol
-Gait speed at usual pace as a predictor of adverse out- —_ niques for Censored and Truncated Data. New York, — (Oxf). 2006;186(2):127-139.
+Gait speed at usual pace as a predictor of adverse out- ï¿½_ niques for Censored and Truncated Data. New York, ï¿½ (Oxf). 2006;186(2):127-139.
 comes in community-dwelling older people. J Nutr NY: Springer; 1997. 55. Cesari M, Onder G, Zamboni V, et al. Physical func-
 Health Aging. 2009;13(10):881-889. 35. Katsahian S, Latouche A, Mary JY, Chevret S, tion and self-rated health status as predictors of
-14. Hall WJ. Update in geriatrics. Ann Intern Med. Porcher R. Practical methodology of meta-analysis of — mortality. BMC Geriatr. 2008;8:34.
+14. Hall WJ. Update in geriatrics. Ann Intern Med. Porcher R. Practical methodology of meta-analysis of ï¿½ mortality. BMC Geriatr. 2008;8:34.
 2006;145(7):538-543. individual patient data using a survival outcome. Con- 56. Markides KS, Black SA, Ostir GV, Angel RJ, Guralnik
-15. Lavsky-Shulan M, Wallace RB, Kohout FJ, Lemke — temp Clin Trials. 2008;29(2):220-230. JM, Lichtenstein M. Lower body function and mor-
+15. Lavsky-Shulan M, Wallace RB, Kohout FJ, Lemke ï¿½ temp Clin Trials. 2008;29(2):220-230. JM, Lichtenstein M. Lower body function and mor-
 JH, Morris MC, Smith IM. Prevalence and functional 36. Kalbfleisch JD, Prentice RL. The Statistical Analy- _ tality in Mexican American elderly people. / Gerontol
 correlates of low back pain in the elderly: the lowa __ sis of Failure Time Data. New York, NY: Wiley; 1980. A Biol Sci Med Sci. 2001;56(4):M243-M247.
 65+ Rural Health Study. J Am Geriatr Soc. 1985; 37. Apfel CC, Kranke P, Greim CA, Roewer N. What 57. Inouye SK, Peduzzi PN, Robison JT, Hughes JS,
-33(1):23-28. can be expected from risk scores for predicting post- — Horwitz RI, Concato J. Importance of functional mea-
-16. Visser M, Deeg DJ, Lips P, Harris TB, BouterLM. —_ operative nausea and vomiting? Br J Anaesth. 2001; _ sures in predicting mortality among older hospital-
+33(1):23-28. can be expected from risk scores for predicting post- ï¿½ Horwitz RI, Concato J. Importance of functional mea-
+16. Visser M, Deeg DJ, Lips P, Harris TB, BouterLM. ï¿½_ operative nausea and vomiting? Br J Anaesth. 2001; _ sures in predicting mortality among older hospital-
 Skeletal muscle mass and muscle strength in relation  86(6):822-827. ized patients. JAMA. 1998;279(15):1187-1193.
 to lower-extremity performance in older men and 38. Dear KB. Iterative generalized least squares for 58. Keeler E, Guralnik JM, Tian H, Wallace RB, Reuben
 women. J Am Geriatr Soc. 2000;48(4):381-386. meta-analysis of survival data at multiple times. | DB. The impact of functional status on life expec-
@@ -586,28 +586,28 @@ Med. 2005;60(3):324-333. Sci. 2007;62(8):844-850. and hospitalization: the Assis
 418. Ferrucci L, Bandinelli S, Benvenuti E, et al. Sub- 40. Baezner H, Blahak C, Poggesi A, etal; LADIS Study _Italia project. J Am Geriatr Soc. 2007;55(12):1955-
 systems contributing to the decline in ability to walk. Group. Association of gait and balance disorders with 1960.
 J Am Geriatr Soc. 2000;48(12):1618-1625. age-related white matter changes. Neurology. 2008; 60. Ostbye T, Steenhuis R, Wolfson C, Walton R, Hill
-19. Orwoll E, Blank JB, Barrett-Connor E, et al. De- — 70(12):935-942. G. Predictors of five-year mortality in older Canadians.
+19. Orwoll E, Blank JB, Barrett-Connor E, et al. De- ï¿½ 70(12):935-942. G. Predictors of five-year mortality in older Canadians.
 sign and baseline characteristics of the osteoporotic 41. Buchman AS, Boyle PA, Leurgans SE, EvansDA, J Am Geriatr Soc. 1999;47(10):1249-1254.
 fractures in men (MrOS) study. Contemp Clin Trials. | Bennett DA. Pulmonary function, muscle strength, and 61. Keeler E, Guralnik JM, Tian H, Wallace RB, Reuben
 2005;26(5):569-585. incident mobility disability in elders. Proc Am Thorac DB. The impact of functional status on life expec-
 20. Plan and operation of the Third National Health Soc. 2009;6(7):581-587. tancy in older persons. J Gerontol A Biol Sci Med Sci.
 and Nutrition Examination Survey, 1988-94. Hyatts- 42. Callisaya ML, Blizzard L, Schmidt MD, McGinley 2010;65(7):727-733.
 ville, MD: National Center for Health Statistics, US Dept JL, Lord SR, Srikanth VK. A population-based study 62. United States Life Tables, 2010. http://www.cdc
-of Health and Human Services Services; 2004. PHS _ of sensorimotor factors affecting gait in older people. —.gov/nchs/data/nvsr/nvsr58/nvsr_21.pdf). Accessed
+of Health and Human Services Services; 2004. PHS _ of sensorimotor factors affecting gait in older people. ï¿½.gov/nchs/data/nvsr/nvsr58/nvsr_21.pdf). Accessed
 94-1308. Age Ageing. 2009;38(3):290-295. November 29, 2010.
 21. Studenski S, Perera S, Wallace D, et al. Physical 43. Cham R, Studenski SA, PereraS, Bohnen NI. Stria- 63. Graham JE, Ostir GV, Fisher SR, Ottenbacher KJ.
 performance measures in the clinical setting. JAm Geri- _ tal dopaminergic denervation and gait in healthy adults. _ Assessing walking speed in clinical research. J Eval Clin
 atr Soc. 2003;51(3):314-322. Exp Brain Res. 2008;185(3):391-398. Pract. 2008;14(4):552-562.
 22. Cummings SR, Black DM, Nevitt MC, et al; The 44. Cuoco A, Callahan DM, Sayers S, Frontera WR, 64. GrahamJE, Ostir GV, Kuo YF, Fisher SR, Ottenbacher
-Study of Osteoporotic Fractures Research Group. Ap- _—_ Bean J, Fielding RA. Impact of muscle power and __ KJ. Relationship between test methodology and mean
+Study of Osteoporotic Fractures Research Group. Ap- _ï¿½_ Bean J, Fielding RA. Impact of muscle power and __ KJ. Relationship between test methodology and mean
 pendicular bone density and age predict hip fracture _ force on gait speed in disabled older men and women. _ velocity in timed walk tests: a review. Arch Phys Med
-in women. JAMA. 1990;263(5):665-668. J Gerontol A Biol Sci Med Sci. 2004;59(11):1200- — Rehabil. 2008;89(5):865-872.
+in women. JAMA. 1990;263(5):665-668. J Gerontol A Biol Sci Med Sci. 2004;59(11):1200- ï¿½ Rehabil. 2008;89(5):865-872.
 23. Fried LP, Borhani NO, Enright P, et al. The Car- 1206. 65. Gill TM. Assessment of function and disability in
 diovascular Health Study. Ann Epidemiol. 1991; 45. Fitzpatrick AL, Buchanan CK, Nahin RL, et al; longitudinal studies. J Am Geriatr Soc. 2010;58
-1(3):263-276. Ginkgo Evaluation of Memory (GEM) Study — (suppl 2):S308-S312.
+1(3):263-276. Ginkgo Evaluation of Memory (GEM) Study ï¿½ (suppl 2):S308-S312.
 24. Guralnik JM, Ferrucci L, Pieper CF, et al. Lower _ Investigators. Associations of gait speed and othermea- | 66. Newman AB, Simonsick EM, Naydeck BL, et al.
-extremity function and subsequent disability: consis- sures of physical function with cognition in ahealthy — Association of long-distance corridor walk perfor-
-tency across studies, predictive models, and value of cohort of elderly persons. J Gerontol A Biol Sci Med —_ mance with mortality, cardiovascular disease, mobil-
+extremity function and subsequent disability: consis- sures of physical function with cognition in ahealthy ï¿½ Association of long-distance corridor walk perfor-
+tency across studies, predictive models, and value of cohort of elderly persons. J Gerontol A Biol Sci Med ï¿½_ mance with mortality, cardiovascular disease, mobil-
 gait speed alone compared with the short physical per- Sci. 2007;62(11):1244-1251. ity limitation, and disability. JAMA. 2006;295(17):
 formance battery. J Gerontol! A Biol Sci Med Sci.2000; 46. Fried LF, Lee JS, Shlipak M, et al. Chronickidney 2018-2026.
 55(4):M221-M231. disease and functional limitation in older people.J Am 67. Solway S, Brooks D, Lacasse Y, Thomas S. A
@@ -616,10 +616,10 @@ ing speed of adults aged 20-79 years: reference val- 47. Holtzer R, Verghese J, 
 ues and determinants. Age Ageing. 1997;26(1): __ tive processes related to gait velocity. Neuropsychology. _ cardiorespiratory domain. Chest. 2001;119(1):
 15-19, 2006;20(2):215-223. 256-270.
 26. Guralnik JM, Simonsick EM, Ferrucci L, et al. A 48. Kerrigan DC, Lee LW, Collins JJ, Riley PO, Lipsitz 68. Simonsick EM, Newman AB, Visser M, et al; Health,
-short physical performance battery assessing lower ex- LA. Reduced hip extension during walking. Arch Phys — Aging and Body Composition Study. Mobility limita-
+short physical performance battery assessing lower ex- LA. Reduced hip extension during walking. Arch Phys ï¿½ Aging and Body Composition Study. Mobility limita-
 tremity function: association with self-reported dis- | Med Rehabil. 2001;82(1):26-30. tion in self-described well-functioning older adults.
 ability and prediction of mortality and nursing home 49. Kuo CK, Lin LY, Yu YH, Wu KH, Kuo HK. Inverse J Gerontol! A Biol Sci Med Sci. 2008;63(8):841-
 admission. J Gerontol. 1994;49(2):M85-M94. association between insulin resistance and gait speed 847.
-58 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+58 JAMA, January 5, 2011ï¿½Vol 305, No. 1 (Reprinted) ï¿½2011 American Medical Association. All rights reserved.
 Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
 
