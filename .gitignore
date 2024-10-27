@@ -6,6 +6,8 @@
 *.pdf
 *.jpg
 *.txt
+*.mov
+*.mp3
 
 #Ignore folders
 data

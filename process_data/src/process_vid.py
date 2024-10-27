@@ -1,11 +1,8 @@
 #use whisper AI and get lectures or videos to break down into text. 
 from moviepy.editor import *
 import whisper
+from conversion import MP4toMP3
 
-def MP4toMP3(mp4, mp3):
-    file_mp4 = AudioFileClip(mp4)
-    file_mp4.write_audiofile(mp3)
-    file_mp4.close()
 
 def transcribe(file):
     model = whisper.load_model("medium.en")
