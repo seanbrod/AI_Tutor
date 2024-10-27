@@ -1,0 +1,1480 @@
+http://dx.doi.org/10.5665/sleep.1422
+The Effect of Exercise eaining on Obstructive Sleep Apnea and Sleep Quality:
+A Randomized Controlled Tria
+Christopher E. Kline, PhD‘; E. Patrick Crowley, MS?; Gary B. Ewing, MD‘; James B. Burch, PhD*5; Steven N. Blair, PED?°; J. Larry Durstine, PhD?;
+J. Mark Davis, PhD?; Shawn D. Youngstedt, PhD?
+‘Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, PA; 7Department of Exercise Science, University of South Carolina, o
+Columbia, SC; *WJB Dorn VA Medical Center, Columbia, SC; ‘Department of Clinical Services, School of Medicine, University of South Carolina, g
+Columbia, SC; “Department of Epidemiology and Biostatistics, University of South Carolina, Columbia, SC 2
+ry
+Study Objectives: To evaluate the efficacy of a 12-week exercise training program for reducing obstructive sleep apnea (OSA) severity and im- g
+proving sleep quality, and to explore possible mechanisms by which exercise may reduce OSA severity. a
+Design: Randomized controlled trial. 2.
+Setting: Clinical exercise physiology center, sleep laboratory. s
+Participants: Forty-three sedentary and overweight/obese adults aged 18-55 years with at least moderate-severity untreated OSA (screening =
+apnea-hypopnea index [AHI] 2 15). 8
+Interventions: Participants randomized to exercise training (n = 27) met 4 times/week for 12 weeks and performed 150 min/week of moderate- a
+intensity aerobic activity, followed by resistance training twice/week. Participants randomized to a stretching control (n = 16) met twice weekly for ied
+12 weeks to perform low-intensity exercises designed to increase whole-body flexibility. 2
+Measurements and Results: OSA severity was assessed with one night of laboratory polysomnography (PSG) before and following the 12-week 8
+intervention. Measures of sleep quality included PSG, actigraphy (7-10 days), and the Pittsburgh Sleep Quality Index. Compared with stretching, ES
+exercise resulted in a significant AHI reduction (exercise: 32.2 + 5.6 to 24.6 + 4.4, stretching: 24.4 + 5.6 to 28.9 + 6.4; P < 0.01) as well as signifi- 2
+cant changes in oxygen desaturation index (ODI; P = 0.03) and stage N3 sleep (P = 0.03). Reductions in AHI and ODI were achieved without a =
+significant decrease in body weight. Improvements in actigraphic sleep and subjective sleep quality were also noted following exercise compared =
+with stretching. g
+Conclusions: Exercise training had moderate treatment efficacy for the reduction of AHI in sedentary overweight/obese adults, which suggests &
+that exercise may be beneficial for the management of OSA beyond simply facilitating weight loss. &
+Trial Registration: Clinicaltrials.gov identification number NCT00956423. 8
+Keywords: Actigraphy, exercise training, obstructive sleep apnea, polysomnography, randomized controlled trial, sleep quality 8
+Citation: Kline CE; Crowley EP; Ewing GB; Burch JB; Blair SN; Durstine JL; Davis JM; Youngstedt SD. The effect of exercise training on obstructive g
+sleep apnea and sleep quality:a randomized controlled trial. SLEEP 2011;34(12):1631-1640. Fa
+lon
+INTRODUCTION preliminary evidence. Epidemiologic research has suggested 5
+Obstructive sleep apnea (OSA) is a prevalent sleep disor- that individuals who are physically active have a reduced risk S
+der, affecting up to 15% of the population.' If left untreated, of OSA compared to individuals who are less active.'*'' More- @
+OSA has potentially severe health consequences, such as cog- over, small-scale (often uncontrolled) experimental studies g
+nitive impairment,’ cardiovascular disease,* diabetes,‘ and have found the apnea-hypopnea index (AHI) to be reduced up 2
+early mortality.’ to 50% following chronic exercise training.'*'° Fy
+Unfortunately, treatment options for OSA remain limited. Although weight loss is the most obvious plausible mediator z
+Although continuous positive airway pressure (CPAP) is effec- explaining how exercise may reduce OSA severity, decreas- 2
+tive when used,° much of its benefits go unrealized in practice es in AHI following exercise training have been found to be §
+because of low adherence.” Other treatment options, such as independent of changes in body weight in the limited epide- &
+oral appliances and upper airway surgery, only partially reduce miologic and experimental studies that have examined this hy- 3
+OSA severity and produce frequent side effects.*? In addition, _pothesis.'*'?3 Other possible mechanisms of improvement in
+the effects of these treatments on the health consequences of | OSA following exercise training include a general strengthen- &
+OSA are not well established.‘? ing and fatigue resistance of the ventilatory and upper airway 3
+The possible utility of exercise training in the management dilator muscles,'® attenuation of respiratory instability from re- g
+of OSA has not been thoroughly investigated despite intriguing duced sleep fragmentation,'’ decreased nasal resistance,'* and 8
+prevention of lower-extremity fluid accumulation.'” *
+TT Regardless of whether OSA severity is improved, exercise
+Acommentary on this article appears in this issue on page 1621. training may improve sleep in this population. There is a con-
+Submitted for publication March, 2011 sistent epidemiologic association between exercise and sleep
+Submitted in final revised form April, 2011 quality,” and experimental studies utilizing individuals with-
+Accepted for publication April, 2041 out OSA have found that chronic exercise training significantly
+Address correspondence to: Christopher E. Kline, PhD, Department of | improves sleep.”! However, experimental research in individu-
+Psychiatry, University of Pittsburgh School of Medicine, 3811 O'Hara als with OSA has produced conflicting results about changes in
+Street, Room E-1107, Pittsburgh, PA 15213; Tel: (412) 578-9554; Fax: objective sleep from exercise training,'*'* and subjective sleep
+(412) 246-5300; E-mail: klinec@upmc.edu quality has not been evaluated.
+SLEEP, Vol. 34, No. 12, 2011 1631 Exercise Training and OSA Severity—Kline et al
+
+The primary purpose of this investigation was to examine the Randomization
+efficacy of a 12-week moderate-intensity exercise training pro- Following baseline, participants were randomly allocated
+gram for reducing the severity of OSA in currently untreated to exercise and stretching control treatments by a 3:2 ratio, re-
+adults. A secondary purpose of the study was to determine whether spectively. Randomization was stratified by sex and screening
+exercise training improved subjective and objective sleep. Finally, AHI (15-30 or > 30) in blocks of 5, using a computer-generated
+we explored possible mechanisms by which exercise training may randomization list (SAS v. 9.2, SAS Institute, Cary, NC). Treat-
+reduce OSA severity, namely via changes in body weight, respira- ment allocations were prepared by an individual otherwise un-
+tory muscle strength, sleep quality, and lung function. affiliated with the study and placed in sealed opaque envelopes.
+Although participants could not be blinded to their treatment,
+METHODS both programs were presented as active treatments. To assess 9
+treatment expectancy, participants completed a brief question- §
+Participants naire following randomization that queried expected changes in 8
+Adults ages 18-55 years with at least moderate-severityOSA  OSAseverity, sleep quality, daytime sleepiness, mood, and overall &
+(AHI = 15 at screening) who were overweight/obese (body health, using 5-point Likert scales (1: much worse; 5: much better).
+mass index > 25), sedentary (< 2 exercise sessions/week), In addition, participants were asked to rate their satisfaction with 2.
+at stable (> 3 mo) medication doses (e.g., antihypertensives, their randomized treatment (1: very dissatisfied; 5: very satisfied). s
+antidepressants), not currently being treated for OSA and not =
+actively attempting to lose weight were eligible for participa- Treatments 3
+tion. Exclusion criteria included known or suspected significant 8
+cardiovascular, pulmonary, or metabolic disease; uncontrolled Exercise training a
+hypertension (> 159/99 mm Hg); pregnancy; and inability to Individuals assigned to the exercise training treatment met 4. 5
+exercise due to orthopedic or musculoskeletal problems. times per week for 12 weeks. All exercise sessions were super- 8
+vised by staff trained in exercise physiology. To limit the risk &
+Recruitment, Screening, and Timeline of injury, the exercise dose was gradually increased during the 8
+Individuals were recruited from local sleep clinics and from initial 4 weeks of training. For weeks 5-12, exercise dose was 2
+the general population via media advertisements. Following an 150 min/week of aerobic exercise distributed over 4 sessions per 2
+initial phone screen, individuals were mailed additional screen- week, followed on 2 days per week by resistance exercise con- g
+ing materials, including the Berlin Questionnaire.” Individuals sisting of 2 sets of 10-12 repetitions for 8 different exercises. The 8
+who were previously diagnosed with OSA or classified as “high exercise dose was chosen to comply with public health physical a
+risk” for OSA based on the Berlin Questionnaire and otherwise activity recommendations.” Aerobic training intensity was 60% =
+eligible were invited to the laboratory to further review the pro- of heart rate reserve (HRR), considered to be moderate inten- Zz
+tocol. At the conclusion of the visit, participants provided written sity, and was continuously monitored with heart rate telemetry @
+informed consent approved by the Institutional Review Boards (FS2, Polar Electro Oy, Kempele, Finland). Each aerobic exer- S
+of the University of South Carolina and the WJB Dorn VA Medi- cise session began with a 5-min warm-up and ended witha S-min ©
+cal Center. Participants were then scheduled for one night of — cool-down, which was not included in the prescribed duration. 5
+laboratory polysomnography (PSG) to further screen for OSA. Treadmill exercise was the primary aerobic activity, though ellip- Fd
+Individuals with a screening AHI > 15 were enrolled in the study. tical or bicycle ergometer exercise was permitted when necessary g
+Prior to baseline assessment, participants were required to (e.g., when participants experienced lower leg soreness). 2
+meet with the study team on 2 occasions to become familiar Resistance exercise, performed twice per week on nonconsecu-  $
+with the research facility, practice study procedures, and view a tive days, included shoulder press, lat pulldown, leg extension/leg <
+presentation on OSA (prevalence, pathophysiology, established _ flexion (alternated between sessions), chest press, upright row, leg 2
+treatment options). The primary purposes for these “run-in” visits press, bicep curls/triceps extension (alternated between sessions), §
+were to educate the participants on OSA and to establish whether and abdominal crunches. Resistance was increased when 12 rep- &
+the participants were committed to participating in the study. etitions could be performed on the second set with proper form. 2,
+Individuals who completed the run-in visits were scheduled a
+for 3 baseline assessments, which took place over a 7-10 day Stretching control $
+period. The assessments were conducted on separate days and Participants assigned to the stretching control treatment met 3
+consisted of: (1) a single night of laboratory PSG; (2) a laborato- 2 times per week for 12 weeks for supervised flexibility training g
+ry assessment, in which body composition, pulmonary function, sessions. At each visit, participants performed 2 sets of 12-15 8
+and respiratory muscle strength were assessed; (3) a physician- stretches, each held for 15-30 s, which focused on whole body *
+supervised graded exercise test to screen for possible adverse flexibility. Although no change in OSA severity was expected
+responses to exercise. Throughout this period, participants con- from this intervention, it was chosen to reduce the potential
+tinuously wore a wrist actigraph to monitor sleep at home. confound of interpersonal interaction on study outcomes.
+Once baseline assessments were complete, participants were
+randomized to either a 12-week exercise training or stretching | Sleep Measures
+control treatment. Following completion of the intervention ,
+participants completed the same assessments as at baseline fol- Laboratory polysomnography
+lowing a day without exercise. Participants were compensated Single-night laboratory PSG (Alice 5, Philips Respiron-
+$300 for completion of the study. ics, Murrysville, PA) was performed at screening, baseline,
+SLEEP, Vol. 34, No. 12, 2011 1632 Exercise Training and OSA Severity—Kline et al
+
+and post-intervention. Participants were prepared for record- _—_ Additional Measures
+ing with a standard PSG montage’ that included F4/M1, C4/
+M1, 04/M1 electroencephalograms (EEG), bilateral electroc- Assessment of lifestyle activity and eating habits
+ulograms, submentalis electromyogram (EMG), thoracic and Participants were asked to maintain their normal lifestyle
+abdominal respiratory inductance plethysmography, modified activity patterns and eating habits throughout the study. To
+lead II electrocardiogram, body position sensor, and single-leg monitor unsupervised activity, participants wore a piezoelectric
+tibialis anterior EMG. Airflow was monitored with an oronasal pedometer (NL-1000, New Lifestyles Inc., Lees Summit, MO)
+thermistor and nasal cannula pressure transducer, and arterial from baseline through the end of post-intervention assessment.
+oxyhemoglobin saturation (SpO,) was assessed with finger Participants removed the pedometer during the supervised ac-
+pulse oximetry (LNOP DCI, Masimo, Irvine, CA). Time in tivity sessions. The NL-1000 recorded daily steps and time 9
+bed was fixed at 8 h and initiated according to the participant’s spent in moderate- to vigorous-intensity activity(MVPA),” and §
+usual bedtime. data were organized into 2-week bins for analysis. 8
+Sleep stage scoring was performed according to standard Dietary habits were evaluated with the Rapid Eating Assess-
+criteria® by one registered PSG technician blinded to treatment — ment for Participants-Short Version (REAP-S)* at baseline and =
+assignment. An apnea was defined as > 90% airflow reduction post-intervention. With the 13-item REAP-S, participants were 2.
+for => 10 s, and a hypopnea was defined as > 30% reduction asked to indicate how frequently they skipped breakfast, ate at s
+in airflow accompanied by > 4% desaturation from baseline. restaurants, and ate various categories of food (e.g., processed = =
+An arousal was defined as > 3-s increase in EEG frequency meats, fried foods) using 3 response options (1 = rarely/never, 3
+following = 10 s of stable sleep, accompanied by an increase 2 = sometimes, 3 = usually/often). The total score was derived §
+in submentalis EMG activity for > 1 s during REM sleep. The by summing the scores of the 13 items. a
+AHI was calculated as the number of apneas and hypopneas S
+per hour of sleep, and was summarized by body position and Assessment of potential mediators of exercise training 8
+sleep stage. The arousal index was calculated as the number of Changes in body composition, pulmonary function, and respi- =
+arousals per hour of sleep, and the oxygen desaturation index ratory muscle strength were explored as possible mediators be- 8
+(ODD was calculated as the number of SpO, drops > 4% per _ tween exercise training and improvement in AHI. These measures 2
+hour of sleep. were taken in the morning following an overnight fast at baseline 2
+and within 5 days of completion of the 12-week intervention. g
+Objective home sleep Body composition: Height and weight were measured to the 8
+For approximately 7 days at baseline and again at post-in- nearest 0.5 cm and 0.1 kg using a wall-mounted stadiometer and a
+tervention, participants wore an Actiwatch Spectrum actigraph calibrated physician weight scale, respectively. Neck, chest, waist, 5
+(Philips Respironics, Bend, OR) on the non-dominant wrist to and hip circumference measurements were obtained using stan- Zz
+monitor home sleep/wake status. Participants wore the same dardized procedures”; the average of 3 measurements was retained. @
+actigraph at baseline and post-intervention. Participants were Total body dual energy x-ray absorptiometry (DXA; Lunar S
+instructed to press an event marker to denote bedtime and out- Prodigy, GE Medical Systems, Madison, WI) measured body 0
+of-bed time and at the initiation and end of daytime naps. Fol- fat percentage (BF %), lean tissue mass (LTM), and fat mass 5
+lowing data retrieval, individual records were inspected and (FM). Whole-body values were obtained as well as by region Fd
+edited (e.g., to set event markings as the start and end of rest (i.e., arms, trunk, legs). A single technician conducted and ana- g
+intervals). Sleep/wake status was estimated with the Actiware lyzed all DXA scans. Quality assurance tests and phantom scans 2
+software algorithm”® (v. 5.59.0015; Philips Respironics, Bend, were performed prior to all measurement sessions. Because one
+OR) set to medium-threshold for wake detection and 5 immobile participant exceeded the weight limit for the DXA, data from <
+minutes for sleep onset and end.” Sleep onset latency (SOL), 42 participants were included for analysis. 2
+total sleep time (TST), wakefulness after sleep onset (WASO), Pulmonary function: Pulmonary function testing was conduct-
+and sleep efficiency (SE) were obtained for analysis. In addi- ed with a portable spirometer (Wizard, MicroMedical, Kent, UK) &
+tion, a fragmentation index, a measurement of movement and using standardized procedures.*! Maximal inspiratory and expirato- 3,
+restlessness, was calculated by the software algorithm. Due to ry maneuvers were performed 3 times; averages of values obtained 3
+an allergic skin reaction to the Actiwatch for one participant, 42 from the 3 inspiratory and expiratory flow-volume loops were used -&
+participants provided data for analysis. Values were averaged for analysis. Variables retained for analysis included forced vital ca- 3
+across all baseline and post-intervention nights for analyses. pacity (FVC), forced expiratory volume in 1 s (FEV, ,), peak inspi-
+ratory flow (PIF), and peak expiratory flow (PEF). 8
+Subjective sleep quality Respiratory muscle strength: Maximum static inspiratory
+The Pittsburgh Sleep Quality Index (PSQI)* was adminis- (MIP) and expiratory (MEP) mouth pressures served as mark-
+tered at baseline and post-intervention prior to laboratory PSG ers of respiratory muscle strength.” MIP and MEP assessments
+to assess subjective sleep quality over the previous 2 weeks. were performed with respiratory pressure gauges (VacuMed,
+Seven component scores were generated: sleep quality, sleep Ventura, CA) while seated with nasal clips. Assessments of
+latency, sleep duration, habitual sleep efficiency, sleep distur- MIP and MEP were obtained using standardized procedures,”
+bances, use of sleep medications, and daytime dysfunction. A with the highest pressures developed over 3 consecutive ef-
+global score between 0-21 was calculated from summing the forts recorded. Respiratory muscle strength was calculated as
+subscale scores. Global scores > 5 have been considered to be (MIP+MEP)/2. Assessment of respiratory muscle strength was
+indicative of poor sleep quality.”* not possible due to equipment malfunction for one participant
+SLEEP, Vol. 34, No. 12, 2011 1633 Exercise Training and OSA Severity—Kline et al
+
+Phone & mail Baseline differences between treatments were evaluated with
+Screening (7400) ¢ tests and independent ¢-tests. Adherence to the intervention
+Excluded (n= 326) was compared between treatments using independent t-tests by
+No longer interested (n= 104) the percentage attendance to scheduled sessions. Pedometer-as-
+CurrentOSA treatment(n = 61) ee :
+Too active/weightloss (n = 59) sessed activity was evaluated for between-treatment differences
+foe condition {a=48) and change over time using SAS PROC MIXED.
+ge > 55 (n = 29) : ‘ .
+Other (n = 29) The primary outcome of interest, change in AHI, was evalu-
+Sdieduediotlab ated by analysis of covariance on post-intervention AHI values
+PSG screen (n = 75) with control for baseline AHI values. To assess clinical signifi-
+cance, participants who completed the intervention were cate- ©
+gorized as experiencing treatment “success” and/or “response” 5
+based on definitions previously used for evaluating the efficacy 3
+(ors) of surgical treatment for OSA, with between-treatment com- &
+parisons made with Fisher exact tests. Treatment success was 3
+defined as a post-intervention AHI < 20 and reduction > 50% 2.
+Baseline assessment i =
+from baseline, whereas treatment response was defined as 2-5
+20% reduction in AHI from baseline.** =
+Failed to complete BL (n = 6) : ar . 8
+Changes in secondary outcomes (e.g., objective sleep vari- 9
+No longerinterested (a='3) ables, PSQI score) and potential mediator variables (e.g., an- §
+Randomized thropometrics, respiratory muscle strength) were evaluated inan &
+(n= 43) identical fashion to that of AHI. When significant between-group 5
+Assigned to exercise ‘Assigned to stretching differences were found for any of these variables, paired tests 8
+training (n= 27) control (n= 16) examined whether significant changes occurred within the exer-  &
+: ss : > oD
+Disconlimed(o=3) Discontinued Gai cise training group. Effect sizes (Hedges’ g) were calculated for $
+Health condition (n= 1) Health condition (n = 1) all variables by dividing the difference between the baseline and
+fe foriniuy (at) Relocated (a1) post-intervention changes in the treatment and control treatments 2
+ime commitment(n=1) : o : a
+by the pooled baseline standard deviation. By convention, effect g
+sizes of g= 0.2, g=0.5, and g= 0.8 were considered small, medi- 8
+um, and large in magnitude, respectively. In addition, the change &
+; _ in prevalence of poor subjective sleep (i.e, PSQI global > 5)* S$
+Figure 1—Summary of participant flow through study. AHI, apnea- between treatments was assessed with a Fisher exact test. Zz
+hypopnea index; BL, baseline; GXT, graded exercise test; OSA, obstructive Variables that could explain the reduction in OSA severity 2
+sleep apnea; PSG, polysomnography. ‘ 9 - i a oO
+following exercise training were evaluated for mediation using g
+MacKinnon’s product of coefficients test.** Pre-specified potential 0
+who subsequently discontinued the study. Data for the remain- mediators included stage N3 sleep %, body weight, trunk BF%, 5
+ing 42 participants were utilized for analysis. trunk total mass, respiratory muscle strength, PEF, and PIF. Using Fd
+the complete sample (= 43), each potential mediator was tested = 2
+Statistical Power in a single mediator model, which included: (1) estimating the 2
+Anticipated changes in AHI, the primary outcome of interest, effect of the intervention on the potential mediator (i.e., a coeffi- a
+were based on published research at the time of study design.'?° cient) by regressing the potential mediator’s post-intervention val- =
+Statistical power was 83% to detect a change in AHI from 27.3 ue on the intervention treatment while controlling for the potential 2
+to 17.7 following exercise training, assuming a baseline stan- mediator’s baseline value; (2) estimating the effect of changes §
+dard deviation of 10 and no AHI change in the control treatment, in the potential mediator on changes in AHI (i.e., B coefficient) >
+with a total of 40 participants randomized in a 3:2 fashion. The by regressing post-intervention AHI on the potential mediator’s 2,
+unbalanced treatment allocation allowed for similar power as a__post-intervention value, controlling for treatment, baseline AHI,
+balanced allocation (i.e., 1 = 20 for each treatment would have and the potential mediator’s baseline value; and (3) calculating &
+provided 84% power), but a more thorough investigation into the the product of coefficients by multiplying the a and B coefficients. 3
+possible benefits of exercise training. Assuming an attrition rate Coefficients were obtained through linear regression models us-  &
+of 20%, 48 individuals were targeted for enrollment. With 37 par- ing SAS PROC GLM. Asymmetric confidence limits based on the 8
+ticipants completing the study (i.e., 21 exercise, 16 control), we distribution of the product of the a and B coefficients were created *
+had 80% power to detect the anticipated changes in AHI. using the PRODCLIN program*; confidence intervals that did not
+include zero indicated a statistically significant mediation effect.
+Statistical Analysis
+Analyses were based on an intent-to-treat plan. In the case of | RESULTS
+dropouts, the last observation was carried forward for analysis.
+All analyses were performed using SAS version 9.2 (SAS Insti- Participant Characteristics
+tute, Cary, NC). Unless otherwise specified, data are presented Asummary of participant flow is provided in Figure 1. Of the
+as mean + standard error. All tests were 2-tailed, with statistical 43 participants randomized to treatment, 5 discontinued par-
+significance set at P < 0.05. ticipation before completion of the study at an average of 4.6
+SLEEP, Vol. 34, No. 12, 2011 1634 Exercise Training and OSA Severity—Kline et al
+
+Table 1—Baseline participant characteristics A 40000
+Exercise S | —O- STR
+All Training — Stretching 8000 _
+Variable (N= 43) (n= 27) (n= 16) a | ++ J J a. T
+Sex, n male (% male) 24 (56) 15 (56) 9 (56) 2 6000 I a aaa
+Age, y 46.9(1.2)  47.6(1.3) 45.9 (2.2) s + BiwTi ie on - _+—4 t
+Ethnicity/race, n (%) 2 4000 | b++t aot tt
+White 32 (74) 22 (81) 10 (63) 3 |
+African American 8 (19) 4 (15) 4 (9) a  2000- 9
+Hispanic/Other 3 (7) 1 (4) 2 (5) | 5
+Education, y 15.4 (0.3) 15.6 (0.3) 15.1 (0.6) 0 |, —_, ; —— 3
+Weight, kg 103.3(2.7) 105.6 (3.0) — 99.3(6.0) BL W2 WA WE WE WIO Wie POST 3
+BMI, kg/m? 34.8 (0.9)  35.5(1.2) 33.6 (1.4) 3
+Total body fat, % 41.6 (1.4)  42.1(1.9) 40.6 (1.9) B 5. z
+Trunk body fat, % 45.3(1.2)  46.3(1.6) 43.6 (1.5) = 3
+Previous OSA dx, n (%) 24 (56) 14 (2) 10 (63) = 20 | 3
+Previous OSA tx, n (%) 17 (40) 9 (33) 8 (50) 3 | I ; 1 I T 3
+All data are presented as mean (standard error) unless otherwise noted. = | : - +1 iz a t t Q
+BMI, body mass index; OSA, obstructive sleep apnea. No between-treatment 3S 40. bo ~ L aia l ~ 3
+differences were found for any of the baseline participant characteristics. 2 | 3
++ 0.2 weeks into the intervention. Reported reasons for study “ | 2
+withdrawal were not directly study-related (e.g., relocation, Oi wy we wk we wo we esr -
+underlying health condition). No adverse responses to either g
+activity program were reported, though 4 participants in the Cc an S
+exercise training group needed to switch from the treadmill to ] a
+the recumbent bicycle for aerobic training due to the temporary POST Ss
+development of shin splints. 2 30 ) Zz
+Participant characteristics are summarized in Table 1. No & - — @
+between-treatment differences for any of the baseline partici- 7) | 5
+pant characteristics were observed. Twenty-four of the 43 par- & 20 | 5
+ticipants had been previously diagnosed with OSA, and 17 of i | 5
+those 24 had previously been treated but had since voluntarily 10 | Fd
+discontinued treatment. Thirteen had previously discontinued g
+CPAP use, 3 had undergone unsuccessful upper airway surgery, | 2
+and | participant had discontinued oral appliance use. O° EX sR” a
+<
+Expectations and Adherence Figure 2—Changes in unsupervised activity and diet during study. (A) >
+There were no statistically significant differences between Dally steps (averaged inte 2 eek bins); (8) Minutes ct modeteie- bo 5
+. a . . vigorous-intensity activity (MVPA; averaged into 2-week bins); (C) Overall ®
+treatments regarding expectations for improvement in OSA se- REAP-S score at baseline and post-intervention between treatments. °
+verity or overall sleep quality. However, participants allocated Data are presented as mean + standard error. BL, baseline assessment; @
+to the exercise training treatment expressed slightly greater EX, exercise training treatment; POST, post-intervention assessment; a
+satisfaction with their treatment allocation compared to control STR, stretching control treatment. $
+(exercise: 4.6 + 0.2, stretching: 4.0 + 0.3; t,, = —2.12, P= 0.04). 3
+Exercise training participants attended 87.0% + 3.7% of the g
+prescribed sessions, completing 81.7% + 4.3% of the prescribed (n = 14) who completed the stretching program attended 86.9% 8
+12-week aerobic dose at 64.4% + 2.3% of HRR, and complet- + 2.0% of their prescribed sessions, which was a significantly *
+ing 77.5% + 4.6% of the prescribed 12-week resistance dose. lower rate of attendance than the exercise training participants
+Stretching participants attended 79.7% + 5.2% of their pre- who completed treatment (¢,, = —2.30, P = 0.03).
+scribed sessions. Adherence, defined as rate of attendance, did Figure 2 provides a summary of changes in lifestyle activ-
+not differ between the 2 treatments. ity and dietary habits. Pedometer activity did not change over
+Exercise training participants who completed the 12-week in- the course of the 12-week study between treatments, as no
+tervention (n = 24) attended 93.1% + 1.7% of the prescribed ses- significant treatment, time, or treatment = time interaction ef-
+sions. They completed 88.6% + 2.1% of the prescribed aerobic fects were noted for daily step counts or for daily time spent
+activity dose at 63.3% + 2.2% of HRR, and completed 84.4% in MVPA. Dietary habits, as assessed by the REAP-S, did not
++ 2.9% of the prescribed resistance training dose. Participants change between treatments over the course of the study.
+SLEEP, Vol. 34, No. 12, 2011 1635 Exercise Training and OSA Severity—Kline et al
+
+A B
+40 Total AHI 60 Supine AHI BL
+OPosT
+30 50
+w ae
+= 2 = x
+20 9
+10 5
+10 S
+Qa
+oO
+a
+0 0 =
+EX STR EX STR 3
+=
+i
+a
+Cc D a
+40 NREM AHI 50 REM AHI a
+5
+fo}
+40 iS
+3
+wy s Ty :
+= = 2
+= 20 =< $
+20 Ea
+om
+2.
+10 10 5S
+iS
+>
+=
+0 4 S
+EX STR EX STR =
+g
+Figure 3—Changes in AHI during study. (A) Total AHI; (B) Supine AHI; (C) NREM AHI; (D) REM AHI. AHI, apnea-hypopnea index; BL, baseline assessment; 3
+EX, exercise training treatment; NREM, NREM sleep; POST, post-intervention assessment; REM, REM sleep; STR, stretching control treatment. Data are Zs
+presented as mean + standard error. 9
+o
+o
+Exercise Training and OSA Severity ments from pre- to post-intervention assessment. The number 2
+Between-treatment changes in AHI are summarized in of apneas per hour of sleep were significantly reduced follow- 2
+Figure 3. Compared with the stretching control treatment, ing exercise training relative to control (F,, ,, = 10.34, P< 0.01), a
+exercise training resulted in a significant reduction in AHI whereas no change between treatments was found in the num- =
+(F, 49 = 9.54, P < 0.01). On average, AHI was reduced by 7.6 ber of hypopneas per hour of sleep (Table 2). 2
++ 2.5 following exercise training, whereas AHI increased 4.5 A summary of changes in other markers of OSA is provid-  §
++ 2.4 following stretching treatment (F’', ,, = 10.45, P< 0.01). ed in Table 2. A significant reduction in ODI following exer- &
+When restricted to exercise training participants only, the cise training relative to control was discovered (F,,, = 5.05, 3
+post-training reduction in AHI was found to be statistically P = 0.03), though the ODI improvement was not significant 3
+significant (¢,, = 3.03, P< 0.01). Treatment success (i.e., post- when considering only exercise training participants (¢,, = 1.56, $
+intervention AHI < 20 and reduction > 50% from baseline) P=0.13). No between-treatment changes were found for mini- 3
+eg
+was noted in 25% and 7% of exercise training and stretch- mum SpO, or the percentage of TST with SpO, < 90%. g
+ing treatment participants, respectively (Fisher exact test, 8
+P = 0.23). Treatment response (= 20% AHI reduction) was _ Exercise Training and Objective Sleep =
+documented in 63% and 21% of the exercise training and Table 2 provides a summary of the changes in PSG-measured
+stretching treatment participants, respectively (Fisher exact objective sleep. Exercise training produced minimal PSG sleep
+test, P = 0.02). improvements compared with the stretching control treatment.
+Significantly greater reductions in AHI were found for both Small to moderate effects (g = 0.14-0.58) were noted for mea-
+NREM and REM sleep following exercise vs. control (NREM: sures of sleep that were not statistically significant. Only the per-
+F, 4 = 5.71, P= 0.02; REM: F’ ,, = 8.97, P< 0.01). Although not centage of TST spent in stage N3 sleep was significantly changed
+statistically significant, the magnitude of effect for supine AHI following exercise training relative to control (F,,, = 5.75,
+(g = —0.46) was similar to that for total AHI (g = —0.45), and P = 0.02), and this effect was not significant when considering
+the amount of time spent supine did not change between treat- only exercise training participants (¢,, = —0.38, P = 0.71).
+SLEEP, Vol. 34, No. 12, 2011 1636 Exercise Training and OSA Severity—Kline et al
+
+Changes in actigraphic sleep are summarized in Table 3. parameters of spirometric lung volumes or respiratory muscle
+Compared with the stretching control treatment, exercise train- strength, though global respiratory strength showed marginal
+ing resulted in significant improvements in SOL (F;,,, = 10.70, improvement following exercise training relative to the stretch-
+P< 0.01), SE (F,,, = 5.08, P = 0.03), and the fragmentation ing control treatment (F, ,. = 3.79, P = 0.06).
+index (F,,, = 4.41, P = 0.04). When
+considering only OXETEISE framing Table 2—Polysomnographic sleep variables
+participants, significant improve-
+ments were noted for SOL (t,, = 2.21, Exercise Training Stretching
+P=0.04) and SE (¢,,=-2.19, P=0.04), Variable BL POST BL POST g
+but not for the fragmentation index TST, min 402.2 (6.7) 406.5 (8.7) 410.6 (7.7) 400.3 (13.6) 0.44 9
+(4, = 2.22, P= 0.34). SOL, min 9.6 (1.7) 9.8 (1.8) 12.0(2.8)  13.5(2.9)  -0.14 5
+WASO, min 68.2(6.4) 63.7 (7.7) 57.4 (6.8) 66.1(12.7) -0.43 3
+Exercise Training and Subjective SE, % 83.8 (1.4) 84.7 (1.8) 85.5(1.6) 83.4(28) 0.44 a
+Sleep Quality Stage N1 sleep (%) 10.6 (1.0) 9.6 (1.0) 13.9(3.2)  14.3(3.2)  -0.16 3
+Table 3 provides a summary of Stage N2 sleep (%) 60.2(1.5)  59.0(2.1) 55.0(3.3) 57.8(2.5) — -0.40 =
+oe m ee res Stage N3 sleep (%) 12.8 (1.2) 13.2 (1.1)* 124(17) 9.2(15) 0.58 a
+© Participants, with. poor sleep REM sleep (%) 164(1.1)  18.3(1.3) 18.7(14) 18.7(2.2) 0.32 5
+at baseline, a greater proportion of : 2
+: a, ae Arousal index 36.9 (4.0) 35.8 (3.5) 31.2(4.3) 32.7(5.0) —-0.13 a
+exercise training participants were : ; 8
+found to have good sleep quality at Supine sleep, min 139.0 (21.6) 138.2 (15.7) 157.0 (28.4) 164.0(23.4)  -0.07 6
+post-intervention compared to con- Apnea index 21.7 (4.8) 15.0 (3.3)* 15.1 (4.1) 20.9 (5.2) -0.56 =
+trol (Fisher exact test, P= 0.02). Sig- Hypopnea index 10.5 (2.2) 9.6 (2.0) 9.3 (2.3) 8.0 (1.9) 0.03 Q
+nificantly greater reductions in PSQI Minimum SpO,, % 79.6 (1.4) 79.9 (1.5) 80.4 (1.9) 78.7 (2.0) 0.27 Z
+global score Fina = 8.38, P= 0.01), co) )| 24.5 (4.2) 21.5 (3.7)* 16.8 (4.2) 23.2 (6.8) -0.47 8
+as well as subscale scores of sleep SpO, < 90, % TST 5.2 (1.2) 4.7 (1.1) 3.6 (1.2) 5.2 (1.4) -0.37 2
+quality (F, ,, = 4.42, P = 0.04), sleep 2
+latency (F, ,, = 6.04, P = 0.02), and All data are presented as mean (standard error). Figure 3 summarizes change in AHI. N1-N3, NREM sleep g
+sleep disturbances (F,,, = 7.83, stages 1-3, respectively; ODI, oxygen desaturation index; SpO,, arterial oxygen saturation; SE, sleep Ss
+P < 0.01), were found following efficiency; SOL, sleep onset latency; TST, total sleep time; WASO, wakefulness after sleep onset. g indicates a
+exercise training compared to the Hedges’ g effect size measure. *Statistically significant difference between treatments at post-intervention =
+control treatment. When consid- following control for baseline values (P < 0.05). &
+ering only exercise training par- a
+ticipants, significant improvements s
+were noted for the PSQI global score Table 3—Actigraphic and subjective sleep quality variables Q
+(t,, = 2.68, P = 0.01) and sleep qual- - Pe x fe)
+ity subscale (t,, - 3.86, P< 0.01), but a _—_Exercise:training ___Stretening __ g
+not for the sleep latency (¢,, = 1.15, Waist Actigraphy BL POST BE POST 9 g
+P = 0.26) or sleep disturbance sub- TST, min 398.3(10.4) 390.2(9.3)  388.3(17.9) 385.3(45.9) 0.25 g
+scales (t,, = 1.80, P = 0.08). SOL, min 8.2(14) 6.2(0.7)" — 10.0(3.2)11.9(12.7)  -0.52 3
+WASO, min 57.4(4.9) 54.9 (4.8) 63.5(10.4) 63.5 (39.3) — -0.08 Z
+Mediators of OSA Improvements by SE, % 85.8 (1.2) 86.7 (1.1)* 84.1 (2.0) 83.8 (7.1) 0.17 2
+Exercise Training Napping, min 29.0 (4.3) 26.7 (5.2) 30.7 (6.9) 31.2(32.6) —--0.12 5
+A summary of the changes in the Fragmentation index 42.4 (3.4) 41.1 (2.9)* 53.4 (9.0) 55.1 (35.2) -0.12 &
+proposed mediators by which ex- Pittsburgh Sleep Quality Index -
+ercise training could reduce AHI is Poor sleep quality, prevalence 48% 29% 75% 75% @
+provided in Table 4. Exercise train- Global score, 0-21 6.2(0.6)  4.7(0.5)* 8.1(1.0) 8.0(1.0)  -0.43 s
+ing resulted in no significant change Sleep quality, 0-3 1.6(0.1) 1.00.2)" 1.6(0.2)  14(02)  -0.60 3.
+in body weight (exercise change: Sleep latency, 0-3 0.7(0.2)  0.5(0.1) 13(03) 14(03) — -0.32 &
+0.9 + 0.6 kg; stretching change: Sleep duration, 0-3 0.5(0.1)  0.4(0.1) 1.1(0.3) 1.0 (0.2) 0.07 iN
+0.6 + 0.5 kg) or circumference Sleep efficiency, 0-3 0.2(0.1) — 0.2(0.1) 0.8(0.3) 0.6 (0.3) 0.26
+trad be on i significant ee Sleep disturbances, 0-3 16(0.1)  14(0.1)" 16(0.2)  18(0.1)  -0.62
+2 ele ve aie i Sleep medications, 0-3 04(02)  0.3(0.2) 04(03)  0.6(0.3) 0.24
+P<001), Beeraice weil resulted Daytime dysfunction, 0-3 13(01)  0.9(0.1) 1.3(0.2)  13(02) -0.48
+ina 1.1% & 0.3% reduction in body All data are presented as mean (standard error) unless otherwise noted. A PSQI global score > 5 was
+fen nn in 90554 fb SR ain considered to be poor sleep quality.” SE, sleep efficiency; SOL, sleep onset latency; TST, total sleep time;
+. . — ss : WASO, wakefulness after sleep onset. “Statistically significant difference between treatments at post-
+in body fat. Likewise, exercise train- | intervention following control for baseline values (P < 0.05).
+ing failed to significantly improve
+SLEEP, Vol. 34, No. 12, 2011 1637 Exercise Training and OSA Severity—Kline et al
+
+Table 5 provides a summary of the mediation pathway analy- volumes. Improvements in actigraphic and subjective sleep
+ses. None of the proposed variables were successful at explain- parameters were likewise noted following exercise training.
+ing how exercise training may reduce AHI. Previous research that documented the potential efficacy
+of exercise training for improving OSA had been limited by
+DISCUSSION small sample sizes (NV < 20)!?"'55’ and/or uncontrolled research
+The primary purpose of this study was to examine the ef- _designs.'*!**” The current study, which is the largest random-
+ficacy of exercise training for reducing the severity of OSA. ized trial to date on this topic, documented a reduction in AHI
+Compared to stretching control, exercise training resulted in that was similar to other studies in which minimal weight loss
+moderate improvements in AHI and ODL. The improvement in occurred.'*/* Although other studies have also documented
+AHI was attained despite a lack of change in body weight and similar or superior reductions of AHI following intensive life- 9
+was not found to be significantly mediated by exercise-induced _ style interventions which included exercise training,'’***° the $=
+changes in stage N3 sleep, respiratory muscle strength, or lung dietary interventions (and subsequent greater weight loss) in 8
+those trials made it difficult to sepa- &
+. 2 7 rate the effects of diet-induced weight =F
+Table 4—Changes in potential mediators 1 fi ise traini 3
+oss from exercise training per se. >
+Exercise Training Stretching The lack of robust reduction in other §
+Measure BL POST BL POST g markers of OSA severity noted in this =
+Anthropometry study is also consistent with previous 3
+Total body weight, kg 105.6 (3.0) 104.7 (3.1) 99.3(5.1) 98.7(5.0) -0.02 research, as studies have rarely re-  §
+Total body fat, % 42.1(1.9) 41.0 (1.9)* 40.6 (1.9) 40.8 (1.9)  -0.14 ported significant improvements in 2
+Trunk body fat, % 46.3(1.6) 44.9 (1.6) 43.6 (1.5) 43.6(1.4)  -0.19 SpO, measures following exercise 5
+Neck circumference, cm 40.7(0.6) 40.9 (0.6) 39.5(0.9)  39.8(1.0) -0.01 training." a 3
+Chest circumference, cm  109.9(1.8) 109.3(1.6)  106.9(3.7) 105.9(3.6) 0.04 While only 25% of individuals @
+Waist circumference, cm 110.8 (2.3) 110.2(2.3) 104.4(3.8) 1058(3.9) -0.16 who completed the exercise training 3
+Hip circumference, cm 120.1 (2.8) 120.0(2.8) 114.8 (2.9) 115.2(3.1) _-0.03 inferwention vexpetienced eaiment 2
+Spirometry suceess ies Si: 2 A) 8995 exe e
+and reduction > 50%), 63% ex- &
+BvGaL 37 (02) 3602) 35.108) 3608) 028 perienced an AHI reduction > 20%. s
+FEV, 9 L 3.2 (0.2) 3.1 (0.2) 3.1 (0.3) 3.1(0.3) — -0.11 Thus, when evaluated as a stand- 5
+PIF, L/min 203.6 (18.8) 209.3 (20.7) 223.0 (23.1) 255.6 (26.6) —-0.28 alone treatment for OSA, the efficacy =
+PEF, Limin 400.1 (25.7) 448.1 (29.5) 408.7 (36.0) 429.1 (51.7) 0.20 of exercise training seems to be lower =
+Respiratory muscle strength than oral appliance use or multilevel a
+MIP, cm H,O 94.2(7.6) 114.4(6.6) 106.8 (8.5)111.1(7.4) 0.48 survety: ‘but similar fo other sare.
+MEP, cm H,O 119.8 (8.9) 139.0 (8.7) 115.3 (12.7) 124.7 (14.7) 0.21 cal treatments“! and approximately
+Global strength, cmH,O 107.0 (7.6) 126.7 (6.9) 111.0(9.2)  117.9(10.1) 0.34 equivalent to a 10% reduction in body 3
+weight.” However, it is worth noting @
+All data are presented as mean (standard error). FEV, ,, forced expiratory volume in 1 s; FVC, forced vital that the present data suggest a chronic g
+capacity; MEP, maximum expiratory pressure; MIP, maximum inspiratory pressure; PEF, peak expiratory effect of exercise training, with the 2
+flow; PIF, peak inspiratory flow. *Statistically significant difference between treatments at post-intervention post-intervention AHI reduction oc- &
+following control for baseline values (P < 0.05). curring following a day of non-ex- =
+ercise. In contrast, even one night of 2
+non-use of CPAP and oral appliances §
+Table 5—Mediation pathway analysis results results in a return of AHI to near pre- &
+a coefficient 8 coefficient treatment levels.’ >
+(intervention effect (mediator effect Asymmetric None of the variables that were ex- g
+Potential Mediators on mediator) on outcome) confidence limits plored to explain how exercise train- &
+Stage N3 sleep % -3.800 (1.585)* -0.021 (0.356) -2.708, 2.920 ing may reduce AHI were found to 3
+Total body weight 0.247 (0.915) 0.784 (0.601) -1.257, 1.885 be significant mediators. It is possible
+Neck circumference 0.024 (0.454) -0.673 (1.186) -0.698, 0.643 that there was insufficient statistical
+Trunk BF % 1.294 (0.706) -0.365 (0.826) -2.984, 1.615 power to detect significant mediation
+Trunk body weight -0.478 (0.688) 0.575 (0.837) 1.671, 0.707 or that the mediators chosen were ei-
+PEF 28.463 (28.137) 0.009 (0.020) -0.887, 1.764 ther incorrect or lacked sensitivity. To
+PIF -28.777 (20.321) 0.030 (0.028) -3.337, 0.681 determine how exercise training re-
+Respiratory muscle strength -12.145 (6.241) -0.058 (0.090) 1.371, 3.369 dices AMI, it will likely besnecessaty
+to include more specific mechanistic
+Data are expressed as coefficient (standard error). All mediation analyses were performed using the assessments, such as measurement
+complete sample (N = 43). N3, NREM sleep stage 3; PEF, peak expiratory flow; PIF, peak inspiratory flow. of UPPSr airway’ Size and_collaps-
+*Statistically significant effect (P < 0.05). ibility,°“* measurement of nasal re-
+sistance,** assessment of changes in
+SLEEP, Vol. 34, No. 12, 2011 1638 Exercise Training and OSA Severity—Kline et al
+
+upper airway dilator activity’ and strength/fatigability,*” and © ACKNOWLEDGMENTS
+evaluation of lung volume alterations during sleep.** This work was supported by Public Health Dissertation
+The improvements in PSG sleep that were observed in the Grant 1R36CD000695-1 from the Centers for Disease Control
+present study are generally consistent with previous research, and Prevention (CDC). Its contents are solely the responsibil-
+as significant improvements in PSG-measured sleep have rarely ity of the authors and do not necessarily represent the official
+been noted following exercise training in populations with or views of the CDC. Additional funding support for this work
+without OSA.” Although robust improvements in PSG-mea- was provided by NHLBI T32 HL082610-04.
+sured TST, SE, and arousals have been noted following exercise The authors gratefully acknowledge the assistance of
+training in one study of adults with OSA," others have found SleepMed of South Carolina and the WJB Dorn VA Sleep Lab-
+no change in PSG sleep'*" or only selected improvements.” To _ oratory for their assistance with recruitment and data collection, 9
+our knowledge, the improvements in actigraphic and subjective respectively. The authors also are indebted to Colin Kane and §
+sleep, which in some respects are preferred because they esti- DeAnna Milton for their assistance with data collection, and to 3
+mate sleep in the home setting over multiple nights, have not Dr. Xuemei Sui and Dr. Meghan Baruth for their help with sta-  &
+been previously documented following exercise in this popula- tistical analyses. The work was performed in Dr. Youngstedt’s =
+tion. However, these improvements have not been uncommon Chronobiology Laboratory, the Clinical Exercise Research 2.
+following exercise training in individuals with sleep complaints Center at the University of South Carolina, and the WJB Dorn s
+unrelated to OSA.” VA Medical Center Sleep Laboratory. =
+One of the main limitations of the study was the single night 3
+of laboratory PSG performed at pre- and post-intervention, | DISCLOSURE STATEMENT 8
+which likely introduced additional variability in measures of This was not an industry supported study. Dr. Blair receives
+OSA severity.” A lack of snoring measurement was a further —_ book royalties from Human Kinetics, and has received hono- 5
+limitation. Snoring has been associated with adverse cardiovas- raria for service on the scientific/medical advisory boards for 8
+cular health outcomes independent of OSA,*! and anecdotally, Alere, Technogym, Santec, Clarity, and Jenny Craig. The other &
+bed partners of many participants reported robust decreases in authors have indicated no financial conflicts of interest. 2
+snoring following exercise training. 2
+Like most adults treated for OSA, many participants in the REFERENCES 2
+present study had either failed to adhere to traditional treat- 1. Young T, Shahar E, Nieto FJ, et al. Predictors of sleep-disordered breath-
+. . L ing in community-dwelling adults: the Sleep Heart Health Study. Arch =
+ments or experienced treatment failure. Therefore, even mod Intern Med 2002:162:893-900. 8
+erately efficacious effects, such as what was found for exercise 2. Beebe DW, Groesz L, Wells C, Nichols A, McGee K. The neuropsycho- &
+training, would be more beneficial than lack of treatment. When logical effects of obstructive sleep apnea: a meta-analysis of norm-refer-_
+considering that exercise training may also alleviate many of enced and case-controlled data. Sleep 2003;26:298-307. ; Zz
+the health: consequences of OSA, a case can be made for the 3. Shahar E, Whitney CW, Redline S, et al. Sleep-disordered breathing and a
+. ae . . . cardiovascular disease: cross-sectional results of the Sleep Heart Health oO
+potential utility of exercise in the management of OSA. Addi- Study, Am J Respir Crit Care Med 2001;163:19-25. g
+tionally, these findings provide evidence that exercise training 4. Reichmuth KJ, Austin D, Skatrud JB, Young T. Association of sleep apnea O.
+may be a desirable first trial of treatment before progression to and type II diabetes: a population-based study. Am J Respir Crit CareMed 5
+: . 2005;172:1590-5. n
+TORS ADVASIVE DIEASULES.. Loy . 5. Young T, Finn L, Peppard PE, et al. Sleep disordered breathing and =
+It has been suggested that individuals with OSA may have mortality: eighteen-year follow-up of the Wisconsin sleep cohort. Sleep =
+a difficult time adhering to an exercise training program. Al- 2008;31:1071-8. 2
+though the excessive sleepiness associated with OSA has been 6. Lam B, Sam K, Mok WY, et al. Randomised study of three non-sur-
+hypothesized to contribute to the disinclination to exercise,” oe ae mn mild foumoderaterabstructiversicep apnoea, ‘Thorax <
+CPAP therapy has not been shown to increase activity patterns, 7. Kribbs NB, Pack AI, Kline LR, et al. Effects of one night without nasal =
+even after sleepiness has been reduced.*? We found that, us- CPAP treatment on sleep and sleepiness in patients with obstructive sleep  §
+ing a carefully progressed supervised exercise intervention, apnea. Am Rev Respir Dis 1993;147:1162-8. 2
+sos wos 8. Lim J, Lasserson TJ, Fleetham J, Wright J. Oral appliances for obstructive 5
+participant adherence was excellent, and most Participants sleep apnoea. Cochrane Database Syst Rev 2006;CD004435. =
+reported intentions to continue exercising following comple- 9. Franklin KA, Anttila H, Axelsson S, et al. Effects and side-effects of sur- 2
+tion of the supervised intervention. However, the participants gery for snoring and obstructive sleep apnea--a systematic review. Sleep 2
+were self-selected and thus may have had higher motivation 2009;32:27-36. 3
+to Skercise thansmay he expecteddin the general population 10. Peppard PE, Young T. Exercise and sleep-disordered breathing: an asso- =
+y P 8 . Pop . ciation independent of body habitus. Sleep 2004;27:480-4. y
+Future research should evaluate whether EXCERCISE under less 11. Quan SF, O’Connor GT, Quan JS, et al. Association of physical activity
+controlled conditions still produces a significant reduction in with sleep-disordered breathing. Sleep Breath 2007; 11:149-57. =
+OSA severity. 12. Giebelhaus V, Strohl KP, Lormes W, Lehmann M, Netzer N. Physical ex-
+In conclusion, this study found that exercise training resulted ee ee therapy an'sleep apnea: anopen.(al,.Sleep: Breath
+in a modest reduction in AHI despite minimal change in body 13. Norman JE, Von Essen SG, Fuchs RH, McElligott M. Exercise training ef
+weight. Moderate improvements in objective and subjective fect on obstructive sleep apnea syndrome. Sleep Res Online 2000;3:121-9.
+sleep quality also occurred following exercise training. The 14. Sengul YS, Ozalevli S, Oztura I, Itil O, Baklan B. The effect of exer-
+results suggest that exercise training exerts a significant effect oath eee a apnea: @ randomized and eoutrolled trial.:Sleep
+on OSA severity and sleep quality, and that exercise training 15. Ueno LM, Drager LF, Rodrigues AC, et al. Effects of exercise training in
+may provide benefit for the management of OSA beyond that of patients with chronic heart failure and sleep apnea. Sleep 2009;32:637-47.
+solely facilitating weight loss.
+SLEEP, Vol. 34, No. 12, 2011 1639 Exercise Training and OSA Severity—Kline et al
+
+Ml ORIGINAL CONTRIBUTION
+Gait Speed and Survival in Older Adults
+Stephanie Studenski, MD, MPH Context Survival estimates help individualize goals of care for geriatric patients, but
+Subashan Perera, PhD life tables fail to account for the great variability in survival. Physical performance mea-
+Kushane Patel, PhD sures, such as gait speed, might help account for variability, allowing clinicians to make
+aust more individualized estimates.
+Calenina Res, MD EBD Objective To evaluate the relationship between gait speed and survival.
+Kimberly Baulleen Ph Design, Setting, and Participants Pooled analysis of 9 cohort studies (collected
+Marco Inzitari, MD, PhD between 1986 and 2000), using individual data from 34 485 community-dwelling older
+Jennifer Brach, PhD adults aged 65 years or older with baseline gait speed data, followed up for 6 to 21
+——— years. Participants were a mean (SD) age of 73.5 (5.9) years; 59.6%, women; and
+Julie Chandler, PhD 79.8%, white; and had a mean (SD) gait speed of 0.92 (0.27) m/s.
+Peggy Cawthon, PhD Main Outcome Measures Survival rates and life expectancy.
+Elizabeth Barrett Connor, MD Results There were 17528 deaths; the overall 5-year survival rate was 84.8% (confi-
+Michael Nevitt, PhD dence interval [Cl], 79.6%-88.8%) and 10-year survival rate was 59.7 % (95% Cl, 46.5%-
+Marplein Visser.PhD 70.6%). Gait speed was associated with survival in all studies (pooled hazard ratio per 0.1
+SYJOLERE VIBSET, m/s, 0.88; 95% Cl, 0.87-0.90; P<.001). Survival increased across the full range of gait
+Stephen Kritchevsky, PhD speeds, with significant increments per 0.1 m/s. Atage 75, predicted 10-year survival across
+Stefania Badinelli, MD the range of gait speeds ranged from 19% to 87% in men and from 35% to 91% in wom-
+—_________*\____________ en. Predicted survival based on age, sex, and gait speed was as accurate as predicted based
+Tamara Harris, MD on age, sex, use of mobility aids, and self-reported function or as age, sex, chronic con-
+Anne B. Newman, MD ditions, smoking history, blood pressure, body mass index, and hospitalization.
+Jane Cauley, PhD Conclusion In this pooled analysis of individual data from 9 selected cohorts, gait
+oe speed was associated with survival in older adults.
+Luigi Ferrucci, MD,PhD JAMA. 2011;305(1):50-58 www.jama.com
+Jack Guralnik, MD, PhD TT SS TTT
+EMAINING YEARS OF LIFE VARY Mong the olderadults.'*The purpose of adults with gait speed data at baseline,
+widely in olderadults, and phy- this study is to evaluate the associationof monitored survival for at least 5 years.
+sidansshouldc onciee lifeex-  gaitspeed withsurvivalinolderadultsand Analyses performed herein were con-
+pectancy when assessing goals © determine the degree to which gait ducted in 2009 and 2010. All studies
+of care and treatment plans.' However, life speed explains variability in survival af- required written informed consent and
+expectancy based on age and sex alone '*T accounting for age and sex. institutional review board approval.
+provides limited information because sur- METHODS Populations
+vival is also influenced by health and func- . . , ,
+tional abilities. There are currently no Overview All studies recruited community-
+well-established approaches to predict- We used individual participant data dwelling older adults. Although some
+ing life expectancy that incorporate health from 9 cohort studies, baseline datafor sought representative samples,*°7°?
+and function, although several models which were collected between 1986 and _ others focused on healthier partici-
+have been developed from individualdata 2000 (TABLE 1).819161823 Each study,  pants,'®*'’ single sex,’ or older adults
+sources.>° Gait speed, also often termed which included more than 400 older from primary care practices.*! Only
+walking speed, has been shown to be as- Author Affiliations: Department of Medicine, Divi- | Autonomous University of Barcelona, Barcelona, Spain
+sociated with survival among older adults sion of Geratric Medicine, School of Medicine (Drs (Dr Inzitari); Merck Research Laboratories, North Wales,
+in individual epidemiological cohort _ Studenski and Perea), Department of Epidemiology, Pennsylvania (Dr Chandler); California Pacific Medi-
+dies’ and has b hi t Hect School of Public Health (Drs Rosano, Newman, and _cal Center Research Institute (Dr Cawthon), and Uni-
+studies” and has been shown to retlec Cauley), Department of Physical Therapy, School of __ versity of California at San Francisco (Dr Nevitt), Uni-
+health and functional status.'® Gaitspeed —_ Health and Rehabilitation (Dr Brach), University of Pitts- versity of California at San Diego (Dr Barrett Connor),
+A burgh, and National Personal Protective Technology VU University, Amsterdam, the Netherlands (Dr Vis-
+has been recommended a4 potentially Laboratory (Dr Faulkner), Pittsburgh, Pennsylvania; ser); Wake Forest University, Winston-Salem, North
+useful clinical indicator of well-being Laboratory of Epidemiology, Demography, and Bi- Carolina (Dr Kritchevsky); and Geriatric Unit, Azienda
+ometry (Drs Patel, Harris, and Guralnik), and Clinical _sanitaria firenze, Florence, Italy (Dr Badinelli).
+Research Branch, Intramural Research Program (DrFer- Corresponding Author: Stephanie Studenski, MD,
+oe ae rucci), National Institute on Aging, Bethesda, Mary- MPH, Kaufmann Bldg, Ste 500, 3471 Fifth Ave, Pitts-
+For editorial comment see p 93. land; Pere Virgili Hospital and Institute on Aging, — burgh, PA 15143 (sas33@pitt.edu).
+50 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+16. Vincent HK, Shanely RA, Stewart DJ, et al. Adaptation of upper air- 36. Mackinnon DP, Fritz MS, Williams J, Lockwood CM. Distribution of the
+way muscles to chronic endurance exercise. Am J Respir Crit Care Med product confidence limits for the indirect effect: program PRODCLIN.
+2002; 166:287-93. Behav Res Methods 2007;39:384-9.
+17. Series F, Roy N, Marc I. Effects of sleep deprivation and sleep fragmenta- 37. Barnes M, Goldsworthy UR, Cary BA, Hill CJ. A diet and exercise pro-
+tion on upper airway collapsibility in normal subjects. Am J Respir Crit gram to improve clinical outcomes in patients with obstructive sleep
+Care Med 1994;150:481-5. apnea—a feasibility study. J Clin Sleep Med 2009;5:409-15.
+18. Olson LG, Strohl KP. The response of the nasal airway to exercise. Am 38. Tuomilehto HP, Seppa JM, Partinen MM, et al. Lifestyle intervention with
+Rev Respir Dis 1987;135:356-9. weight reduction: first-line treatment in mild obstructive sleep apnea. Am
+19. Redolfi S, Yumino D, Ruttanaumpawan P, et al. Relationship between J Respir Crit Care Med 2009;179:320-7.
+overnight rostral fluid shift and obstructive sleep apnea in nonobese men. 39. Foster GD, Borradaile KE, Sanders MH, et al. A randomized study on
+Am J Respir Crit Care Med 2009;179:241-6. the effect of weight loss on obstructive sleep apnea among obese pa-
+20. Youngstedt SD, Kline CE. Epidemiology of exercise and sleep. Sleep tients with type 2 diabetes: the Sleep AHEAD study. Arch Intern Med
+Biol Rhythms 2006;4:215-21. 2009; 169:1619-26. 2
+21. Youngstedt SD. Effects of exercise on sleep. Clin Sports Med 40. Ferguson KA, Cartwright R, Rogers R, Schmidt-Nowara W. Oral ap- 2
+2005;24:355-65. pliances for snoring and obstructive sleep apnea: a review. Sleep 9
+22. Netzer NC, Stoohs RA, Netzer CM, Clark K, Strohl KP. Using the Berlin 2006;29:244-62. o
+Questionnaire to identify patients at risk for the sleep apnea syndrome. 41. Caples SM, Rowley JA, Prinsell JR, et al. Surgical modifications of the = =>
+Ann Intern Med 1999;131:485-91. upper airway for obstructive sleep apnea in adults: a systematic review gs
+23. Haskell WL, Lee IM, Pate RR, et al. Physical activity and public health: and meta-analysis. Sleep 2010;33:1396-407. =
+updated recommendation for adults from the American College of Sports 42. Peppard PE, Young T, Palta M, Dempsey J, Skatrud J. Longitudinal id
+Medicine and the American Heart Association. Med Sci Sports Exerc study of moderate weight change and sleep-disordered breathing. JAMA =
+2007;39:1423-34. 2000;284:3015-21. a
+24. American College of Sports Medicine. ACSM’s guidelines for exercise 43. Schwab RJ, Pasirstein M, Pierson R, et al. Identification of upper airway >>
+testing and prescription. 8th ed. Philadelphia: Lippincott Williams & anatomic risk factors for obstructive sleep apnea with volumetric mag- 3.
+Wilkins, 2010. netic resonance imaging. Am J Respir Crit Care Med 2003;168:522-30. 5
+25. Iber C, Ancoli-Israel S, Chesson AL, Quan SF. The AASM manual for the 44. Patil SP, Punjabi NM, Schneider H, O’Donnell CP, Smith PL, Schwartz s
+scoring of sleep and associated events: rules, terminology and technical AR. A simplified method for measuring critical pressures during sleep in iS}
+specifications. Westchester, IL: American Academy of Sleep Medicine, the clinical setting. Am J Respir Crit Care Med 2004;170:86-93. 3
+2007. 45. Li HY, Engleman H, Hsu CY, et al. Acoustic reflection for nasal airway 2
+26. Kushida CA, Chang A, Gadkary C, Guilleminault C, Carrillo O, Dement measurement in patients with obstructive sleep apnea-hypopnea syn- -§
+WC. Comparison of actigraphic, polysomnographic, and subjective as- drome. Sleep 2005;28:1554-9. 2
+sessment of sleep parameters in sleep-disordered patients. Sleep Med 46. Pierce R, White D, Malhotra A, et al. Upper airway collapsibility, di- @
+2001;2:389-96. lator muscle activation and resistance in sleep apnoea. Eur Respir J g
+27. Chae KY, Kripke DF, Poceta JS, et al. Evaluation of immobility time for 2007;30:345-53. &
+sleep latency in actigraphy. Sleep Med 2009;10:621-5. 47. Mortimore IL, Bennett SP, Douglas NJ. Tongue protrusion strength and =
+28. Buysse DJ, Reynolds CF III, Monk TH, Berman SR, Kupfer DJ. The fatigability: relationship to apnoea/hypopnoea index and age. J Sleep Res a
+Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice 2000;9:389-93. =
+and research. Psychiatry Res 1989;28:193-213. 48. Heinzer RC, Stanchina ML, Malhotra A, et al. Effect of increased lung iS
+29. McMinn D, Rowe DA, Stark M, Nicol L. Validity of the New Lifestyles volume on sleep disordered breathing in patients with sleep apnoea. Tho- g
+NL-1000 accelerometer for measuring time spent in moderate-to-vig- rax 2006;61:435-9. Fa
+orous physical activity in school settings. Meas Phys Educ Exere Sci 49. King AC, Pruitt LA, Woo §, et al. Effects of moderate-intensity exer-
+2010;14:67-78. cise on polysomnographic and subjective sleep quality in older adults ©
+30. Segal-Isaacson CJ, Wylie-Rosett J, Gans KM. Validation of a short dietary with mild to moderate sleep complaints. J Gerontol A Biol Sci Med Sci =
+assessment questionnaire: the Rapid Eating and Activity Assessment for 2008;63:997-1004. #
+Participants short version (REAP-S). Diabetes Educ 2004;30:774,776,778. 50. Levendowski DJ, Zack N, Rao S, et al. Assessment of the test-retest reli- a
+31. American Thoracic Society. Standardization of spirometry, 1994 update. ability of laboratory polysomnography. Sleep Breath 2009; 13:163-7. &
+Am J Respir Crit Care Med 1995;152:1107-36. 51. Lee SA, Amis TC, Byth K, et al. Heavy snoring as a cause of carotid 5
+32. American Thoracic Society, European Respiratory Society. ATS/ERS artery atherosclerosis. Sleep 2008;31:1207-13. 3
+Statement on respiratory muscle testing. Am J Respir Crit Care Med 52. Aguillard RN, Riedel BW, Lichstein KL, Grieve FG, Johnson CT, Noe g.
+2002;166:518-624. SL. Daytime functioning in obstructive sleep apnea patients: exercise tol- a
+33. Richard W, Kox D, den Herder C, van Tinteren H, de Vries N. One stage erance, subjective fatigue, and sleepiness. Appl Psychophysiol Biofeed- 2
+multilevel surgery (uvulopalatopharyngoplasty, hyoid suspension, radio- back 1998;23:207-17. A
+frequent ablation of the tongue base with/without genioglossus advance- 53. West SD, Kohler M, Nicoll DJ, Stradling JR. The effect of continuous ©
+ment), in obstructive sleep apnea syndrome. Eur Arch Otorhinolaryngol positive airway pressure treatment on physical activity in patients with
+2007;264:439-44. obstructive sleep apnoea: a randomised controlled trial. Sleep Med = w
+34. Hedges LV, Olkin I. Statistical methods for meta-analysis. New York: 2009;10:1056-8. a
+Academic Press, 1985. i)
+35. Mackinnon DP, Lockwood CM, Williams J. Confidence limits for the in- iow
+direct effect: distribution of the product and resampling methods. Multi- 2
+variate Behav Res 2004;39:99-128. a
+So
+IN
+SLEEP, Vol. 34, No. 12, 2011 1640 Exercise Training and OSA Severity—Kline et al
+
+&
+
+1164 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+a 8
+estimate of the effect of inadequate sleep on obesity. Al- model for meta-analyses that use adjustment based on mea- z
+though, in this review there were not many studies that ex- sured methodological heterogeneity between studies (16). It :
+plored inadequate sleep as a result of both sleep quality has also been demonstrated to be more reliable than the use z
+and duration, those that did reported a significant associa- of the random effects model that requires strong assump- 5
+tion between inadequate sleep and the Ow/Ob outcome tions that are unlikely to be valid in practice (46) and is z
+(29,30). known to produce spuriously positive results (47). Addi- 2
+Due to the fewer number of studies we could not con- tionally, lack of practical heterogeneity as indicated by the &
+duct a separate meta-analysis for subjects belonging to P estimate imparts some strength to the findings of this Fl
+different developmental stages, but the results from sensi- meta-analysis(48). z
+tivity analysis suggest that association between poor sleep e
+and Ow/Ob is stronger for children than adolescents and ; :
+young adults (Table S-2). Similarly, some studies also Conclusion z
+found a gender difference in the prevalence of inadequate The results of this systematic review and meta-analysis g
+sleep suggesting that gender could be a moderating factor indicate a potential role of sleep quality in the sleep- 2g
+in sleep-obesity association (26). Therefore, future studies obesity association in children, adolescents, and young Z
+on the sleep quality-obesity link should also consider the adults, with some evidence for this association to be in- 2
+potential moderation by developmental stages and dependent of sleep duration. Therefore, it follows that z
+gender. short sleep duration should not be used as the only 2
+Emerging evidence from epidemiological and clinical benchmark of inadequate sleep, and we suggest that ex- =
+studies have not provided a clear link between other aspects ploring for the cumulative effect of both poor quality A
+of sleep and glucose homeostasis independent of total sleep and short duration would be perhaps the better approach 2
+duration(42,43). One approach is to explore the association for future research on sleep-obesity. Although the existing a
+by considering the link between energy balance and the spe- evidence for the sleep quality and obesity association is E
+cific parts of the sleep cycle, i.e., SWS and rapid eye move- weak, these preliminary findings are interesting enough ES
+ment (REM) sleep (44). There is some evidence that a to herald future research in this area. Considering that 4
+decrease in insulin sensitivity correlates with a reduction in the bulk of the existing evidence is coming from cross- =
+SWS (7). SWS is also seen to be associated with decreased sectional studies, further evidence from longitudinal stud- :
+secretion of cortisol and increased secretion of growth hor- ies would be the next step in establishing whether im- 2
+mone (45). It is postulated that the hormonal changes asso- proving sleep quality can help prevent childhood 5
+ciated with less time spent in SWS and alterations in REM obesity. Future epidemiological studies based on a longi- 2
+sleep support weight gain. tudinal design using validated tools that measure both S
+Our meta-analysis pooled estimate for the association be- quantitative and quantitative aspects of sleep will help z
+tween poor sleep quality and Ow/Ob is comparable to the us better understand the strength as well as the causal i
+pooled estimate for the association between short sleep du- nature (or not) of the association between sleep and obe- ?
+ration and Ob/Ob (11). However, unlike the latter, this sity. The alternative to a causal effect could be that both El
+study is based on mainly cross-sectional studies. Therefore, (disturbed sleep and obesity) are simply effects or proxies EI
+the causal link and stability of the association between sleep for deeper underlying causes. z
+dimensions and Ow/Ob could not be confirmed. Addition- Z
+ally, visual inspection of the forest plot suggested that the a
+study by Quick et al. was assigned the highest weight. Re- Authors’ contribution 2
+view of this study reveals that to maximize sample size, data 2
+from two contemporaneous studies with same variables YF conceptualized the study, handled the literature review z
+were combined. That perhaps had affected the overall OR and data extraction, conducted meta-analyses and drafted i
+for Ow/Ob and led to a narrow confidence interval, the initial manuscript. AAM and SD critically reviewed the 2
+explaining the higher weight allocation. The removal of this systematic review protocol, helped in the drafting of the 4
+study had a minor effect on the pooled estimate and did not manuscript and critical review of the final version of the a
+change the direction of association or statistical significance. manuscript. SD assisted in designing the risk of bias tool :
+Considering that the quality of this study was also better and developed the model used in this analysis. All authors z
+than some other studies included in the review, it was kept approved the final manuscript. ‘
+in the meta-analysis and indeed the results of this study Ei
+might reflect the magnitude of the real effect of poor sleep 2
+quality. Conflicts of interest i
+Despite these limitations mentioned above, one of the ig
+strengths of our study is that we used the quality effects No conflict of interest was declared. 3
+6
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity 3
+RIGHTS LIN Kd z
+&
+
+&
+
+obesity reviews Sleep quality and obesity Y. Fatima et al. 1165 g
+Fi
+
+Supporting Information 13. Shamliyan TA, Kane RL, Ansari MT et al. Development qual- z
+ity criteria to evaluate nontherapeutic studies of incidence, B
+
+Additional Supporting Information may be found in the prevalence, or risk factors of chronic diseases: pilot study of new e
+online version of this article, http://dx.doi.org/10.1111/ checklists. J Clin Epidemiol 2011; 64: 637-57. :
+obr.12444 14. National Heart Lung and Blood Institute (2014). Quality As- g
+sessment Tool for Observational Cohort and Cross-Sectional z
+
+Studies. [WWW document]. http://www.nhlbi.nih.gov/health-pro/ &
+
+Table $1. Quality Assessment tool for studies exploring the im- guidelines/in-develop/cardiovascular-risk-reduction/tools/cohort i
+. . aes 15. Doi SA, Barendregt JJ, Khan $, Thalib L, Williams GM. Ad- 8
+
+pact of inadequate sleep on overweight/obesity in young sub- vances in the meta-analysis of heterogeneous clinical trials II: The 2
+jects (References: 18-35) quality effects model. Contemp Clin Trials 2015; 45: 123-9. 5
+Table $2. Sensitivity analysis of meta-analysis of inadequate 16. Doi SA, Thalib L. A quality-effects model for meta-analysis. =
+sleep and overweight/obesity in young subjects (References Epidemiology (Cambridge, Mass) 2008; 19: 94-100. :
+25-33) 17. Takkouche B, Cadarso-Suarez GC, Spiegelman D. Evaluation of E
+Figure $1. Funnel plot (right) and Doi plot (left) for the meta- pa oe lent ee he Gs epidemiologic. meta-analysis: 2
+analysis of studies exploring association between inadequate 18. Bailey BW, Allen MD, LeCheminant JD et al. Objectively mea- 2g
+sleep and overweight/obesity in young subjects after exclusion sured sleep patterns in young adult women and the relationship to £
+of Quick et al. Both plots demonstrate some melioration of the adiposity. Am J Health Prom: AJHP 20145 29: 46-54. ; 2
+serve positive asymmetry favoring studies with positive results, 12. Jasin. DC, McGr ath JJ, Dr ake CL. Beyond sleep dur. ation: dis- g
+. . : : . tinct sleep dimensions are associated with obesity in children and 2
+suggesting that the asymmetry is considerably driven by this adolescents, Int J Obes (2005) 2013; 37: 552-8. a
+study. The LFK index value of 3.68 concurs with positive 20. Michels N, Verbeiren A, whee W, De Henauw S, Sioen I. z
+asymmetry Children’s sleep quality: relation with sleep duration and adiposity. A
+Public Health 2014; 128: 488-90. S
+
+21. Bawazeer NM, Al-Daghri NM, Valsamakis G et al. Sleep dura- &
+
+References tion and quality associated with obesity among Arab children. z
+Obes (Silver Spring, Md) 2009; 17: 2251-3. 3
+
+1. Magee L, Hale L. Longitudinal associations between sleep dura- 22. Chen DR, Truong KD, Tsai MJ. Prevalence of poor sleep qual- &
+tion and subsequent weight gain: a systematic review. Sleep Med ity and its relationship with body mass index among teenagers: ¢
+Rev 2012; 16: 231-41. evidence from Taiwan. J Sch Health 2013; 83: 582-8. z
+2. Patel SR, Hu FB. Short sleep duration and weight gain: a system- 23. Bagley EJ, El-Sheikh M. Familial risk moderates the associa- 7
+atic review. Obesity (Silver Spring, Md) 2008; 16: 643-53. tion between sleep and zBMI in children. J Pediatr Psychol 2013; g
+3. Pilcher JJ, Ginter DR, Sadowsky B. Sleep quality versus sleep 38: 775-84. 5
+quantity: Relationships between sleep and measures of health, 24. de Vasconcelos HC, Fragoso LV, Marinho NB e¢ al. Correla- 3
+well-being and sleepiness in college students. J Psychosom Res tion between anthropometric indicators and sleep quality among a
+1997; 42: 583-96. Brazilian university students. Revista da Escola de Enfermagem 3
+4, Bonnet MH, Arand DL. Clinical effects of sleep fragmentation da US P 2013; 47: 852-9. z
+versus sleep deprivation. Sleep Med Rev 2003; 7: 297-310. 25. Liu J, Hay J, Joshi D, Faught BE, Wade T, Cairney J. Sleep dif- z
+5. Stamatakis KA, Punjabi NM. Effects of Sleep Fragmentation on ficulties and obesity among preadolescents. Canadian J Public é
+Glucose Metabolism in Normal Subjects. Chest 2010; 137: 95-101. Health = Revue canadienne de sante publique 2011; 102: 139-43. Es
+6. Punjabi NM, Shahar E, Redline S$, Gottlieb DJ, Givelber R, 26. Sivertsen B, Pallesen S, Sand L, Hysing M. Sleep and body E
+Resnick HE. Sleep-disordered breathing, glucose intolerance, and mass index in adolescence: results from a large population-based 3
+insulin resistance: the Sleep Heart Health Study. Am J Epidemiol study of Norwegian adolescents aged 16 to 19 years. BMC Pediatr 7
+2004; 160: 521-30. 2014; 14: 204-14. Ey
+7. Tasali E, Leproult R, Ehrmann DA, Van Cauter E. Slow-wave 27, Narang I, Manlhiot C, Davies-Shaw J et al. Sleep disturbance 2
+sleep and the risk of type 2 diabetes in humans. Proc Natl Acad and cardiovascular risk in adolescents. CMAJ : Canadian Medical 2
+Sci US A 2008; 105: 1044-49. Association journal = journal de l’Association medicale canadienne 2
+8. Leger D, Beck F, Richard JB, Godeau E. Total sleep time severely 2012; 184: E913-20. =
+drops during adolescence. PLoS One 2012; 7: 1-21 45204. 28. Mota J, Vale S. Associations between sleep quality with cardio- 2
+9. Chen X, Beydoun MA, Wang Y. Is Sleep Duration Associated With respiratory fitness and BMI among adolescent girls. Am J Human 5
+Childhood Obesity? A Systematic Review and Meta-analysis. Obesity Bio : official ] Human Bio Council 2010; 22: 473-5. a
+2008; 16: 265-74. 29. Quick V, Byrd-Bredbenner C, White AA et al. Eat, sleep, work, 2
+10. Cappuccio FP, Taggart FM, Kandala NB e¢ al. Meta-analysis play: associations of weight status and health-related behaviors a
+of short sleep duration and obesity in children and adults. Sleep among young adult college students. Am J Health Prom: AJHP e
+2008; 31: 619-26. 2014; 29: e64-72. 2
+11. Fatima Y, Doi SA, Mamun AA. Longitudinal impact of sleep 30. Firouzi S, Poh BK, Ismail MN, Sadeghilar A. Sleep habits, food A
+on overweight and obesity in children and adolescents: a systematic intake, and physical activity levels in normal and overweight and e
+review and bias-adjusted meta-analysis. Obes Rev: offic] Int Assoc _ bese Malaysian children. Obes Res Clin Prac 2014; 8: e70-8. ¢
+Study Obes 2015; 16: 137-49. 31. Vargas PA, Flores M, Robles E. Sleep quality and body mass in- g
+12. Stroup DF, Berlin JA, Morton SC et al. Meta-analysis of obser- dex in college students: the role of sleep disturbances. J Am College E
+vational studies in epidemiology: a proposal for reporting. Meta- Health : ] of ACH 2014; 62: 534-41. Fa
+analysis Of Observational Studies in Epidemiology (MOOSE) 32. Alamian A, Wang L, Pitts M, Ikekwere J, Hall AM. Abstract 3
+group. Jama 2000; 283: 2008-12. P106: Infant Sleep Problems Increase the Odds of Childhood E
+4
+
+FA
+
+6
+
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 3
+RIGHTS LIN Kd g
+g
+
+a
+
+1166 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+Overweight at Grade 6: Differential Effects of Commonly Used Def- 41. Dewald JF, Meijer AM, Oort FJ, Kerkhof GA, Bogels SM. The z
+initions of Sleep Problems. Circulation 2014; 129: AP106. influence of sleep quality, sleep duration and sleepiness on school B
+33. Lumeng JC, Somashekar D, Appugliese D, Kaciroti N, performance in children and adolescents: A meta-analytic review. e
+Corwyn RF, Bradley RH. Shorter sleep duration is associated with Sleep Med Rev 2010; 14: 179-89. 4
+increased risk for being overweight at ages 9 to 12 years. Pediatrics 42. Rao MN, Blackwell T, Redline S$ et al. Association Between g
+2007; 120: 1020-9. Sleep Architecture and Measures of Body Composition. Sleep z
+34. Arora T, Hosseini-Araghi M, Bishop J, Yao GL, Thomas GN, 2009; 32: 483-90. &
+Taheri $. The complexity of obesity in U.K. adolescents: relation- 43. Bidulescu A, Din-Dzietham R, Coverson DL e¢ al. Interaction i
+ships with quantity and type of technology, sleep duration and of sleep quality and psychosocial stress on obesity in African Amer- 8
+quality, academic performance and aspiration. Pediatric obes icans: the Cardiovascular Health Epidemiology Study (CHES). 2
+2013; 8: 358-66. BMC Public Health 2010; 10: 581-91. s
+35. Arora T, Taheri S. Associations among late chronotype, body 44. Gonnissen HK, Adam TC, Hursel R, Rutters F, Verhoef SP, =
+mass index and dietary behaviors in young adolescents. Int J Westerterp-Plantenga MS. Sleep duration, sleep quality and body Ee
+Obes(2005) 2015; 39: 39-44. weight: parallel developments. Physiol Behav 2013; 121: 112-6.
+36. Barendregt JJ, Doi SA. MetaXL User Guide: Version 3.0. 45. Rutters F, Gonnissen HK, Hursel R, Lemmens SG, Martens g
+Queensland, Australia. 2015; 1-56. EA, Westerterp-Plantenga MS. Distinct associations between energy e
+37. Harvey AG, Stinson K, Whitaker KL, Moskovitz D, Virk H. balance and the sleep characteristics slow wave sleep and rapid eye 2
+The Subjective Meaning of Sleep Quality: A Comparison of Individ- movement sleep. Int J Obes (2005) 2012; 36: 1346-52. £
+uals with and without Insomnia. Sleep 2008; 31: 383-93. 46. Al Khalaf MM, Thalib L, Doi SA. Combining heterogenous 2
+38. Krystal AD, Edinger JD. Measuring sleep quality. Sleep Med studies using the random-effects model is a mistake and leads to in- g
+2008; 9(Suppl 1): $10-7. conclusive meta-analyses. J Clin Epidemiol 2011; 64: 119-23. 2
+39. Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. 47. Noma H. Confidence intervals for a random-effects meta-analysis Z
+Test-retest reliability and validity of the Pittsburgh Sleep Quality In- based on Bartlett-type corrections. Stat Med 2011; 30: 3304-12. g
+dex in primary insomnia. J Psychosom Res 2002; 53: 737-40. 48. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring A
+40. Liu X, Zhou H. Sleep duration, insomnia and behavioral prob- inconsistency in meta-analyses. BMJ (Clinical research ed) 2003; 5
+lems among Chinese adolescents. Psychiatry Res 2002; 111: 75-85. 327: 557-60. &
+g
+
+a
+
+:
+
+Ej
+
+2
+
+3
+
+&
+
+B
+
+=
+
+Fy
+
+s
+
+2
+
+=
+
+2
+
+2
+
+a
+
+i
+
+$
+
+3
+
+E
+
+e
+
+5
+
+g
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity :
+RIGHTS LIN Kd B
+&
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+Caen
+Table 1. Characteristics of Participants in the 9 Cohort Studies
+No. (%) of Participants by Study
+Osteoporotic Study of
+Health, Hispanic Invecciare Fractures NHANES Osteoporotic
+Study CHS® EPESE'® ABC'S” EPESE® in Chianti’? in Men’? ure? PEP” Fractures”
+Sample size, No. 5801 2128 3048 1905 972 5833 3958 491 10349
+Women 3336 (67.51) 1404 (65.98) 1575 (61.67) 1098 (67.64) 541 (65.66) ie} 2044 (61.64) 216 (43.99) 10349 (100)
+Race/ethnicity
+White 4854 (83.68) 2126 (99.91) 1783 (68.50) 0 972 (100)  5223(89.54) 2535 (64.05) 394 (80.24) 9662 (93.36)
+Black 909 (15.67) 2 (0.09) 1265 (41.50) 0 0 235 (4.03) 699(17.66)  89(18.13) 654 (6.32)
+Hispanic i} i} ie} 1905 (100) ie} 122 (2.09) 623 (15.74) ie} ie)
+Other 38 (0.66) ie} ie) ie) ie) 253 (4.34) 101 (2.55) 8 (1.63) 33 (0.32)
+Age mean (SD), y 72.81 (6.58) 78.85(6.52) 73.62(287) 74.74(6.96) 74.58(7.08) 7361(6.84) 75.17(6.93) 74.08.74) 71.81(6.21)
+Age OUD
+65-74 3852 (66.40) 559 (26.27) 1912 (62.73) _ 1083 (66.85) 555 (67.10) 3401 (68.31) 2033 (61.36) 279 (66.82) 7486 (72.34)
+75-84 1732 (29.86) 1204 (66.58) 1136 (37.27) 668 (35.07) 302 (31.07) 2183 (87.42) 1484 (37.49) 188 (38.39) 2596 (25.08)
+=85 217 (3.74) 365 (17.15) 0 154(8.08) 115 (11.83) 249(427) 441 (11.14) 24 (4.89) 200 (1.93)
+Missing 0 0 0 0 0 0 0 0 67 (0.65)
+Galt epgeq mean 0.86 (0.22) 0.83 (0.13) 1.12 (0.28) 0.56 (0.23) 1.00 (0.28) 1.19 (0.28) 0.68 (0.23) 0.88 (0.24) 0.95 (0.22)
+, m/s
+Gait speed class, m/s
+<0.4 149 (2.57) ie} 4 (0.13) 515 (27.03) 35 (3.60) 11 (0.19) 480 (12.13) 20 (4.07) 33 (1.19)
+=0.4 to <0.6 526 (9.07) 78 (3.67) 20(0.66)  621(82.60) 59 (6.07) 54(0.93) 897 (22.66) 408.15) 466 (4.50)
+=0.6 to <0.8 1887 (32.53) 791 (37.17) 189 (6.20) 467 (24.51) 110 (11.32) 206 (3.53) 1368 (34.56) 110 (22.40) 1752 (16.93)
+20.8 to <1.0 2076 (35.79) 1105 (61.93) 705 (23.13) 220 (11.55) 246 (25.31) 875 (15.00) 887 (22.41) 166 (33.81) 3768 (36.41)
+21.0 to <1.2 1077 (18.57) 135 (6.34) 1093 (35.86) TT (4.04) 305 (31.38) 1774 (30.41) 294 (7.43) 116 (22.63) 3054 (29.51)
+21.2 to<14 (e) 17 (0.80) 684 (22.44) 4 (0.21) 170 (17.49) 1911 (82.76) 32 (0.81) 36 (7.33) 970 (9.37)
+S14 86 (1.48) 2 (0.09)  353(11.58) 1 (0.05) 47 (4.84) 1002 (17.18) 0 3 0.61) 217 (2.10)
+Mobility aid use
+None NA 1962 (92.20) 3048 (100) 1817 (95.38) 881 (90.64) 5792 (99.30) 3664 (92.57) 463 (94.11) 10165 (98.22)
+Cane NA 87 (4.09) 0 49 (2.57) 8 (0.82) 38 (0.65) 201 (6.08) 21 (4.27) All aids
+Walker NA 67 (8.15) ie} 23 (1.21) 3 (0.31) ie} 74 (1.87) 5 (1.01) Combined
+Other/missing NA 12 (0.56) ie} 16 (0.84) 80 (8.23) 3 (0.05) 19 (0.48) 3 (0.61) 184 (1.78)
+BMI, mean (SD) 26.68 (4.71) 26.63 (4.64) 27.40(4.82) 27.91(6.13) 27.51 (4.11) 27.39(8.83) 26.66(6.11)  27.53(6.12) 26.61 (4.57)
+BMI category
+<25 2287 (38.65) 803 (38.24) 983(32.25) 555 (29.13) 276 (28.40) 1593(27.31) 1544(9.01) 156 (31.77) 4352 (42.05)
+25-30 2407 (41.49) 886 (42.64) 1288 (42.26) 758 (39.79) 487 (46.96) 2991 (61.28) 1559(39.39) 211 (42.97) 3842 (37.12)
+>30 1144 (19.72) 411 (19.31) 777 (25.49) 577 (30.29) 243 (25.00) 1247 (21.38) 852 (21.53) 123 (25.05) 2155 (20.82)
+Missing 13 (0.22) 28 (1.32) 0 15 (0.79) 16 (1.65) 2 (0.03) 3 (0.08) 1 (0.20) 0
+Hospitalized NA 395 (18.57) 456 (14.98)  304(15.96) 129 (13.27) NA 775 (19.58) 97(19.76) 1116 (11.51)
+past year
+Diseases
+Cancer 830 (14.33) 486 (22.84) 575 (18.91) 115 (6.04) 95 (9.77) 1697 (29.09) 387 (9.78) 113 (23.01) NA
+Arthritis 2977 (61.94) 2055 (96.57) 1706 (66.72) 812 (42.62) 304 (31.31) 2764 (47.39) 1827 (46.16) 286 (68.25) 6003 (63.10)
+Diabetes 690 (11.90) 335 (15.74) 453 (14.88) 455 (23.88) 106 (10.91) 624 (10.70) 607 (15.34) 84 (17.11) 681 (7.04)
+Heart disease 4230 (21.20) 312(14.66) 652 (22.03) 155 (8.14) 49 (6.05) 1379(23.64) 484(12.23) 89 (18.13) NA
+Sellrepored neat 2177 (37.61) 542 (74.48) 1343 (44.12) 870 (45.67) 591 (62.61) 5012 (85.95) 1204 (30.47) 229 (46.64) 8537 (82.49)
+very good
+tote! cpa during 3851 (66.39) 1955 (91.87) 848 (27.82) 972 (61.02) 187 (19.24) 1073(18.40) 2837 (71.68)  293(69.55) 5512 (53.26)
+follow-up
+Median survival years 13.25 9.57 NE 11.70 NE NE 9.86 11.15 17.23
+(95% Cl) (13.00-13.56)  (9.17-9.92) (11.11-NE) (9.53-10.19)  (9.82-11.92)  (16.97-17.47)
+Follow-up period, 13.25 9.57 9.00 11.54 6.00 6.84 9.86 14.15 15.03
+median (range), y  (0.01-18.06) (0.10-20.65)  0.02-9.00) 0.07-12.29) (0.18-6.00) —0.04-8.26)  0.08-17.75) (0.12-13.76) _(0.02-21.00)
+Length of walk 15 feet 8 feet 6m 8 feet 4m 6m 4m 4m 6m
+Year of baseline data 1989-90, 1987-1989 1997-1998 1995-1996 1998-2000 2000-2002 1988-1994 1996 1986-1988,
+collection 1992-93 1997
+Year of most recent 2007 2008 2007 2007 2006 2008 2006 2010 2008
+mortality follow-up
+Abbreviations: ABC, Aging and Body Composition; BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; CHS, Cardiovascular Health Study; Cl,
+confidence interval; EPESE, Established Populations for the Epidemiological Study of the Elderly; NA, not applicable; NE, not estimable due to insufficiently long follow-up and resulting
+in low mortality rate less than or close to 50%; NHANES III, Third National Health and Nutrition Examination Survey; PEP, Predicting Elderly Performance.
+©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 51
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+participants 65 years and older with mous variable reflecting difficulty inin- ordered 0.2-m/s gait speed categories.
+baseline gait speed data were included strumental ADIs based on report of To examine the influence of early
+in this study. Individual study goals, re- difficulty or dependence with shopping, deaths, we repeated analyses exclud-
+cruitment methods, and target popu- meal preparation, or heavy housework _ ing deaths within 1 year of gait speed
+lations have been published.*!*”? due toa health or physical problem. Par- measurement and moved up the 0 time
+ticipants were then classified into 1 of 3 for survival assessment (results were
+Measures groups; dependent in ADLs, difficulty similar; eTable 1 available at http://www
+Gait speed was calculated for each par-_ withinstrumentalADLs, orindependent. _.jama.com). Subgroup analyses were re-
+ticipant using distance in meters and Physical activity datawere collectedin6 _ peated in strata by age (65-74, 75-84,
+time in seconds. Allstudies usedinstruc- studies, but time framesanditems varied or =85 years), sex, race, self-reported
+tions to walk at usual pace and froma __ widely. Twostudies used the PhysicalAc- health status, smoking history, BMI,
+standing start. The walk distance varied _ tivity Scale for the Elderly (PASE).*” We functional status, use of mobility aids,
+from 8 ft to 6 m. For 8 ft, we converted —_ dichotomized the PASEscoreat 100.*We and hospitalization and by report of
+to 4-m gait speed by formula.* For6m, created operational definitions of other _ cancer, arthritis, diabetes, and heart dis-
+we created a conversion formula (4-m covariates that were reasonably consistent _ ease.” Results were pooled across sex
+speed =-0.0341+(6-m speed) X 0.9816 across studies. Covariates were identical — because no substantial sex differences
+with R’=0.93, based onacohortof6lin- forheight, weight, BMI, andsystolicblood _ existed in HRs within subgroup strata.
+dividuals with concurrent 4- and 6-m__ pressure. Hospitalization within the prior To obtain simple and clinically us-
+walks). For 15 feet (4.57m),”* speed was _ year was determined largely byself-report, able estimates of survival probability
+simply meters divided by time. Where andchronicconditions were byself-report based on sex, age, and gait speed, we fit
+available, data on fast gait speed (walkas _ of physician diagnosis, with heartdisease _ logistic regression models separately for
+fast as comfortably able’”) and the Short — encompassingangina, coronary artery dis- each sex with dichotomized 5- and 10-
+Physical Performance Battery were ob- _ ease, heart attack, and heart failure. year survival as the response variable and
+tained.”° Survival for each individual used age, gait speed, and their interaction as
+study monitoring methods, includingthe Statistical Analysis continuous predictors. To obtain esti-
+National Death Index and individual Descriptive statistics summarized par- mates of median survival (further life ex-
+study follow-up. Time from gait speed _ ticipant characteristics, follow-upperiod, _ pectancy), we fit Weibull accelerated fail-
+baseline to death was calculatedindays. and median survival from baseline. A ure-time models separately for each with
+Five-year survival status was confirmed  study-widea priori P value of .002 pro- _ time to death as the response variable,
+for more than 99% of participants. vides a conservative Bonferroni correc- and age, gait speed, and their interac-
+Additional variables include sex, age, _ tion accounting for at least 25 individual _ tion as continuous predictors. To com-
+race/ethnicity (white, black, Hispanic, statistical comparisons. Kaplan-Meier _ pare ability to predict survival among
+other, defined by participant), height (cen- _ product-limit survival curves graphically candidate variables and to determine
+timeters), weight (kilograms), body mass summarize lifetimes for each gaitspeed _ whether gait speed improves predictive
+index (BMI), calculated as weight in ki- category.” For graphical purposes, gait accuracy beyond other clinical mea-
+lograms divided by height in meters speed was categorized into 0.2-m/sin- sures, we fit logistic regression models
+squared (<25, 25-30, and >30),smok- crementswithlowerand upper extremes _ with dichotomized 5-year or 10-year sur-
+ing (never, past, current), use of mobil- being grouped as less than 0.4 m/sand___ vival as the response variable and vari-
+ityaids (none, cane, walker), systolicblood higher than 1.4 m/s. ous combinations of predictors as inde-
+pressure, self-reports of health (excellent Cox proportional hazards regres- pendent variables with both linear and
+or very good ys good, fair, or poor), hos- sion models were used to assess asso- squared terms for BMI. The area under
+pitalization in the past year (yes/no),and __ciations between gait speed and sur- the receiver operating characteristic
+physician-diagnosed medical conditions _ vival, adjusting for age at baseline, for (ROC) curve or C statistic was used as
+(cancer, arthritis, diabetes, and heartdis- | which hazard ratios (HRs) correspond a measure predictive ofaccuracy for mor-
+ease, all yes/no). Measures of self-reported to a 0.1-m/s difference in gait speed. _ tality. All study-specific statistical analy-
+functional status were not collectedinall The analyses were repeated adjusting _ ses were performed using SAS version 9.2
+studies and varied in content and form. for height, sex, race, BMI, smoking — (SAS Institute Inc, Cary, North Carolina).
+Wecreateda dichotomous variablereflect- history systolic blood pressure, dis- Age-adjusted HRs were pooled fromall
+ing dependence in basic activities ofdaily eases, prior hospitalization, and self- studies using standard meta-analytic sta-
+living (ADLs) based onreportofbeingun- reported heath. Proportionality of _ tistical methodology. Heterogeneity of
+able orneeding help fromanotherperson hazards was verified by examining HRsacrossstudies was assessed using the
+to perform any basic activity, including Schoenfeld residual plots.° Appropri- | Qand I’ statistics.*"*’ We used a random-
+eating, toileting, hygiene, transfer,bath- ateness of using gait speed as a con- _ effects model to appropriately pool the
+ing, and dressing. For individuals inde- _ tinuous predictor was confirmed by ob- HRs on the log scale while incorporating
+pendent in ADLs, we createdadichoto- serving linearity in Cox models with any heterogeneity among study estimates
+52 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+7 eee ener
+fae eee Figure 1. Age-Adjusted Hazard Ratio for Death per 0.1-m/s Higher Gait Speed
+terval (CI) and Pvalue.* Sensitivity of the No. of Total Sample
+. Deaths Size
+results was assessed by fitting a shared Cardiovascular Health 3851 5801 a
+frailty** (unrelated to the geriatric syn- Study" 1991
+drome frailty) model to individual partici- aera en he deriy22 1085 1 1g -
+pant data witha y-distributed frailty pa- jean, Aging, and Body Composition 348 3048 -
+rameter to account for study effect (results Study,""-1? 2009, 2005
+similar; not shown).**» Five- and 10-year ee enblodleal Stud otis Dea aE 972 1905 7
+pointwise survival rates from the Kaplan~  jnyecciere in Chianti” 2000 187 972 _
+Meier curves for each sex, age-group, and osteoporotic Fractures in Men,2° 2005 1073 5833 =
+gait speed category combination were Third National Health and Nutrition 2837 3958 5
+pooled across studies using a random- "32" Say 2004 oa
+effectsmodelon the complementarvlog. Pha Everly Performance, 2008 293 491 -
+5 On Lae COMP LATY 108- study of Osteoporotic Fractures,2° 1990 9612 10349 []
+log scale® and then appropriately inverted
+to obtain overall estimates of survival, as Pooled (random effects) |
+presented in the tables. We further used Poled Ghared frailty mode) a
+the standard random effects meta-analytic 07 1.0 20
+model to combine sex-specific regression Adjusted Hazard Ratio
+coefficients for age, gait speed, and their The size of the data markers is proportional to the square root of the number of participants. The error bars
+interaction from logistic regression mod- _ indicate 95% confidence intervals. The Q statistic for heterogeneity is 45.2 (P<.001; /?, 82.3). Pooled using
+els for 5- and 10-year survival and used random effects and shared frailty models.
+the overall estimates to construct clinically
+usable survival probability nomograms;  substantialnumbers ofAfricanAmerican tional status (independent, difficulty
+combine sex-specific regression coeffi- (n=3852) and Hispanic (n=2650) par- with instrumental ADLs, and depen-
+cients forage, gait speed, and theirinter- ticipants. The studies had a wide age dent in ADLs), the pooled HR per 0.1-
+action from accelerated failure timemod- range, including 1765 persons older m/s increase in gait speed for those who
+els for time to death and used the overall _ than 85 years. Similarly, there wasawide were independent was 0.92 (P=.005),
+estimates to construct clinically usablelife- range of gait speeds, from less than 0.4 __ for those with difficulty in instrumen-
+expectancy nomograms; and combine m/s (n=1247) to more than 1.4 m/s _ talactivities was also 0.92 (P<.001) but
+areas under ROC curves obtained from (n=1491). Study follow-up timeranged was 0.94 (P=.02) among those depen-
+9 studies. An increase of 0.025 inoverall from 6.0 to 21.0 years, with participants dent in ADLs. Because physical activ-
+area under ROC curve wasinterpretedas followed upforameanof12.2andame- __ ity measures were not sufficiently con-
+clinically relevant better accuracy.” Toap-  dianof 13.8years. There were 17 528total sistent across studies, effects could not
+propriately combine entire survival curves deaths across all studies, with rates vary- be pooled. The Osteoporotic Frac-
+across the 9 studies, we used the gener- ing from 18.40% to 91.87% inindividual _ tures in Men (MrOS)'° and Hispanic Es-
+alized least squares method forjointanaly- studies. Mortality rates appear to bere- _ tablished Populations for Epidemio-
+sis of survival curves.* Weusedarandom- _ lated to length of follow-up (Table 1). logic Studies of the Elderly (EPESE)*
+effects model with weights obtained by To assess consistency across studies, used the Physical Activity Scale for the
+inverse of the variance of the survivalfunc- _ risk of death was estimated per 0.1-m/s__ Elderly (PASE). When dichotomized at
+tionat the median lifetimes to pooltheme- _ higher gait speed. Age-adjusted HRs by a score of 100 into low and high activ-
+dian survival times foreachsex,age group, study ranged from 0.83 to 0.94 and all ity, MrOS had consistent and statisti-
+and gait speed category. We used Com- __ were significant (P<.001;FIGURE1).We _ cally significant HRs for low (HR, 0.85;
+prehensive Meta Analysis version 2.2 (Bio- also examined the survival HRs for gait 95% CI, 0.81-0.88) and high (HR, 0.87;
+stat Inc, Englewood, New Jersey) forall speed bystudyin subgroups, including 95% CI, 0.84-0.90) physical activity. In
+meta-analytic methods and Stata SE 8 _ age, sex, race/ethnicity, BMI, smoking the Hispanic EPESE, the HR for low
+(StataCorp, College Station, Texas) forfit- history, use of mobility aids, prior hos- _ physical activity was significant (0.92;
+ting shared frailty models. pitalization, self-reported health, func- 95% CI, 0.88-0.96) but the HR for
+—T——— _ tional status, and selected chronic dis- higher physical activity was not (0.99;
+RESULTS eases. There were consistentassociations 95% CI, 0.95-1.04).Pooled HRs for all
+The 9 participating studies contributed across studies, although given the large _ subgroups except functional status were
+a total of 34 485 participants (Table 1). sample sizes, Q statistics were oftensta- consistently in the range of 0.81 to 0.92
+Although moststudiesincludedmenand _ tistically significant (details availablein and all were significant (P<.002).
+women, 2 were sex specific."°? Of the eFigure 1A-M available at http://www The overall HR for survival per each
+total, 59.6% were women. There were .jama.com). For the 3 levels of func- 0.1 m/s faster gait speed was 0.88 (95%
+©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 53
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+Cl, 0.87-0.90; P<.001) when pooled sented with age as a continuous vari- _ tall participants, so results presented are
+across all studies using a random- able). Gait speed was associated with dif- _ not stratified by height. Stratification by
+effects meta-analytic statistical ap- ferences in the probability of survival at race/ethnicity (non-Hispanic white,
+proach (Figure 1 and eFigure 1 avail- all ages in both sexes, but was espe- black, Hispanic) suggested generally
+able at http:/Avww.jama.com). Further cially informative after age 75 years. In _ similar survival rates by gait speed among
+adjustment for sex, BMI, smoking sta- men, the probability of 5-year survival age and sex groups. Confidence inter-
+tus, systolic blood pressure, diseases, at age 85 ranged from 0.3 to 0.88 (eFig- _ vals were often wide. In some subsets of
+prior hospitalization, and self-reported ure 3A) and the probability of 10-year slow walkers of Hispanic descent, sur-
+health did not change the results (over- survival atage 75 years ranged from0.18 _ vival rates were 10% to 20% higher than
+all HR, 0.90; 95% CI, 0.89-0.91; to 0.86 (eFigure 4A). In women, the _ in other groups (eTable 2).
+P<.001). Using data from all studies, we probability of 5-year survival remained Wealso used our analyses to estimate
+created for each sex, 5- and 10-year sur- _ greater than 0.5 until advanced age (eFig- median years of remaining life based on
+vival tables (TABLE 2, data derived from ure 3B), but 10-year survival at age 75 sex, age, and gait speed. (FIGURE 2, pre-
+pooled Kaplan-Meier estimates evalu- yearsranged from 0.34 to 0.92andatage dicted survival data are based on an
+ated at 5 and 10 years, presentedin3 age 80 years from 0.22 to 0.86 (eFigure 4B). accelerated failure time model with
+groups) and graphs (eFigure 3 and eFig- Stratification by sex-specific median Weibull distribution, with age as a con-
+ure 4 predicted survival based on pooled _ height failed to show systematic differ- _ tinuous variable, and eTable 3, data are
+logistic regression coefficients, data pre- ences in survival rates between shortand derived from pooled Kaplan-Meier es-
+—————————————————————————————————————————
+Table 2. Five- and 10-Year Survival in Men and Women by Age and Gait Speed Group
+5-Year Survival (95% Cl), %? 10-Year Survival (95% Cl), %
+Men Women Men Women
+|
+Gait Speed, Age Age Age Age Age Age Age Age
+m/s 65-74 75-84 Age =85 65-74 75-84 Age =85 65-74 75-84 Age =85 65-74 75-84 Age =85
+Speed <0.4 68 (47-82) 60 (88-76) 25(15-36) 80(71-86) 69(58-78) 47 (40-54) 56 (23-80) 15(4-33)  8(8-18) 58(46-69) 35(24-47) 11 (6-19)
+=0.4t0 <0.6 77 (72-81) 57 (49-64) 31 (24-39) 88 (85-90) 75 (68-80) 61 (60-70) 58(41-64) 23(15-31)  6(8-11) 67(61-72) 42(86-48) 18 (9-30)
+20.6 to<0.8 79(74-83) 65(57-71) 49(85-61) 91 (89-93) 82(78-86) 74 (69-78) 57 (62-62) 31 (24-38) 11(3-28) 74(71-77) 52(46-57) 23 (18-28)
+S08 to <1.0 85 (82-88) 75 (69-79) 54(43-64) 93(91-95) 89(86-91) 73(69-83) 67 (62-71) 43(86-50) 14 (7-25) 80(75-83) 62(66-68) 39 (22-56)
+=1.0to<1.2 90(85-98) 83(76-87) 68(57-77) 96 (94-98) 91 (87-94) 61 (35-79) 69(63-74) 53(46-59) 50(6-84) 86 (62-89) 73(70-77) 33 (13-54)
+=1.2to<1.4 93 (86-96) 85(79-89) 62(46-74) 96(94-97) 93(87-96) 67(6-95) 75 (40-91) 51(16-78) NE 83 (38-96) 80 (72-86) NE
+Speed=1.4 95 (89-97) 93 (86-96) 91 (61-99) 97 (94-99) 95 (72-99) NE 93 (81-98) 50(6-84) NE 87 (71-95) 92(71-98) NE
+All gait 87 (82-91) 74 (65-81) 46 (39-53) 93(Q1-94) 84 (80-87) 64(58-70) 62(68-66) 36 (30-42) 10(8-13) 77 (71-82) 54 (46-60) 22 (15-29)
+speeds
+Abbreviations: Cl, confidence interval; NE, not estimable due to small number of participants in categories.
+Survival estimates are derived from individual study Kaplan-Meier survival estimates that are pooled across studies using random-effects models with inverse variance weighting.
+eee eeeeeeee eee e eee eeee eee ey
+Figure 2. Predicted Median Life Expectancy by Age and Gait Speed
+Men Women
+Gait
+45 45> speed, nv/s
+40 sof
+Gait aN
+354 speed, m/s 35 14 NS
+18, tat hye
+wes
+> 30 “ & 904 a2 NSS
+z als € 1 OS
+= fh 2 ‘. N,
+= 25 3S = 25 1 SS
+5 Wa ea 5 os | eaear
+a 12], ( Gal Es
+S 20 SS S 20 anemia ene
+5 DRESS 3 oe SISSIES
+2 15) thse 2 164 {Rese SSS
+1g See Ne an. SS SSS Se
+10 ee Se 10 Sa Se SSS
+ar SSS See en SSS PSS SSS
+0 0
+65 70 75 80 86 90 95 65 70 75 80 85 90 96
+Age, y Age, y
+A PDF of enlarged graphs is available at http://www.jama.com.
+54 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+timates evaluated at 5 and 10 yearsin (Figure 2; a PDF of enlarged graphs is To compare the 5-year survival pre-
+3 age groups.) In the pooled sample, available at http:/Avww.jama.com). Gait — dictive ability between demographics and
+median survival in years for the age speeds of 1.0 m/s or higher consis- _ gait speed vs other combinations of vari-
+groups 65 through 74 years was 12.6 tently demonstrated survival that was _ ables, we used areas under the ROC curve
+for men and 16.8 for women; for 75 longer than expected by age and sex _(Csstatistics) in logistic regression mod-
+through 84 years, 7.9 formenand10.5 alone. In this older adult population, els for individual studies and pooled
+for women; and for 85 years or older, _ the relationship of gait speed with re-__ across studies (TABLE 3). Gait speed
+4.6 for men and 6.4 years for women maining years of life was consistent added substantially” to age and sex in
+(eTable 3 available at http:/Awww.jama across age groups, but the absolute 7 of the 9 studies and in the pooled analy-
+.com). Predicted years of remaining life number of expected remaining years of _ sis. Cstatistics forage, sex, and gait speed
+for each sex and age increased as gait life was larger at younger ages. For 70- _ were greater than those forage, sex, and
+speed increased, with a gait speed of year-old men, life expectancy ranged _ chronic diseases in 4 of 9 studies, ap-
+about 0.8 m/s at the median lifeexpec- from 7 to 23 yearsand for women, from _ proximately equivalent in 5 studies and
+tancy at most ages for both sexes 10 to 30 years. inferior in no studies. C statistics forage,
+LE
+Table 3. Predictive Accuracy for 5- and 10-Year Survival by Individual Study and Pooled Data Presented as Area Under the Receiver
+Operating Characteristic Curves
+
+C Statistic (95% Confidence Interval)
+a
+Osteoporotic Study of
+Outcome and Health, Hispanic Invecciare Fractures Osteoporotic
+Predictors CHS® EPESE"® ABC'S'7 EPESE® in Chianti"® inMen'® NHANES III? PEP”! Fractures” Pooled
+5-Year Mortality
+Age, sex 0.705 0.685 0.606 0.694 0.797 0.700 0.710 0.674 0.646 0.690
+(0.685-0.725) (0.658-0.712) (0.575-0.637) (0.662-0.725) (0.754-0.841) (0.677-0.723) (0.691-0.729) (0.616-0.732) (0.625-0.667) (0.662-0.717)
+
+Age, sex, 0.711 0.692 0.616 0.703 0.793 0.704 0.719 0.694 0.662 0.698.
+
+diseases (0.692-0.731) (0.665-0.719) (0.586-0.647) (0.671-0.725) (0.747-0.838) (0.681-0.727) (0.700-0.737) (0.737-0.750) (0.639-0.684) (0.673-0.723)
+
+Age, sex, 0.736 0.702 0.650 0.728 0.808 0.728 0.744 0.728 0.665 0.719
+
+diseases, (0.717- (0.676- (0.620- (0.698- (0.765- (0.706- (0.727- (0.674- (0.643- (0.693-
+BMI, 0.755)>.¢ 0.728) 0.680). 0.755)2.¢ 0.850) 0.749) 0.762)2¢ 0.781)P.¢ 0.686) 0.745)
+systolic
+BP, prior
+——hespitalieations
+Age, sex, use NA NA NA 0.735 0.803 NA 0.738 0.720 NA 0.747
+of mobility (0.705-0.765) (0.756-0.851) (0.720-0.757) (0.663-0.776) (0.720-0.774)
+aid, functional
+eat C="
+Age, sex, gait 0.734 0.711 0.642 0.710 0.803 0.729 0.737 0.718 0.682 0.717
+speed (0.716- (0.685- (0.612 (0.679-0.741) (0.760- (0.707- (0.719- (0.664- (0.662. (0.694-0.740)
+0.753)¢ 0.737)° 0.673)P¢ (0.846) 0.751) 0.755) 0.771)¢ 0.703) 0.741
+(0.706-0.775)4
+10-Year Mortality
+Age, sex 0.721 0.725 NA 0.700 NA NA 0.741 0.674 0.689 0.712
+(0.707-0.734) (0.704-0.746) (0.677-0.724) (0.726-0.757) (0.627-0.721) (0.676-0.703) (0.692-0.731)
+
+Age, sex, 0.728 0.738 NA 0.709 NA NA 0.749 0.698 0.706 0.724
+
+diseases (0.715-0.742) (0.716-0.759) (0.685-0.733) (0.734-0.764) (0.652-0.744) (0.692-0.719) (0.707-0.740)
+
+Age, sex, 0.745 0.749 NA 0.733 NA NA 0.768 0.723 0.709 0.739
+
+diseases, (0.732- (0.729- (0.710- (0.754- (0.678- (0.696- (0.719-
+BMI, systolic 0.759) 0.770) 0.756) 0.783) 0.727)be 0.722) 0.759)
+BP, prior
+hospitalization
+Age, sex, NA NA NA 0.722 NA NA 0.761 0.702 NA 0.732
+functional (0.699-0.746) (0.746-0.776) (0.655-0.748) (0.698-0.767)
+status,
+walking aid
+use®
+Age, sex, gait 0.740 0.753 NA 0.709 NA NA 0.766 0.723 0.719 0.737
+speed (0.727 (0.733- (0.685- (0.751- (0.679- (0.706- (0.718-0.755)>:
+-0.754) 0.774) 0.732) 0.780)" 0.768)>.¢ 0.731)" 0.734
+(0.692-0.777)4
+
+Abbreviations: ABC, Aging and Body Composition; BMI, body mass index, calculated as weight in kilograms divided by height in meters squared; BP, blood pressure; CHS, Cardiovas-
+cular Health Study; Cl, confidence interval; EPESE, Established Populations for the Epidemiological Study of the Elderly; NA, not applicable; NHANES Ill, Third National Health and
+Nutrition Examination Survey; PEP, Predicting Elderly Performance.
+
+Functional status was operationally defined for 3 levels: (1) activities of daily living (ADLs) dependence is defined as report of needing help from another person or being unable to perform
+any of 6 basic ADLs, 2) Instrumental ADL difficulty is defined as report of no ADL dependence but difficulty performing shopping, meal preparation, or heavy housework, and (3) In-
+dependent is defined as no report of ADL dependence or instrumental ADL difficulty.
+
+bValue is the pooled estimate of the area under the receiver operator characteristic curve for age, sex, and gait speed for the studies that were used in the comparisons of gait speed with
+use of mobility aids and functional status. Four studies were included in the estimates of 5 y mortality and three in the estimates of 10 y mortality. Values are reported as the C statistic
+representing area under the receiver operator characteristic curve; values that differ by 0.025 or more are considered substantially different.”
+
+C statistic is greater than for age and sex alone.
+
+dC statistic is greater than for age, sex, and diseases.
+
+©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 55
+
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+sex, and gait speed were approximately _ vecciare in Chianti (gait speed, 0.727; _ lished area under the curve range, 0.66-
+equivalent to those for age, sex, chronic 95% CI, 0.678-0.776; SPPB, 0.738; 95% — 0.82°! vs this study, 0.717 and 0.737).
+diseases, BMI, systolic blood pressure, CI, 0.690-0.735); Predicting Elderly Per- The strengths of this study are the very
+and prior hospitalization in all9 stud- formance study’ (gait speed, 0.667; 95% — largesample of individual participant data
+iesandin the pooledanalysis. Therewere — CI, 0.610-0.724; SPPB, 0.691; 95% Cl, from multiple diverse populations of
+4 studies that had sufficiently consistent 0.637-0.744); and worse than SPPB in community-dwelling elders who were fol-
+data on functional status to create 3 cat- _ the Established Populations for the Epi- lowed up for many years and use of con-
+egories: dependent in ADLs, difficulty  demiological Study of the Elderly” (gait _ sistent measures of performance and out-
+with instrumental ADLs, andindepen- speed, 0.638; 95% CI, 0.610-0.777; come. We provide survival estimates for
+dent. For these studies, gait speed, age, SPPB, 0.663; 95% CI, 0.636-0.691). a broad range of gait speeds and calcu-
+and sex yielded a C statistic (0.741) that }~————_____________1—1— late absolute rates and median years of
+was not significantly different (P=.78) COMMENT survival. Compared with prior studies that
+from age, sex, mobility aids, and func- Gait speed, age, and sex may offer the cli-__ were too small to assess potential effect
+tional status (P=.75; Table 3). nician tools for assessing expected sur- modification by age, sex, race/ethnicity,
+For 10-year survival, 6 studies had suf- _ vival to contribute to tailoring goals of _ and other subgroups, we were able to
+ficient follow-up time to perform many care in older adults. The accuracy of pre-_ assess multiple subgroup effects with sub-
+of the analyses (Table 3). Gait speed dictions based on these 3 factors ap- _ stantial power. This study has the limi-
+added predictive ability to age and sex _ pears to be approximately similar to more _ tations of observational research; it can-
+in 4 of 6 studies and in the pooled analy- complex models involving multiple other _ not establish causal relationships and is
+sis. C statistics for age, sex, and gaitspeed _ health-related factors, or forage, sex, use vulnerable to various forms of healthy
+were not significantly different from C of mobility aids, and functional status. volunteer bias. The participating study
+statistics with all the other factors forany Gait speed might help refine survival es- _ cohorts, while large and diverse, do not
+study nor for the pooled analysis. Three _ timates in clinical practice or research be-_ represent the universe of possible data.
+studies had sufficiently consistent data _ cause it is simple and informative. Oursurvival estimates should be validated
+on functional status at baseline to allow Why would gait speed predictsurvival? in additional data sets. Only 1 of the 9
+pooling. Gait speed, age, andsex yielded Walking requiresenergy,movementcon- _ studies was based in clinical practice,’
+a Cstatistic (0.734) that was not signifi- trol,andsupportand placesdemandson and advanced dementia is rare in popu-
+cantly different from age, sex, mobility multiple organ systems, including the _ lations who are competent to consent for
+aids, and functional status (0.732; heart, lungs, circulatory, nervous, and _ research. However, median years of sur-
+(P=.95; Table 3). musculoskeletal systems. Slowing gaitmay _ vival in this study resemble estimates for
+In addition, we used C statistics to as- _reflectboth damaged systemsandahigh- US adults across the sex and age range
+sess the ability of usual gait speed to pre-__ energy cost of walking."* Gait speed —_assessed.©* We were unable to assess
+dict survival compared with other physi- could be considered a simple and acces- _ the association of physical activity with
+cal performance measures, such as fast _ siblesummaryindicator of vitality because __ survival in pooled analyses because mea-
+gait speed and the Short Physical Per- _ itintegratesknownand unrecognizeddis- sures of activity were highly variable
+formance Battery (SPPB), a brief mea- _ turbancesinmultipleorgansystems,many across studies. Also, participants in these
+sure that includes walk speed, chair rise of which affect survival. In addition, de- studies had no prior knowledge about the
+ability, and balance. We assessed usual creasing mobility may induce a vicious meaning of walking speed. In clinical use,
+vs fast gait speed in the single study with _ cycle of reduced physical activity andde- _ participants might walk differently if they
+both measures (Invecciare in Chianti’® conditioning that has a direct effect on _ are aware of the implications of the re-
+study: usual, 0.727 [95% CI, 0.678- health and survival.° sults. Although this study provides infor-
+0.776]; fast, 0.684 [95% CI, 0.630- The association between gait speed mation onsurvival, further workis needed
+0.739]), suggesting that fast walks did and survival is known.°’°"°° Prior _ to examine associations of other impor-
+not have an advantage in survival pre- analyses used single cohorts and pre- _ tant pooled outcomes such as disability
+diction over usual-paced walks. Gait sented results as relative rather thanab- and health care use and to examine ef-
+speed was superior to the SPPB in the _ solute risk, as done herein. Similarly, fects in populations more completely
+Hispanic Established Populations forthe mortality prediction models have been _ based in clinical practice.
+Epidemiological Study of the Elderly® developed.*°°”°° Some models use self- Because gait speed can be assessed by
+(gait speed, 0.617; 95% CI, 0.585- reported information but others alsoin- _ nonprofessional staff using a 4-m walk-
+0.649; SPPB, 0.574; 95% CI, 0.539- clude physiological or performance data, way and a stopwatch,” it is relatively
+0.649); was equivalent in the following for a total of 4 to more than 10 predic- simple to measure compared with many
+3 studies: Health, Aging, and Body Com- _ tive factors. Only a few models assess _ medical assessments. Nevertheless, meth-
+position (ABC) study and ABC'® (gait _ overall predictive capacity using C sta- _ odological issues suchas distance and ver-
+speed, 0.579; 95% CI, 0.548-0.610; tistics; the reported values are in the _ balinstructionsremain.® Self-reportis
+SPPB, 0.560; 95% CI, 0.528-0.592);In- range found in the present study (pub- _ an alternative to gait speed for reflecting
+56 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+function. However, significant challenges _ mortality, perhaps those with gait speeds Nests wissen Kutchevshy. Harris, Newman, Cauley,
+. . . errucci, Gurainik,
+remain in the use of self-report as well, slower than0.6 mys. In these patients, fur-¢tatistical analysis: Studenski, Perera, Patel, Inzitari
+such as choice of items and reliability, ther examinationis targeted at potentially Chandler, Guralnik. ; ;
+some of which can beaddressed byemerg- modifiable risks to health and survival. A Cane i Maat ectud eek : jpnanlet Ae ae
+ing techniques such as computer adap- recommended evaluation and manage- — Guralnik.
+
+i . = Fae 7 Administrative, technical, or material support:
+tive testing based on item. response ment of slow walking includes cardiopul. studénski, Patel’ Rosa, Faullenér, Cawthory Nevit,
+theory.” The results found herein sug- monary, neurologicaland musculoskel- Visser, Badinelli, Harris, Newman, Cauley
+
+hat gait speed appears to be espe- _ etal systems.°"* Third, gait speed might —_ Study supervision: Perera, Nevitt, Newman.
+Best v gall =P d Pps areto be ig cia systems a 2S Pp aL 8 A Conflict of Interest Disclosures: All authors have com-
+cially informative in older persons who promote communication. Primary clini- pleted and submitted the ICME Form for Disclosure
+report either no functional limitations or cians might characterizean olderadultas of Toten Conflicts of Interest, Dr Studensh re-
+“66. an . * . ported receiving institutional grant support, travel ex-
+only difficulty with instrumental ADIs _ likely to be in poor health and function Senses, and consultancy fees from Merck; consult-
+and may be less helpful for older adults _ because the gait speed is 0.5 m/s. In re- __lancy fees from Novartis and GTX; and royalties from
+who already report dependenceinbasic search manuscripts, baseline gait speed ‘ wing ah Nona grt supnort Com More Resa
+ADLs. The research studies analyzed might help to characterize the overall Lab. Dr Inzitari reported receiving insitutional grant
+herein used trained staff to measure gait health of older research participants. sl haba nate tai he aH
+speed. Staffin clinical settings wouldneed Fourth, gait speed might be monitored ported eenine cabaultaney fees from Amgen and
+initial training and may produce more _ overtime, withadeclineindicatinganew —_ Merck. Dr Cauley reported receiving consultancy fees
+Al * F Z and institutional grant support from Novartis. Drs Pa-
+variable results. Long-distance walkshave _ health problem that requires evaluation. {¢1, Faulkner, Barett-Connor, Nevitt, Visser, Bandel-
+become accepted in some medical fields _ Fifth, gaitspeed might be used to stratify _lini, Harris, Newman, Ferrucci, and Gurlanik reported
+5 zi HI zi < no disclosures.
+and may contribute information beyond risks from surgery or chemotherapy. Fi- Funding/Support: Additional support for the pooled
+short walks.°*°* However, the longer dis- nally, medical and behavioral interven- _ analyses was provided by grants AGO23641, AGO24827
+tance and time to perform the test may _ tions might be assessed for their effecton 2nd the Intramural Research Program, National Inst
+sae: tye 4 s f ie . tute on Aging, NIH NIA Professional Services Contract
+limit feasibility in many clinicalsettings. gait speed in clinical trials. Such true ex- Health and Human Services number 11200800292P.
+Although the sample size of very slow _ periments could then evaluate causal path- ha sucess receled grant support from Merck to per-
+. . : form this work.
+walkers was small, our datasuggest that ways to determine whetherinterventions _ Role of the Sponsor: The role of Merck and Co in the de-
+there may be asubpopulation who walk _ thatimprove gait speed lead toimprove- _signand conduct of the study; collection, management,
+lowlyh ‘vettorl iod: nif J health andl . analysis, and interpretation of the data; and preparation,
+very slowly butsurvive lorlong periods. — ments in function, health, and longevity. review, or approval of the manuscripts as follows: Merck
+It would be valuable to further charac- The data provided herein are in- _ andCoreviewedand approved an initial proposal to con-
+terize this subgroup. tended to aid clinicians, investigators, and Se iets ri aioe ame ea
+Although the gait speed-survival re- health system planners who seek simple _ reviewed the initial manuscript draft.
+lationship seems continuous across the _ indicators of health and survival in older Gnlneony Matera IDE ot enter f ead «
+entire range, cut points may help inter- adults. Gait speed has potential to be eee vnilable at http://www ama.com. a
+pretation. Several authors have proposed implemented in practice, using a stop
+that gait speeds faster than 1.0 m/ssug- watch and a 4-m course. Froma stand- REFERENCES
+gest healthier aging while gait speeds ing start, individuals are instructed tO 4, Reuben DB. Medical care for the final years of life:
+slower than 0.6 m/s increase the likeli- walk at their usual pace, as if they were “When you're 83, it’s not going to be 20 years." JAMA.
+ion 72! Oth- F i 2009;302(24):2686-2694.
+hood of poor health and function. Othe walking down the street, and given NO 3" Lubitz J, Cai L, kramarow E, Lentzner H. Health,
+ers propose one cutoff around 0.8 m/s. further encouragement or instructions. life expectancy, and health care spending among the
+z e : H o elderly. N Eng/ J Med. 2003;349(11):1048-1055.
+Inour data, predicted life expectancy at The data in this article can beusedtohelp Fry. LP. Kronmal RA, Newman AB, etal. Risk fac-
+the median forageandsexoccursatabout interpret the results. Gait speed may be tors for 5-year mortality in older adults. JAMA. 1998;
+. i ictlifeex- i ible indi 279(8):585-592.
+0.8 m/s; faster gait speeds predict life ex- asimple and accessible indicator of the 4. Lee 9), Lindquist k, Segal MR, Covinsky KE. De-
+pectancy beyond the median. Perhapsa _ health of the older person. velopment and validation of a prognostic index for
+gaitspeed faster than 1.0 m/ssuggestsbet- _quthor Contributions: Dr Studenski had full access to ial morrallty in older adults. JAMA, 2006;295
+ter thanaverage lifeexpectancy and above __ all of the data in the study and takes responsibility for 5" Schonberg MA, Davis RB, McCarthy EP, Marcantonio
+z “1 the integrity of the data and the accuracy of the data ER Index t dict 5-\ear mortality of .
+1.2 m/s suggests exceptional life expec- — gnalysic Index to predict 5-year mortality of community
+as F ysis: + dwelling adults aged 65 and older using data from the
+tancy, butadditional research will be nec- Study concept and design: Studenski, Faulkner, National Health Interview Survey.J Gen Intern Med. 2009;
+« « H : Chandler, Nevitt, Kritchevsky, Ferrucci, Guralnik. 24(10):1115-1122. ‘
+essary to determine this relationship. . Acquisition of data: Studenski, Faulkner, Nevitt, Visser, 6, reat M, Kritchevsky SB, Newman AB, et al; Health,
+How might gait speed be used clini- Kritchevsky, Badinelli, Harris, Newman, Cauley, Aging and Body Composition Study. Added value of
+cally? First, gait speed might help iden- Ferrucci, Guralnik. . | physical performance measures in predicting adverse
+
+. . 2 3 Analysis and interpretation of data: Studenski, Perera, health-related events. J Am Geriatr Soc. 2009;
+tify older adults with a high probability Patel, Rosano, Faulkner, Inzitari, Brach, Chandler, — 57(2):251-259.
+of living for 5 or 10 more years, who may —Cawthon, Barrett-Connor, Nevitt, Visser, Harris, 7, Cesari M, Kritchevsky SB, Penninx BW, et al. Prog-
+5 “ f a & Newman, Cauley, Guralnik. nostic value of usual gait speed in well-functioning
+
+€ appropriate targets lor preventive M- —_pyafting of the manuscript: Studenski, Perera, Inzitari, older people. J Am Geriatr Soc. 2005;53(10):1675-
+terventions that require years for benefit. Badboell 1680.
+
+. 3 . Critical revision of the manuscript for important in- 8. Markides KS, Stroup-Benham C, Black S, Satis S,
+Second, gaitspeed might be used toiden- tellectual content: Studenski, Perera, Patel, Rosano, — Perkowski L, Ostir G. The health of Mexican Ameri-
+tify older adults with increased risk of early Faulkner, Brach, Chandler, Cawthon, Barrett-Connor, _ can elderly: Selected findings from the Hispanic EPESE.
+©2011 American Medical Association. All rights reserved. (Reprinted) JAMA, January 5, 2011—Vol 305, No.1 57
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+
+GAIT SPEED AND SURVIVAL IN OLDER ADULTS
+In: Wykle ML, Ford A, ed. Serving Minority Elders in 27. Washburn RA, Smith KW, Jette AM, Janney CA. in nondiabetic older men. BMC Geriatr. 2009;
+the 21st Century. New York, NY: Springer; 1999: The Physical Activity Scale for the Elderly (PASE): de- 9:49.
+72-90. velopment and evaluation. J Clin Epidemiol. 1993; 50. Nebes RD, Pollock BG, Halligan EM, Kirshner MA,
+9. OstirGV, Kuo YF, BergesIM, MarkidesKS, Ottenbacher  46(2):153-162. Houck PR. Serum anticholinergic activity and motor
+KJ. Measures of lower body function and risk of mortal- 28. Martin FC, Hart D, Spector T, Doyle DV, Harari _ performance in elderly persons. J Gerontol A Biol Sci
+ity over 7 years of follow-up. Am J Epidemiol. 2007; _D. Fear of falling limiting activity in young-old women — Med Sci. 2007;62(1):83-85.
+166(5):599-605. is associated with reduced functional mobility rather 51. Rosano C, Aizenstein HJ, Studenski S, Newman
+10. Rolland Y, Lauwers-Cances V, Cesari M, VellasB, than psychological factors. Age Ageing. 2005;34 —_AB. A regions-of-interest volumetric analysis of mo-
+Pahor M, Grandjean H. Physical performance measures — (3):281-287. bility limitations in community-dwelling older adults.
+as predictors of mortality in acohortofcommunity-dwelling 29. Lawless JF. Statistical Models and Methods for J Gerontol A Biol Sci Med Sci. 2007;62(9):1048-
+older French women. Eur J Epidemiol. 2006;21(2): Lifetime Data. New York, NY: Wiley; 2002. 1055.
+113-122. 30. Thernau TM, Grambsch PM. Modeling Survival 52. Volpato S, Blaum C, Resnick H, Ferrucci L, Fried
+411. Rosano C, Newman AB, Katz R, Hirsch CH, Kuller Data: Extending the Cox Model. New York, NY: LP, Guralnik JM; Women's Health and Aging Study.
+LH. Association between lower digit symbol substi- Springer; 2000. Comorbidities and impairments explaining the asso-
+tution test score and slower gait and greater risk of | 31. Cochran WG. The combination of estimates from _ciation between diabetes and lower extremity disability.
+mortality and of developing incident disability in well- different experiments. Biometrics. 1954;10(1): Diabetes Care. 2002;25(4):678-683.
+functioning older adults. J Am Geriatr Soc. 2008; 101-129. 53. Jones LM, Waters DL, Legge M. Walking speed
+56(9):1618-1625. 32. Higgins JP, Thompson SG. Quantifying hetero- _at self-selected exercise pace is lower but energy cost
+12. Woo J, Ho SC, YuAL. Walking speed and stride geneity in a meta-analysis. Stat Med. 2002;21 _ higher in older versus younger women. J Phys Act
+length predicts 36 months dependency, mortality, and (11):1539-1558. Health. 2009;6(3):327-332.
+institutionalization in Chinese aged 70 and older.JAm 33. DerSimonian R, Laird N. Meta-analysis in clinical 54. Mian OS, Thom JM, Ardigo LP, Narici MV, Minetti
+Geriatr Soc. 1999;47(10):1257-1260. trials. Control Clin Trials. 1986;7(3):177-188. AE. Metabolic cost, mechanical work, and efficiency
+413. Abellan van Kan G, Rolland Y, Andrieu S, et al. 34. Klein JP, Moeschberger M. Survival Analysis: Tech- during walking in young and older men. Acta Physiol
+Gait speed at usual pace as a predictor of adverse out- —_ niques for Censored and Truncated Data. New York, — (Oxf). 2006;186(2):127-139.
+comes in community-dwelling older people. J Nutr NY: Springer; 1997. 55. Cesari M, Onder G, Zamboni V, et al. Physical func-
+Health Aging. 2009;13(10):881-889. 35. Katsahian S, Latouche A, Mary JY, Chevret S, tion and self-rated health status as predictors of
+14. Hall WJ. Update in geriatrics. Ann Intern Med. Porcher R. Practical methodology of meta-analysis of — mortality. BMC Geriatr. 2008;8:34.
+2006;145(7):538-543. individual patient data using a survival outcome. Con- 56. Markides KS, Black SA, Ostir GV, Angel RJ, Guralnik
+15. Lavsky-Shulan M, Wallace RB, Kohout FJ, Lemke — temp Clin Trials. 2008;29(2):220-230. JM, Lichtenstein M. Lower body function and mor-
+JH, Morris MC, Smith IM. Prevalence and functional 36. Kalbfleisch JD, Prentice RL. The Statistical Analy- _ tality in Mexican American elderly people. / Gerontol
+correlates of low back pain in the elderly: the lowa __ sis of Failure Time Data. New York, NY: Wiley; 1980. A Biol Sci Med Sci. 2001;56(4):M243-M247.
+65+ Rural Health Study. J Am Geriatr Soc. 1985; 37. Apfel CC, Kranke P, Greim CA, Roewer N. What 57. Inouye SK, Peduzzi PN, Robison JT, Hughes JS,
+33(1):23-28. can be expected from risk scores for predicting post- — Horwitz RI, Concato J. Importance of functional mea-
+16. Visser M, Deeg DJ, Lips P, Harris TB, BouterLM. —_ operative nausea and vomiting? Br J Anaesth. 2001; _ sures in predicting mortality among older hospital-
+Skeletal muscle mass and muscle strength in relation  86(6):822-827. ized patients. JAMA. 1998;279(15):1187-1193.
+to lower-extremity performance in older men and 38. Dear KB. Iterative generalized least squares for 58. Keeler E, Guralnik JM, Tian H, Wallace RB, Reuben
+women. J Am Geriatr Soc. 2000;48(4):381-386. meta-analysis of survival data at multiple times. | DB. The impact of functional status on life expec-
+17. Visser M, Goodpaster BH, Kritchevsky SB, et al. Biometrics. 1994;50(4):989-1002. tancy in older persons. J Gerontol A Biol Sci Med Sci.
+Muscle mass, muscle strength, and muscle fat infil- | 39. Atkinson HH, Rosano C, Simonsick EM, et al; 2010;65(7):727-733.
+tration as predictors of incident mobility limitations in Health ABC study. Cognitive function, gaitspeed de- 59. Mazzaglia G, Roti L, Corsini G, et al. Screening
+well-functioning older persons. J Gerontol! A Biol Sci__ cline, and comorbidities. J Geronto! A Biol Sci Med _ of older community-dwelling people at risk for death
+Med. 2005;60(3):324-333. Sci. 2007;62(8):844-850. and hospitalization: the Assistenza Socio-Sanitaria in
+418. Ferrucci L, Bandinelli S, Benvenuti E, et al. Sub- 40. Baezner H, Blahak C, Poggesi A, etal; LADIS Study _Italia project. J Am Geriatr Soc. 2007;55(12):1955-
+systems contributing to the decline in ability to walk. Group. Association of gait and balance disorders with 1960.
+J Am Geriatr Soc. 2000;48(12):1618-1625. age-related white matter changes. Neurology. 2008; 60. Ostbye T, Steenhuis R, Wolfson C, Walton R, Hill
+19. Orwoll E, Blank JB, Barrett-Connor E, et al. De- — 70(12):935-942. G. Predictors of five-year mortality in older Canadians.
+sign and baseline characteristics of the osteoporotic 41. Buchman AS, Boyle PA, Leurgans SE, EvansDA, J Am Geriatr Soc. 1999;47(10):1249-1254.
+fractures in men (MrOS) study. Contemp Clin Trials. | Bennett DA. Pulmonary function, muscle strength, and 61. Keeler E, Guralnik JM, Tian H, Wallace RB, Reuben
+2005;26(5):569-585. incident mobility disability in elders. Proc Am Thorac DB. The impact of functional status on life expec-
+20. Plan and operation of the Third National Health Soc. 2009;6(7):581-587. tancy in older persons. J Gerontol A Biol Sci Med Sci.
+and Nutrition Examination Survey, 1988-94. Hyatts- 42. Callisaya ML, Blizzard L, Schmidt MD, McGinley 2010;65(7):727-733.
+ville, MD: National Center for Health Statistics, US Dept JL, Lord SR, Srikanth VK. A population-based study 62. United States Life Tables, 2010. http://www.cdc
+of Health and Human Services Services; 2004. PHS _ of sensorimotor factors affecting gait in older people. —.gov/nchs/data/nvsr/nvsr58/nvsr_21.pdf). Accessed
+94-1308. Age Ageing. 2009;38(3):290-295. November 29, 2010.
+21. Studenski S, Perera S, Wallace D, et al. Physical 43. Cham R, Studenski SA, PereraS, Bohnen NI. Stria- 63. Graham JE, Ostir GV, Fisher SR, Ottenbacher KJ.
+performance measures in the clinical setting. JAm Geri- _ tal dopaminergic denervation and gait in healthy adults. _ Assessing walking speed in clinical research. J Eval Clin
+atr Soc. 2003;51(3):314-322. Exp Brain Res. 2008;185(3):391-398. Pract. 2008;14(4):552-562.
+22. Cummings SR, Black DM, Nevitt MC, et al; The 44. Cuoco A, Callahan DM, Sayers S, Frontera WR, 64. GrahamJE, Ostir GV, Kuo YF, Fisher SR, Ottenbacher
+Study of Osteoporotic Fractures Research Group. Ap- _—_ Bean J, Fielding RA. Impact of muscle power and __ KJ. Relationship between test methodology and mean
+pendicular bone density and age predict hip fracture _ force on gait speed in disabled older men and women. _ velocity in timed walk tests: a review. Arch Phys Med
+in women. JAMA. 1990;263(5):665-668. J Gerontol A Biol Sci Med Sci. 2004;59(11):1200- — Rehabil. 2008;89(5):865-872.
+23. Fried LP, Borhani NO, Enright P, et al. The Car- 1206. 65. Gill TM. Assessment of function and disability in
+diovascular Health Study. Ann Epidemiol. 1991; 45. Fitzpatrick AL, Buchanan CK, Nahin RL, et al; longitudinal studies. J Am Geriatr Soc. 2010;58
+1(3):263-276. Ginkgo Evaluation of Memory (GEM) Study — (suppl 2):S308-S312.
+24. Guralnik JM, Ferrucci L, Pieper CF, et al. Lower _ Investigators. Associations of gait speed and othermea- | 66. Newman AB, Simonsick EM, Naydeck BL, et al.
+extremity function and subsequent disability: consis- sures of physical function with cognition in ahealthy — Association of long-distance corridor walk perfor-
+tency across studies, predictive models, and value of cohort of elderly persons. J Gerontol A Biol Sci Med —_ mance with mortality, cardiovascular disease, mobil-
+gait speed alone compared with the short physical per- Sci. 2007;62(11):1244-1251. ity limitation, and disability. JAMA. 2006;295(17):
+formance battery. J Gerontol! A Biol Sci Med Sci.2000; 46. Fried LF, Lee JS, Shlipak M, et al. Chronickidney 2018-2026.
+55(4):M221-M231. disease and functional limitation in older people.J Am 67. Solway S, Brooks D, Lacasse Y, Thomas S. A
+25. Bohannon RW. Comfortable and maximum walk- Geriatr Soc. 2006;54(5):750-756. qualitative systematic overview of the measurement
+ing speed of adults aged 20-79 years: reference val- 47. Holtzer R, Verghese J, Xue X, Lipton RB. Cogni- _ properties of functional walk tests used in the
+ues and determinants. Age Ageing. 1997;26(1): __ tive processes related to gait velocity. Neuropsychology. _ cardiorespiratory domain. Chest. 2001;119(1):
+15-19, 2006;20(2):215-223. 256-270.
+26. Guralnik JM, Simonsick EM, Ferrucci L, et al. A 48. Kerrigan DC, Lee LW, Collins JJ, Riley PO, Lipsitz 68. Simonsick EM, Newman AB, Visser M, et al; Health,
+short physical performance battery assessing lower ex- LA. Reduced hip extension during walking. Arch Phys — Aging and Body Composition Study. Mobility limita-
+tremity function: association with self-reported dis- | Med Rehabil. 2001;82(1):26-30. tion in self-described well-functioning older adults.
+ability and prediction of mortality and nursing home 49. Kuo CK, Lin LY, Yu YH, Wu KH, Kuo HK. Inverse J Gerontol! A Biol Sci Med Sci. 2008;63(8):841-
+admission. J Gerontol. 1994;49(2):M85-M94. association between insulin resistance and gait speed 847.
+58 JAMA, January 5, 2011—Vol 305, No. 1 (Reprinted) ©2011 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 10/27/2024
+

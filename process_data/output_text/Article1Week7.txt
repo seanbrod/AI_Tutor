@@ -1,0 +1,1751 @@
+obesity reviews doi: 10.111 1/obr.12444
+Pediatric Obesity/Etiology
+Sleep quality and obesity in young subjects: a
+meta-analysis
+Y. Fatima," S. A. R. Doi®*° and A. A. Mamun'!
+‘School of Public Health, University of Summary
+Queensland, Brisbane, Queensland, Australia, Objectives: To assess the effect of poor sleep quality on Overweight/Obesity
+*Mount Isa Centre for Rural and Remote Health, (Ow/Ob) in young subjects, and explore if this association is independent of sleep
+Mount Isa, James Cook University, duration.
+Queensland, Australia, Research School of Methods: Pubmed, EMBASE, and MEDLINE databases were searched for pa-
+Population Health, Australian National pers on sleep quality and overweight/obesity, focusing on children, adolescents,
+University, Canberra, ACT, Australia, “College and young adults. Studies based on subjects with medical/psychological problems
+of Medicine, Qatar University, Doha, Qatar, and or published in languages other than English were excluded. Quality effects model
+°School of Agricultural, Computing, and was used to pool studies for meta-analysis.
+Environmental Sciences, University of Results: Findings from the systematic review suggest a link between poor sleep
+Southern, Toowoomba, Queensland, Australia quality and Ow/Ob in young subjects. Pooled estimate (from 26,553 subjects) sug-
+gest a role of inadequate sleep (including both short duration and poor quality) in
+Received 17 February 2016; revised 30 May Ow/Ob (OR: 1.27 95% Cl: 1.05-1.53). Sub-group-analyses suggest considerably
+2016; accepted 31 May 2016 higher odds of Ow/Ob (OR=1.46, 95% CI: 1.24-1.72) in young subjects with
+poor sleep quality (independent of duration).
+Address for Correspondence: Dr. Abdullah Al Conclusions: Poor sleep quality seems to be associated with Ow/Ob, and some
+Mamun, School of Public Health, University of studies indicate this association to be independent of duration. Therefore, consider-
+Queensland, Herston Road, Herston, QLD ing only sleep duration might not help in disentangling sleep-obesity association.
+4006, Australia. However, this review is mostly composed of cross-sectional studies. Therefore, a
+E-mail: a.mamun@uq.edu.au causal link or the stability of the sleep quality and Ow/Ob association could not
+be established.
+Keywords: adolescents, children, inadequate sleep, obesity, overweight, sleep qual-
+ity, young adults.
+Abbreviations: Ow/Ob, Overweight and Obesity; SWS, slow-wave sleep; BMI,
+Body Mass Index; NIH, National Institutes of Health; MEVORECH, Methodolog-
+ical Evaluation of Observational Research; PSQI, Pittsburgh Sleep Quality Index;
+OR, Odds Ratio; QE, Quality Effects;
+obesity reviews (2016) 17, 1154-1166
+Introduction of sleep (3). Therefore, inadequate sleep can broadly be de-
+fined as either sleep of insufficient quantity, i.e., short dura-
+Results from numerous epidemiological and experimental tion, or of poor quality or both. The extant literature on the
+studies have established the role of inadequate sleep in the sleep-Ow/Ob association makes use of short duration as the
+aetiopathogenesis of Ow/Ob (1,2). However, sleep inade- benchmark for sleep inadequacy and does not provide much
+quacy has been defined inconsistently across many of these information on the role of sleep quality in Ow/Ob.
+studies . Overall satisfaction with the sleep experience The lack of epidemiological evidence on sleep quality-
+requires both an optimal duration as well as a good quality obesity association can be partly attributed to the notion,
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016
+
+a
+obesity reviews Sleep quality and obesity Y. Fatima et al. 1155 Fa
+Ee eee 2
+
+g
+strengthened by some experimental studies, that suppres- to review the existing evidence for the association between zg
+
+: . . . : . £
+sion of slow-wave sleep (SWS), a marker of sleep quality, sleep quality and Ow/Ob in young subjects and see this as- Fi
+has implications for daytime sleepiness and cognitive per- sociation, if present, is independent of sleep duration. Z
+formance, but not much for glucose kinetics per se (4). 5
+Nonetheless, some clinical and epidemiological studies pro- Methods i
+vide evidence that poor sleep characterised by sleep frag- 3
+mentation are associated with altered glucose metabolism, . &
+. . a Literature search 8
+independent of sleep duration (5,6). Another clinical study 2
+
+g
+demonstrated poor sleep has cardiovascular repercussions A systematic search using the keywords: sleep problems, 5
+for young adults where selective suppression of SWS, with- sleep disturbances, sleep quality, sleep efficiency, and sleep =
+out changing sleep duration, resulted in decreased insulin latency was conducted to identify articles available on :
+sensitivity without an adequate compensatory increase in Pubmed, EMBASE, and MEDLINE databases (Fig. 1). A B
+
+g
+insulin release(7). Therefore, it seems that not only sleep detailed search algorithm for PubMed is given in the supple- g
+deprivation, i.e., short sleep duration, but also sleep frag- mentary material. All English language articles, focusing on g
+mentation, i.e., sleep quality have potential influence on children, adolescents, and young adults, published until No- £
+the biochemical pathways related to glucose metabolism. vember 2015 were included. Along with this, reference lists &
+
+. A ‘ ‘ i Pee °
+For young subjects, where extensive use of electronic me- of relevant articles were checked for any missing study. Fs
+dia devices, academic and professional demands, and life- J
+style changes is reported to made them more vulnerable F . ae &
+: . Inclusion/exclusion criteria s
+
+for both shortened sleep duration and poor sleep quality(8), Fy
+a broader approach considering both quality and quantity Original research studies with sleep issues, i.e., sleep prob- i
+aspects is essential when attempting to investigate the lems, sleep disturbances, poor quality, poor efficiency, or 3
+sleep-obesity relationship. longer latency as the exposure were included. Inclusion e
+S
+
+We therefore need to critically evaluate all available epi- was restricted to children, adolescents or young adults as &
+demiological evidence to see if the existing data on the role subjects, and continuous or a categorical body mass index ¢
+of sleep quality in Ow/Ob will support continued research (BMI) as the outcome. Conference abstracts were included &
+in future studies. Unlike sleep duration where some studies if the study was a part of a bigger study and methodological E
+“ “ : : 5
+
+have critically evaluated the available evidence(9-11), there features of the study could be retrieved. S
+
+3
+is a lack of studies appraising the evidence for sleep quality Studies were excluded if they were published in languages S
+
+Ei
+and Ow/Ob association. Therefore, the aim of this study is other than English, were based solely on overweight or =
+
+3
+
+g
+
+MEDLINE (n=439) PUBMED (n= 335 EMBASE (n=987) E
+
+Sleep Problems= 62, Sleep quality= 148, || Sleep Problems= 57, Sleep Quality= 105, || Sleep problems=154, Sleep quality= 388, z
+
+Sleep Disturbances= 87, Sleep Sleep Disturbance= $8, Sleep Sleep Disturbances= 162, Sleep é
+
+Difficulties=10, Difficulties=9, Sleep Efficiency=63 Difficulties=20, 2
+
+a Sleep Efficiency= 76 Sleep Latency=43 Sleep Efficiency= 146, g
+= Sleep Latency= 56 Sleep Lateney=117 g
+= £
+
+g
+
+Number of records screened through database Number of records screened 2
+search (n=1761) through manual search (n=10) 2
+
+2
+
+=
+
+g
+
+Records remaining after removal of duplicates (1-862) Duplicate removal a
+(n= 909) Ed
+
+é
+
+=
+
+2
+
+(0-86) a
+
+°
+
+Full-text articles excluded (n=68) 4
+
+= F ; ‘* Subjects with intellectual disability. &
+Studies included in systematic review 5 Aecseisia betwee cae te BRA 3
+nels BMI trajectoriesand inadequate &
+
+sleep. 8
+
+# Age range not applicable for the 4
+
+target ave groups. ES
+
+Studies included in meta-analyses s
+(9) =
+
+3
+
+:
+Figure 1 Flow diagram illustrating the selection process for articles included in the systematic review and meta-analysis. 9
+
+2
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 :
+
+5
+
+RIGHTS LIN Kd ;
+
+&
+
+1156 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+obese subjects, or subjects with medical/psychological prob- Since inadequate sleep due to insufficient duration has al- z
+lems. Additionally, studies focusing solely on sleep duration ready been explored in some recent systematic reviews and :
+and case reports, letters to the editor were also excluded. meta-analysis (9,10), studies focusing solely on sleep dura- z
+tion (category 1 above) were not included in this review. 2
+
+Data extraction and reporting i
+Two reviewers extracted relevant information from each Stalbies| analysis e
+study, e.g. subject characteristics, study design, exposure Studies were included in the meta-analysis if the exposure 2
+and outcome assessment, covariates and results (YF, AM) variable was: inadequate sleep due to poor quality or inad- z
+and a dataset was created. The study was conducted in ac- equate sleep due to both short duration and poor quality. e
+cordance with the Meta-analysis (MOOSE) statement for The outcome variable was BMI category, and the reported :
+reporting systematic reviews and meta-analysis(12) . measure of association was either the regression coefficient E
+(B) or the odds ratio (OR). Results from the studies with 2
+
+continuous BMI results were not pooled, as the outcome g
+Quality assessment i . og ; &
+variable was not measured in a similar fashion across the g
+
+The quality of the studies included in the systematic review studies, e.g., some studies reported raw BMI, whereas i
+was assessed through a quality assessment tool derived from others reported BMI z-scores. To adjust for bias pooled esti- 2
+the guidelines of Methodological Evaluation of Observa- mates were calculated using the quality effects (QE) model g
+tional Research (MEVORECH)-Observational Studies of (15,16). Heterogeneity was determined to be present when z
+Risk Factors of Chronic Diseases and the quality assessment the value of 1* was greater than zero, if I? was > 50% or if A
+tool for observational cohort and cross-sectional studies de- the Q-statistic was significant at a P<0.10. (17). P is a 2
+veloped by National Institutes of Health (NIH) (13,14). The transformation of the Q statistic that quantifies the excess 3
+validity of this instrument is comparable to other available heterogeneity beyond random error across studies. The ro- g
+tools, as attention is given to biases related to design, selec- bustness of meta-analyses was explored by conducting sen- &
+tion, information, confounding, and analysis. All studies sitivity analyses. All analyses were done using MetaXL ¢
+were individually scored for safeguards against potential version 5.0 (15). &
+bias in their protocols. These points were then summed into 3
+a score that had a possible maximum of 17 points (Table S- &
+F ii 3 Results 3
+
+1). While an attempt has been made to consider important S
+safeguards in the five areas mentioned above, the choice is Study characteristics :
+indeed indicative only, and, of course, superior to no assess- Ea
+ment at all. Thus, a study with a maximum score will not be A total of 18 studies discussed the association between sleep =
+devoid of bias, but will have the highest rank (in quality) quality and BMI in children, adolescents, and young adults Fi
+amongst the list of studies. Disagreements regarding quality (Table 1) (18-35). Among these, three were longitudinal Hi
+items were discussed and resolved through consensus. studies (20,32,33), one was case-control (30), and the re- a
+maining were cross-sectional. The majority of studies were j
+
+conducted in the USA (n=6), followed by Canada (n=3), z
+
+Classification of inadequate sleep the UK(n=2), and the remaining were each from Brazil, Z
+There was considerable variation across the studies in defin- Portugal, Norway, Taiwan, KSA, Belgium, and Malaysia. A
+dl ' ; The study participants ages ranged from <2years to Zz
+ing inadequate sleep. Review of the approaches used in all 34 d they f di ' ‘ d i
+studies to defining inadequate sleep suggested that a broad ak akc, ACR es ies ear g
+classification should be applied. In this review, the following Elling backstoulnids: Moskor. the, studies explared the elfect é
+ay: se of only sleep quality (18,19,21-23,25-28,32-35) while a z
+
+approach-was utilized torcategorize:inadequate:slesp. few examined the combined effects of both quantity and :
+1. Inadequate sleep predominantly measured as insuffi- quality of sleep on Ow/Ob outcome (29-31). 0
+cient duration, e.g., short duration of sleep. Though most of the studies used validated questionnaires i
+
+2. Inadequate sleep predominantly measured as poor to explore sleep quality, some relied on parent or self- :
+quality irrespective of sleep duration. These include reports (21,28,32). The objective methods for sleep assess- :
+problems associated with sleep initiation (e.g., higher ment were rarely used, with just three studies reporting the 3
+latency) and maintenance (e.g., sleep disturbances, use of actigraphy (20,23,35). |
+recurrent awakenings, poor efficiency) For assessing the Ow/Ob outcome, BMI was mostly com- z
+
+3. Inadequate sleep as an overall measurement of sleep puted from height and weight, measured by trained persons, A
+including both duration and quality, e.g., using the except four studies, where self-reported height and weight i
+Pittsburgh Sleep Quality Index (PSQI). was used (22,26,29,31). Some of the studies also used 3
+
+6
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity 3
+RIGHTS LIN Kd z
+&
+
+&
+obesity reviews Sleep quality and obesity Y. Fatima et al. 1157 g
+a 3
+< ve S Hl
+= e 7 = Z
+5 5 g > & 8 gec8sSee Be 88 Ss g :
+3 £2928 F x 8 SSESF585 SERRE KBR 3 z
+ag Beebo Pel = a, S Bn 2FES ORK oe 2 Sg gers &
+ih | 3 DE oO se «8 Fa OSeEZr 2ans @si7T8-e /8 Fa
+vied oy 2@e c is} > ex D Ex POZO x fo} ec c 2
+SoS b°S8RR © £LF FH By SHEBVOELO SHES QGB Ggreesgs|s §
+e,?2Pagsksa c cso 8 anes) OF gDEBatELEVR oe BO8ZRY QS LSB 38 Ea
+O/sSFSS8tF SLOG eZ™ 2 ZLRESCCGE SSH LPoagolsr gsgeosexes lL 2
+B/E SEIS eS ser 8Segae el gassoPge ZrseesZgessVess x
+| =U 8X S8ES5R ae 7 Sa Bl SEP Zazeys sca A
+@\Scset SQ SSeseesaSsoOsessoeseB sPes sc Gece hye Z
+szl\fe22nne 2 SP SLZECZR°GHORGH ELAS SOa5E 6X HeLa 2
+S\/e"SeSOnG PEVsESeESr gsr LC esgsegn eo SZ 2EOQL RS EO ES
+2/2255 288 See bee SSS esses eR SO e eh Peel PF adns ge 5
+3 2@esgeoy, 2#F£ 8S SEER ROOST SL SEB 22O 2.082368 =
+a\easoggu Seo ee Eee SOR SG BES BSS Beg Bel EC SHA BSS g
+e/eeexegsee SLZBRDSS2S5qG PERSE SOSGS LOOSE LSE BOSSES BS
+Haadc=tood0 DEserosoOLonnslutdveroantvnottdaseevst0O0z2Z 38 2
+2
+& Bae ee .# 2
+8 B 38s = 228 ~ =
+4 cs =
+ele 2 ESS8 S28 oO 2. Bs
+a P= an S ooo 2 isl xs =
+a|o = — 6 5 = 40 Ered fo.) B
+- Bo} oO 2 =
+care = feo 2358 € ES
+_ eS g Loge cps sd o €
+ff) g|3 a su5S Soo. zB § Q
+3 ale a Sees elas Ss @ z
+& 38 g eases 52°02 x oS 2
+= ss 2 SS ES gt Sas z
+pe ty 5 os5 0 OF sc 828 3
+6 5s) 5 ~€2q Qe Sz ~ 2g is
+® co cI 62% 0 2tPoet ogo g
+2 8s = & DE S>E5E O35 z
+oO os z= Oo tala HROOdaeASGd tos 2.
+M3 =
+o ; ~
+‘D é|o Ss ae c¢ Bod g
+= 2 = oy s 8 ny 6 ezZzs s
+ra 2/5 e 8 z22 »8 Ss E22 z
+3 g\/s 2265 [SS 65 S33 S85 2
+$ 8/25 £¢.0 S83 338 ~8 335 &
+2 2/38 Zae ef oe 2 2p. $
+a oe § fu 3 = Asc g
+25 $e ge EE 35 O85 2 5
+2 58 B68 20 55 25,2588 5 3
+S 4 3) 258 S& 89 ig © e
+$s = o SHALAA EA 5
+S| 2/8 § 5209 8 22 Setssa N &
+c = =5 5 os 2 ire} oO =
+= 6|/2=9 zoe oa @ & 86 52a, S EB
+f=] ao got ao Oot OoOYesois o 3
+5 a
+2 s
+Py 2 3
+2 2 ce 6 8
+gs Al @ 5 2S Bo =
+eg e|o Z 6 35 £5382 OE 2
+8 ai-c.s 2 GE = GOB oF a
+9 ec oO 2c B S 302 x Oo =
+® Slsot Boa a5 Va & aon & os Me
+= Bla 2 Q § & uD 68o9 og B
+= 6/& So oo G S952 egee Re
+(za e153 30 OF cag an iC os 4
+a) e/° sas Eo g ge SBSE 205029 ea a
+& | 8|8oe08 B& 8 gf 8,28 S555 % 33 >
+2 | 5 OS BRESS 5 5
+=| € © fey 5S o0€ 2B 5 5 oo Ee
+$| ®)e5 588 zs gE seas ergee 23 :
+3 5286 5s 3 =8 $883 SeF33 $5 cd
+e Sees 652 oo OE ® 5 2HXFLDH of z
+g GHaod aos HO HtHG HABTHH ns 3
+2 > =
+Es $| ¢ 2 2 Es 2 :
+8 3| § g g o e ge Z
+is} og o o 2 3° © Ea
+& a i = ox iS H a &
+ES Oly 2 2S 2 > of ES 2
+BING r r a 2 5 o 3
+3 3 3} ; +9 ee
+2 Pig = = © =$ bs :
+3 |e g
+<c |Re j
+Ss £N NK © °Q a oO &
+s | © & x & e 3 A
+s a D . = 5 &
+s |d*le 5 es : s :
+3 2
+& i
+© z
+R= 3 e o 3
+o e/2 8 Sw § 2 g
+ie} 2 s 2 fe}
+2| 8/35 _>2 fs be £, #5 8 Z
+| g\e83c5R°5 §88 8 38 ge Es E
+g gje2zsaeice LEB gs TA 2a EBo 9
+& 3 Ea. 650% Go a 2 %. sues Fy
+a S Bsaaqgldo oce os $8 2 Es 2 ®@ oe @
+8 SiSeresce 88s se 8 28 fo 8 :
+S/S CSvpeEeozgs 396 ose 39 feos z
+a SOU? = 3 Pe oe ae G Go & ae 2
+oO OlselrTeoseteoaea 2s EO oO oo xXGOo é
+3 Zoncagano>rarod =o ace in Hoa =
+2 _ FI
+is] 2
+‘a mel c _ _ _ _ _ eS
+£ |e Bios — is] 3 S rs a g
+2 S@|/2e2 oe = c ra c [3 A
+6 |G 8|o°8 ge $2 82 a2 a2 é
+2 |®@sje58 $3 8% 838 3% 8% g
+9 safe 5 8B 68 68 6B 6B z
+a 2
+8 _ i
+= 2 fs is} ij FS
+6 = i) RQ 2 Gs
+> B\< < = [a S g
+& a) a B 5 & S < 4
+E o|5 4 ig [S) [e) =] 2
+E -
+B g io B Z
+oe % (as = pa a z
+» > nao s Pa 2 Ss 3
+we |e =e] 2 a3 Ba GH Des oH 3
+@ = Oh GO oO a ee cw oo Ff
+5s |e S8\es ga ge or eX eS &
+® |2S/58 & = 28 38 £8 £8 z
+Flf@solat ao 22 a2 2zwv tit 9
+4
+g
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 2
+g
+=
+RIGHTS LIN Kd ;
+
+1158 Sle i
+ep quality and i ‘
+obesity revie 3
+WS z
+Sis 8
+2) 0 § 4 al sos ran Boys, 35 B
+w/o ER aztoe o &Q oo Ge = 2a oa
+BlPESQ FEB ve 2 ge S8szF , BX. 8 8 5] in Ey
+S/o e 5 ~865 V5 aco HB0o8 -- Oo Q oF a. G a) 2
+ZFiSeegeea sla S35 ee oo 8 SEH Bo ek ¢ 8,88 © & 2
+Blseocesuesae? o = Bees eR EL ees ££ Bu FS ps S z
+Qieesose sass oso SESE see gases anise h2i B% | § E
+gles sols? 2 ee om: SSP Sosses ky geese Rue So e =
+wT SeVve Cet es Eco eeseg cheese ais hesags £3 S g
+z(Qsg2226242 SES gees agegseeecassegie €¢190 Z
+a = ie © ag = a Q © 22) BOs o £ £0 SS
+els22x5558355585 SS EESISEES CLEELCELER oS a
+Z/ecEi sia SsQauz SS8estgessv i, F283 g S8si ER 2
+B/E SSoF aes b as ges peso gsees sites blige GE .
+glgsaT i eseseles es Bess esessastas sg ske 5D g
+e)SKn nOoEZesvEeBZs es5e8o2aee Sx eseSggsa ee g
+E4e4S5 25R845 32 $&s Bgee aes ec teste eesS as i
+o 2 > 5.2 © os Serta £o ?% fay ;
+Gsoas SES TS SSESS SEES TSS z
+4 ‘ x wy 5 ESS os vis eEsogssSeguss 2g
+a 2 ¢€ ad a aan &
+(<j Fok Ba fe} nL 8
+$0 8 oas0°°2 8 .££ 8 5
+S e § 52% gs S
+ef/SB £ g Seer sseescs g
+S\fe 9 & B8Sz PSs 38 se £
+eo/%o5 50 2 oPSSESE2S = =
+£/=-s52£8 gs i= S$ ga egg? x & e
+e/gage ® Ex ~Pgtreele SE =
+S/S 25 Sag SSuSseo5ss 85 3
+2i5e5 088 ee ee 9 2 g
+o 5 oOo ELS So fas o 8 =
+0/22 aco SZSeegee2s 8 Be 2
+<25ee3 weSGsegergs a :
+SRR ER RE Gear ese sss 55 3
+3 8 3
+SUSB6adnS 288eaeggsn So a
+Tosdsse oof ¢ se Ey
+Lovotad a i
+C} = £ ¢
+3 Zz =o g
+H 8 3 S
+> 2250 = 8 2
+g 25a co So 2 s
+me] 2 2
+5 § 238 Zz 3 5
+8 8 Sec 2 o o 2
+2 a a32e ge _¢ i] &
+Fi N selfs x OD > 9
+rJ Ri 228 xs 2a 8 = g
+S _ SEES gsges oo 2
+a z ssse ceEE og SI
+a538 33338 zo EF
+aS " =oS oo a
+£e s € . Oo ows 63 3
+Ge wea o @ e @ 2) S &
+S\53 g 2 35 Ses 3 g
+it LB Fo > g
+2/54 5 £283 @ os a ey s A
+8/98 2 Go 9 8 S500v eit 5 > 3
+B/8 8 g Baa SBE5SRS 38 ap =
+QD oS Pee he Qe = oC =
+a) gr = & a Sax SS, a8 3a 88 o2 iy
+a)< 68 2298 $238 489 86 g= 2
+Glos Bo co oe be ShRLe ga 85 e
+2/cG fo ® Bl in} £ ® i=l
+a\52 Se fe Pee B2Rg8 Bes >é 2s i
+£8 oO SBEZES EeePaeezs 2a Be 2
+eed oa Sa 898 Setsseasgs gs 3° B
+Ea) 8g 8e525 Sessgecls 2° 85 =
+oe BB Bean 8 feecoesoag 5 eg 9
+ao ae see seguoege 8 aa*® a6 2
+2 fae QeaegELVezes G2 26 =
+= S oa iy
+3 o g ors 2 a
+a a 2 rat Z
+ry -§ S a 2 ow $
+a ye Ss KR 4H S £ 2
+< Lo G = ~ © es 3
+SoA f o @ > SE z
+Sag Pe) 0 Es 5 z
+@ a8 28 ge i
+e8 ae ga Es
+N 2 = z
+eo ro = A fa
+o © = g
+a ue ° 2
+a z
+a x |
+i Ey
+R 3 FA
+Osc 2 3
+£/ 2 @ 3
+5/2 o 2
+6/2 2 pe => 2 2 g
+@)ax §3 oe o ® © Pd
+~|25 2 ge § 2 « = 3
+2/5 a) ag ao & 368 2
+s/s 2 = Qa is) oO 2
+as 32 ze > — > =z
+a)2 ao Soe Es fe) cD 2
+ge 33 Soe £3 2 oz 3
+S Fates) ooo a 2 BS 2 g
+- o 35 a Z
+DOF ® 2 Ss ° 2
+c to s3 52 EB
+3D as oF E
+23 z rl =e é
+o = may Pa
+as gs 25 S s g 3
+38 3 28 2 is] s FS
+5 3 Eg 3 33 2 3 2
+> om) £3 32 2 =
+= £ om) 83 fo) FH
+3 < Oa 5 9
+Ss 3 < 5 % ES) 8
+Cc mel
+2 (2) (2 2 @ z
+6 = fa & | a
+Q; Oo © < g
+- ao g g
+- “ _ 2
+oo oO ~ a = g
+2|sk > oe Pa Sy ge z
+a | os oo 3 38 z
+GI 32 omc co os B= Z
+rFli<¢c o os £@ eS 2
+Oo 6&8 ES gt s 4
+& ag = &> 3
+3 DT a 3
+= ea ex FA
+Ss BR E
+Obesity R: &
+eviews o
+'s 17, 1154-1166, November 2016 g
+RIGH a
+TSLINKD F
+g
+© 2016 World Obesity F
+3
+é
+5
+g
+
+obesity reviews :
+le " e a 3
+Sleep quality and obesity Y. Fatimaetal. 1159 $
+STN 8
+= iy ‘ S 3 i
+8 c » Se 8 5 i
+Sis. a 68 & 8S ee <« 3 B s2 z& 8 2 |8 :
+Biss «+ ec Eos BESTS 5 ¢ 8 £0 &EeE PAS e|8 z
+Oise 0n 2s «6 CES ESS £ Sox #22 >S5afP aie 5 = E
+o/S2e5 Sea Fg8RG 3 828 PSE a sSoeEesirier® §_8 |8 &
+E\2¢o a2e¢l25%9 sl ego Sr B8Rese BS-8F SSc8R F535 /E i
+g/eessgcebeade elon tse akeis Pee shee 2eSes 22218 ;
+ES 2s8oese 3252 ; SES oSREL =A 82s FS &
+FQ8 Dd B 286 o N 12vf&soseso 92> 2 S255 57 g 2
+BO SSECRSSaoBESRZOBRIE SESoa5sescetsge gs 528 2
+a|eg2o 7 OTe ® e22e8liga®geesetcoeesagt 33 a :
+epee SSS ed Pee et si gces est fees ise ess csags as :
+elf PESCe SES oe AE es Fee es aResolege2s 7 xs LOR ses i
+2esre ees baog estes te eSS age BES ce ag ec stoF ies gee i
+= 5 ae e2e25 See GOB SD 5 35 3 OO : 6 :
+B/SeSuercse ress Ta PST esse er gee eee e oes eas 3
+3 eSe5H2S5 R392 = 28 SS8SZelSErs sees ge s ;
+of aD se pe = B 3 5 2
+B\2SSTSSASES Se eSssE suse ges 282588s585n8 ae 2
+8 SSP PZogs Yui SPR2RS5 3358 5h Sx 28 3
+NE See oe ee ee ee ee ee
+GoSEHTT&©CoOALT7TOFP GE E
+- Rel € t
+oO i= =
+ry os 2 a e
+¢ >8E« 5 § 2b E
+o|2 FPSes 3 = g3 5
+$/8c 68 SH o 2D & 3 :
+2/26 ~5 08 8 3 af S
+s/s £38 S Ba BE :
+E28 5528 - Se tae :
+5 as 8 ee Bo
+Bes See - ae 532 :
+8) so cog eg $ B55 go 2
+6\25 5 eB B an eee :
+ze $sE2> 8 Sg ges i
+5 5 78583 8 age ae :
+2 o Ox 5 as sie :
+35 2e x o 5 8% §
+gees @ io) - ox
+ae 23ans 2 PE 8 238 |
+ze 263 LBs E
+, <8 8 5
+2 a3 ;
+3 gD Bg z
+£ 2 DTD Qo #
+329 S 8 P
+$ Boece 2s z
+2 # 25388 . 9
+§ 8 3 sSS6 52 :
+2 2 8 BE2 5 28 P
+3 N = sqe* a i
+= s sise a5 :
+= = sigs s59 3
+; o2oa als =
+oo .
+22s roy = F
+o Ze 2 SB 3
+5 eee 2 ee > Oo > 8
+& -~» BOG 2 aoe 7
+Fs = a7 2
+3 SESS Pa Ze 8 f
+& 38558 2 gas age :
+= B3868 5s gas 232 é
+: 8 Ss 8 SOS cs
+; Be go8 5 S33 & GD =
+8o Ss £3 ae as i
+a Ss 25 2 : sae :
+Leags —e§ s23¢ gs3 g
+: yicae Es S5ge §s3 i
+2 $2$e5 se ge2e Se5 Z
+a EGO ao 2555 388 i
+esfoe 3558 se8 B
+Be saa ae see? Bo E
+B292Vo9 3 8 g528 833 i
+HROnHHnHSG a8 BS656 Bes 2
+. HTOG nee FE}
+° 3
+3 g § [
+5 é > oO & F
+b) a 8 “ z i
+o te a
+2 ul a * :
+: = é é a
+qo - i
+&é = ° = :
+5 : s g ;
+e 8 e
+g
+° g_ 38
+9 > f S) 2
+5 2 ag 228 2 9 =e :
+a Ege &
+5) & 88 g ge ge :
+gic 2 =8 S23 g 8 : 3
+ge wae £ g S [a] gocp 2
+s| 35 SSa8 2s § 220 23
+2/52 CR8on 6 82 £283 gaa :
+8\2 3 so28 $55 B58 528 :
+ial Zoos S350 ges 2 ES i
+Smtoauw B £ BS 586 :
+azo 5B 586 S
+S 3 686 Es
+> § £ E :
+32 © 5 :
+34 ok s is} B55 2
+ag Ze ge 3 Zn i
+ogo ast 3 8 :
+58 5 8 : g2 8 :
+88 8 2a :
+aka
+a & - i
+3 : S Ee z
+3 @ :
+E 8 5 g : 3 :
+E 6 8 3 3
+é 5 S 8 i
+=) = a i
+38
+8 7 zB
+- $- 3 6 : : i
+2 /|2% of = : a ‘
+2/25 E Sa nS ae 3
+‘o 2b 65 238 35 oS :
+= 0 B
+F lao x oS id a 2g :
+a, & as zs $= :
+cy 26 o
+g
+3
+© 2016 World Obesity i
+; g
+Obesity Reviews 17, 1154-1166, November 2016 Z
+RIGHTS LINK
+Ee
+Ed
+
+&
+1160 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+OT 3
+y
+= 855.8 Sees s g e é Fi
+55 ¥ =~ "7 BSE os 5.USs as x8 i zg
+a Bees e8 eS SPSL 2St5o SCO,8f B2eB_ 5 i £
+Se ooeSlnS FESTG2EF5x ay 8 ofasa. 8 = EE
+Bsc PESs27SG SShozragsS st ecksseezsess ge |S 2
+Da cw@ = oll 2 ge ¢€ oO = Oe ese EC = oR oi =
+
+Sis gV®oe F aS BSS = SFSHMCoOr2A*SSES SER © 2
+SB2eEsaageta ofs cL 6 = Ox < =
+Siesaossgse i SO9S =o GF SPPSTFYENSS aesg 7 Ke} Ej
+OS 28 Fas Fosamd FPSSOCBLSA GH SOr FOS HRSES FS 1 = a
+gle> s<8583°VSOz®@ eetree r= gsseiyaewesBBQEG- Fa o g
+2 o£ og 2E ae) Go su PS is) z
+o|/s e282 825a90 2 sb s2zagsea tas rga Se 0 298¢e |3 3
+SisoF=SsEs tT 5S SreGSZFESHeFHSc SQL GSR RL-~HRBE |e z
+Slee PeuteBeloeSe EVs Bes eat -CaHs Bes rei ssa |= Ee
+ZlohS st LCL oGsHheeEwsoslLOoVssertoH sa SHafoggzgrcssgs ile 3
+a ce A a & 2
+ajisSseZFZs8rta;, FeerocoesegrisaaeagQgexesnvreERuSSesq5 zs tsxo ls gz
+
+B SZs od eT 7Teggrltsesaes 69 !' 545 2G5G38 S
+9). 99S ZERi Lo O9ZSa OX § OSC HHESHELBHASHNB= |B 3
+SCiS2G85T8FGeaGHHSLHGOOLHESFSEOLSOOZS6EBAOASTO I§ 2
+is) g
+z ee =
+g o s
+o< 3 :
+5 S
+Z 5288 g =
+of Rees 3B 5
+FA £3 gees 5 g
+2 g 2 §5n28 $s By
+& »Bo 9 OC a @ B
+= 6SE& GBRE Fy 2 =
+
+iy 8fe S285 o 5
+> S628 2078 Bo f= g
+© oO Qc a if
+o 7 es S2G&o = 2 o 5
+o See Elece esl o = e
+BS PE%S2 a2 oe 2
+oFS ES RSE 63 as £
+DSF SSE5E Do Os z
+too Ons tT @ tT Oot g.
+2 £ aS) z
+2 . Q a
+on o § Fs
+= = 5
+= aes g ZsEz 28 E 3 2
+G 2B = £586 se § 2 &
+> 23 De SoSo85 25 3S
+$6 g 932532 oe) is
+2 5 20 2 ee 5 2a 5
+52 =e rePEcss a 8
+9 Bo £56 55S°8 og 5
+3 ge 6ze SSGCoveEs Bea EG
+3 rape) -g 8 Se2z95 2 55 3
+6 $8 Sas Sseoece 38 3
+one Hoos mo26226 32 3
+35 3
+3 Q = 8
+> Qe > =o 8
+7 B 26 i) a8 5
+9 | 2 32 28 32 23 g
+s|38 33 85 33 a) é
+$ 38 2Os 3 § £8 Es
+
+8 26 Sag 2S 3s?
+=) oO o Sas 3 ®@? a
+eie 2a EOs Bq 2H FI
+$|5 & B25 & 3 omit z
+| Be >2 gets >2 g z
+g|s3 22 e2es 2° g2 5
+
+oo : Oo oS
+2\22 $6 e839 ER) 32 y
+@o/f 6 o 5 2. Eom Sy BS ee 58 z
+aq o8* estes aa* gs 8
+& 9 $35 56265 o 3S 3 a
+© ® OED 2§& 50 DED 8 Fy
+Go onrf £G8v oat Re 3
+zz 5
+s © e 2 Sa ES
+A i G g Qx &
+2 Q ca zg
+fo) Ss g gS = E
++ ® 3 oe 2
+ts A _ £0. es 2
+< 2 = 2 & 3 =
+Ze i
+o [—ane) =
+2 6 2 z
+a0 Se 3
+EN ~ 0 ge 2
+go & Ea Ee) OF &
+) = o 6 os g
+Bs E
+£3 :
+Ro] ke] oN 2
+o 3 e Q N g
+ry S G — Se 4
+5 2 ow eo a cD =
+3 e ., ges 6g &
+° Gn & 6 we , g
+3 eae 50% os 2
+a 233 6s 2D» 82 q
+. S23 £8 259 5 9 o
+
+2 5
+iy ves 88 £ao 2 z
+a 228 95 § 88 25 2
+nos > an © 0 £5 Ey
+a 2
+me Z _ _ aed ;
+zo a a a 32 3
+23 25 2s 2 6 es 4
+os $3 $3 gs 2 5 °
+& 3 £3 g 3 g $
+om om om gs z
+ze 7x a
+= P=] > 5 O 8
+s El 8
+8 5 < = < gs &
+z o oD S a = 4
+Fs 3° E} 2 =) 2 9 2
+fe) Pt Sic z
+iS) 3 3 eo g
+og 3 c £ Ss &
+-/|sa o 2¢ 85 3
+oc =~ a a ~ ges 3
+2/8 x 25 &¢ 82 =
+r-| = of om Oot = 8 Ea
+2\/3¢e 58 2k Be S5 =
+Flats fo OG = & aoe e
+z
+2
+1. “ @
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity 2
+g
+Ee
+RIGHTS LIN Kd ;
+
+&
+
+obesity reviews Sleep quality and obesity Y. Fatimaet al. 1161 g
+additional adiposity indicators, e.g., neck circumference, but one of the cross-sectional studies did not find any signif- z
+waist to hip ratio and body fat (18-21,30). The commonly icant association (OR = 1.11, 95%CI: 0.74-1.65)(31). 2
+controlled confounders were socio-demographic attributes, The role of gender difference in inadequate sleep-obesity z
+media hours, and extent of physical activity. association was explored in only one study where a strong 5
+U-shaped association was seen between sleep quality and z
+
+3 BMI for girls, whereas the relationships seemed linear for 3
+
+Susy quality boys (26). The studies included in this review varied in é
+Each study included in the systematic review was evaluated adjusting for potential confounders, e.g., diet, physical ac- Fl
+for relative (to the scale) risk of bias (Table S-1). The lowest tivity, however, the majority of the studies that adjusted 2
+scoring study had 12 points deducted while the highest scor- for these variables found that the association between sleep e
+ing study had no points deducted resulting in a score of 17. quality and Ow/Ob was robust to adjustment for these var- :
+There were ten studies comprising the middle two quartiles iables (25,27,30,34). E
+(scores 9 — 11) (18,22-26,29,31,34,35), two studies in the 2
+lowermost quartile (scores 5 — 7) (21,28) and six studies in The effect of sleep duration on sleep quality-obesity 2g
+the uppermost quartile (scores 12 - 17) (19,20,27,30,32,33). association £
+Of the deficits in bias safeguards, the most common was a Some of the studies are adjusted for sleep duration to check i
+lack of clarity about eligibility criteria, but a few studies if the association between sleep quality and Ow/Ob is inde- 2
+(19,24,26,27,29,32,33) did provide this information. Other pendent of sleep duration (Table 2). The association g
+deficits included not adjusting for the role of potential con- remained significant even when sleep quality and duration z
+founders (21,28) However; all longitudinal studies were simultaneously considered in the regression analysis A
+accounted for missing data and compared the sample with (19,25,27). Additionally, the association between sleep 2
+complete data with the sample without complete data. quality and adiposity and body composition indices was 3
+also robust to adjustment for various socio-demographic g
+
+Systematic review findings covariates (19); 3
+g
+
+Inadequate ale epsinatang oor slegpequalitywas sasenstid inn: Quantitative synthesis and sensitivity analysis i
+dividual studies as perceptions about sleep quality (28), sleep 3
+disturbances (19,21,22,25-27,32,33) and sleep efficiency Meta-analysis was conducted on the 11 datasets from 9 stud- z
+and latency (18,20,23,34,35). There was some discrepancy ies related to the association between inadequate sleep and 2
+in the results depending upon the criteria used to define sleep Ow/Ob (25-33). The pooled OR for the association between bs
+quality. Studies based on validated questionnaires reported a inadequate sleep and Ow/Ob in young subjects was 1.27 z
+significant association between inadequate sleep and (95% Cl: 1.05-1.53), with considerable heterogeneity =
+Ow/Ob (19,27). However, studies that used non-validated (P = 60%) (Fig. 2a). In the pooled analysis the study by Quick Fi
+tools, or separately explored the effect of problems with et, al. (29) was given the largest weight (53.7%). Sensitivity i
+sleep initiation, maintenance, or efficiency produced incon- analysis was done to confirm if this study drives the meta- a
+sistent results (20,22,25). A similar issue was raised by analysis results. It was seen that exclusion of this study did j
+Alamian et al., suggesting that the reported outcome for not have a considerable effect on the strength or direction of z
+sleep problems and overweight association varied depending the association (OR = 1.47, 95% CI: 1.26-1.71) (Fig. 2b). Z
+upon the criteria used to define sleep problems (32). Some The subgroup analysis separating studies that focussed z
+studies exploring poor sleep due to sleep efficiency issues solely on poor sleep quality (category 2) contained a total :
+found a significant effect on Ow/Ob, though one of the stud- sample of 25,082 children, adolescents, and young adults 2
+ies concluded that the effect was moderated by familial risk (25-28,31-33) and was found to have a pooled OR of z
+factors (18,23). Likewise, sleep latency was also found to 1.46 (95% CI: 1.24-1.72), with non-significant heterogene- i
+be negatively associated with BMI z-scores in a group of ad- ity across the eight datasets (I? = 30%). Studies that assessed g
+olescents (34). Since the majority of the studies were cross- combined sleep duration and quality (category 3), contained 5
+sectional in nature not much is known about the causal asso- a total sample of 1,471 children, adolescents, and young i
+ciation between sleep quality and Ow/Ob. Only two longitu- adults (29-31), and was found to have a pooled OR of :
+dinal studies explored sleep quality and the Ow/Ob link and 1.10 (95% CI: 0.83-1.45), also without considerable het- :
+found no significant relationship (20,33). erogeneity across the three datasets (I? = 39%). é
+Inadequate sleep measured through a combination of Sensitivity analyses were conducted by excluding studies |
+quality and quantity was reported in a few studies, using ei- based on the criteria of study design, age group, covariates se- z
+ther the PSQI or Children’s Sleep Habits Questionnaire lection, publication year and geographical location (Table S- A
+(CSHQ) (29-31). Where two of the studies reported higher 2). The association between poor sleep quality and Ow/Ob i
+odds of Ow/Ob in subjects with inadequate sleep (29,30) did not change for cross-sectional studies, based on adolescent 3
+4
+
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 i
+RIGHTS LIN Kd z
+&
+
+a
+1162 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+pS y
+g
+Table 2 List of studies concomitantly assessing the role of sleep quality and sleep quantity on overweight and obesity in young subjects (reference: 19, z
+25, 26, 27) ES
+en Z
+Author Sleep Dimensions Results Findings 3
+Narang et Sleep disturbance, Sleep Sleep disturbance: OR: 1.43 (95%CI:1.16-1.77) After adjusting for sleep duration and confounders sj
+al (2012) duration Short Sleep duration: OR:1.03 (95%CI:0.81-1.30) (sex, caffeine, family history, snack, screen time, =
+physical activity, and soft drink) higher sleep ¢
+disturbance score was associated with increased Ez
+odds of being at high cardiovascular risk. g
+Liu et al Sleep problems, Sleep Sleep problems: OR: 3.52 (95%CI:1.42-8.70) After adjusting for sleep duration and confounders Es
+(2011) duration (age, gender, total physical activity, total calories =
+intake, maternal education) sleep problems were =
+B
+associated with higher odds of Ow/Ob 5
+Jarrin et al Sleep quality, sleep Poor sleep quality: B = -0.14 (p < 0.01)Sleep After adjusting for sleep duration and confounders E
+(2013) disturbances, sleep timing disturbances: B = -0.13 (p < 0.05)Delayed (age, sex, pubertal status, physical activity, screen 9S
+sleep duration sleeping: B = 0.15 (p < 0.05) time, socioeconomic status) sleep disturbances, Bf
+and delayed sleeping were positively associated &
+with obesity, sleep quality was negatively linked z
+with obesity. After adjustment for covariates sleep 2
+duration was no longer associated with any obesity. 2
+Silverstein — Insomnia, Obstructive sleep — Short sleep duration (weekday): OR = 1.51( 95% After adjusting for remaining other sleep variables #
+et al (2014) apnoea (OSA), short sleep Cl: 1.10-2.08)Short sleep duration (weekend): (sleep duration/insomnia/ OSA symptoms) and é
+duration (weekday & OR = 1.42( 95% Cl: 0.87-2.31)Insomnia: OR = 1.14( confounders (socio-demographics, physical S
+weekend), 95% Cl: 0.83-1.58)OSA: OR = 3.52( 95% Cl: 2.35- —_ activity, and depressive symptoms), Short sleep 2
+5.26) duration and OSA were associated with higher 2
+odds of obesity. a
+a 3
+s
+&
+Study er Subgroup : ES (95% Cl) % Weight Study or Subgroup : ES (95% Cl) % Weight s
+Quality : Quality : 4
+Mota (201 2) > 147 (087,158) 25 Mota (2012) : 447 ( 087,158) 59 Ea
+Vargas-b (2014) re 186 (1.08, 2.57) 35 Vargas-b (2014) -e— 486 (108,257) 67 7
+Lum eng (2007) ‘ 159 (071, 3.59) 58 Lum eng (2007) 4159( 071,359) 86 :
+Liu (2011) i——8—|] 352 (142, 8.74) 34 Liu (2011) —S-]| 352 ( 142,874) 49 5
+Nareng (2012) iad 143 (146,1.77) 76 Narang (2012) ca 443 (116,177) 218 Ey
+Alemian (2014) Onan 168 (141,255) 60 Alemian (2014) Se 488 (141,255) 118 z
+Silversten-a (2014) : 444 (083, 1.58) 44 Silversten-a (2014) ' 4114 (083,158) 92 =
+Silversten-b (2014) 4 1.20 (0.99, 1.44) 65 Silversten-b (2014) 7 1.20 ( 099,144) 198 3
+i : S
+Quality subgroup > 41.46 (1.24,1.72) 394 Quality subgroup ca 4.48 ( 1.24, 1.72) 883 Ey
+Q=10.01, p=0.19, 12=30%| : Q=10.01, p=0.19, 12-30% : z
+Quality & Quantity : Quality & Quentity ' :
+Firouzi (2014) 4 247 (1.02, 4.73) 44 Firouzi (2014) : 247 (102, 473) 6A 5
+Quick (2014) 4.07 (1.01, 1.13) 537 Vargas-a (201 4) H 441 (074.165) 56 2
+Vargas-a (2014) f 441 (074,165) 28 ; F|
+: Quality & Quantity subgroup 447 (078,279) 117 FA
+Quality & Quantity subgroup s 440 ( 0.83, 1.45) 606 Q=2.30, p=0.13, 12-87% : é
+Q=3.27, p=0.19, 12=39%| : : 2
+: Overall > 447 (126,171) 1000 z
+Overall] [> 1.27 (1.05, 1.53) 100.0 Q=12.34, p=0.19, 12-27% : 3
+Q=24.78, p=0.01 , 12=60% : . . : z
+04 od &
+InES
+
+InES a g
+5
+Figure 2 (a) Quality effects model results. (Left) The association between inadequate sleep and overweight/obesity in young subjects. (2b)(Right) The é
+association between inadequate sleep and overweight/obesity in young subjects excluding the study by Quick et al. Results are shown as pooled odds |
+ratios (OR) and 95% confidence intervals (95% Cl). a
+f
+°
+:
+subjects, conducted in countries other than the USA, and using asymmetry(36). The Doi and funnel plots also indicated =
+non-validated questionnaires to explore inadequate sleep. the presence of asymmetry with a paucity of studies on the 3
+3
+left-hand side (weaker effects) of the plot (Fig. 3). The exclu- Ei
+ion of study-by Quick etal. fixed f th c 2
+
+en . sion of stu: uick et al. fixed some of the asymmetr
+Publication bias , yay ! y y 3
+issues, nonetheless, gross asymmetry was still evident, as £
+3
+Eggers’s regression (slope: 0.784, p <0.001) as well as the quantified by LFK index (major asymmetry, index = 3.68) £
+LFK index (major asymmetry, index =6.07) suggested (Figure S-1). The assessment suggests an excess of studies 3
+:
+2
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity :
+5
+RIGHTS LIN Kd j
+
+See corresponding editorial on page 1007.
+. sys 413
+The cost of US foods as related to their nutritive value
+Adam Drewnowski
+ABSTRACT energy than did strawberries (4480 compared with 280 kcal) was
+Background: Comparisons of the cost of different foods relative to not viewed as relevant (3).
+their energy and nutritive value were conducted in the 1800s by the In 1894, Atwater recognized that different foods varied greatly
+US Department of Agriculture (USDA). in the proportion of water they contained (1). Because water
+Objective: The objective was to reestablish the relations between contributed to food weight but supplied neither nutrients nor
+food cost, energy, and nutrients by using contemporary nutrient calories, Atwater ignored food weight and calculated instead the
+composition and food prices data from the USDA. amounts of energy and nutrients that could be obtained from
+Design: The USDA Food and Nutrient Database for Dietary Studies —_ different foods for a given price. At the time, corn meal, wheat
+1.0 (FNDDS 1.0) and the Center for Nutrition Policy and Promotion flour, and sugar provided the most calories for 25 cents (1).
+food prices database were used for analysis. For 1387 foods, key Writing on the nutritive value and cost of food in 1902, Milner
+variables were as follows: energy density (keal/g), serving size (g), (4) had this to say about the cost of fresh produce compared with
+unit price ($/100 8), serving price (S/serving), and energy cost grains: “Cabbage at 2.5 cents per pound seems cheap, but 10 cents
+(Sikcal). A ‘Tegtession model tested associations between nutrients Worth of cabbage furnishes 500 calories of energy while 10 cents
+and unit De ($/100 g). Comparisons between food groups were worth of wheat flour at 3 cents per pound furnishes 5490 calories
+tested by using one-factor analyses of variance. Relations between of energy and is truly cheap” (4). In 2009, an article in the Journal
+energy density and price within food groups were:tested by using sin) questioned whether energy-dense grain snacks were really
+Spearman's sorrelations: ; . a cheaper than fresh produce—on the basis of prices per package
+Results: Grains and fats food groups supplied the lowest-cost di- and prices per gram (2). Yet, calculations of energy cost, whether
+etary energy. The energy cost for vegetables was higher than that for ¢ z
+, oe : expressed as dollars per calorie or calories per dollar, have been
+any other food group except for fruit. Serving sizes increased with
+sae , ; around for more than one hundred years.
+water content and varied inversely with energy density of foods. The .
+‘ : ‘ The 1902 yearbook of the US Department of Agriculture
+highest prices per serving were for meats, poultry, and fish, and the : :
+: . (USDA) even grouped foods according to their energy costs (4).
+lowest prices per serving were for the fats category. Although car- Sas z
+. ‘ é Cheap foods, providing >1900 calories for 10 cents were ce-
+bohydrates, sugar, and fat were associated with lower price per :
+Z es Z . mont : reals, sugars, starches, lard, dried beans and peas, cheap cuts of
+100 g, protein, fiber, vitamins, and minerals were associated with
+i . =. meat, salt pork and bacon, potatoes, and sweet potatoes. By
+higher price per 100 g, after adjustment for energy. & aa :
+Hee Pinta cs s en . Han , contrast, “expensive” foods that provided <800 calories for 10
+Conclusions: Grains and sugars food groups were cheaper than _
+vegetables and fruit per calorie and were cheaper than fruit per cents were lean theats and fish, chicken, eggs, green vegetables,
+serving. These price differentials may help to explain why low- and most fresh fruit. Then as now, grains and Sugars were
+cost, energy-dense foods that are nutrient poor are associated with cheaper than fresh produce (4). Far from viewing such in-
+lower education and incomes. Am J Clin Nutr 2010;92:1181-8. formation as irrelevant (3), the 1902 USDA yearbook (4) pointed
+to the many applications that could be made of the knowledge of
+the relation between cost and the nutritive value of food.
+
+By using more contemporary nutrient composition data sets
+and food prices from France, Darmon et al (5) confirmed that dry,
+energy-dense foods provided lower-cost calories than did fresh
+
+INTRODUCTION produce. As confirmed in multiple studies (6-8), fats, grains,
+
+In comparing the cost of different foods, “we are apt to judge
+
+them by the prices per pound, quart or bushel, without much ' From the Center for Public Health Nutrition, School of Public Health,
+regard to the amounts or kinds of actual nutrients which they University of Washington, Seattle, WA.
+
+contain.” Those words, written by Wilbur Atwater in 1894 (1), 2 Supported by USDA Cooperative State Research, Education, and Exten-
+still hold true today. Recent articles in the Journal have ques- Sion Service grant 2004-35215-14441 on obesity and poverty and by NIH
+tioned the use of a calorie adjustment to compare the cost of grants RO] DK 076608 and R21 DK085406 on food environment, diet
+different foods, arguing instead for the use of prices per package. quality, and. dispanties/imiobestty:
+
+100 ° ¥ 2). One| a 3 d that i , 3 Address correspondence to A Drewnowski, 305 Raitt Hall #353410,
+per 8, oF per serving ( ). ne etter writer (3) stated t al ab was University of Washington, Seattle, WA 98195-3410. E-mail: adamdrew@
+not useful to know that tortilla chips were cheaper per calorie than _y washington.edu.
+were fresh strawberries, as long as the 2 packages cost the same, Received January 30, 2010. Accepted for publication July 27, 2010.
+$3.99. The fact that the tortilla chips provided 16 times more First published online August 18, 2010; doi: 10.3945/ajcn.2010.29300.
+Am J Clin Nutr 2010;92:1181-8. Printed in USA. © 2010 American Society for Nutrition 1181
+
+&
+
+obesity reviews Sleep quality and obesity Y. Fatima etal. 1163 g
+a ae Ae eine SU a
+LFK index:6.07 { Major asymmety} 06 z
+
+£
+
+asf a . Z
+
+; Sy, Baa ie 3
+
+°.,, = 02 2
+
+Par “a, 3i5 :
+
+Ou 0s 3
+
+35 re ob . ? 3
+
+: nT ; 2
+
+05 :
+
+1 i) ! 5
+
+hor hOR =
+
+g
+
+g
+
+Figure 3 Funnel plot (right) and Doi plot (left) for the meta-analysis of studies exploring the association between inadequate sleep and overweight/obesity a
+in young subjects. Both plots demonstrate severe positive asymmetry, favoring studies with positive results, and suggesting that the meta-analytic point 2
+estimates may be spuriously positive. The LFK index value of 6.07 concurs with positive asymmetry. Z
+g
+
+with positive effect sizes, therefore, it could have affected the sleep quality did not demonstrate any significant associa- z
+meta-analytic pooled estimate and exaggerated the effect tion, but when a broader context based on the co- z
+size. However, heterogeneity could be a reason for asymme- occurrence of sleep problems was used the association be- e
+try as well. came significant (20,22,25). This indicates that using inade- 2
+quate tools or exploring sleep quality constructs in isolation 3
+
+may not reveal the true effcet of sleep on Ow/Ob. Therefore, g
+
+Discussion the recommend best practice should be the use of validated 3
+tools, e.g., PSQI, for assessing poor sleep quality. Sleep qual- ¢
+
+This is the first systematic review and meta-analysis to es- ity assessment instruments such as the PSQI are quick and &
+tablish the role of sleep quality in Ow/Ob outcome. Our easy to use, have adequate reliability and good validity 3
+finding suggests that sleep quality seems to have a consider- and therefore can help in obtaining valid findings (39). &
+able role in Ow/Ob, and this association is perhaps indepen- Unfortunately, the use of objectively assessed indicators z
+dent of sleep duration. Therefore, relying on only sleep of poor sleep, e.g., efficiency, latency, has been relatively less bs
+duration to define inadequate sleep may not reveal the real explored. In this study, we found only three studies that q
+association between sleep and Ow/Ob. However, due to used objective methods and even then results were not con- =
+the cross-sectional nature of the majority of the studies, sistent(20,23,35). Therefore, the narrow constructs mea- i
+the temporal sequence between poor sleep quality and sured through objective measurements such as_ sleep £
+Ow/Ob could not be determined. Therefore, the results of efficiency and latency may not be sufficient when assessing a
+this study should be interpreted in the light of study limita- sleep quality. The remaining studies included in the review j
+tions, and evidence from longitudinal studies should be en- used validated tools that probed for both objective and sub- z
+couraged to establish that such a link between sleep jective components of sleep quality, and this would be the 2
+quality and Ow/Ob is indeed causal. recommended approach for future studies. g
+Though the majority of the studies consistently reported a Previous studies report poor correlations between sleep :
+significant influence of sleep quality on Ow/Ob, there was duration and sleep quality for children and adolescents 2
+considerable variation across the studies in defining key (40), suggesting that sleep quality and sleep duration are z
+terms. For example, studies exploring sleep problems varied two separate dimensions of sleep. While, sleep quality refers i
+in their approach in considering the prevalence period, to the subjective experience including satisfaction with sleep, z
+number, and type of sleep problems to classify sleep quality sleep duration, on the other hand, is a more objective aspect a
+issues (21,22,26). Considering that the validity of findings of sleep, representing the actual time during which the indi- a
+depends greatly on the tools used to assess sleep quality, in- vidual is asleep (3). It is true that both sleep quality and sleep S
+consistency in defining sleep quality, or the vague use of ter- duration influence behavioral functions, but sleep quality i
+minology, e.g., “sleep satisfaction” or “depth of sleep” is an seems to have a stronger effect than sleep duration on emo- E
+important source of variability in these results (32,37). tional state, behavior and cognitive function (41). Therefore, a
+These findings highlight the complexity of sleep quality we would argue that the effect of sleep duration cannot be 2
+and the importance of understanding the different con- used as a proxy for sleep quality and studies assessing i
+structs of sleep quality (37,38). It was also interesting to sleep-obesity relationships should look for the cumulative ef- ig
+see that studies that separately explored specific aspects of fect of both sleep quality and sleep duration to get a true 3
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 3
+RIGHTS LINK ;
+
+&
+
+1164 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+a 8
+estimate of the effect of inadequate sleep on obesity. Al- model for meta-analyses that use adjustment based on mea- z
+though, in this review there were not many studies that ex- sured methodological heterogeneity between studies (16). It :
+plored inadequate sleep as a result of both sleep quality has also been demonstrated to be more reliable than the use z
+and duration, those that did reported a significant associa- of the random effects model that requires strong assump- 5
+tion between inadequate sleep and the Ow/Ob outcome tions that are unlikely to be valid in practice (46) and is z
+(29,30). known to produce spuriously positive results (47). Addi- 2
+Due to the fewer number of studies we could not con- tionally, lack of practical heterogeneity as indicated by the &
+duct a separate meta-analysis for subjects belonging to P estimate imparts some strength to the findings of this Fl
+different developmental stages, but the results from sensi- meta-analysis(48). z
+tivity analysis suggest that association between poor sleep e
+and Ow/Ob is stronger for children than adolescents and ; :
+young adults (Table S-2). Similarly, some studies also Conclusion z
+found a gender difference in the prevalence of inadequate The results of this systematic review and meta-analysis g
+sleep suggesting that gender could be a moderating factor indicate a potential role of sleep quality in the sleep- 2g
+in sleep-obesity association (26). Therefore, future studies obesity association in children, adolescents, and young Z
+on the sleep quality-obesity link should also consider the adults, with some evidence for this association to be in- 2
+potential moderation by developmental stages and dependent of sleep duration. Therefore, it follows that z
+gender. short sleep duration should not be used as the only 2
+Emerging evidence from epidemiological and clinical benchmark of inadequate sleep, and we suggest that ex- =
+studies have not provided a clear link between other aspects ploring for the cumulative effect of both poor quality A
+of sleep and glucose homeostasis independent of total sleep and short duration would be perhaps the better approach 2
+duration(42,43). One approach is to explore the association for future research on sleep-obesity. Although the existing a
+by considering the link between energy balance and the spe- evidence for the sleep quality and obesity association is E
+cific parts of the sleep cycle, i.e., SWS and rapid eye move- weak, these preliminary findings are interesting enough ES
+ment (REM) sleep (44). There is some evidence that a to herald future research in this area. Considering that 4
+decrease in insulin sensitivity correlates with a reduction in the bulk of the existing evidence is coming from cross- =
+SWS (7). SWS is also seen to be associated with decreased sectional studies, further evidence from longitudinal stud- :
+secretion of cortisol and increased secretion of growth hor- ies would be the next step in establishing whether im- 2
+mone (45). It is postulated that the hormonal changes asso- proving sleep quality can help prevent childhood 5
+ciated with less time spent in SWS and alterations in REM obesity. Future epidemiological studies based on a longi- 2
+sleep support weight gain. tudinal design using validated tools that measure both S
+Our meta-analysis pooled estimate for the association be- quantitative and quantitative aspects of sleep will help z
+tween poor sleep quality and Ow/Ob is comparable to the us better understand the strength as well as the causal i
+pooled estimate for the association between short sleep du- nature (or not) of the association between sleep and obe- ?
+ration and Ob/Ob (11). However, unlike the latter, this sity. The alternative to a causal effect could be that both El
+study is based on mainly cross-sectional studies. Therefore, (disturbed sleep and obesity) are simply effects or proxies EI
+the causal link and stability of the association between sleep for deeper underlying causes. z
+dimensions and Ow/Ob could not be confirmed. Addition- Z
+ally, visual inspection of the forest plot suggested that the a
+study by Quick et al. was assigned the highest weight. Re- Authors’ contribution 2
+view of this study reveals that to maximize sample size, data 2
+from two contemporaneous studies with same variables YF conceptualized the study, handled the literature review z
+were combined. That perhaps had affected the overall OR and data extraction, conducted meta-analyses and drafted i
+for Ow/Ob and led to a narrow confidence interval, the initial manuscript. AAM and SD critically reviewed the 2
+explaining the higher weight allocation. The removal of this systematic review protocol, helped in the drafting of the 4
+study had a minor effect on the pooled estimate and did not manuscript and critical review of the final version of the a
+change the direction of association or statistical significance. manuscript. SD assisted in designing the risk of bias tool :
+Considering that the quality of this study was also better and developed the model used in this analysis. All authors z
+than some other studies included in the review, it was kept approved the final manuscript. ‘
+in the meta-analysis and indeed the results of this study Ei
+might reflect the magnitude of the real effect of poor sleep 2
+quality. Conflicts of interest i
+Despite these limitations mentioned above, one of the ig
+strengths of our study is that we used the quality effects No conflict of interest was declared. 3
+6
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity 3
+RIGHTS LIN Kd z
+&
+
+&
+
+obesity reviews Sleep quality and obesity Y. Fatima et al. 1165 g
+Fi
+
+Supporting Information 13. Shamliyan TA, Kane RL, Ansari MT et al. Development qual- z
+ity criteria to evaluate nontherapeutic studies of incidence, B
+
+Additional Supporting Information may be found in the prevalence, or risk factors of chronic diseases: pilot study of new e
+online version of this article, http://dx.doi.org/10.1111/ checklists. J Clin Epidemiol 2011; 64: 637-57. :
+obr.12444 14. National Heart Lung and Blood Institute (2014). Quality As- g
+sessment Tool for Observational Cohort and Cross-Sectional z
+
+Studies. [WWW document]. http://www.nhlbi.nih.gov/health-pro/ &
+
+Table $1. Quality Assessment tool for studies exploring the im- guidelines/in-develop/cardiovascular-risk-reduction/tools/cohort i
+. . aes 15. Doi SA, Barendregt JJ, Khan $, Thalib L, Williams GM. Ad- 8
+
+pact of inadequate sleep on overweight/obesity in young sub- vances in the meta-analysis of heterogeneous clinical trials II: The 2
+jects (References: 18-35) quality effects model. Contemp Clin Trials 2015; 45: 123-9. 5
+Table $2. Sensitivity analysis of meta-analysis of inadequate 16. Doi SA, Thalib L. A quality-effects model for meta-analysis. =
+sleep and overweight/obesity in young subjects (References Epidemiology (Cambridge, Mass) 2008; 19: 94-100. :
+25-33) 17. Takkouche B, Cadarso-Suarez GC, Spiegelman D. Evaluation of E
+Figure $1. Funnel plot (right) and Doi plot (left) for the meta- pa oe lent ee he Gs epidemiologic. meta-analysis: 2
+analysis of studies exploring association between inadequate 18. Bailey BW, Allen MD, LeCheminant JD et al. Objectively mea- 2g
+sleep and overweight/obesity in young subjects after exclusion sured sleep patterns in young adult women and the relationship to £
+of Quick et al. Both plots demonstrate some melioration of the adiposity. Am J Health Prom: AJHP 20145 29: 46-54. ; 2
+serve positive asymmetry favoring studies with positive results, 12. Jasin. DC, McGr ath JJ, Dr ake CL. Beyond sleep dur. ation: dis- g
+. . : : . tinct sleep dimensions are associated with obesity in children and 2
+suggesting that the asymmetry is considerably driven by this adolescents, Int J Obes (2005) 2013; 37: 552-8. a
+study. The LFK index value of 3.68 concurs with positive 20. Michels N, Verbeiren A, whee W, De Henauw S, Sioen I. z
+asymmetry Children’s sleep quality: relation with sleep duration and adiposity. A
+Public Health 2014; 128: 488-90. S
+
+21. Bawazeer NM, Al-Daghri NM, Valsamakis G et al. Sleep dura- &
+
+References tion and quality associated with obesity among Arab children. z
+Obes (Silver Spring, Md) 2009; 17: 2251-3. 3
+
+1. Magee L, Hale L. Longitudinal associations between sleep dura- 22. Chen DR, Truong KD, Tsai MJ. Prevalence of poor sleep qual- &
+tion and subsequent weight gain: a systematic review. Sleep Med ity and its relationship with body mass index among teenagers: ¢
+Rev 2012; 16: 231-41. evidence from Taiwan. J Sch Health 2013; 83: 582-8. z
+2. Patel SR, Hu FB. Short sleep duration and weight gain: a system- 23. Bagley EJ, El-Sheikh M. Familial risk moderates the associa- 7
+atic review. Obesity (Silver Spring, Md) 2008; 16: 643-53. tion between sleep and zBMI in children. J Pediatr Psychol 2013; g
+3. Pilcher JJ, Ginter DR, Sadowsky B. Sleep quality versus sleep 38: 775-84. 5
+quantity: Relationships between sleep and measures of health, 24. de Vasconcelos HC, Fragoso LV, Marinho NB e¢ al. Correla- 3
+well-being and sleepiness in college students. J Psychosom Res tion between anthropometric indicators and sleep quality among a
+1997; 42: 583-96. Brazilian university students. Revista da Escola de Enfermagem 3
+4, Bonnet MH, Arand DL. Clinical effects of sleep fragmentation da US P 2013; 47: 852-9. z
+versus sleep deprivation. Sleep Med Rev 2003; 7: 297-310. 25. Liu J, Hay J, Joshi D, Faught BE, Wade T, Cairney J. Sleep dif- z
+5. Stamatakis KA, Punjabi NM. Effects of Sleep Fragmentation on ficulties and obesity among preadolescents. Canadian J Public é
+Glucose Metabolism in Normal Subjects. Chest 2010; 137: 95-101. Health = Revue canadienne de sante publique 2011; 102: 139-43. Es
+6. Punjabi NM, Shahar E, Redline S$, Gottlieb DJ, Givelber R, 26. Sivertsen B, Pallesen S, Sand L, Hysing M. Sleep and body E
+Resnick HE. Sleep-disordered breathing, glucose intolerance, and mass index in adolescence: results from a large population-based 3
+insulin resistance: the Sleep Heart Health Study. Am J Epidemiol study of Norwegian adolescents aged 16 to 19 years. BMC Pediatr 7
+2004; 160: 521-30. 2014; 14: 204-14. Ey
+7. Tasali E, Leproult R, Ehrmann DA, Van Cauter E. Slow-wave 27, Narang I, Manlhiot C, Davies-Shaw J et al. Sleep disturbance 2
+sleep and the risk of type 2 diabetes in humans. Proc Natl Acad and cardiovascular risk in adolescents. CMAJ : Canadian Medical 2
+Sci US A 2008; 105: 1044-49. Association journal = journal de l’Association medicale canadienne 2
+8. Leger D, Beck F, Richard JB, Godeau E. Total sleep time severely 2012; 184: E913-20. =
+drops during adolescence. PLoS One 2012; 7: 1-21 45204. 28. Mota J, Vale S. Associations between sleep quality with cardio- 2
+9. Chen X, Beydoun MA, Wang Y. Is Sleep Duration Associated With respiratory fitness and BMI among adolescent girls. Am J Human 5
+Childhood Obesity? A Systematic Review and Meta-analysis. Obesity Bio : official ] Human Bio Council 2010; 22: 473-5. a
+2008; 16: 265-74. 29. Quick V, Byrd-Bredbenner C, White AA et al. Eat, sleep, work, 2
+10. Cappuccio FP, Taggart FM, Kandala NB e¢ al. Meta-analysis play: associations of weight status and health-related behaviors a
+of short sleep duration and obesity in children and adults. Sleep among young adult college students. Am J Health Prom: AJHP e
+2008; 31: 619-26. 2014; 29: e64-72. 2
+11. Fatima Y, Doi SA, Mamun AA. Longitudinal impact of sleep 30. Firouzi S, Poh BK, Ismail MN, Sadeghilar A. Sleep habits, food A
+on overweight and obesity in children and adolescents: a systematic intake, and physical activity levels in normal and overweight and e
+review and bias-adjusted meta-analysis. Obes Rev: offic] Int Assoc _ bese Malaysian children. Obes Res Clin Prac 2014; 8: e70-8. ¢
+Study Obes 2015; 16: 137-49. 31. Vargas PA, Flores M, Robles E. Sleep quality and body mass in- g
+12. Stroup DF, Berlin JA, Morton SC et al. Meta-analysis of obser- dex in college students: the role of sleep disturbances. J Am College E
+vational studies in epidemiology: a proposal for reporting. Meta- Health : ] of ACH 2014; 62: 534-41. Fa
+analysis Of Observational Studies in Epidemiology (MOOSE) 32. Alamian A, Wang L, Pitts M, Ikekwere J, Hall AM. Abstract 3
+group. Jama 2000; 283: 2008-12. P106: Infant Sleep Problems Increase the Odds of Childhood E
+4
+
+FA
+
+6
+
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 3
+RIGHTS LIN Kd g
+g
+
+a
+
+1166 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+Overweight at Grade 6: Differential Effects of Commonly Used Def- 41. Dewald JF, Meijer AM, Oort FJ, Kerkhof GA, Bogels SM. The z
+initions of Sleep Problems. Circulation 2014; 129: AP106. influence of sleep quality, sleep duration and sleepiness on school B
+33. Lumeng JC, Somashekar D, Appugliese D, Kaciroti N, performance in children and adolescents: A meta-analytic review. e
+Corwyn RF, Bradley RH. Shorter sleep duration is associated with Sleep Med Rev 2010; 14: 179-89. 4
+increased risk for being overweight at ages 9 to 12 years. Pediatrics 42. Rao MN, Blackwell T, Redline S$ et al. Association Between g
+2007; 120: 1020-9. Sleep Architecture and Measures of Body Composition. Sleep z
+34. Arora T, Hosseini-Araghi M, Bishop J, Yao GL, Thomas GN, 2009; 32: 483-90. &
+Taheri $. The complexity of obesity in U.K. adolescents: relation- 43. Bidulescu A, Din-Dzietham R, Coverson DL e¢ al. Interaction i
+ships with quantity and type of technology, sleep duration and of sleep quality and psychosocial stress on obesity in African Amer- 8
+quality, academic performance and aspiration. Pediatric obes icans: the Cardiovascular Health Epidemiology Study (CHES). 2
+2013; 8: 358-66. BMC Public Health 2010; 10: 581-91. s
+35. Arora T, Taheri S. Associations among late chronotype, body 44. Gonnissen HK, Adam TC, Hursel R, Rutters F, Verhoef SP, =
+mass index and dietary behaviors in young adolescents. Int J Westerterp-Plantenga MS. Sleep duration, sleep quality and body Ee
+Obes(2005) 2015; 39: 39-44. weight: parallel developments. Physiol Behav 2013; 121: 112-6.
+36. Barendregt JJ, Doi SA. MetaXL User Guide: Version 3.0. 45. Rutters F, Gonnissen HK, Hursel R, Lemmens SG, Martens g
+Queensland, Australia. 2015; 1-56. EA, Westerterp-Plantenga MS. Distinct associations between energy e
+37. Harvey AG, Stinson K, Whitaker KL, Moskovitz D, Virk H. balance and the sleep characteristics slow wave sleep and rapid eye 2
+The Subjective Meaning of Sleep Quality: A Comparison of Individ- movement sleep. Int J Obes (2005) 2012; 36: 1346-52. £
+uals with and without Insomnia. Sleep 2008; 31: 383-93. 46. Al Khalaf MM, Thalib L, Doi SA. Combining heterogenous 2
+38. Krystal AD, Edinger JD. Measuring sleep quality. Sleep Med studies using the random-effects model is a mistake and leads to in- g
+2008; 9(Suppl 1): $10-7. conclusive meta-analyses. J Clin Epidemiol 2011; 64: 119-23. 2
+39. Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. 47. Noma H. Confidence intervals for a random-effects meta-analysis Z
+Test-retest reliability and validity of the Pittsburgh Sleep Quality In- based on Bartlett-type corrections. Stat Med 2011; 30: 3304-12. g
+dex in primary insomnia. J Psychosom Res 2002; 53: 737-40. 48. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring A
+40. Liu X, Zhou H. Sleep duration, insomnia and behavioral prob- inconsistency in meta-analyses. BMJ (Clinical research ed) 2003; 5
+lems among Chinese adolescents. Psychiatry Res 2002; 111: 75-85. 327: 557-60. &
+g
+
+a
+
+:
+
+Ej
+
+2
+
+3
+
+&
+
+B
+
+=
+
+Fy
+
+s
+
+2
+
+=
+
+2
+
+2
+
+a
+
+i
+
+$
+
+3
+
+E
+
+e
+
+5
+
+g
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity :
+RIGHTS LIN Kd B
+&
+
+1182 DREWNOWSKI
+sugar, beans, and potatoes had substantially lower energy costs _ price ($/100 g), serving price ($/serving), and energy cost
+than did lean meat, fish, lettuce, or fresh fruit (3). ($/kcal).
+Given suggestions that the low energy cost of grains relative to
+fresh produce was the result of an autocorrelation (2), itistimeto — Fygd and Drug Administration serving sizes
+revisit the concept of food prices per calorie compared with prices Common food ‘portions provided inthe FNDDS were replaced
+per bushel. The present research updates the seminal work of z Ae 5
+Atwater by using USDA nutrient composition and food prices wae US Food aad DIUe pdounis ation (ebay aneadated
+daia (9, 10). To counter'suegestions that the:low costiof energy: serving sizes—ie, Reference Amounts Customarily Consumed or
+z . . : RACC values (11). The FDA uses 139 different values for serving
+dense foods was merely an arithmetic artifact (2), random variables . a :
+for calculating enerey density and energy cost were generated for S12°S obtainable from a list of FDA standards. RACC values are
+g sy ry By g -
+all foods tested set lower for energy-dense sugar (4 g), fats and oils (15 g), and
+cereals (30 g) than for lower-energy-density meats (85 g), vegetables
+and fruit (120 g), or soups, fluid milk, and beverages (240 g). By
+METHODS definition then, typical serving sizes are higher for fresh produce
+. . than for dry, energy-dense snacks. In the present data set, and
+Nutrient and food prices datahases depending . fol can the weight of a bas serving of food
+The nutrient composition database ranged from 1 to 280 g, and calories per serving ranged from | to
+The USDA Food and Nutrient Database for Dietary Studies 1.0 533 kcal. Serving sizes and water content of foods were inversely
+(FNDDS 1.0) is used to code, process, and analyze the What We __ linked (Spearman’s correlation coefficient: 0.68). The relation
+Eat in America food intake data (9). The files include detailed between serving sizes (RACC values) and the energy density of
+food descriptions for 6940 foods from all food groups, typical foods is shown in Figure 1.
+food portions and weights, method of preparation (where
+available), nutrient values for energy and 60 nutrients, and links — Exclusion criteria
+to the USDA Standard Release (SR) Ruede cOmpasifion The present analyses were limited to those foods for which the
+databases @). The primary description of'a given food : linked frequency of consumption in the NHANES database was >5
+watt a unique B-digit identification: code. The finsts digit in the eating occasions. On the basis of second- and third-digit codes,
+code identifies. one of the major food groups: J) milk and milk infant formulas, baby foods, alcohol, and mixed foods were
+products; 2) meat, poultry, and fish; 3) eggs; 4) dry beans, legumes, removed. Foods such as human milk, dry flour and biscuit
+nuts and seeds; 5) grain products, 6) fruit; 7) vegetables, 8) fats, mixes, intense sweeteners and nondairy creamers, chewing gum,
+oils, and salad dressings; and 9) sugars, sweets, and beverages. ang therapeutic formulas including electrolyte solutions and
+These food Broups will be referred to in text as milk, meat, £888, meal replacements were also removed. The database was edited
+beans, grains, fruit, vegetables, fats, and sugars, respectively. further to remove all duplicate lines, items for which no further
+The full USDA appellation will be used in the tables and figures. specification was provided (eg, “meat, NFS” or “sandwich, NES)”,
+The second digit identifies subgroups within each major food and other nonspecific items (eg, “vegetable, NS as to type”). To
+group (eg, milk and milk drinks, creams, cheeses, and milk allow calculations of nutrient density and cost per 100 kcal,
+desserts), including mixed foods, whereas the third and sub- bottled water (0 kcal) and diet foods and diet beverages with an
+sequent digits provide ever-finer discrimination down to the energy density close to zero (<10 kcal/100 g) were excluded.
+individual food item. The 9 major food groups created for an-
+alytic purposes were based on the first digit of the 8-digit food 200 >
+identification code. As is common in all nutrient composition
+databases, nutrient values are provided per 100 g of food 800
+product, edible portion corrected for preparation and waste. 700 | .
+The food prices database & coi ° f,
+The Center for Nutrition Policy and Promotion (CNPP) food 2 a laef . °¢
+prices database (10), released in May 2008, was based on in- § LH |
+formation from the 2001-2002 National Health and Nutrition > 400 ‘| q ‘<
+Evaluation Survey (NHANES), the FNDDS 1.0, the National Fy e e 3
+Nutrient Database for Standard Reference (SR 16.1 and 18), and ww 300 7 a Py é
+the Nielsen Homescan Consumer Panel. To arrive at food prices, 200 e on? ? e
+foods reported as consumed by 2001-2002 NHANES partic- ik $: 38 ae ec;
+ipants were disaggregated into components. Yield factors were 100 © hee 8 t 8 ° .% we
+applied to individual ingredients and to the entire dish. This 0 af “a ge . 8 e
+procedure converted foods-as-consumed to foods-as-purchased, 0 100 200 300
+with prices obtained from the Nielsen panel. One national price,
+corrected for preparation and waste and expressed per gram of PDAiseming: size In. 6 (RACC)
+edible portion, was provided for each food that was listed as FIGURE 1. The relation between serving sizes defined by the US Food
+frequency of consumption was >1). All foods carried the same foods in the US Department of Agriculture Food and Nutrient Database
+8-digit code as the FNDDS 1.0. Food price measures were unit for Dietary Studies (FNDDS) (9).
+
+COST AND NUTRITIVE VALUE 1183
+Foods that cost between 0 and 5 cents per 100 g were also ex- Price per 100 g = 5, calories + by nutrient (J)
+cluded. The final analyses were based on a total of 1387 foods,
+which represented all 9 major USDA food groups. and b represent regression coefficient. Within food groups, the
+relations between energy density and unit price and serving price
+were examined by using Spearman’s correlation analyses. An
+Observational compared with randomly generated data level of 0.05 was used to determine statistical significance.
+The observation that energy-dense grains cost more per calorie
+than does fresh produce was recently called an algebraic artifact
+(2). The suggestion was that the apparent low cost of energy- | RESULTS
+dense foods was the result of having calories in the numerator and
+denominator, and that comparable results could be obtained by Energy density and prices by food group
+using a random-number data set (2). A random-number generator The characteristics of the 1387 foods, separately for each
+was therefore used to create 3 variables—A, B, and C—for the major food group, are shown in Table 1. The number of different
+present study. Each variable had 1387 values drawn independently —_ foods in each group is also indicated. Tests across food groups
+from a uniform distribution between 1 and 100 to avoid dividing were conducted by using one-factor ANOVA followed by
+by zero. From these randomly generated variables, 2 ratio vari- comparisons of means by using the Bonferroni correction. For
+ables A/B and C/A were constructed to represent “energy density” energy density, the effect of food group was significant [F(8,
+(kcal/g) and “energy cost” ($/kcal), respectively, so that obser- 1378) = 122.1, P < 0.001]. The mean energy density of fats was
+vational data could be compared directly with randomly generated significantly higher than for all the other food groups except for
+results (2). grains and beans (P < 0.001). The mean energy density of
+grains and beans was significantly higher than for all other food
+co groups except for fats (P < 0.01). The mean energy density of
+Statistical analyses sugars was significantly lower than for fats, grains, and beans
+All analyses were performed by using the Statistical Package —_ and significantly higher than for milk, vegetables, and fruit. Milk
+for the Social Sciences (SPSS) version 11.0 (SPSS Inc, Chicago, and eggs did not differ. Vegetables and fruit had significantly
+IL). Differences in energy density and energy cost across food _ lower energy density than did all of the other food groups except
+groups were established by using one-factor analysis of vari- for eggs.
+ance (ANOVA) followed by post hoc comparisons between For mean water content (g/100 g), the effect of food group was
+means by using Bonferroni correction. Scatter plots were used also significant [F(8, 1378) = 164.6, P < 0.001]. The water
+to show the relation between energy density and energy cost content of grains was significantly lower than that for any other
+in the observational data and between the A/B and C/Avariables — food group. The water content of vegetables and fruit was sig-
+in the randomly generated data set. Additional analyses based __ nificantly higher than that for every other food group except for
+on a regression model applied to the observational data ex- eggs. The water content of beans was significantly higher than
+amined the relation between nutrient content of foods and unit __ that for grains but significantly less than for vegetables and fruit.
+price ($/100 g) controlled for calories. Those analyses were Mean serving sizes for fats were significantly lower than those
+based on the standard multivariate model proposed by Willett for every other food group except for eggs. Mean serving sizes for
+(12), where fruit were significantly higher than those for every other food
+TABLE 1
+Characteristics of 1387 foods from the Food and Nutrient Database for Dietary Studies and the Center for Nutrition Policy and Promotion food prices
+database by 9 major food groups as defined by the US Department of Agriculture (USDA)!
+Energy Serving size Price per Price per
+Major USDA food groups No. of foods density Water content (RACC) 100 g serving Energy cost
+kcal/100 g 9/100 g g $/100 g S/serving $/100 keal
+Milk and milk products 134 182+ 112% 66 +17" 112 + 89°” 0.40 + 031°? 0.26 + 0.17 0.23 + 0.13
+Meat, poultry, and fish 196 224 + 98" = 60 + 14" so+si** 0.80 + 0.44" 0.63 + 0.38” 0.41 + 0.31°
+Eggs 8 71+ 7484-724 10" 65 + 2874"F 09.32 + 0.162" 0.24 + 0.21 0.22 + 0.142
+Dry beans, legumes, 62 330+ 217° 40 + 334 16 + 62° 0.50 + 0.47** 0.26 + 0.22" 0.18 + 0.17°
+nuts, and seeds
+Grain products 435 337 + 110° 24 + 23° 63 + 53° 0.47 + 0.3%" 0.23 + 0.20*° 0.14 + 0.10*
+Fruit 93 67 + 56° 82 + 15° 187 + 77 0.28 + 0.22°¢ 0.40 + 0.334* 0.54 + 0.48?
+Vegetables 257 83 + 80° so+17 102+ 59°" 0.33 + 0.26 0.29 + 0.33°°*" 0.68 + 0.69
+Fats, oils, and salad dressings 51 390 + 226° 47 + 23°4 22 + 9° 0.37 = 0.18°°*"= 0,09 + 0.08° 0.17 = 0.19*
+Sugars, sweets, and beverages 151 242+ 1904 45 + 304 119 + 102" 0.40 + 0.41%" 0.23 + 0.18" 0.22 + 0.21*
+P values (one-factor ANOVA) _ <0.001 <0.001 <0.001 <0.001 <0.001 <0.001
+’ Data are from references 9 and 10. RACC, Reference Amounts Customarily Consumed. Statistical tests are based on post hoc comparisons after one-
+factor ANOVA and by using Bonferroni correction. Values with different superscript letters are significantly different from each other.
+? Mean + SD (all such values).
+
+1184 DREWNOWSKI
+0.9
+0.8 Meat, poultry, fish e
+B ov
+°
+S
+5 06
+— Dry beans, legumes, nuts, seeds
+a
+3% Milk and milk product ®
+= MS Ane mubprocucys Fats and oils
+5 04 eo @ crins @
+= Vegetables
+rd Eggé @ Sugars, sweets, beverages
+g os Fruit
+c
+S 0.2
+=
+0.1
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+FIGURE 2. The observed relation between median energy density (kcal/100 g) and median unit cost ($/100 g) for 9 major food groups as defined by the US
+Department of Agriculture. Total number of foods = 1387.
+group. Mean serving sizes for grains were significantly different | were not systematically linked to food category. As shown in
+from every other food group except for eggs and beans. Table 1, the meat group had the highest mean prices per 100 g
+There were significant differences across food groups in unit —_ ($0.80/100 g), which was significantly higher than that for every
+prices per 100 g [F(8, 1378) = 33.1, P < 0.001]; however, those other food group. Prices for beans ($0.50/100 g) and grains
+0.7
+Vegetables
+0.6 +
+g Fruit
+3 @
+S05 5
+Pe Meat, poultry, fish
+504 4 t )
+°
+203 -
+5 . Milk and milk products
+a Dry beans, legumes, nuts, seeds
+Bo - Fags @ e@
+° Sugars, sweets, beverag' t )
+Bo. ¥ Fats and oils
+= Grains
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+0.7
+90.6 7
+4
+°
+$0.5
+Ps
+% nm Qvesetaries
+=x" e@ Fruit Meat, poultry, fish
+: @
+L034
+Es
+s Milk and milk products
+90.2 4 Sugars, sweets, beverages
+g @
+s
+30.1 - Eggs @ con®
+= Dry beans, legumes, nuts, seeds Fate sad on
+ats and oils
+0
+0 50 100 150 200 250 300 350 400 450
+Median energy density (kcal/100 g)
+FIGURE 3. The relation between energy density of foods (kcal/100 g) and energy cost ($/100 kcal). Data are means (top panel) and medians (bottom panel)
+for 9 major food groups as defined by the US Department of Agriculture. Total number of foods = 1387.
+
+COST AND NUTRITIVE VALUE 1185
+($0.47/100 g) were significantly lower than those for meat and _ groups had to adjust for energy. There were significant differ-
+significantly higher than those for vegetables and fruit. Prices ences in food price per 100 kcal by food group [F(8, 1378) =
+for vegetables and fruit ($0.32 and $0.28, respectively) were 55.8, P < 0.001]. Energy cost ($/100 kcal) was lowest for
+significantly lower than those for meats, grains, and beans. — grains, fats, eggs, and milk. Energy cost for vegetables was
+However, the water content of vegetables and fruit was higher higher than that for every other food group except for fruit.
+and energy density was lower than for the other food groups. Mean energy cost for vegetables was more than 5 times that of
+The relation between mean energy density of foods and mean __ grains and fats and more than double the cost of sugars.
+unit cost per 100 g is shown in Figure 2. Meat commanded the
+highest price per 100 g, which was significantly higher than that .
+for any other food group. For the other food groups, higher Energy density and energy cost
+prices per 100 g were obtained for the more-energy-dense Scatter plots that visually depict the relation between energy
+grains, beans, and fats than for lower-energy-density vegetables _ density of foods (kcal/100 g) and their energy cost ($/100 kcal) in
+and fruit. the observational data are shown in Figure 3. The top panel
+There were significant differences across groups in food price — shows group means, and the bottom panel shows group medians.
+per serving [F(8, 1378) = 49.4, P < 0.001]. Mean prices per Grains, beans, and fats were associated with higher energy
+serving for meat ($0.63/serving) were significantly higher than density and lower energy costs. By contrast, vegetables and fruit
+those for every other food group. Mean prices per serving for were associated with lower energy density and higher energy
+fats ($0.09/serving) were significantly lower than those for every costs. The observed relation was similar to the previously pub-
+other food group except for eggs. Mean prices for fruit were lished charts (5-8), which indicated the position of vegetables
+significantly lower than those for meat but higher than those for _and fruit relative to grains, fats, and sugars.
+every other food group except for vegetables and beans. The relation between randomly generated variables A/B
+Given that a single serving of food could supply from 1 to (“energy density”) and C/A (“energy cost”) is shown in Figure 4.
+>500 kcal, meaningful price comparisons across foods or food The top panel shows group means, and the bottom panel shows
+0.7
+0.6
+0.5
+Fruit
+Loa Meat, poultry, fish
+° Fats and ois® @
+E rai Vegetables
+203 rains,
+= Sugars, sweets, beverages e@ e@
+0.2
+Milk and milk products
+0.1
+ros@ Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 200 «250, 300 «350 400s s«s«450=— 500
+Mean A/B
+0.7
+0.6
+0.5 Milk and milk products
+Sos Meat, poultry, fish
+cI Eggs
+ps)
+303 Grains
+= Fruit
+0.24 Fats and oil Vegetables
+oA Sugars, sweets, beverages
+Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 «200 «250 300 «350 4400S 450 = 500
+Median A/B
+FIGURE 4. The relation between randomly generated variable A/B (“energy density”) and randomly generated variable C/A (“energy cost”) following
+procedures outlined in reference 2. Data are means (top panel) and medians (bottom panel) for 9 major food groups as defined by the US Department of
+Agriculture. Total number of randomly generated numbers per variable = 1387.
+
+1186 DREWNOWSKI
+TABLE 2
+Spearman’s correlation coefficients between energy density of foods (kcal/100 g) and different price measures based on
+the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) and the linked Center for Nutrition Policy and
+Promotion food prices database’
+Food price measures
+Major FNDDS food groups No. of foods Unit price Serving price Energy cost
+$/100 g S/serving $/100 kcal
+Milk and milk products 134 0.76 —0.03 0.00
+Meat, poultry, and fish 196 0.13 —0.157 —0.567
+Eggs 8 0.48 0.38 ~0.33
+Dry beans, legumes, nuts, and seeds 62 0.657 —0.13 —0.25
+Grain products 435 0.49? —0.08 —0.01
+Fruit 93 0.10 —0.09 =0.55°
+Vegetables 257 0.00 —0.05 -0.75?
+Fats, oils, and salad dressings 51 —0.07 —0.27 -0.77
+Sugars, sweets, and beverages 151 0.79 0.05 —0.437
+Total foods 1387 _ _ _
+’ Data are from references 9 and 10. Analyses are based on 1387 foods from 9 major food groups as defined by the US
+Department of Agriculture.
+? P< 0.05.
+group medians. The results were completely random, as might — defined group. For example, within the milk group, cheese was
+be expected, given that the 3 variables (A, B, C) were randomly —_ more expensive per calorie than was fluid milk, whereas within
+generated. The present data contradict the argument (2) that the the bean group, some nuts were more expensive than legumes.
+complex relations in the price hierarchies of the food supply can
+be replicated by using a random number data set. . . .
+The relations between energy density and food price measures Food cost in relation to nutrient content
+were then examined within food groups. As shown in Table 2, on The final analyses dealt with the nutrient content of foods and
+the basis of 1387 foods, energy density was correlated with their cost per 100 g, after adjustment for energy. Adjustment for
+measures of food price within some food groups. In general, the | energy is a standard technique in epidemiologic studies (12).
+relation between energy density and food price per 100 g was _ Nutrient-by-nutrient analyses were conducted on those foods in
+positive within each food group, whereas the relation between _—_ which the amount of the nutrient was >0. As shown in Table 3,
+energy density and energy cost was negative. Significant cor- _ polyunsaturated fats (ie, vegetable oils), total fats, carbohydrates
+relations within food group for energy density and energy cost (ie, grains), and total and added sugars were significantly as-
+were obtained for meat, fruit, vegetables, fats, and sugars. sociated with lower food costs per 100 g after adjustment for
+However, the number of foods within a food group was in some __ energy. By contrast, protein, calcium, iron, potassium, magne-
+cases inadequate to obtain significant correlations (2). In other sium, and vitamin C were associated with higher food costs per
+cases, both energy density and price structure varied within the 100 g after adjustment for energy (13). The present data are
+TABLE 3
+Results of regression with price per 100 g as a dependent variable and nutrient content and calories as independent
+variables!
+Regression results
+Nutrient No. of foods Standardized B t P
+Total fat 1346 —0.09 2.37 <0.05
+Polyunsaturated fat 1338 —0.19 —6.45 <0.001
+Total carbohydrate 1295 —0.09 —2.81 <0.005
+Total sugar 1228 —0.09 —3.34 <0.001
+Added sugar 688 —0.10 —2.58 <0.01
+Protein 1353 0.47 19.78 <0.001
+Calcium 1376 0.12 4.79 <0.001
+Tron 1367 0.12 4.79 <0.001
+Potassium 1381 0.23 9.18 <0.001
+Magnesium 1370 0.17 6.44 <0.001
+Vitamin C 873 0.07 2.32 <0.05
+! Data are from the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) (9) and the linked Center for
+Nutrition Policy and Promotion (CNPP) (10) food prices database. Analyses are based on 1387 foods from 9 food groups as
+defined by the US Department of Agriculture.
+
+COST AND NUTRITIVE VALUE 1187
+consistent with the earlier demonstration that grains, fats and to higher education and incomes (17, 18). Studies conducted by
+sweets were associated with lower energy costs than were the USDA have shown that the poor spend less on food and have
+vegetables and fruit. more-energy-dense, lower-quality diets (see reference 16).
+
+Added sugar consumption, another index of lower cost diets, is
+highest among lower-income and minority groups (16, 19).
+DISCUSSION Poverty and financial constraints may be one reason for low
+The present analyses, based on USDA nutrient composition consumption of fresh produce by the poor and near poor (20, 21).
+and food prices data sets, showed that different food groups had Ensuring access to affordable healthy foods has recently be-
+different energy costs. ANOVA by food group showed that grains — come a national priority for public health nutrition (22). Claims
+and fats had substantially lower energy costs than did vegetables _ that the lower energy cost of snacks relative to fresh fruit is
+and fruit. On a per calorie basis, grains, sugars, and fats were a mathematical artifact (2, 3) would imply that all food groups are
+cheap, whereas fruit and vegetables were more expensive. These equally affordable. If fresh fruit and added sugar really cost the
+analyses, based on contemporary data sets, replicate analogous _ same (2), then the current USDA efforts to make healthful foods
+results obtained by the USDA in 1894 (1) and again in 1902 (4). _ more affordable to the average consumer could be regarded as
+Athough calculations of energy cost as an appropriate measure of —_ misplaced.
+food price have been made by the USDA for the past 100 y, not all The fact that healthful foods cost more than less healthy
+nutritionists are convinced of the need to adjust for calories, options is a formidable real-world challenge for nutrition
+preferring instead to stay with prices per unit weight (2, 3). interventions (23, 24). No wonder that many of us would prefer to
+Regression analyses with price per 100 g as the dependent _ focus on intricate personal preferences and other psychosocial
+variable further examined the contribution of individual nutrients _ factors (2). However, the fact is that the distinction between cheap
+to food prices. Whereas carbohydrates, fats, and sugars were —_ and expensive foods has been made by US nutritionists for a very
+associated with lower food prices per 100 g, protein, vitamins, long time (1, 4). A continuing appreciation of how food costs
+and minerals were associated with higher food prices per 100g, drive food choices is needed for a more effective food and nu-
+after adjustment for energy. These analyses confirmed that  trition policy (25-27).
+nutrients associated with grains, sugars, and fats were cheaper, . . .
+" 4 ; , The author did not report any conflicts of interest.
+whereas vitamins and minerals associated with fruit and vege-
+tables were more expensive.
+Water is the main determinant of energy density of foods.
+Whereas dry grains are energy dense, low-energy-density lettuce REFERENCES . ;
+is 96% water. As noted above, larger serving sizes (RACC values) 1. Atwater WO. Foods: nutritive value and cost. Washington, DC: Gov-
+we . ernment Printing Office, 1894. (USDA Farmers Bulletin No. 23.)
+were strongly and positively linked to the foods’ water content 2. Lipsky LM. Are energy dense foods really cheaper? Reexamining the
+(Spearman’s r = 0.68). However, even though a serving of let- relation between food price and energy density. Am J Clin Nutr 2009;90:
+tuce (85 g) weighs more than a serving of grains (30 g), it is not 1397-401. ; ; oo
+clear that the lettuce provides more “food” (2). Water, which has 2 Trazag: Es Lese-enerey-denserdielsyof ow fo OED 1. Cabforta
+. . . are associated with higher energy adjusted costs but not with higher
+no nutrients or energy, is not generally recognized as “food.” daily diet costs. Am J Clin Nutr 2009:90:701.
+Atwater himself noted that, although lettuce was a very palatable 4. Milner RD. The cost of food as related to its nutritive value. Agriculture
+vegetable, it furnished practically no nutrients of concern (1). Yearbook 1902, pp. 387-406. National Agricultural Library Digital
+Protein-was the shoréfall nuftient of the fime because:vilamins Repository. Available from: http://naldr.nal.usda.gov/exe/zynet.exe/
+, YOA190204330387.xml (cited 24 July 2010).
+had not been discovered. 5. Darmon N, Briend A, Drewnowski A. Energy dense diets are associated
+According to economic historians, there was a political mo- with lower diet costs: a community study of French adults. Public Health
+tivation behind linking the nutritive value of foods with their cost. Nutr 2004;7:21-7. ; ; ;
+The first generation of nutrition scientists claimed that nutrition O. Fenliemuil ice onectench A. Replacing ts and sweets na
+could improve the living conditions of the working class, without 1555-9.
+raising wages, by showing workers how to eat more economically 7. Drewnowski A, Darmon N. Food choices and diet costs: an economic
+(14-16). The noted historian Harvey Levenstein went even analysis. J Nutr 2005;135:900-4. ; oo
+further in suggesting that Atwater wanted to reshape the diets of ° EM) Oey eae SearTiA Nie ROR ae ae,
+the working class to avoid social unrest (16). Radical political 9 USDA Food and Nutrient Database for Dietary Studies, 1.0. 2004.
+movements and labor unions of the time blamed free market Monograph on the Internet. Beltsville, MD: Agricultural Research
+capitalism for poor diets and worse living conditions (15, 16). Berace, Epo! Surveys Research ORs Oey vom aie
+The nutritionists of the time focused on making the diets of the 10. TeDRCNDE, ‘Development sithe CNPP prices vcaeditae 2008. Avail-
+working poor more thrifty and more affordable (15, 16). able from: http://www.cnpp.usda.gov/Publications/FoodPlans/MiscPubs/
+Arguably, subsidies to commodity crops (wheat, soybeans, PricesDatabaseReport.pdf (cited 24 July 2010).
+corn), as opposed to vegetables and fruit, have led to increasingly 11. US Food and Drug Administration. 2007. CFR Sec 101.9. Nutrition
+cheap calories and a food supply that is energy rich but nutrient Tebeling 01 food, ved able ron: Bp ye ny: acoessdala tda:goc/seniptsy
+poor (16). The current disparity in food prices is not an algebraic 12. Willett WE. Nutritional epidemiology. New York, NY: Oxford Univer-
+artifact but the result of long-established agricultural policies sity Press, 1998.
+(15, 16). As might be expected, lower-cost calories are prefer- 13. Maillot M, Darmon N, Darmon M, Lafay L, Drewnowski A. Nutrient
+entially consumed by lower income groups (16). dense food groups have high energy costs: an econometric approach to
+ain . . 2 . . nutrient profiling. J Nutr 2007;137:1815-20.
+Within the United States, higher diet quality—often indexed 14. Nesheim MC. Atwater initiative in food consumption. J Nutr 1994;124:
+by higher consumption of vegetables and fruit—has been linked 1833S-5S.
+
+1188 DREWNOWSKI
+
+15. Levenstein HA. The politics of nutrition in North America. Neurosci 21. Darmon N, Drewnowski A. Does social class predict diet quality? Am J
+Biobehav Rev 1996;20:75-8. Clin Nutr 2008;87:1107-17.
+
+16. Drewnowski A. Obesity and the food environment: dietary energy 22. Treuhaft S, Karpyn A. The grocery gap: who has access to healthy foods
+density and diet costs. Am J Prev Med 2004;27(3S):154—62. In: Hill and why it matters. Available from: http://vww.thefoodtrust.org/pdf/
+JO, Sturm R, Orleans CT, eds. An economic analysis of eating and GroceryGap.pdf (cited 5 August 2010).
+physical activity behaviors: exploring effective strategies to combat 23. Wilde PE, Llobrera J. Using the Thrifty Food Plan to assess the cost of
+obesity nutritious diets. J Consum Aff 2009;43:274-304.
+
+17. Drewnowski A. The real role of added sugars and fats in obesity. Epi- 24. Maillot M, Darmon N, Vieux F, Drewnowski A. Low energy density and
+demiol Rev 2007;29:160-71. high nutritional quality are each associated with higher diet costs in
+
+18. Beydoun MA, Wang Y. Do nutrition knowledge and beliefs modify the French adults. Am J Clin Nutr 2007;86:690-6.
+association of socio-economic factors and diet quality among US adults. 25. Drewnowski A, Monsivais P, Maillot M, Darmon N. Low-
+Prev Med 2008;46:145-53. energy-density diets are associated with higher diet quality and higher
+
+19. Thompson FE, McNeel TS, Dowling EC, Midthune D, Morrisette M, diet costs in French adults. J Am Diet Assoc 2007;107:1028-32.
+Zeruto CA. Interrelationships of added sugars intake, socioeconomic 26. Drewnowski A, Specter SE. Poverty and obesity: diet quality, energy
+status, and race/ethnicity in adults in the United States: National Health density and energy costs. Am J Clin Nutr 2004;79:6-16.
+
+Interview Survey, 2005. J Am Diet Assoc 2009;109:1376-83. 27. Townsend MS, Aaron GJ, Monsivais P, Keim NL, Drewnowski A.
+
+20. Drewnowski A, Barratt-Fornell A. Do healthier diets cost more? Nutr Less-energy-dense diets of low income women in California are associated
+Today 2004;39:161-8. with higher energy adjusted diet costs. Am J Clin Nutr 2009;89: 1220-6.
+

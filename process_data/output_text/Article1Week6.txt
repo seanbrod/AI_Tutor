@@ -1,0 +1,440 @@
+Preventive Medicine 101 (2017) 77-83
+Re ee ys Contents lists available at ScienceDirect = p'
+Soe < Preventive Medicine
+2 oe
+ELSEVIER journal homepage: www.elsevier.com/locate/ypmed
+De
+Sitting too much: A hierarchy of socio-demographic correlates* ® seat
+Jeroen Lakerveld **, Anne Loyen °, Nina Schotman °, Carel F.W. Peeters *, Greet Cardon °,
+Hidde P. van der Ploeg ‘, Nanna Lien “, Sebastien Chastin >*, Johannes Brug “!
+* Department of Epidemiology & Biostatistics, Amsterdam Public Health Research Institute, VU University Medical Center Amsterdam, Amsterdam, The Netherlands
+> Department of Movement and Sports Sciences, Ghent University, Ghent, Belgium
+© Department of Public and Occupational Health, Amsterdam Public Health Research Institute, VU University Medical Center Amsterdam, Amsterdam, The Netherlands
+4 Department of Nutrition, University of Oslo, Oslo, Norway
+© Institute for Applied Health Research, School of Health and Life Science, Glasgow Caledonian University, Glasgow, UK
+€ Amsterdam School of Communication Research (ASCoR), University of Amsterdam, The Netherlands
+ARTICLE INFO ABSTRACT
+Received 15 September 2016 spent sedentary is influenced and conditioned by clusters of individual-level and contextual (upstream) factors.
+Received in revised form 11 April 2017 Pan ‘ ‘ A + _
+Aeontted 7 Ma OUT? Identifying population subgroups that sit too much could help to develop targeted interventions to reduce sed:
+\ccepter lay i fi ae 4 ‘a
+Available online 25 May 2017 entary time. We explored the relative importance of socio-demographic correlates of sedentary time in adults
+across Europe.
+Keywords: We used data from 26,617 adults who participated in the 2013 Special Eurobarometer 412 “Sport and physical
+Adults : activity”. Participants from all 28 EU Member States were randomly selected and interviewed face-to-face.
+Correlates Self-reported sedentary time was dichotomized into sitting less or >7.5 h/day. A Chi-squared Automatic Interac-
+Risk-profiles tion Detection (CHAID) algorithm was used to create a tree that hierarchically partitions the data on the basis of
+Sedentary behaviour the independent variables (i.e., socio-demographic factors) into homogeneous (sub)groups with regard to sed-
+Sitting entary time. This allows for the tentative identification of population segments at risk for unhealthy sedentary
+behaviour. Overall, 18.5% of the respondents reported sitting >7.5 h/day. Occupation was the primary discrimi-
+nator. The subgroup most likely to engage in extensive sitting were higher educated, had white-collar jobs, re-
+ported no difficulties with paying bills, and used the internet frequently. Clear socio-demographic profiles
+were identified for adults across Europe who engage in extended sedentary time. Furthermore, physically active
+participants were consistently less likely to engage in longer daily sitting times. In general, those with more in-
+dicators of higher wealth were more likely to spend more time sitting.
+© 2017 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+metabolic equivalents) during waking hours (Sedentary Behavior
+. A Network, 2012) - have emerged as a public health concern in Europe
+“We seem busier than ever, but in a sedentary way” ‘i ) ‘ i P . P'
+[Sally Norton] (Owen et al., 2010; Owen et al., 2011). Sedentary behaviours have
+been associated with a range of detrimental health outcomes such as
+depression, obesity, type 2 diabetes, cardiovascular disease, and all-
+1. Introduction cause mortality (Biswas et al., 201 BE Chau et al., 2012). These outcomes
+are often independent of physical activity levels (Owen et al., 2010;
+5 F % eed Chau et al., 2013; Bennie et al., 2013; Sjéstrém et al., 2006). Especial
+Sedentary behaviours - defined as behaviours that involve sitting or : nein pte od , DEESR y
+e's ae . in western society, substantial time is spent sedentary (Owen et al.,
+reclining positions and low levels of energy expenditure (<1.5 eg
+2010). Investigating the prevalence and correlates of sedentary behav-
+y Sources of support: This work is supported by the Joint Programming Initiative jours's important fo moniter and understand Bopulation levels a8
+‘Healthy Diet for a Healthy Life’. The funding agencies supporting this work are: well as to identify at-risk populations to be targeted by interventions.
+Belgium: Research Foundation - Flanders; Ireland: The Health Research Board (HRB); So far, studies on correlates of sedentary behaviour in adults have
+The Netherlands: The Netherlands Organisation for Health Research and Development mainly focused on association of single socio-demographic correlates
+(ZonMw); Norway: The Research Council of Norway, Division for Society and Health; (risk-factors) rather than clusters of socio-demographic variables
+The United Kingdom: The Medical Research Council (MRC). ek il ith SABRE ti F 1 " tid
+* Corresponding author at: EMGO Institute for Health and Care Research, VU University (tisk-pro : es) wl s8 entaly, . IME. LOE EXAMI, PrEVIOUS StU " Hes
+Medical Center, Van der Boechorststraat 7, 1081 BT Amsterdam, The Netherlands. were consistent in finding that higher-educated people were more like-
+E-mail address; j.lakerveld@vumc.nl (J. Lakerveld). ly to sit too much (e.g. (Bennie et al., 2013; Sjdstrém et al., 2006;
+http://dx.doi.org/10.1016/j.ypmed.2017.05.015
+0091-7435/© 2017 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+78 J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83
+Bauman et al., 2011). Whereas most of these studies used multivariable sedentary time. This cut-off was chosen based on a meta-analysis of
+models taking other variables into account, they did not explore who of Chau et al. (2013) in which it was suggested that the risk of all-cause
+those highly educated people sit more or less. The interrelations across mortality increases when adults self-reported to sit more than approx-
+factors need to be taken into account in order to untangle who is sitting imately 7-8 h/day.
+too much in what contexts, and how these factors cluster.
+In Europe, recent studies have estimated the prevalence and corre- 2.2. Socio-demographic variables
+lates of sedentary time using the Eurobarometer surveys. These surveys
+are conducted biannually across the European Union and occasionally The following socio-demographic variables were assessed: 1) gen-
+include questions about sedentary behaviour. To date, these der, 2) age, 3) country of residence, 4) marital status, 5) level of educa-
+Eurobarometer surveys are the most comprehensive source of data on tion, 6) current occupation, 7) type of community, 8) number of
+population levels of sedentary time across all countries in Europe children in the household, 9) car ownership, 10) computer ownership,
+(Loyen et al., 2016a). Previous studies have used the Eurobarometer to 11) internet use frequency, 12) difficulties paying bills, and 13) life sat-
+study socio-demographic correlates associated with sedentary time, isfaction. All data were self-reported except for country of residence,
+suggesting that males, younger and highly educated people engage in which was reported by the interviewer. For trend analyses purposes,
+high levels of sedentary behaviour (i.e., >7.5 h/day) (Bennie et al., Eurobarometer still distinguishes West- and East Germany, and we
+2013; Sjéstrém et al., 2006; Loyen et al., 2016b). Bauman et al. showed combined these into Germany. Furthermore, we combined England
+similar results for a worldwide sample for young and highly educated and Northern Ireland into the United Kingdom. Marital status was
+adults, (Bauman et al., 2011) but they found no difference according recoded into five categories: (re-)married, single living with a partner,
+to gender with regard to sedentary time. In a systematic literature re- single, divorced or separated, and widowed. The level of education
+view, Rhodes et al. also suggested that gender was not significantly as- was measured by the question “How old were you when you stopped
+sociated with sedentary time (Rhodes et al., 2012) Furthermore, living full-time education?” and was recoded into four possible categories:
+in rural areas or small/medium-sized towns - as compared to more ur- up to 15 years, 16-19 years, >20 years, and still studying. Current occu-
+banized areas - was identified to be inversely correlated with sedentary pation was recoded into seven categories: self-employed (farmer/fish-
+time in the Eurobarometer studies (Sjéstrém et al., 2006; Loyen et al., erman, professional, owner of a shop, craftsmen, business
+2016b). The Eurobarometer survey wave from 2013 included additional proprietors), managers (employed professional, general management,
+socio-demographic factors that we recently used to describe the preva- middle management), white-collar (employed position at desk,
+lence and correlates of self-reported sitting time in the 28 European employed position travelling), manual worker (employed position ser-
+Union member states (Loyen et al., 2016b). The findings suggested vice job, supervisor, skilled manual worker, unskilled manual worker),
+that in addition to the factors mentioned above, white-collar employ- house persons, unemployed, retired, and students. Three ‘types of com-
+ment may be important for extended sedentary time, as well as being munity’ were distinguished: rural area or village, small or medium sized
+widowed and having a low life satisfaction (Loyen et al., 2016b). town, large town. The number of children aged <10 years and aged 10
+Our aim is to move beyond the evaluation of distinct individual-level to 14 years were combined in the variable ‘Children aged <15 years liv-
+correlates. Rather, we use a data driven approach to assess the concur- ing in the household’ and coded into four categories: none, one, two,
+rence between and clustering of potential risk factors for extended sed- three or more. Internet use frequency was measured in six categories:
+entary time, i.e., we seek to identify risk profiles. everyday/almost every day, two or three times in a week, about once
+aweek, two or three times a month, less often, never/no access. Difficul-
+2. Methods ties paying bills was measured in three categories: almost never/never,
+from time to time, most of the time. Life satisfaction was measured by
+This study was undertaken as part of the DEterminants of Dlet and the question “On the whole, are you satisfied with the life you lead”
+Physical Activity (DEDIPAC) Knowledge Hub, a joint action as part of and included four response categories: very satisfied, fairly satisfied,
+the European Joint Programming Initiative ‘a Healthy Diet for a Healthy not very satisfied, or not at all satisfied.
+Life’ (Lakerveld et al., 2014). For the current study, data from the cross-
+sectional Special Eurobarometer 412 “Sport and physical activity” were 2.3. Physical activity
+used (European Commission, 2014). The Eurobarometer surveys are
+conducted biannually in the 28 European Union Member States on be- Total physical activity was assessed using the IPAQ-short. This ques-
+half of the European Commission. In November and December 2013, tionnaire asks about the number of days and the average time respon-
+the survey was carried out by TNS Opinion & Social among approxi- dents participated in moderate and in vigorous physical activity, and
+mately 1000 participants per country. A multistage random sampling walking in the last seven days. Response options were: 30 min or less,
+design was used to sample participants per country, based on popula- 31 to 60 min, 61 to 90 min, 91 to 120 min, >120 min, ‘never’, and
+tion size and density. Each initial address was selected at random; fur- ‘don't know’. We calculated MET-minutes/week using the following for-
+ther addresses were selected by randomly selected route. In each mula: (days of vigorous PA » time in vigorous PA « 8.0) + (days of mod-
+household, the respondent with the closest birthday to the date of the erate PA » time in moderate PA » 4.0) + (days walking « time walking
+interview was selected. In total 27,919 participants were interviewed « 3.3) (Loyen et al., 2016a; The IPAQ group, 2017). In this process, we
+face-to-face in their mother tongue. took the midpoint of each category to represent the time (e.g. the ‘31
+to 60 min’ category was transformed into ‘45 min’) and capped the
+2.1. Sitting time ‘> 120 min’ category at 135 min.
+Sitting time was assessed with the question: “How much time do 2A, Statistical analyses
+you spend sitting on a usual day?” which is part of the validated short
+International Physical Activity Questionnaire (IPAQ) (Rosenberg et al., Participants were excluded from the analyses when they were aged
+2008). The IPAQ sitting question was adapted as they opted to have an- younger than 18 years old and/or when they answered ‘don't know’ on
+swering categories instead of an open ended question. There were elev- the sitting question. Descriptive statistics were used to describe the
+en response categories: 1 h or less, 1 hto 1.5h, 1.5hto2.5h,2.5hto characteristics of the total sample and the groups sitting less and
+3.5h, 3.5 hto 4.5 h, 5.5 hto6.5h, 6.5 h to 7.5 h, 7.5 h to 8.5 h, >8.5 h, >7.5 h/day. To identify the relative importance of correlates associated
+and ‘don't know’. The response categories were dichotomized into sit- with sitting too much, we employed the CHi-squared Automatic Inter-
+ting <7.5 h/day and sitting >7.5 h/day to study low versus extended action Detection (CHAID) algorithm (Kass, 1980). CHAID creates a
+
+J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83 79
+dendrogram (or tree) that hierarchically partitions the data on the basis Females were more at risk of sitting too much, but only in specific con-
+of the independent variables (i.e., socio-demographic factors) into ho- texts: when they had a white-collar job or being a manual worker,
+mogeneous (sub)groups. This allows for the tentative identification of whereas retired and self-employed men reported more sitting than
+population segments that have a higher likelihood to sit >7.5 h/day, women.
+and the resulting tree supports straightforward interpretation of com- The CHAID tree in which physical activity was added is shown in
+plex interactions. Supplementary File 2. Also here, type of occupation showed to be the
+
+The CHAID algorithm first evaluates, for each predictor (i.e. the most prominent discriminator. Activity appeared frequently and rela-
+socio-demographic variables described above), which response catego- tively high in the tree - at least for some sub-groups. Where it appeared
+ries may be merged without losing information in order to find a parsi- (e.g., in those who were retired/self-employed, and manual workers) it
+monious partition of each predictor. Then, using Bonferroni Type-I error consistently showed that those with lower activity levels were more
+control, the most discriminative predictor is chosen and the data are likely to engage in longer daily sitting times, and these subgroups
+subdivided according to its categories. For each resulting subdivision were mostly too small to further dissect. Three main high-sitting low-
+of the data (node) the process of finding the most discriminative active subgroups could be identified: 1) White collar workers from Fin-
+socio-demographic predictor is then repeated. In this way the data land, Austria, Germany, the United Kingdom, and Eastern-European
+branches out into a tree in which the nodes indicate (partitions accord- countries (RI 2.32); 2) Retired or self-employed respondents from Den-
+ing to) predictor categories. See Supplementary File 1 for additional in- mark and the Netherlands (RI 2.21); and 3) Students and managers
+formation on the CHAID algorithm and our use of it in producing a tree. from Greece, Finland, France, Germany, the United Kingdom, Malta, Po-
+
+In the visualization of the final tree the percentage of people sitting land, Romania and Slovakia (RI 2.01).
+>7.5 h/day is presented for each node, as well as the response index
+(RI). The RI is the percentage of each subgroup that sit too much, relative 4. Discussion
+to the percentage that sit too much of the total sample (ie., 18.5%). As
+such, the RI presents the direction and strength of the association simi- In this study we examined the hierarchy of socio-demographic cor-
+lar to an odds ratio. relates of engaging in extended sedentary time. CHAID analysis was
+
+As a sensitivity analysis, we repeated the analyses as above, includ- used to build a decision tree to identify profiles of adults most at risk
+ing total physical activity. This was done to test if the risk stratification of sitting >7.5 h/day. The tree showed that current occupation was the
+of too much sitting was changed by the inclusion of physical activity, primary discriminator. Highly educated adults with white-collar jobs,
+and to see which of the at risk groups of extended sitting also engaged no difficulties paying bills and frequent internet use were most likely
+in lower physical activity levels. These additional steps were not consid- to sit too much, while retired or self-employed women living in Spain,
+ered as primary analyses due to our aim to identify socio-demographic Ireland, Italy, Portugal, Malta and Slovenia, who were (re-) married
+profiles of those who sit too much. and not very satisfied with their lives were least likely to engage in ex-
+
+tended daily sitting.
+3. Results Having a desk-bound job has also been recognized as key character-
+istic in other populations (Jans et al., 2007; Mummery et al., 2005). It has
+3.1. Participants been shown that there are major differences across types of occupations
+with regard to average sitting times, and the - often desk-based - white-
+
+Of the 27,919 participants, 610 participants (2.2%) were excluded collar jobs were accountable for the majority of sedentary behaviour on
+because they were aged under 18 and 692 participants (2.5%) because workdays (Jans et al., 2007; Saidj et al., 2015). It may be a logical conse-
+they did not answer the question about sitting time. As a result, the quence that high amounts of sitting times are reached when an average
+final sample consisted of 26,617 participants. The mean age of this sam- workday in a ‘sedentary occupation’ generally consists of about 8 h.
+ple was 50.1 years (SD 17.5), and 54.7% was female. Overall, 18.5% re- Higher socioeconomic status was related to extended sedentary
+ported to sit >7.5 h/day. Demographic characteristics for the full time. Interestingly, also within the white-collar job subgroup, people
+sample and the high/low sitting groups are presented in Table 1. with a higher socioeconomic status (as indicated by proxies such as
+These descriptive results are identical to those reported in our previous higher educational attainment and having no problems paying bills)
+paper on risk correlates (Loyen et al., 2016b). were more sedentary than people with a lower socioeconomic status.
+
+The link between having a white-collar occupation and sitting too
+3.2. Hierarchy of correlates of sitting >7.5 h/day much was consistent across countries, whereas for other occupational
+groups the relation was country-specific.
+
+The final CHAID tree is shown in Fig. 1, and consists of five layers Gender was frequently picked up as a correlate of sedentary time.
+(depths), 76 groups, and 45 terminal groups. The variable that was hier- However, there did not seem to be a clear pattern as to when women
+archically most important to discriminate sitting >7.5 h/day was type of sat more or less. This could explain the inconsistency found in previous
+occupation. With an RI of 1.9, those with white-collar jobs were most at studies with regard to gender differences in extended sedentary behav-
+risk to sit >7.5 h/day, whereas house persons had the lowest likelihood iours (e.g. (Bennie et al., 2013; Bauman et al., 2011; Rhodes et al., 2012).
+(RI 0.36) (Fig. 1). The subgroup with the highest sitting rates were par- These inconsistencies may have been due to the specific socio-demo-
+ticipants with white-collar jobs that had no difficulties paying bills, re- graphic correlates under study.
+ported to frequently use the internet, and were highly educated. In Participants living in large towns consistently belonged to the sub-
+total, 47.5% of the respondents in this subgroup reported sitting group with the highest percent of sedentary time. This is in line with
+>7.5 h/day. Least likely to sit >7.5 h/day were (re)-married females the findings from the 2002 and the 2013 Eurobarometer (Sjéstrém et
+who were retired or self-employed, who lived in Spain, Ireland, Italy, al., 2006; Loyen et al., 2016b). Type of community was a recurrent var-
+Portugal, Malta, or Slovenia, and who were fairly satisfied or less iable in the model, flagging its potential importance for predicting sed-
+(2.9%, RI = 0.16). entary time. The merits of CHAID as compared to the analytical
+
+Country of residence was only a predicting factor for managers and approaches used in the previous Eurobarometer studies on sedentary
+students, and retired or self-employed participants. The variables ‘gen- behaviour is that it does not force a fixed model but allows for different
+der’ and ‘type of community’ most frequently appeared in the model, combinations of socio-demographic factors in order to identify different
+whereas the other variables only appeared once or twice. Participants subgroups (i.e. branches in the decision tree). In addition, the results
+living in urban areas consistently showed higher likelihoods of sitting allow a visual representation of the hierarchy of factors, with the
+too much as compared to those living in smaller towns or rural areas. branches typifying distinct clusters of factors that form profiles of
+
+80 J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83
+
+Table 1
+
+Demographic characteristics (mean (SD), median (IQR) or percentages) of the study sample, with the distribution of participants sitting <7.5 h/day or >7.5 h/day).
+
+N (% of total sample) Sitting < 7.5 h/day (within group %) Sitting > 7.5 h/day (within group %)
+
+Overall 26,617 (100) 21,696 (81.5) 4921 (18.5)
+Age, years (mean + SD) 50.1 + 17.5 50.2 + 17.3 49.8 + 18.3
+Gender
+Male 12,062 (45.3%) 9705 (80.5%) 2357 (19.5%)
+Female 14,555 (54.7%) 11,988 (82.4%) 2567 (17.6%)
+Country
+Netherlands 991 (3.7%) 673 (67.9%) 318 (32.1%)
+Denmark 984 (3.7%) 672 (68.3%) 312 (31.7%)
+Czech Republic 985 (3.7%) 724 (73.5%) 261 (26.5%)
+Sweden 974 (3.7%) 738 (75.8%) 263 (24.2%)
+Estonia 983 (3.7%) 759 (77.2%) 224 (22.8%)
+Croatia 978 (3.7%) 756 (77.2%) 222 (22.7%)
+Finland 942 (3.5%) 741 (78.7%) 201 (21.3%)
+Luxembourg 484 (1.8%) 384 (79.3%) 100 (20.7%)
+Greece 973 (3.7%) 779 (80.1%) 194 (19.9%)
+Slovakia 956 (3.6%) 766 (80.1%) 134 (19.9%)
+Bulgaria 947 (3.6%) 760 (80.3%) 187 (19.7%)
+United Kingdom 1267 (4.8%) 1023 (80.7%) 244 (19.3%)
+Republic of Cyprus 482 (1.8%) 390 (80.9%) 92 (19.1%)
+Austria 948 (3.6%) 768 (81.0%) 180 (19.0%)
+Germany 1531 (5.8%) 1251 (81.7%) 280 (18.3%)
+France 991 (3.7%) 810 (81.7%) 181 (18.3%)
+Poland 879 (3.3%) 721 (82.0%) 158 (18.0%)
+Belgium 1042 (3.9%) 856 (82.1%) 186 (17.9%)
+Latvia 964 (3.6%) 796 (82.6%) 168 (17.4%)
+Lithuania 963 (3.6%) 802 (83.3%) 161 (16.7%)
+Romania 927 (3.5%) 794 (85.7%) 133 (14.3%)
+Slovenia 1094 (4.1%) 960 (87.8%) 134 (12.2%)
+Malta 488 (1.8%) 430 (88.1%) 58 (11.9%)
+Hungary 974 (3.7%) 859 (88.2%) 115 (11.8%)
+Italy 955 (3.6%) 850 (89.0%) 105 (11.0%)
+Ireland 953 (3.6%) 854 (89.6%) 99 (10.4%)
+Portugal 980 (3.7%) 882 (90.0%) 98 (10.0%)
+Spain 982 (3.7%) 895 (91.9%) 87 (8.9%)
+Marital status
+(Re-) married 14,084 (52.9%) 11,727 (83.3%) 2357 (16.7%)
+Single living with partner 2977 (11.2%) 2376 (79.8%) 601 (20.2%)
+Single 4420 (16.6%) 3493 (79.0%) 927 (21.0%)
+Divorced or separated 2221 (8.3%) 1792 (80.7%) 429 (19.3%)
+Widow 2535 (9.5%) 2015(79.5%) 520 (20.5%)
+Level of education
+Up to 15 years education 4540 (17.0%) 3911 (86.1%) 629 (13.9%)
+16-19 years education 11,794 (44.3%) 9964 (84.5%) 1830 (15.5%)
+20+ years education 8500 (31.9%) 6494 (76.4%) 2006 (23.6%)
+Still studying 1270 (4.8%) 914 (72.0%) 356 (28.0%)
+Current occupation
+Self-employed 1971 (7.4%) 1625 (82.5%) 346 (17.5%)
+Managers 2662 (10.0%) 1856 (69.7%) 806 (30.3%)
+White-collar 3205 (12.0%) 2080 (64.9%) 1125 (35.1%)
+Manual worker 5368 (20.2%) 4487 (91.0%) 481 (9.0%)
+House persons 1929 (7.2%) 1800 (93.3%) 129 (6.7%)
+Unemployed 2153 (8.1%) 1910 (88.7%) 243 (11.3%)
+Retired 8059 (30.3%) 6621 (82.2%) 1438 (17.8%)
+Student 1270 (4.8%) 914 (72.0%) 356 (28.0%)
+Children aged < 15 years living in household
+None 19,969 (75.0%) 16,209 (81.2%) 3760 (18.8%)
+One 3401 (12.8%) 2773 (81.5%) 628 (18.5%)
+Two 2458 (9.2%) 2015 (82.0%) 443 (18.0%)
+Three or more 789 (3.0%) 696 (88.2%) 93 (11.8%)
+Computer ownership
+Yes 19,798 (74.5%) 15,953 (80.6%) 3845 (19.4%)
+No 6819 (25.6) 5740 (84.5%) 1079 (15.8%)
+Car ownership
+Yes 19,027 (71.5%) 15,548 (81.7%) 3479 (18.3%)
+No 7595 (28.6) 6145 (81%) 1445 (19.0%)
+Internet use
+Every day/almost every day 15,031 (56.5%) 11,669 (77.6%) 3362 (22.4%)
+Two or three times in a week 2556 (9.6%) 2270 (88.8%) 286 (11.2%)
+About once a week 804 (3.0%) 731 (90.9%) 73 (9.1%)
+
+J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83 81
+Table 1 (continued)
+N (% of total sample) Sitting < 7.5 h/day (within group %) Sitting > 7.5 h/day (within group %)
+Two or three times a month 308 (1.2%) 268 (87.0%) 40 (13.0%)
+Less often 579 (2.2%) 521 (90.0%) 58 (10.0%)
+Never/no access 7339 (27.6%) 6234 (84.9%) 1105 (15.1%)
+Difficulties paying bills
+Almost never/never 15,455 (58.1%) 12,273 (79.4%) 3182 (20.6%)
+From time to time 7334 (27.6%) 6228 (84.9%) 1106 (15.1%)
+Most of the time 3394 (12.8%) 2850 (84.0%) 544 (16.0%)
+Life satisfaction
+Very satisfied 6282 (23.6%) 5016 (79.4%) 1266 (20.6%)
+Fairly satisfied 14,375 (54%) 11,754 (84.9%) 2621 (15.1%)
+Not very satisfied 4518 (17.0%) 3776 (93.6%) 742 (16.4%)
+Not at all satisfied 1299 (4.9%) 1036 (79.7%) 263 (20.3%)
+Type of community
+Rural area or village 9124 (34.3%) 7766 (85.1%) 1357 (14.9%)
+Small or medium sized town 9983 (37.5%) 8119 (81.3%) 1864 (18.7%)
+Large town 7495 (28.2%) 5794 (77.3%) 1701 (22.7%)
+Total physical activity
+MET min/week (median (Q1;Q3)) 1667 (720;3353) 1787 (780;3638) 1160 (477;2300)
+those more prone to extensive sedentary behaviour. CHAID has proven known to underestimate actual sitting time, (Healy et al., 2011) so actu-
+useful before in a study on breast cancer, which fed into the develop- al sedentary time was presumably higher than presented here. On the
+ment of preventive strategies, (Wewers et al., 2012) as well as ina other hand, the same was true for the studies included in the meta-anal-
+study that focused on the hierarchy of correlates of walking and obesity ysis which we used for the 7.5 h/day cut point (Chau et al., 2013). Fur-
+(Frank et al., 2008). thermore, whereas the focus of the current study was on socio-
+The data-driven clusters of factors that were identified here reflect demographic profiles, there are other types of correlates of sedentary
+many of the primary clusters of determinants from a systems-based behaviour - including behavioural correlates - that may act as important
+framework of sedentary behaviour that was recently developed discriminators of those who engage in extended sedentary time
+(Chastin et al., 2016). The Systems of Sedentary behaviours (SOS) (O'Donoghue et al., 2016). Lastly, Despite these limitations we were
+framework was established through an international multidisciplinary able to use this large sample covering a large geographical area to con-
+consensus process and described sedentary behaviour as the complex struct a multi-layered CHAID tree, thus enabling insight as to what
+interaction of six primary cluster of determinants, most of which socio- demographic factors matter most in relation to sitting too much.
+showed to play a large role in the hierarchy of factors we found here: Many interventions to reduce sitting time in adults have been imple-
+physical health and wellbeing, psychology and behaviour, built and nat- mented and evaluated over the past few years, so far with small effects,
+ural environment, social and cultural context, institutional settings and if any (Martin et al., 2015; Lakerveld et al., 2013; Shrestha et al., 2016).
+politics and economics (Chastin et al., 2016). The socio-demographic profiles identified here can be used to target
+The high-sitting subgroups that are also less active may especially be and tailor interventions to groups more at risk. Based on the results pre-
+relevant targets for interventions, as recent findings suggest that the ill- sented here, the work environment may especially be an important
+effects of sitting too much may be reduced if people are highly active context for interventions to reduce sedentary time - especially for peo-
+(Ekelund et al., 2016). The tree to which physical activity was added ple with desk-jobs and students. In addition, the results indicate that the
+as a predictor variable also showed that type of occupation was, again, association of gender with sedentary time may be context-dependent.
+the main predictor. Physical activity appeared rather ‘high’ in the tree Moreover, the finding that frequency of internet use is an important cor-
+consistently showing that those with lower levels of activity had a relate opens up opportunities for web-based interventions. Finally, the
+higher likelihood to be sedentary. The addition of the activity variable findings add to a growing body of literature that focus on upstream fac-
+also resulted in a slight hierarchical rearrangement of other variables. tors that partially explain health-related behaviours (Lakerveld and
+Interestingly, country of residence now appeared often as discriminator. Mackenbach, 2017). People in urban environments and people that
+Because of the addition of physical activity and because country often work in desk-based settings may especially benefit from targeted poli-
+consisted of many categories, the resulting tree had more branches, cies and interventions.
+but also prevented further dissection of branches as the sample sizes
+per branch were relatively small. 5: Conchisions
+al Strengths.and linmitations Higher socio-economic status subgroups were generally more likely
+Classification trees have certain limitations, the most pressing ones 6 of oP extended uimiegs compared Es peop le wine lowen aca
+being instability and proneness to overfitting. As stated above, mini- nomic status: Typesot oe ee was the primary discriminator: Inad
+mum parent-node and child-node sizes were specified to be quite dition: gender, level of ipanisationiand oe use Were Jnportant
+large in order to prevent overfitting. Moreover, as the sample size is mate of sitting >7.5 h/day. Gender differences depended on the
+large, small data-perturbations will not exert a large effect on the final specie context. . . ‘ .
+Be : Supplementary data to this article can be found online at http://dx.
+tree. The final tree must, however, be understood conditional on the in- doi.org/10.1016/j.ypmed.2017.05.015
+cluded variables: Variable inclusion and/or exclusion will change the ‘ . . —
+tree. Hence, the analysis has an exploratory rather than confirmatory
+thrust. Other limitations include the cross-sectional nature of the Conflicts of interest
+study, which does not allow for causal inference. In addition, the total
+daily sitting time was self-reported. Self-reported sitting time is None declared.
+
+82 J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83
+g Acknowledgements
+fa Py
+& — 4 The preparation of this paper was supported by the DEterminants of
+s i 2 Diet and Physical ACtivity (DEDIPAC) knowledge hub. This work is sup-
+aes | g ported by the Joint Programming Initiative ‘Healthy Diet for a Healthy
+ai & Life’. The funding agencies supporting this work are (in alphabetical or-
+- 3 der of participating Member State): Belgium: Research Foundation
+Bs He a Flanders; Ireland: The Health Research Board (HRB); The Netherlands:
+fi = a The Netherlands Organisation for Health Research and Development
+z (ZonMw) (200600003); Norway: The Research Council of Norway, Di-
+Ip LSU s vision for Society and Health; The United Kingdom: The Medical Re-
+Pras ] & search Council (MRC).
+“5 is 4
+— Ei References
+te WL # fs § Bauman, A, Ainsworth, B.E., Sallis, J.F., et al., 2011. The descriptive epidemiology of sitting:
+Re — Aa 2 a 20-country comparison using the international physical activity questionnaire
+—s | ge (|e a (IPAQ). Am. J. Prev. Med. 41, 228-235.
+| He | Bi | fils FI Bennie, J.A., Chau, J-Y., van der Ploeg, H.P., Stamatakis, E., Do, A. Bauman, A.E., 2013. The
+eal - = Ee 2 prevalence and correlates of sitting in European adults - a comparison of 32
+he Be = Fl Eurobarometer-participating countries, Int. J. Behav. Nutr. Phys. Act. 10, 107.
+Hi ar) Ee Biswas, A., Oh, P.L, Faulkner, G.E., et al, 2015. Sedentary time and its association with risk
+~ — Be Pa for disease incidence, mortality, and hospitalization in adults. Ann. Intern. Med. 162,
+We Leta] 3 123-132.
+7 Be aia = i Chastin, S.F.M., De Craemer, M., Lien, N., et al., 2016. The SOS-framework (Systems of
+= nny e Sedentary behaviours): an international consensus transdisciplinary framework
+s* ie | lari a and research priorities for the study of determinants of sedentary behaviour and
+Ea g policy across the life course: a DEDIPAC study. Int. J. Behav. Nutr. Phys. Act. 13,
+=, IL 83.
+soo fi | Chau, J-Y., Merom, D., Grunseit, A.C., Rissel, C., Bauman, A.E., van der Ploeg, H.P., 2012.
+ils oes Ss Temporal trends in non-occupational sedentary behaviours from Australian Time
+MR z Use Surveys 1992, 1997 and 2006. Int. J. Behav. Nutr. Phys. Act. 9, 76.
+HE = # eo Chau, J-Y., Grunseit, A.C. Chey, T., et al., 2013. Daily sitting time and all-cause mortality: a
+i us bo meta-analysis. PLoS One 8, 1-14.
+FF € Ekelund, U., Steene-Johannessen, J. Brown, W,J., et al., 2016. Does physical activity atten-
+_ fe a uate, or even eliminate, the detrimental association of sitting time with mortality? A
+i a 5, ie ai 2 harmonised meta-analysis of data from more than 1 million men and women. Lancet
+a EA - Ee & 388, 1302-1310.
+— - HA = z European Commission, 2014. Special Eurobarometer 412 - Sport and Physical activity.
+gr fe - i Frank, L.D., Kerr, J., Sallis, J.F., Miles, R., Chapman, J., 2008. A hierarchy of
+ve ih. o sociodemographic and environmental correlates of walking and obesity. Prev.
+® ale & Med. 47, 172-178.
+fasts | Go Wada & Healy, G.N., Clark, B.K, Winkler, E.A.H., Gardiner, P.A., Brown, WJ., Matthews, CE., 2011.
+fan] Be: (LJ BE Il tits 8 Measurement of adults' sedentary time in population-based studies. Am. J. Prev.
+- & |e [me Le) 8 Med. 41, 216-227.
+He t & Jans, MLP., Proper, K.L, Hildebrandt, V.H., 2007. Sedentary behavior in dutch workers. Dif-
+= # ais & ferences between occupations and business sectors. Am. J. Prev. Med. 33, 450-454.
+ke in ee 2 Kass, G.V., 1980. An exploratory technique for investigating large quantities of categorical
+;. fe |] fae I 3 data. J. R. Stat. Soc.: Ser. C: Appl. Stat. 29, 119-127.
+£ # g Lakerveld, J., Mackenbach, J.D., 2017. The upstream determinants of obesity. Obes. Facts
+| * OW | “J 3 10 (3), 216-222.
+ro.) Se ‘Ss Lakerveld, J., Bot, S.D., van der Ploeg, H.P., Nijpels, G., 2013. The effects of a lifestyle inter-
+4 on 2 vention on leisure-time sedentary behaviors in adults at risk: the Hoorn Prevention
+is =] Study, a randomized controlled trial. Prev. Med. 57, 351-356.
+——, 3 Lakerveld, J., van der Ploeg, H.P., Kroeze, W., et al., 2014. Towards the integration and de-
+| ie o velopment of a cross-European research network and infrastructure: the DEtermi-
+| Fe is S nants of Dlet and Physical ACtivity (DEDIPAC) Knowledge Hub. Int. J. Behav. Nutr.
+- Ha | gs Phys. Act. 11, 143.
+ie a g Loyen, A., Verloigne, M., Van Hecke, L,, et al., 2016a. Variation in population levels of sed-
+Fal Be, g entary time in European adults according to cross-European studies: a systematic lit-
+Tele ne 5 erature review within DEDIPAC. Int. J. Behav. Nutr. Phys. Act. 13, 1-11.
+a we = y Loyen, A., Van Der Ploeg, H.P., Bauman, A,, et al., 2016b. European sitting championship:
+“EJ Le is S prevalence and correlates of self-reported sitting time in the 28 European Union
+%, bs 2. Member States. PLoS One 11.
+rs Le Martin, A., Fitzsimons, C., Jepson, R., et al., 2015. Interventions with potential to reduce
+_ fie fs} Pa sedentary time in adults: systematic review and meta-analysis. Br. J. Sports Med.
+{3, | # a5 49, 1056-1063.
+Fe g & Mummery, W.K, Schofield, G.M., Steele, R., Eakin, E.G., Brown, W,J., 2005. Occupational
+gy sitting time and overweight and obesity in Australian workers. Am. J. Prev. Med.
+PA a ae 29, 91-97.
+BEE 3 O'Donoghue, G., Perchoux, C., Mensah, K,, et al., 2016. A systematic review of correlates of
+= £ = sedentary behaviour in adults aged 18-65 years: a socio-ecological approach. BMC
+(# || Ee ge Public Health 16, 163.
+|e re —- 7 < P| Owen, N., Healy, G.N., Matthews, C.E., Dunstan, D.W., 2010. Too much sitting: the popula-
+sl - ( ihe a z i=} tion health science of sedentary behavior. Exerc. Sport Sci. Rev. 38, 105-113.
+The lo) S2 Owen, N., Sugiyama, T., Eakin, E.E., Gardiner, PA, Tremblay, MS., Sallis, J.F., 2011. Adults’
+i —— oe sedentary behavior determinants and interventions. Am. J. Prev. Med. 41, 189-196.
+| de (LE G A Rhodes, RE., Mark, RS., Temmel, C.P., 2012. Adult sedentary behavior: a systematic re-
+Wan] & an view. Am. J. Prev. Med. 42, e3-e28.
+= ii = ae Rosenberg, D.E., Bull, F.C., Marshall, ALL, Sallis, S.F., Bauman, A.E., 2008. Assessment of sed-
+Ee oh — entary behavior with the International Physical Activity Questionnaire. J. Phys. Act.
+gs Health 5, S30-S44.
+
+J. Lakerveld et al. / Preventive Medicine 101 (2017) 77-83 83
+Saidj, M., Menai, M., Charreire, H., et al., 2015. Descriptive study of sedentary behaviours Sjéstrém, M., Oja, P., Hagstrémer, M., Smith, BJ., Bauman, A., 2006. Health-enhancing
+in 35,444 French working adults: cross-sectional findings from the ACTI-Cités study. physical activity across European Union countries: the Eurobarometer study. Int.
+BMC Public Health 15, 379. J. Public Health 14, 291-300.
+Sedentary Behavior Network, 2012. Letter to the editor: standardized use of the terms The IPAQ group, . International Physical Activity Questionnaire (IPAQ). [Internet].
+‘sedentary’ and ‘sedentary behaviours’. Appl. Physiol. Nutr. Metab. 37, 540-542. Accessed May 2017, Available from:. https: //sites.google.com/site/theipaq/.
+Shrestha, N., Kukkonen-Harjula, K.T., Verbeek, J.H., Ijaz, S., Hermans, V., Bhaumik, S., 2016. Wewers, M.E., Salsberry, PJ., Ferketich, A.K., Ahijevych, K.L., Hood, N.E., Paksett, E.D., 2012.
+Workplace interventions for reducing sitting at work. Cochrane Database Syst. Rev. Risk factors for smoking in rural women. J. Women's Health 21, 548-556.
+17, CD010912.
+

@@ -20,7 +20,7 @@ def ocrTesseract():
     text_store = []
     for filename in os.listdir(dir):
         try:
-            file_path = dir+"\\"+filename
+            file_path = dir + "\\"+filename
             image = Image.open(file_path)
             text = pytesseract.image_to_string(image, config="--psm 6")
             text_store.append(text)
@@ -34,9 +34,10 @@ def main():
     output_path = "process_data\\output_text\\"
     convertPDF_to_JPG(fileName)
     ocr_proposal = ocrTesseract()
-    with open(output_path+"output.txt", "w") as f:
+    with open(output_path + fileName[:-3] + "txt", "w") as f:
         for item in ocr_proposal:
             f.write(str(item)+"\n")
+    print("complete")
 
 if __name__=="__main__":
     main()

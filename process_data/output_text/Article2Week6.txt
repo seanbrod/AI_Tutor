@@ -1,0 +1,472 @@
+See corresponding editorial on page 1007.
+. sys 413
+The cost of US foods as related to their nutritive value
+Adam Drewnowski
+ABSTRACT energy than did strawberries (4480 compared with 280 kcal) was
+Background: Comparisons of the cost of different foods relative to not viewed as relevant (3).
+their energy and nutritive value were conducted in the 1800s by the In 1894, Atwater recognized that different foods varied greatly
+US Department of Agriculture (USDA). in the proportion of water they contained (1). Because water
+Objective: The objective was to reestablish the relations between contributed to food weight but supplied neither nutrients nor
+food cost, energy, and nutrients by using contemporary nutrient calories, Atwater ignored food weight and calculated instead the
+composition and food prices data from the USDA. amounts of energy and nutrients that could be obtained from
+Design: The USDA Food and Nutrient Database for Dietary Studies —_ different foods for a given price. At the time, corn meal, wheat
+1.0 (FNDDS 1.0) and the Center for Nutrition Policy and Promotion flour, and sugar provided the most calories for 25 cents (1).
+food prices database were used for analysis. For 1387 foods, key Writing on the nutritive value and cost of food in 1902, Milner
+variables were as follows: energy density (keal/g), serving size (g), (4) had this to say about the cost of fresh produce compared with
+unit price ($/100 8), serving price (S/serving), and energy cost grains: “Cabbage at 2.5 cents per pound seems cheap, but 10 cents
+(Sikcal). A ‘Tegtession model tested associations between nutrients Worth of cabbage furnishes 500 calories of energy while 10 cents
+and unit De ($/100 g). Comparisons between food groups were worth of wheat flour at 3 cents per pound furnishes 5490 calories
+tested by using one-factor analyses of variance. Relations between of energy and is truly cheap” (4). In 2009, an article in the Journal
+energy density and price within food groups were:tested by using sin) questioned whether energy-dense grain snacks were really
+Spearman's sorrelations: ; . a cheaper than fresh produce—on the basis of prices per package
+Results: Grains and fats food groups supplied the lowest-cost di- and prices per gram (2). Yet, calculations of energy cost, whether
+etary energy. The energy cost for vegetables was higher than that for ¢ z
+, oe : expressed as dollars per calorie or calories per dollar, have been
+any other food group except for fruit. Serving sizes increased with
+sae , ; around for more than one hundred years.
+water content and varied inversely with energy density of foods. The .
+‘ : ‘ The 1902 yearbook of the US Department of Agriculture
+highest prices per serving were for meats, poultry, and fish, and the : :
+: . (USDA) even grouped foods according to their energy costs (4).
+lowest prices per serving were for the fats category. Although car- Sas z
+. ‘ é Cheap foods, providing >1900 calories for 10 cents were ce-
+bohydrates, sugar, and fat were associated with lower price per :
+Z es Z . mont : reals, sugars, starches, lard, dried beans and peas, cheap cuts of
+100 g, protein, fiber, vitamins, and minerals were associated with
+i . =. meat, salt pork and bacon, potatoes, and sweet potatoes. By
+higher price per 100 g, after adjustment for energy. & aa :
+Hee Pinta cs s en . Han , contrast, “expensive” foods that provided <800 calories for 10
+Conclusions: Grains and sugars food groups were cheaper than _
+vegetables and fruit per calorie and were cheaper than fruit per cents were lean theats and fish, chicken, eggs, green vegetables,
+serving. These price differentials may help to explain why low- and most fresh fruit. Then as now, grains and Sugars were
+cost, energy-dense foods that are nutrient poor are associated with cheaper than fresh produce (4). Far from viewing such in-
+lower education and incomes. Am J Clin Nutr 2010;92:1181-8. formation as irrelevant (3), the 1902 USDA yearbook (4) pointed
+to the many applications that could be made of the knowledge of
+the relation between cost and the nutritive value of food.
+
+By using more contemporary nutrient composition data sets
+and food prices from France, Darmon et al (5) confirmed that dry,
+energy-dense foods provided lower-cost calories than did fresh
+
+INTRODUCTION produce. As confirmed in multiple studies (6-8), fats, grains,
+
+In comparing the cost of different foods, “we are apt to judge
+
+them by the prices per pound, quart or bushel, without much ' From the Center for Public Health Nutrition, School of Public Health,
+regard to the amounts or kinds of actual nutrients which they University of Washington, Seattle, WA.
+
+contain.” Those words, written by Wilbur Atwater in 1894 (1), 2 Supported by USDA Cooperative State Research, Education, and Exten-
+still hold true today. Recent articles in the Journal have ques- Sion Service grant 2004-35215-14441 on obesity and poverty and by NIH
+tioned the use of a calorie adjustment to compare the cost of grants RO] DK 076608 and R21 DK085406 on food environment, diet
+different foods, arguing instead for the use of prices per package. quality, and. dispanties/imiobestty:
+
+100 ° ¥ 2). One| a 3 d that i , 3 Address correspondence to A Drewnowski, 305 Raitt Hall #353410,
+per 8, oF per serving ( ). ne etter writer (3) stated t al ab was University of Washington, Seattle, WA 98195-3410. E-mail: adamdrew@
+not useful to know that tortilla chips were cheaper per calorie than _y washington.edu.
+were fresh strawberries, as long as the 2 packages cost the same, Received January 30, 2010. Accepted for publication July 27, 2010.
+$3.99. The fact that the tortilla chips provided 16 times more First published online August 18, 2010; doi: 10.3945/ajcn.2010.29300.
+Am J Clin Nutr 2010;92:1181-8. Printed in USA. © 2010 American Society for Nutrition 1181
+
+1182 DREWNOWSKI
+sugar, beans, and potatoes had substantially lower energy costs _ price ($/100 g), serving price ($/serving), and energy cost
+than did lean meat, fish, lettuce, or fresh fruit (3). ($/kcal).
+Given suggestions that the low energy cost of grains relative to
+fresh produce was the result of an autocorrelation (2), itistimeto — Fygd and Drug Administration serving sizes
+revisit the concept of food prices per calorie compared with prices Common food ‘portions provided inthe FNDDS were replaced
+per bushel. The present research updates the seminal work of z Ae 5
+Atwater by using USDA nutrient composition and food prices wae US Food aad DIUe pdounis ation (ebay aneadated
+daia (9, 10). To counter'suegestions that the:low costiof energy: serving sizes—ie, Reference Amounts Customarily Consumed or
+z . . : RACC values (11). The FDA uses 139 different values for serving
+dense foods was merely an arithmetic artifact (2), random variables . a :
+for calculating enerey density and energy cost were generated for S12°S obtainable from a list of FDA standards. RACC values are
+g sy ry By g -
+all foods tested set lower for energy-dense sugar (4 g), fats and oils (15 g), and
+cereals (30 g) than for lower-energy-density meats (85 g), vegetables
+and fruit (120 g), or soups, fluid milk, and beverages (240 g). By
+METHODS definition then, typical serving sizes are higher for fresh produce
+. . than for dry, energy-dense snacks. In the present data set, and
+Nutrient and food prices datahases depending . fol can the weight of a bas serving of food
+The nutrient composition database ranged from 1 to 280 g, and calories per serving ranged from | to
+The USDA Food and Nutrient Database for Dietary Studies 1.0 533 kcal. Serving sizes and water content of foods were inversely
+(FNDDS 1.0) is used to code, process, and analyze the What We __ linked (Spearman’s correlation coefficient: 0.68). The relation
+Eat in America food intake data (9). The files include detailed between serving sizes (RACC values) and the energy density of
+food descriptions for 6940 foods from all food groups, typical foods is shown in Figure 1.
+food portions and weights, method of preparation (where
+available), nutrient values for energy and 60 nutrients, and links — Exclusion criteria
+to the USDA Standard Release (SR) Ruede cOmpasifion The present analyses were limited to those foods for which the
+databases @). The primary description of'a given food : linked frequency of consumption in the NHANES database was >5
+watt a unique B-digit identification: code. The finsts digit in the eating occasions. On the basis of second- and third-digit codes,
+code identifies. one of the major food groups: J) milk and milk infant formulas, baby foods, alcohol, and mixed foods were
+products; 2) meat, poultry, and fish; 3) eggs; 4) dry beans, legumes, removed. Foods such as human milk, dry flour and biscuit
+nuts and seeds; 5) grain products, 6) fruit; 7) vegetables, 8) fats, mixes, intense sweeteners and nondairy creamers, chewing gum,
+oils, and salad dressings; and 9) sugars, sweets, and beverages. ang therapeutic formulas including electrolyte solutions and
+These food Broups will be referred to in text as milk, meat, £888, meal replacements were also removed. The database was edited
+beans, grains, fruit, vegetables, fats, and sugars, respectively. further to remove all duplicate lines, items for which no further
+The full USDA appellation will be used in the tables and figures. specification was provided (eg, “meat, NFS” or “sandwich, NES)”,
+The second digit identifies subgroups within each major food and other nonspecific items (eg, “vegetable, NS as to type”). To
+group (eg, milk and milk drinks, creams, cheeses, and milk allow calculations of nutrient density and cost per 100 kcal,
+desserts), including mixed foods, whereas the third and sub- bottled water (0 kcal) and diet foods and diet beverages with an
+sequent digits provide ever-finer discrimination down to the energy density close to zero (<10 kcal/100 g) were excluded.
+individual food item. The 9 major food groups created for an-
+alytic purposes were based on the first digit of the 8-digit food 200 >
+identification code. As is common in all nutrient composition
+databases, nutrient values are provided per 100 g of food 800
+product, edible portion corrected for preparation and waste. 700 | .
+The food prices database & coi ° f,
+The Center for Nutrition Policy and Promotion (CNPP) food 2 a laef . °¢
+prices database (10), released in May 2008, was based on in- § LH |
+formation from the 2001-2002 National Health and Nutrition > 400 ‘| q ‘<
+Evaluation Survey (NHANES), the FNDDS 1.0, the National Fy e e 3
+Nutrient Database for Standard Reference (SR 16.1 and 18), and ww 300 7 a Py é
+the Nielsen Homescan Consumer Panel. To arrive at food prices, 200 e on? ? e
+foods reported as consumed by 2001-2002 NHANES partic- ik $: 38 ae ec;
+ipants were disaggregated into components. Yield factors were 100 © hee 8 t 8 ° .% we
+applied to individual ingredients and to the entire dish. This 0 af “a ge . 8 e
+procedure converted foods-as-consumed to foods-as-purchased, 0 100 200 300
+with prices obtained from the Nielsen panel. One national price,
+corrected for preparation and waste and expressed per gram of PDAiseming: size In. 6 (RACC)
+edible portion, was provided for each food that was listed as FIGURE 1. The relation between serving sizes defined by the US Food
+frequency of consumption was >1). All foods carried the same foods in the US Department of Agriculture Food and Nutrient Database
+8-digit code as the FNDDS 1.0. Food price measures were unit for Dietary Studies (FNDDS) (9).
+
+COST AND NUTRITIVE VALUE 1183
+Foods that cost between 0 and 5 cents per 100 g were also ex- Price per 100 g = 5, calories + by nutrient (J)
+cluded. The final analyses were based on a total of 1387 foods,
+which represented all 9 major USDA food groups. and b represent regression coefficient. Within food groups, the
+relations between energy density and unit price and serving price
+were examined by using Spearman’s correlation analyses. An
+Observational compared with randomly generated data level of 0.05 was used to determine statistical significance.
+The observation that energy-dense grains cost more per calorie
+than does fresh produce was recently called an algebraic artifact
+(2). The suggestion was that the apparent low cost of energy- | RESULTS
+dense foods was the result of having calories in the numerator and
+denominator, and that comparable results could be obtained by Energy density and prices by food group
+using a random-number data set (2). A random-number generator The characteristics of the 1387 foods, separately for each
+was therefore used to create 3 variables—A, B, and C—for the major food group, are shown in Table 1. The number of different
+present study. Each variable had 1387 values drawn independently —_ foods in each group is also indicated. Tests across food groups
+from a uniform distribution between 1 and 100 to avoid dividing were conducted by using one-factor ANOVA followed by
+by zero. From these randomly generated variables, 2 ratio vari- comparisons of means by using the Bonferroni correction. For
+ables A/B and C/A were constructed to represent “energy density” energy density, the effect of food group was significant [F(8,
+(kcal/g) and “energy cost” ($/kcal), respectively, so that obser- 1378) = 122.1, P < 0.001]. The mean energy density of fats was
+vational data could be compared directly with randomly generated significantly higher than for all the other food groups except for
+results (2). grains and beans (P < 0.001). The mean energy density of
+grains and beans was significantly higher than for all other food
+co groups except for fats (P < 0.01). The mean energy density of
+Statistical analyses sugars was significantly lower than for fats, grains, and beans
+All analyses were performed by using the Statistical Package —_ and significantly higher than for milk, vegetables, and fruit. Milk
+for the Social Sciences (SPSS) version 11.0 (SPSS Inc, Chicago, and eggs did not differ. Vegetables and fruit had significantly
+IL). Differences in energy density and energy cost across food _ lower energy density than did all of the other food groups except
+groups were established by using one-factor analysis of vari- for eggs.
+ance (ANOVA) followed by post hoc comparisons between For mean water content (g/100 g), the effect of food group was
+means by using Bonferroni correction. Scatter plots were used also significant [F(8, 1378) = 164.6, P < 0.001]. The water
+to show the relation between energy density and energy cost content of grains was significantly lower than that for any other
+in the observational data and between the A/B and C/Avariables — food group. The water content of vegetables and fruit was sig-
+in the randomly generated data set. Additional analyses based __ nificantly higher than that for every other food group except for
+on a regression model applied to the observational data ex- eggs. The water content of beans was significantly higher than
+amined the relation between nutrient content of foods and unit __ that for grains but significantly less than for vegetables and fruit.
+price ($/100 g) controlled for calories. Those analyses were Mean serving sizes for fats were significantly lower than those
+based on the standard multivariate model proposed by Willett for every other food group except for eggs. Mean serving sizes for
+(12), where fruit were significantly higher than those for every other food
+TABLE 1
+Characteristics of 1387 foods from the Food and Nutrient Database for Dietary Studies and the Center for Nutrition Policy and Promotion food prices
+database by 9 major food groups as defined by the US Department of Agriculture (USDA)!
+Energy Serving size Price per Price per
+Major USDA food groups No. of foods density Water content (RACC) 100 g serving Energy cost
+kcal/100 g 9/100 g g $/100 g S/serving $/100 keal
+Milk and milk products 134 182+ 112% 66 +17" 112 + 89°” 0.40 + 031°? 0.26 + 0.17 0.23 + 0.13
+Meat, poultry, and fish 196 224 + 98" = 60 + 14" so+si** 0.80 + 0.44" 0.63 + 0.38” 0.41 + 0.31°
+Eggs 8 71+ 7484-724 10" 65 + 2874"F 09.32 + 0.162" 0.24 + 0.21 0.22 + 0.142
+Dry beans, legumes, 62 330+ 217° 40 + 334 16 + 62° 0.50 + 0.47** 0.26 + 0.22" 0.18 + 0.17°
+nuts, and seeds
+Grain products 435 337 + 110° 24 + 23° 63 + 53° 0.47 + 0.3%" 0.23 + 0.20*° 0.14 + 0.10*
+Fruit 93 67 + 56° 82 + 15° 187 + 77 0.28 + 0.22°¢ 0.40 + 0.334* 0.54 + 0.48?
+Vegetables 257 83 + 80° so+17 102+ 59°" 0.33 + 0.26 0.29 + 0.33°°*" 0.68 + 0.69
+Fats, oils, and salad dressings 51 390 + 226° 47 + 23°4 22 + 9° 0.37 = 0.18°°*"= 0,09 + 0.08° 0.17 = 0.19*
+Sugars, sweets, and beverages 151 242+ 1904 45 + 304 119 + 102" 0.40 + 0.41%" 0.23 + 0.18" 0.22 + 0.21*
+P values (one-factor ANOVA) _ <0.001 <0.001 <0.001 <0.001 <0.001 <0.001
+’ Data are from references 9 and 10. RACC, Reference Amounts Customarily Consumed. Statistical tests are based on post hoc comparisons after one-
+factor ANOVA and by using Bonferroni correction. Values with different superscript letters are significantly different from each other.
+? Mean + SD (all such values).
+
+1184 DREWNOWSKI
+0.9
+0.8 Meat, poultry, fish e
+B ov
+°
+S
+5 06
+— Dry beans, legumes, nuts, seeds
+a
+3% Milk and milk product ®
+= MS Ane mubprocucys Fats and oils
+5 04 eo @ crins @
+= Vegetables
+rd Eggé @ Sugars, sweets, beverages
+g os Fruit
+c
+S 0.2
+=
+0.1
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+FIGURE 2. The observed relation between median energy density (kcal/100 g) and median unit cost ($/100 g) for 9 major food groups as defined by the US
+Department of Agriculture. Total number of foods = 1387.
+group. Mean serving sizes for grains were significantly different | were not systematically linked to food category. As shown in
+from every other food group except for eggs and beans. Table 1, the meat group had the highest mean prices per 100 g
+There were significant differences across food groups in unit —_ ($0.80/100 g), which was significantly higher than that for every
+prices per 100 g [F(8, 1378) = 33.1, P < 0.001]; however, those other food group. Prices for beans ($0.50/100 g) and grains
+0.7
+Vegetables
+0.6 +
+g Fruit
+3 @
+S05 5
+Pe Meat, poultry, fish
+504 4 t )
+°
+203 -
+5 . Milk and milk products
+a Dry beans, legumes, nuts, seeds
+Bo - Fags @ e@
+° Sugars, sweets, beverag' t )
+Bo. ¥ Fats and oils
+= Grains
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+0.7
+90.6 7
+4
+°
+$0.5
+Ps
+% nm Qvesetaries
+=x" e@ Fruit Meat, poultry, fish
+: @
+L034
+Es
+s Milk and milk products
+90.2 4 Sugars, sweets, beverages
+g @
+s
+30.1 - Eggs @ con®
+= Dry beans, legumes, nuts, seeds Fate sad on
+ats and oils
+0
+0 50 100 150 200 250 300 350 400 450
+Median energy density (kcal/100 g)
+FIGURE 3. The relation between energy density of foods (kcal/100 g) and energy cost ($/100 kcal). Data are means (top panel) and medians (bottom panel)
+for 9 major food groups as defined by the US Department of Agriculture. Total number of foods = 1387.
+
+COST AND NUTRITIVE VALUE 1185
+($0.47/100 g) were significantly lower than those for meat and _ groups had to adjust for energy. There were significant differ-
+significantly higher than those for vegetables and fruit. Prices ences in food price per 100 kcal by food group [F(8, 1378) =
+for vegetables and fruit ($0.32 and $0.28, respectively) were 55.8, P < 0.001]. Energy cost ($/100 kcal) was lowest for
+significantly lower than those for meats, grains, and beans. — grains, fats, eggs, and milk. Energy cost for vegetables was
+However, the water content of vegetables and fruit was higher higher than that for every other food group except for fruit.
+and energy density was lower than for the other food groups. Mean energy cost for vegetables was more than 5 times that of
+The relation between mean energy density of foods and mean __ grains and fats and more than double the cost of sugars.
+unit cost per 100 g is shown in Figure 2. Meat commanded the
+highest price per 100 g, which was significantly higher than that .
+for any other food group. For the other food groups, higher Energy density and energy cost
+prices per 100 g were obtained for the more-energy-dense Scatter plots that visually depict the relation between energy
+grains, beans, and fats than for lower-energy-density vegetables _ density of foods (kcal/100 g) and their energy cost ($/100 kcal) in
+and fruit. the observational data are shown in Figure 3. The top panel
+There were significant differences across groups in food price — shows group means, and the bottom panel shows group medians.
+per serving [F(8, 1378) = 49.4, P < 0.001]. Mean prices per Grains, beans, and fats were associated with higher energy
+serving for meat ($0.63/serving) were significantly higher than density and lower energy costs. By contrast, vegetables and fruit
+those for every other food group. Mean prices per serving for were associated with lower energy density and higher energy
+fats ($0.09/serving) were significantly lower than those for every costs. The observed relation was similar to the previously pub-
+other food group except for eggs. Mean prices for fruit were lished charts (5-8), which indicated the position of vegetables
+significantly lower than those for meat but higher than those for _and fruit relative to grains, fats, and sugars.
+every other food group except for vegetables and beans. The relation between randomly generated variables A/B
+Given that a single serving of food could supply from 1 to (“energy density”) and C/A (“energy cost”) is shown in Figure 4.
+>500 kcal, meaningful price comparisons across foods or food The top panel shows group means, and the bottom panel shows
+0.7
+0.6
+0.5
+Fruit
+Loa Meat, poultry, fish
+° Fats and ois® @
+E rai Vegetables
+203 rains,
+= Sugars, sweets, beverages e@ e@
+0.2
+Milk and milk products
+0.1
+ros@ Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 200 «250, 300 «350 400s s«s«450=— 500
+Mean A/B
+0.7
+0.6
+0.5 Milk and milk products
+Sos Meat, poultry, fish
+cI Eggs
+ps)
+303 Grains
+= Fruit
+0.24 Fats and oil Vegetables
+oA Sugars, sweets, beverages
+Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 «200 «250 300 «350 4400S 450 = 500
+Median A/B
+FIGURE 4. The relation between randomly generated variable A/B (“energy density”) and randomly generated variable C/A (“energy cost”) following
+procedures outlined in reference 2. Data are means (top panel) and medians (bottom panel) for 9 major food groups as defined by the US Department of
+Agriculture. Total number of randomly generated numbers per variable = 1387.
+
+1186 DREWNOWSKI
+TABLE 2
+Spearman’s correlation coefficients between energy density of foods (kcal/100 g) and different price measures based on
+the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) and the linked Center for Nutrition Policy and
+Promotion food prices database’
+Food price measures
+Major FNDDS food groups No. of foods Unit price Serving price Energy cost
+$/100 g S/serving $/100 kcal
+Milk and milk products 134 0.76 —0.03 0.00
+Meat, poultry, and fish 196 0.13 —0.157 —0.567
+Eggs 8 0.48 0.38 ~0.33
+Dry beans, legumes, nuts, and seeds 62 0.657 —0.13 —0.25
+Grain products 435 0.49? —0.08 —0.01
+Fruit 93 0.10 —0.09 =0.55°
+Vegetables 257 0.00 —0.05 -0.75?
+Fats, oils, and salad dressings 51 —0.07 —0.27 -0.77
+Sugars, sweets, and beverages 151 0.79 0.05 —0.437
+Total foods 1387 _ _ _
+’ Data are from references 9 and 10. Analyses are based on 1387 foods from 9 major food groups as defined by the US
+Department of Agriculture.
+? P< 0.05.
+group medians. The results were completely random, as might — defined group. For example, within the milk group, cheese was
+be expected, given that the 3 variables (A, B, C) were randomly —_ more expensive per calorie than was fluid milk, whereas within
+generated. The present data contradict the argument (2) that the the bean group, some nuts were more expensive than legumes.
+complex relations in the price hierarchies of the food supply can
+be replicated by using a random number data set. . . .
+The relations between energy density and food price measures Food cost in relation to nutrient content
+were then examined within food groups. As shown in Table 2, on The final analyses dealt with the nutrient content of foods and
+the basis of 1387 foods, energy density was correlated with their cost per 100 g, after adjustment for energy. Adjustment for
+measures of food price within some food groups. In general, the | energy is a standard technique in epidemiologic studies (12).
+relation between energy density and food price per 100 g was _ Nutrient-by-nutrient analyses were conducted on those foods in
+positive within each food group, whereas the relation between _—_ which the amount of the nutrient was >0. As shown in Table 3,
+energy density and energy cost was negative. Significant cor- _ polyunsaturated fats (ie, vegetable oils), total fats, carbohydrates
+relations within food group for energy density and energy cost (ie, grains), and total and added sugars were significantly as-
+were obtained for meat, fruit, vegetables, fats, and sugars. sociated with lower food costs per 100 g after adjustment for
+However, the number of foods within a food group was in some __ energy. By contrast, protein, calcium, iron, potassium, magne-
+cases inadequate to obtain significant correlations (2). In other sium, and vitamin C were associated with higher food costs per
+cases, both energy density and price structure varied within the 100 g after adjustment for energy (13). The present data are
+TABLE 3
+Results of regression with price per 100 g as a dependent variable and nutrient content and calories as independent
+variables!
+Regression results
+Nutrient No. of foods Standardized B t P
+Total fat 1346 —0.09 2.37 <0.05
+Polyunsaturated fat 1338 —0.19 —6.45 <0.001
+Total carbohydrate 1295 —0.09 —2.81 <0.005
+Total sugar 1228 —0.09 —3.34 <0.001
+Added sugar 688 —0.10 —2.58 <0.01
+Protein 1353 0.47 19.78 <0.001
+Calcium 1376 0.12 4.79 <0.001
+Tron 1367 0.12 4.79 <0.001
+Potassium 1381 0.23 9.18 <0.001
+Magnesium 1370 0.17 6.44 <0.001
+Vitamin C 873 0.07 2.32 <0.05
+! Data are from the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) (9) and the linked Center for
+Nutrition Policy and Promotion (CNPP) (10) food prices database. Analyses are based on 1387 foods from 9 food groups as
+defined by the US Department of Agriculture.
+
+COST AND NUTRITIVE VALUE 1187
+consistent with the earlier demonstration that grains, fats and to higher education and incomes (17, 18). Studies conducted by
+sweets were associated with lower energy costs than were the USDA have shown that the poor spend less on food and have
+vegetables and fruit. more-energy-dense, lower-quality diets (see reference 16).
+
+Added sugar consumption, another index of lower cost diets, is
+highest among lower-income and minority groups (16, 19).
+DISCUSSION Poverty and financial constraints may be one reason for low
+The present analyses, based on USDA nutrient composition consumption of fresh produce by the poor and near poor (20, 21).
+and food prices data sets, showed that different food groups had Ensuring access to affordable healthy foods has recently be-
+different energy costs. ANOVA by food group showed that grains — come a national priority for public health nutrition (22). Claims
+and fats had substantially lower energy costs than did vegetables _ that the lower energy cost of snacks relative to fresh fruit is
+and fruit. On a per calorie basis, grains, sugars, and fats were a mathematical artifact (2, 3) would imply that all food groups are
+cheap, whereas fruit and vegetables were more expensive. These equally affordable. If fresh fruit and added sugar really cost the
+analyses, based on contemporary data sets, replicate analogous _ same (2), then the current USDA efforts to make healthful foods
+results obtained by the USDA in 1894 (1) and again in 1902 (4). _ more affordable to the average consumer could be regarded as
+Athough calculations of energy cost as an appropriate measure of —_ misplaced.
+food price have been made by the USDA for the past 100 y, not all The fact that healthful foods cost more than less healthy
+nutritionists are convinced of the need to adjust for calories, options is a formidable real-world challenge for nutrition
+preferring instead to stay with prices per unit weight (2, 3). interventions (23, 24). No wonder that many of us would prefer to
+Regression analyses with price per 100 g as the dependent _ focus on intricate personal preferences and other psychosocial
+variable further examined the contribution of individual nutrients _ factors (2). However, the fact is that the distinction between cheap
+to food prices. Whereas carbohydrates, fats, and sugars were —_ and expensive foods has been made by US nutritionists for a very
+associated with lower food prices per 100 g, protein, vitamins, long time (1, 4). A continuing appreciation of how food costs
+and minerals were associated with higher food prices per 100g, drive food choices is needed for a more effective food and nu-
+after adjustment for energy. These analyses confirmed that  trition policy (25-27).
+nutrients associated with grains, sugars, and fats were cheaper, . . .
+" 4 ; , The author did not report any conflicts of interest.
+whereas vitamins and minerals associated with fruit and vege-
+tables were more expensive.
+Water is the main determinant of energy density of foods.
+Whereas dry grains are energy dense, low-energy-density lettuce REFERENCES . ;
+is 96% water. As noted above, larger serving sizes (RACC values) 1. Atwater WO. Foods: nutritive value and cost. Washington, DC: Gov-
+we . ernment Printing Office, 1894. (USDA Farmers Bulletin No. 23.)
+were strongly and positively linked to the foods’ water content 2. Lipsky LM. Are energy dense foods really cheaper? Reexamining the
+(Spearman’s r = 0.68). However, even though a serving of let- relation between food price and energy density. Am J Clin Nutr 2009;90:
+tuce (85 g) weighs more than a serving of grains (30 g), it is not 1397-401. ; ; oo
+clear that the lettuce provides more “food” (2). Water, which has 2 Trazag: Es Lese-enerey-denserdielsyof ow fo OED 1. Cabforta
+. . . are associated with higher energy adjusted costs but not with higher
+no nutrients or energy, is not generally recognized as “food.” daily diet costs. Am J Clin Nutr 2009:90:701.
+Atwater himself noted that, although lettuce was a very palatable 4. Milner RD. The cost of food as related to its nutritive value. Agriculture
+vegetable, it furnished practically no nutrients of concern (1). Yearbook 1902, pp. 387-406. National Agricultural Library Digital
+Protein-was the shoréfall nuftient of the fime because:vilamins Repository. Available from: http://naldr.nal.usda.gov/exe/zynet.exe/
+, YOA190204330387.xml (cited 24 July 2010).
+had not been discovered. 5. Darmon N, Briend A, Drewnowski A. Energy dense diets are associated
+According to economic historians, there was a political mo- with lower diet costs: a community study of French adults. Public Health
+tivation behind linking the nutritive value of foods with their cost. Nutr 2004;7:21-7. ; ; ;
+The first generation of nutrition scientists claimed that nutrition O. Fenliemuil ice onectench A. Replacing ts and sweets na
+could improve the living conditions of the working class, without 1555-9.
+raising wages, by showing workers how to eat more economically 7. Drewnowski A, Darmon N. Food choices and diet costs: an economic
+(14-16). The noted historian Harvey Levenstein went even analysis. J Nutr 2005;135:900-4. ; oo
+further in suggesting that Atwater wanted to reshape the diets of ° EM) Oey eae SearTiA Nie ROR ae ae,
+the working class to avoid social unrest (16). Radical political 9 USDA Food and Nutrient Database for Dietary Studies, 1.0. 2004.
+movements and labor unions of the time blamed free market Monograph on the Internet. Beltsville, MD: Agricultural Research
+capitalism for poor diets and worse living conditions (15, 16). Berace, Epo! Surveys Research ORs Oey vom aie
+The nutritionists of the time focused on making the diets of the 10. TeDRCNDE, ‘Development sithe CNPP prices vcaeditae 2008. Avail-
+working poor more thrifty and more affordable (15, 16). able from: http://www.cnpp.usda.gov/Publications/FoodPlans/MiscPubs/
+Arguably, subsidies to commodity crops (wheat, soybeans, PricesDatabaseReport.pdf (cited 24 July 2010).
+corn), as opposed to vegetables and fruit, have led to increasingly 11. US Food and Drug Administration. 2007. CFR Sec 101.9. Nutrition
+cheap calories and a food supply that is energy rich but nutrient Tebeling 01 food, ved able ron: Bp ye ny: acoessdala tda:goc/seniptsy
+poor (16). The current disparity in food prices is not an algebraic 12. Willett WE. Nutritional epidemiology. New York, NY: Oxford Univer-
+artifact but the result of long-established agricultural policies sity Press, 1998.
+(15, 16). As might be expected, lower-cost calories are prefer- 13. Maillot M, Darmon N, Darmon M, Lafay L, Drewnowski A. Nutrient
+entially consumed by lower income groups (16). dense food groups have high energy costs: an econometric approach to
+ain . . 2 . . nutrient profiling. J Nutr 2007;137:1815-20.
+Within the United States, higher diet quality—often indexed 14. Nesheim MC. Atwater initiative in food consumption. J Nutr 1994;124:
+by higher consumption of vegetables and fruit—has been linked 1833S-5S.
+
+1188 DREWNOWSKI
+
+15. Levenstein HA. The politics of nutrition in North America. Neurosci 21. Darmon N, Drewnowski A. Does social class predict diet quality? Am J
+Biobehav Rev 1996;20:75-8. Clin Nutr 2008;87:1107-17.
+
+16. Drewnowski A. Obesity and the food environment: dietary energy 22. Treuhaft S, Karpyn A. The grocery gap: who has access to healthy foods
+density and diet costs. Am J Prev Med 2004;27(3S):154—62. In: Hill and why it matters. Available from: http://vww.thefoodtrust.org/pdf/
+JO, Sturm R, Orleans CT, eds. An economic analysis of eating and GroceryGap.pdf (cited 5 August 2010).
+physical activity behaviors: exploring effective strategies to combat 23. Wilde PE, Llobrera J. Using the Thrifty Food Plan to assess the cost of
+obesity nutritious diets. J Consum Aff 2009;43:274-304.
+
+17. Drewnowski A. The real role of added sugars and fats in obesity. Epi- 24. Maillot M, Darmon N, Vieux F, Drewnowski A. Low energy density and
+demiol Rev 2007;29:160-71. high nutritional quality are each associated with higher diet costs in
+
+18. Beydoun MA, Wang Y. Do nutrition knowledge and beliefs modify the French adults. Am J Clin Nutr 2007;86:690-6.
+association of socio-economic factors and diet quality among US adults. 25. Drewnowski A, Monsivais P, Maillot M, Darmon N. Low-
+Prev Med 2008;46:145-53. energy-density diets are associated with higher diet quality and higher
+
+19. Thompson FE, McNeel TS, Dowling EC, Midthune D, Morrisette M, diet costs in French adults. J Am Diet Assoc 2007;107:1028-32.
+Zeruto CA. Interrelationships of added sugars intake, socioeconomic 26. Drewnowski A, Specter SE. Poverty and obesity: diet quality, energy
+status, and race/ethnicity in adults in the United States: National Health density and energy costs. Am J Clin Nutr 2004;79:6-16.
+
+Interview Survey, 2005. J Am Diet Assoc 2009;109:1376-83. 27. Townsend MS, Aaron GJ, Monsivais P, Keim NL, Drewnowski A.
+
+20. Drewnowski A, Barratt-Fornell A. Do healthier diets cost more? Nutr Less-energy-dense diets of low income women in California are associated
+Today 2004;39:161-8. with higher energy adjusted diet costs. Am J Clin Nutr 2009;89: 1220-6.
+

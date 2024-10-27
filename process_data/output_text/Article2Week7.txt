@@ -1,0 +1,1327 @@
+http://dx.doi.org/10.5665/sleep.1422
+The Effect of Exercise eaining on Obstructive Sleep Apnea and Sleep Quality:
+A Randomized Controlled Tria
+Christopher E. Kline, PhD‘; E. Patrick Crowley, MS?; Gary B. Ewing, MD‘; James B. Burch, PhD*5; Steven N. Blair, PED?°; J. Larry Durstine, PhD?;
+J. Mark Davis, PhD?; Shawn D. Youngstedt, PhD?
+‘Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, PA; 7Department of Exercise Science, University of South Carolina, o
+Columbia, SC; *WJB Dorn VA Medical Center, Columbia, SC; ‘Department of Clinical Services, School of Medicine, University of South Carolina, g
+Columbia, SC; “Department of Epidemiology and Biostatistics, University of South Carolina, Columbia, SC 2
+ry
+Study Objectives: To evaluate the efficacy of a 12-week exercise training program for reducing obstructive sleep apnea (OSA) severity and im- g
+proving sleep quality, and to explore possible mechanisms by which exercise may reduce OSA severity. a
+Design: Randomized controlled trial. 2.
+Setting: Clinical exercise physiology center, sleep laboratory. s
+Participants: Forty-three sedentary and overweight/obese adults aged 18-55 years with at least moderate-severity untreated OSA (screening =
+apnea-hypopnea index [AHI] 2 15). 8
+Interventions: Participants randomized to exercise training (n = 27) met 4 times/week for 12 weeks and performed 150 min/week of moderate- a
+intensity aerobic activity, followed by resistance training twice/week. Participants randomized to a stretching control (n = 16) met twice weekly for ied
+12 weeks to perform low-intensity exercises designed to increase whole-body flexibility. 2
+Measurements and Results: OSA severity was assessed with one night of laboratory polysomnography (PSG) before and following the 12-week 8
+intervention. Measures of sleep quality included PSG, actigraphy (7-10 days), and the Pittsburgh Sleep Quality Index. Compared with stretching, ES
+exercise resulted in a significant AHI reduction (exercise: 32.2 + 5.6 to 24.6 + 4.4, stretching: 24.4 + 5.6 to 28.9 + 6.4; P < 0.01) as well as signifi- 2
+cant changes in oxygen desaturation index (ODI; P = 0.03) and stage N3 sleep (P = 0.03). Reductions in AHI and ODI were achieved without a =
+significant decrease in body weight. Improvements in actigraphic sleep and subjective sleep quality were also noted following exercise compared =
+with stretching. g
+Conclusions: Exercise training had moderate treatment efficacy for the reduction of AHI in sedentary overweight/obese adults, which suggests &
+that exercise may be beneficial for the management of OSA beyond simply facilitating weight loss. &
+Trial Registration: Clinicaltrials.gov identification number NCT00956423. 8
+Keywords: Actigraphy, exercise training, obstructive sleep apnea, polysomnography, randomized controlled trial, sleep quality 8
+Citation: Kline CE; Crowley EP; Ewing GB; Burch JB; Blair SN; Durstine JL; Davis JM; Youngstedt SD. The effect of exercise training on obstructive g
+sleep apnea and sleep quality:a randomized controlled trial. SLEEP 2011;34(12):1631-1640. Fa
+lon
+INTRODUCTION preliminary evidence. Epidemiologic research has suggested 5
+Obstructive sleep apnea (OSA) is a prevalent sleep disor- that individuals who are physically active have a reduced risk S
+der, affecting up to 15% of the population.' If left untreated, of OSA compared to individuals who are less active.'*'' More- @
+OSA has potentially severe health consequences, such as cog- over, small-scale (often uncontrolled) experimental studies g
+nitive impairment,’ cardiovascular disease,* diabetes,‘ and have found the apnea-hypopnea index (AHI) to be reduced up 2
+early mortality.’ to 50% following chronic exercise training.'*'° Fy
+Unfortunately, treatment options for OSA remain limited. Although weight loss is the most obvious plausible mediator z
+Although continuous positive airway pressure (CPAP) is effec- explaining how exercise may reduce OSA severity, decreas- 2
+tive when used,° much of its benefits go unrealized in practice es in AHI following exercise training have been found to be §
+because of low adherence.” Other treatment options, such as independent of changes in body weight in the limited epide- &
+oral appliances and upper airway surgery, only partially reduce miologic and experimental studies that have examined this hy- 3
+OSA severity and produce frequent side effects.*? In addition, _pothesis.'*'?3 Other possible mechanisms of improvement in
+the effects of these treatments on the health consequences of | OSA following exercise training include a general strengthen- &
+OSA are not well established.‘? ing and fatigue resistance of the ventilatory and upper airway 3
+The possible utility of exercise training in the management dilator muscles,'® attenuation of respiratory instability from re- g
+of OSA has not been thoroughly investigated despite intriguing duced sleep fragmentation,'’ decreased nasal resistance,'* and 8
+prevention of lower-extremity fluid accumulation.'” *
+TT Regardless of whether OSA severity is improved, exercise
+Acommentary on this article appears in this issue on page 1621. training may improve sleep in this population. There is a con-
+Submitted for publication March, 2011 sistent epidemiologic association between exercise and sleep
+Submitted in final revised form April, 2011 quality,” and experimental studies utilizing individuals with-
+Accepted for publication April, 2041 out OSA have found that chronic exercise training significantly
+Address correspondence to: Christopher E. Kline, PhD, Department of | improves sleep.”! However, experimental research in individu-
+Psychiatry, University of Pittsburgh School of Medicine, 3811 O'Hara als with OSA has produced conflicting results about changes in
+Street, Room E-1107, Pittsburgh, PA 15213; Tel: (412) 578-9554; Fax: objective sleep from exercise training,'*'* and subjective sleep
+(412) 246-5300; E-mail: klinec@upmc.edu quality has not been evaluated.
+SLEEP, Vol. 34, No. 12, 2011 1631 Exercise Training and OSA Severity—Kline et al
+
+The primary purpose of this investigation was to examine the Randomization
+efficacy of a 12-week moderate-intensity exercise training pro- Following baseline, participants were randomly allocated
+gram for reducing the severity of OSA in currently untreated to exercise and stretching control treatments by a 3:2 ratio, re-
+adults. A secondary purpose of the study was to determine whether spectively. Randomization was stratified by sex and screening
+exercise training improved subjective and objective sleep. Finally, AHI (15-30 or > 30) in blocks of 5, using a computer-generated
+we explored possible mechanisms by which exercise training may randomization list (SAS v. 9.2, SAS Institute, Cary, NC). Treat-
+reduce OSA severity, namely via changes in body weight, respira- ment allocations were prepared by an individual otherwise un-
+tory muscle strength, sleep quality, and lung function. affiliated with the study and placed in sealed opaque envelopes.
+Although participants could not be blinded to their treatment,
+METHODS both programs were presented as active treatments. To assess 9
+treatment expectancy, participants completed a brief question- §
+Participants naire following randomization that queried expected changes in 8
+Adults ages 18-55 years with at least moderate-severityOSA  OSAseverity, sleep quality, daytime sleepiness, mood, and overall &
+(AHI = 15 at screening) who were overweight/obese (body health, using 5-point Likert scales (1: much worse; 5: much better).
+mass index > 25), sedentary (< 2 exercise sessions/week), In addition, participants were asked to rate their satisfaction with 2.
+at stable (> 3 mo) medication doses (e.g., antihypertensives, their randomized treatment (1: very dissatisfied; 5: very satisfied). s
+antidepressants), not currently being treated for OSA and not =
+actively attempting to lose weight were eligible for participa- Treatments 3
+tion. Exclusion criteria included known or suspected significant 8
+cardiovascular, pulmonary, or metabolic disease; uncontrolled Exercise training a
+hypertension (> 159/99 mm Hg); pregnancy; and inability to Individuals assigned to the exercise training treatment met 4. 5
+exercise due to orthopedic or musculoskeletal problems. times per week for 12 weeks. All exercise sessions were super- 8
+vised by staff trained in exercise physiology. To limit the risk &
+Recruitment, Screening, and Timeline of injury, the exercise dose was gradually increased during the 8
+Individuals were recruited from local sleep clinics and from initial 4 weeks of training. For weeks 5-12, exercise dose was 2
+the general population via media advertisements. Following an 150 min/week of aerobic exercise distributed over 4 sessions per 2
+initial phone screen, individuals were mailed additional screen- week, followed on 2 days per week by resistance exercise con- g
+ing materials, including the Berlin Questionnaire.” Individuals sisting of 2 sets of 10-12 repetitions for 8 different exercises. The 8
+who were previously diagnosed with OSA or classified as “high exercise dose was chosen to comply with public health physical a
+risk” for OSA based on the Berlin Questionnaire and otherwise activity recommendations.” Aerobic training intensity was 60% =
+eligible were invited to the laboratory to further review the pro- of heart rate reserve (HRR), considered to be moderate inten- Zz
+tocol. At the conclusion of the visit, participants provided written sity, and was continuously monitored with heart rate telemetry @
+informed consent approved by the Institutional Review Boards (FS2, Polar Electro Oy, Kempele, Finland). Each aerobic exer- S
+of the University of South Carolina and the WJB Dorn VA Medi- cise session began with a 5-min warm-up and ended witha S-min ©
+cal Center. Participants were then scheduled for one night of — cool-down, which was not included in the prescribed duration. 5
+laboratory polysomnography (PSG) to further screen for OSA. Treadmill exercise was the primary aerobic activity, though ellip- Fd
+Individuals with a screening AHI > 15 were enrolled in the study. tical or bicycle ergometer exercise was permitted when necessary g
+Prior to baseline assessment, participants were required to (e.g., when participants experienced lower leg soreness). 2
+meet with the study team on 2 occasions to become familiar Resistance exercise, performed twice per week on nonconsecu-  $
+with the research facility, practice study procedures, and view a tive days, included shoulder press, lat pulldown, leg extension/leg <
+presentation on OSA (prevalence, pathophysiology, established _ flexion (alternated between sessions), chest press, upright row, leg 2
+treatment options). The primary purposes for these “run-in” visits press, bicep curls/triceps extension (alternated between sessions), §
+were to educate the participants on OSA and to establish whether and abdominal crunches. Resistance was increased when 12 rep- &
+the participants were committed to participating in the study. etitions could be performed on the second set with proper form. 2,
+Individuals who completed the run-in visits were scheduled a
+for 3 baseline assessments, which took place over a 7-10 day Stretching control $
+period. The assessments were conducted on separate days and Participants assigned to the stretching control treatment met 3
+consisted of: (1) a single night of laboratory PSG; (2) a laborato- 2 times per week for 12 weeks for supervised flexibility training g
+ry assessment, in which body composition, pulmonary function, sessions. At each visit, participants performed 2 sets of 12-15 8
+and respiratory muscle strength were assessed; (3) a physician- stretches, each held for 15-30 s, which focused on whole body *
+supervised graded exercise test to screen for possible adverse flexibility. Although no change in OSA severity was expected
+responses to exercise. Throughout this period, participants con- from this intervention, it was chosen to reduce the potential
+tinuously wore a wrist actigraph to monitor sleep at home. confound of interpersonal interaction on study outcomes.
+Once baseline assessments were complete, participants were
+randomized to either a 12-week exercise training or stretching | Sleep Measures
+control treatment. Following completion of the intervention ,
+participants completed the same assessments as at baseline fol- Laboratory polysomnography
+lowing a day without exercise. Participants were compensated Single-night laboratory PSG (Alice 5, Philips Respiron-
+$300 for completion of the study. ics, Murrysville, PA) was performed at screening, baseline,
+SLEEP, Vol. 34, No. 12, 2011 1632 Exercise Training and OSA Severity—Kline et al
+
+and post-intervention. Participants were prepared for record- _—_ Additional Measures
+ing with a standard PSG montage’ that included F4/M1, C4/
+M1, 04/M1 electroencephalograms (EEG), bilateral electroc- Assessment of lifestyle activity and eating habits
+ulograms, submentalis electromyogram (EMG), thoracic and Participants were asked to maintain their normal lifestyle
+abdominal respiratory inductance plethysmography, modified activity patterns and eating habits throughout the study. To
+lead II electrocardiogram, body position sensor, and single-leg monitor unsupervised activity, participants wore a piezoelectric
+tibialis anterior EMG. Airflow was monitored with an oronasal pedometer (NL-1000, New Lifestyles Inc., Lees Summit, MO)
+thermistor and nasal cannula pressure transducer, and arterial from baseline through the end of post-intervention assessment.
+oxyhemoglobin saturation (SpO,) was assessed with finger Participants removed the pedometer during the supervised ac-
+pulse oximetry (LNOP DCI, Masimo, Irvine, CA). Time in tivity sessions. The NL-1000 recorded daily steps and time 9
+bed was fixed at 8 h and initiated according to the participant’s spent in moderate- to vigorous-intensity activity(MVPA),” and §
+usual bedtime. data were organized into 2-week bins for analysis. 8
+Sleep stage scoring was performed according to standard Dietary habits were evaluated with the Rapid Eating Assess-
+criteria® by one registered PSG technician blinded to treatment — ment for Participants-Short Version (REAP-S)* at baseline and =
+assignment. An apnea was defined as > 90% airflow reduction post-intervention. With the 13-item REAP-S, participants were 2.
+for => 10 s, and a hypopnea was defined as > 30% reduction asked to indicate how frequently they skipped breakfast, ate at s
+in airflow accompanied by > 4% desaturation from baseline. restaurants, and ate various categories of food (e.g., processed = =
+An arousal was defined as > 3-s increase in EEG frequency meats, fried foods) using 3 response options (1 = rarely/never, 3
+following = 10 s of stable sleep, accompanied by an increase 2 = sometimes, 3 = usually/often). The total score was derived §
+in submentalis EMG activity for > 1 s during REM sleep. The by summing the scores of the 13 items. a
+AHI was calculated as the number of apneas and hypopneas S
+per hour of sleep, and was summarized by body position and Assessment of potential mediators of exercise training 8
+sleep stage. The arousal index was calculated as the number of Changes in body composition, pulmonary function, and respi- =
+arousals per hour of sleep, and the oxygen desaturation index ratory muscle strength were explored as possible mediators be- 8
+(ODD was calculated as the number of SpO, drops > 4% per _ tween exercise training and improvement in AHI. These measures 2
+hour of sleep. were taken in the morning following an overnight fast at baseline 2
+and within 5 days of completion of the 12-week intervention. g
+Objective home sleep Body composition: Height and weight were measured to the 8
+For approximately 7 days at baseline and again at post-in- nearest 0.5 cm and 0.1 kg using a wall-mounted stadiometer and a
+tervention, participants wore an Actiwatch Spectrum actigraph calibrated physician weight scale, respectively. Neck, chest, waist, 5
+(Philips Respironics, Bend, OR) on the non-dominant wrist to and hip circumference measurements were obtained using stan- Zz
+monitor home sleep/wake status. Participants wore the same dardized procedures”; the average of 3 measurements was retained. @
+actigraph at baseline and post-intervention. Participants were Total body dual energy x-ray absorptiometry (DXA; Lunar S
+instructed to press an event marker to denote bedtime and out- Prodigy, GE Medical Systems, Madison, WI) measured body 0
+of-bed time and at the initiation and end of daytime naps. Fol- fat percentage (BF %), lean tissue mass (LTM), and fat mass 5
+lowing data retrieval, individual records were inspected and (FM). Whole-body values were obtained as well as by region Fd
+edited (e.g., to set event markings as the start and end of rest (i.e., arms, trunk, legs). A single technician conducted and ana- g
+intervals). Sleep/wake status was estimated with the Actiware lyzed all DXA scans. Quality assurance tests and phantom scans 2
+software algorithm”® (v. 5.59.0015; Philips Respironics, Bend, were performed prior to all measurement sessions. Because one
+OR) set to medium-threshold for wake detection and 5 immobile participant exceeded the weight limit for the DXA, data from <
+minutes for sleep onset and end.” Sleep onset latency (SOL), 42 participants were included for analysis. 2
+total sleep time (TST), wakefulness after sleep onset (WASO), Pulmonary function: Pulmonary function testing was conduct-
+and sleep efficiency (SE) were obtained for analysis. In addi- ed with a portable spirometer (Wizard, MicroMedical, Kent, UK) &
+tion, a fragmentation index, a measurement of movement and using standardized procedures.*! Maximal inspiratory and expirato- 3,
+restlessness, was calculated by the software algorithm. Due to ry maneuvers were performed 3 times; averages of values obtained 3
+an allergic skin reaction to the Actiwatch for one participant, 42 from the 3 inspiratory and expiratory flow-volume loops were used -&
+participants provided data for analysis. Values were averaged for analysis. Variables retained for analysis included forced vital ca- 3
+across all baseline and post-intervention nights for analyses. pacity (FVC), forced expiratory volume in 1 s (FEV, ,), peak inspi-
+ratory flow (PIF), and peak expiratory flow (PEF). 8
+Subjective sleep quality Respiratory muscle strength: Maximum static inspiratory
+The Pittsburgh Sleep Quality Index (PSQI)* was adminis- (MIP) and expiratory (MEP) mouth pressures served as mark-
+tered at baseline and post-intervention prior to laboratory PSG ers of respiratory muscle strength.” MIP and MEP assessments
+to assess subjective sleep quality over the previous 2 weeks. were performed with respiratory pressure gauges (VacuMed,
+Seven component scores were generated: sleep quality, sleep Ventura, CA) while seated with nasal clips. Assessments of
+latency, sleep duration, habitual sleep efficiency, sleep distur- MIP and MEP were obtained using standardized procedures,”
+bances, use of sleep medications, and daytime dysfunction. A with the highest pressures developed over 3 consecutive ef-
+global score between 0-21 was calculated from summing the forts recorded. Respiratory muscle strength was calculated as
+subscale scores. Global scores > 5 have been considered to be (MIP+MEP)/2. Assessment of respiratory muscle strength was
+indicative of poor sleep quality.”* not possible due to equipment malfunction for one participant
+SLEEP, Vol. 34, No. 12, 2011 1633 Exercise Training and OSA Severity—Kline et al
+
+Phone & mail Baseline differences between treatments were evaluated with
+Screening (7400) ¢ tests and independent ¢-tests. Adherence to the intervention
+Excluded (n= 326) was compared between treatments using independent t-tests by
+No longer interested (n= 104) the percentage attendance to scheduled sessions. Pedometer-as-
+CurrentOSA treatment(n = 61) ee :
+Too active/weightloss (n = 59) sessed activity was evaluated for between-treatment differences
+foe condition {a=48) and change over time using SAS PROC MIXED.
+ge > 55 (n = 29) : ‘ .
+Other (n = 29) The primary outcome of interest, change in AHI, was evalu-
+Sdieduediotlab ated by analysis of covariance on post-intervention AHI values
+PSG screen (n = 75) with control for baseline AHI values. To assess clinical signifi-
+cance, participants who completed the intervention were cate- ©
+gorized as experiencing treatment “success” and/or “response” 5
+based on definitions previously used for evaluating the efficacy 3
+(ors) of surgical treatment for OSA, with between-treatment com- &
+parisons made with Fisher exact tests. Treatment success was 3
+defined as a post-intervention AHI < 20 and reduction > 50% 2.
+Baseline assessment i =
+from baseline, whereas treatment response was defined as 2-5
+20% reduction in AHI from baseline.** =
+Failed to complete BL (n = 6) : ar . 8
+Changes in secondary outcomes (e.g., objective sleep vari- 9
+No longerinterested (a='3) ables, PSQI score) and potential mediator variables (e.g., an- §
+Randomized thropometrics, respiratory muscle strength) were evaluated inan &
+(n= 43) identical fashion to that of AHI. When significant between-group 5
+Assigned to exercise ‘Assigned to stretching differences were found for any of these variables, paired tests 8
+training (n= 27) control (n= 16) examined whether significant changes occurred within the exer-  &
+: ss : > oD
+Disconlimed(o=3) Discontinued Gai cise training group. Effect sizes (Hedges’ g) were calculated for $
+Health condition (n= 1) Health condition (n = 1) all variables by dividing the difference between the baseline and
+fe foriniuy (at) Relocated (a1) post-intervention changes in the treatment and control treatments 2
+ime commitment(n=1) : o : a
+by the pooled baseline standard deviation. By convention, effect g
+sizes of g= 0.2, g=0.5, and g= 0.8 were considered small, medi- 8
+um, and large in magnitude, respectively. In addition, the change &
+; _ in prevalence of poor subjective sleep (i.e, PSQI global > 5)* S$
+Figure 1—Summary of participant flow through study. AHI, apnea- between treatments was assessed with a Fisher exact test. Zz
+hypopnea index; BL, baseline; GXT, graded exercise test; OSA, obstructive Variables that could explain the reduction in OSA severity 2
+sleep apnea; PSG, polysomnography. ‘ 9 - i a oO
+following exercise training were evaluated for mediation using g
+MacKinnon’s product of coefficients test.** Pre-specified potential 0
+who subsequently discontinued the study. Data for the remain- mediators included stage N3 sleep %, body weight, trunk BF%, 5
+ing 42 participants were utilized for analysis. trunk total mass, respiratory muscle strength, PEF, and PIF. Using Fd
+the complete sample (= 43), each potential mediator was tested = 2
+Statistical Power in a single mediator model, which included: (1) estimating the 2
+Anticipated changes in AHI, the primary outcome of interest, effect of the intervention on the potential mediator (i.e., a coeffi- a
+were based on published research at the time of study design.'?° cient) by regressing the potential mediator’s post-intervention val- =
+Statistical power was 83% to detect a change in AHI from 27.3 ue on the intervention treatment while controlling for the potential 2
+to 17.7 following exercise training, assuming a baseline stan- mediator’s baseline value; (2) estimating the effect of changes §
+dard deviation of 10 and no AHI change in the control treatment, in the potential mediator on changes in AHI (i.e., B coefficient) >
+with a total of 40 participants randomized in a 3:2 fashion. The by regressing post-intervention AHI on the potential mediator’s 2,
+unbalanced treatment allocation allowed for similar power as a__post-intervention value, controlling for treatment, baseline AHI,
+balanced allocation (i.e., 1 = 20 for each treatment would have and the potential mediator’s baseline value; and (3) calculating &
+provided 84% power), but a more thorough investigation into the the product of coefficients by multiplying the a and B coefficients. 3
+possible benefits of exercise training. Assuming an attrition rate Coefficients were obtained through linear regression models us-  &
+of 20%, 48 individuals were targeted for enrollment. With 37 par- ing SAS PROC GLM. Asymmetric confidence limits based on the 8
+ticipants completing the study (i.e., 21 exercise, 16 control), we distribution of the product of the a and B coefficients were created *
+had 80% power to detect the anticipated changes in AHI. using the PRODCLIN program*; confidence intervals that did not
+include zero indicated a statistically significant mediation effect.
+Statistical Analysis
+Analyses were based on an intent-to-treat plan. In the case of | RESULTS
+dropouts, the last observation was carried forward for analysis.
+All analyses were performed using SAS version 9.2 (SAS Insti- Participant Characteristics
+tute, Cary, NC). Unless otherwise specified, data are presented Asummary of participant flow is provided in Figure 1. Of the
+as mean + standard error. All tests were 2-tailed, with statistical 43 participants randomized to treatment, 5 discontinued par-
+significance set at P < 0.05. ticipation before completion of the study at an average of 4.6
+SLEEP, Vol. 34, No. 12, 2011 1634 Exercise Training and OSA Severity—Kline et al
+
+Table 1—Baseline participant characteristics A 40000
+Exercise S | —O- STR
+All Training — Stretching 8000 _
+Variable (N= 43) (n= 27) (n= 16) a | ++ J J a. T
+Sex, n male (% male) 24 (56) 15 (56) 9 (56) 2 6000 I a aaa
+Age, y 46.9(1.2)  47.6(1.3) 45.9 (2.2) s + BiwTi ie on - _+—4 t
+Ethnicity/race, n (%) 2 4000 | b++t aot tt
+White 32 (74) 22 (81) 10 (63) 3 |
+African American 8 (19) 4 (15) 4 (9) a  2000- 9
+Hispanic/Other 3 (7) 1 (4) 2 (5) | 5
+Education, y 15.4 (0.3) 15.6 (0.3) 15.1 (0.6) 0 |, —_, ; —— 3
+Weight, kg 103.3(2.7) 105.6 (3.0) — 99.3(6.0) BL W2 WA WE WE WIO Wie POST 3
+BMI, kg/m? 34.8 (0.9)  35.5(1.2) 33.6 (1.4) 3
+Total body fat, % 41.6 (1.4)  42.1(1.9) 40.6 (1.9) B 5. z
+Trunk body fat, % 45.3(1.2)  46.3(1.6) 43.6 (1.5) = 3
+Previous OSA dx, n (%) 24 (56) 14 (2) 10 (63) = 20 | 3
+Previous OSA tx, n (%) 17 (40) 9 (33) 8 (50) 3 | I ; 1 I T 3
+All data are presented as mean (standard error) unless otherwise noted. = | : - +1 iz a t t Q
+BMI, body mass index; OSA, obstructive sleep apnea. No between-treatment 3S 40. bo ~ L aia l ~ 3
+differences were found for any of the baseline participant characteristics. 2 | 3
++ 0.2 weeks into the intervention. Reported reasons for study “ | 2
+withdrawal were not directly study-related (e.g., relocation, Oi wy we wk we wo we esr -
+underlying health condition). No adverse responses to either g
+activity program were reported, though 4 participants in the Cc an S
+exercise training group needed to switch from the treadmill to ] a
+the recumbent bicycle for aerobic training due to the temporary POST Ss
+development of shin splints. 2 30 ) Zz
+Participant characteristics are summarized in Table 1. No & - — @
+between-treatment differences for any of the baseline partici- 7) | 5
+pant characteristics were observed. Twenty-four of the 43 par- & 20 | 5
+ticipants had been previously diagnosed with OSA, and 17 of i | 5
+those 24 had previously been treated but had since voluntarily 10 | Fd
+discontinued treatment. Thirteen had previously discontinued g
+CPAP use, 3 had undergone unsuccessful upper airway surgery, | 2
+and | participant had discontinued oral appliance use. O° EX sR” a
+<
+Expectations and Adherence Figure 2—Changes in unsupervised activity and diet during study. (A) >
+There were no statistically significant differences between Dally steps (averaged inte 2 eek bins); (8) Minutes ct modeteie- bo 5
+. a . . vigorous-intensity activity (MVPA; averaged into 2-week bins); (C) Overall ®
+treatments regarding expectations for improvement in OSA se- REAP-S score at baseline and post-intervention between treatments. °
+verity or overall sleep quality. However, participants allocated Data are presented as mean + standard error. BL, baseline assessment; @
+to the exercise training treatment expressed slightly greater EX, exercise training treatment; POST, post-intervention assessment; a
+satisfaction with their treatment allocation compared to control STR, stretching control treatment. $
+(exercise: 4.6 + 0.2, stretching: 4.0 + 0.3; t,, = —2.12, P= 0.04). 3
+Exercise training participants attended 87.0% + 3.7% of the g
+prescribed sessions, completing 81.7% + 4.3% of the prescribed (n = 14) who completed the stretching program attended 86.9% 8
+12-week aerobic dose at 64.4% + 2.3% of HRR, and complet- + 2.0% of their prescribed sessions, which was a significantly *
+ing 77.5% + 4.6% of the prescribed 12-week resistance dose. lower rate of attendance than the exercise training participants
+Stretching participants attended 79.7% + 5.2% of their pre- who completed treatment (¢,, = —2.30, P = 0.03).
+scribed sessions. Adherence, defined as rate of attendance, did Figure 2 provides a summary of changes in lifestyle activ-
+not differ between the 2 treatments. ity and dietary habits. Pedometer activity did not change over
+Exercise training participants who completed the 12-week in- the course of the 12-week study between treatments, as no
+tervention (n = 24) attended 93.1% + 1.7% of the prescribed ses- significant treatment, time, or treatment = time interaction ef-
+sions. They completed 88.6% + 2.1% of the prescribed aerobic fects were noted for daily step counts or for daily time spent
+activity dose at 63.3% + 2.2% of HRR, and completed 84.4% in MVPA. Dietary habits, as assessed by the REAP-S, did not
++ 2.9% of the prescribed resistance training dose. Participants change between treatments over the course of the study.
+SLEEP, Vol. 34, No. 12, 2011 1635 Exercise Training and OSA Severity—Kline et al
+
+A B
+40 Total AHI 60 Supine AHI BL
+OPosT
+30 50
+w ae
+= 2 = x
+20 9
+10 5
+10 S
+Qa
+oO
+a
+0 0 =
+EX STR EX STR 3
+=
+i
+a
+Cc D a
+40 NREM AHI 50 REM AHI a
+5
+fo}
+40 iS
+3
+wy s Ty :
+= = 2
+= 20 =< $
+20 Ea
+om
+2.
+10 10 5S
+iS
+>
+=
+0 4 S
+EX STR EX STR =
+g
+Figure 3—Changes in AHI during study. (A) Total AHI; (B) Supine AHI; (C) NREM AHI; (D) REM AHI. AHI, apnea-hypopnea index; BL, baseline assessment; 3
+EX, exercise training treatment; NREM, NREM sleep; POST, post-intervention assessment; REM, REM sleep; STR, stretching control treatment. Data are Zs
+presented as mean + standard error. 9
+o
+o
+Exercise Training and OSA Severity ments from pre- to post-intervention assessment. The number 2
+Between-treatment changes in AHI are summarized in of apneas per hour of sleep were significantly reduced follow- 2
+Figure 3. Compared with the stretching control treatment, ing exercise training relative to control (F,, ,, = 10.34, P< 0.01), a
+exercise training resulted in a significant reduction in AHI whereas no change between treatments was found in the num- =
+(F, 49 = 9.54, P < 0.01). On average, AHI was reduced by 7.6 ber of hypopneas per hour of sleep (Table 2). 2
++ 2.5 following exercise training, whereas AHI increased 4.5 A summary of changes in other markers of OSA is provid-  §
++ 2.4 following stretching treatment (F’', ,, = 10.45, P< 0.01). ed in Table 2. A significant reduction in ODI following exer- &
+When restricted to exercise training participants only, the cise training relative to control was discovered (F,,, = 5.05, 3
+post-training reduction in AHI was found to be statistically P = 0.03), though the ODI improvement was not significant 3
+significant (¢,, = 3.03, P< 0.01). Treatment success (i.e., post- when considering only exercise training participants (¢,, = 1.56, $
+intervention AHI < 20 and reduction > 50% from baseline) P=0.13). No between-treatment changes were found for mini- 3
+eg
+was noted in 25% and 7% of exercise training and stretch- mum SpO, or the percentage of TST with SpO, < 90%. g
+ing treatment participants, respectively (Fisher exact test, 8
+P = 0.23). Treatment response (= 20% AHI reduction) was _ Exercise Training and Objective Sleep =
+documented in 63% and 21% of the exercise training and Table 2 provides a summary of the changes in PSG-measured
+stretching treatment participants, respectively (Fisher exact objective sleep. Exercise training produced minimal PSG sleep
+test, P = 0.02). improvements compared with the stretching control treatment.
+Significantly greater reductions in AHI were found for both Small to moderate effects (g = 0.14-0.58) were noted for mea-
+NREM and REM sleep following exercise vs. control (NREM: sures of sleep that were not statistically significant. Only the per-
+F, 4 = 5.71, P= 0.02; REM: F’ ,, = 8.97, P< 0.01). Although not centage of TST spent in stage N3 sleep was significantly changed
+statistically significant, the magnitude of effect for supine AHI following exercise training relative to control (F,,, = 5.75,
+(g = —0.46) was similar to that for total AHI (g = —0.45), and P = 0.02), and this effect was not significant when considering
+the amount of time spent supine did not change between treat- only exercise training participants (¢,, = —0.38, P = 0.71).
+SLEEP, Vol. 34, No. 12, 2011 1636 Exercise Training and OSA Severity—Kline et al
+
+Changes in actigraphic sleep are summarized in Table 3. parameters of spirometric lung volumes or respiratory muscle
+Compared with the stretching control treatment, exercise train- strength, though global respiratory strength showed marginal
+ing resulted in significant improvements in SOL (F;,,, = 10.70, improvement following exercise training relative to the stretch-
+P< 0.01), SE (F,,, = 5.08, P = 0.03), and the fragmentation ing control treatment (F, ,. = 3.79, P = 0.06).
+index (F,,, = 4.41, P = 0.04). When
+considering only OXETEISE framing Table 2—Polysomnographic sleep variables
+participants, significant improve-
+ments were noted for SOL (t,, = 2.21, Exercise Training Stretching
+P=0.04) and SE (¢,,=-2.19, P=0.04), Variable BL POST BL POST g
+but not for the fragmentation index TST, min 402.2 (6.7) 406.5 (8.7) 410.6 (7.7) 400.3 (13.6) 0.44 9
+(4, = 2.22, P= 0.34). SOL, min 9.6 (1.7) 9.8 (1.8) 12.0(2.8)  13.5(2.9)  -0.14 5
+WASO, min 68.2(6.4) 63.7 (7.7) 57.4 (6.8) 66.1(12.7) -0.43 3
+Exercise Training and Subjective SE, % 83.8 (1.4) 84.7 (1.8) 85.5(1.6) 83.4(28) 0.44 a
+Sleep Quality Stage N1 sleep (%) 10.6 (1.0) 9.6 (1.0) 13.9(3.2)  14.3(3.2)  -0.16 3
+Table 3 provides a summary of Stage N2 sleep (%) 60.2(1.5)  59.0(2.1) 55.0(3.3) 57.8(2.5) — -0.40 =
+oe m ee res Stage N3 sleep (%) 12.8 (1.2) 13.2 (1.1)* 124(17) 9.2(15) 0.58 a
+© Participants, with. poor sleep REM sleep (%) 164(1.1)  18.3(1.3) 18.7(14) 18.7(2.2) 0.32 5
+at baseline, a greater proportion of : 2
+: a, ae Arousal index 36.9 (4.0) 35.8 (3.5) 31.2(4.3) 32.7(5.0) —-0.13 a
+exercise training participants were : ; 8
+found to have good sleep quality at Supine sleep, min 139.0 (21.6) 138.2 (15.7) 157.0 (28.4) 164.0(23.4)  -0.07 6
+post-intervention compared to con- Apnea index 21.7 (4.8) 15.0 (3.3)* 15.1 (4.1) 20.9 (5.2) -0.56 =
+trol (Fisher exact test, P= 0.02). Sig- Hypopnea index 10.5 (2.2) 9.6 (2.0) 9.3 (2.3) 8.0 (1.9) 0.03 Q
+nificantly greater reductions in PSQI Minimum SpO,, % 79.6 (1.4) 79.9 (1.5) 80.4 (1.9) 78.7 (2.0) 0.27 Z
+global score Fina = 8.38, P= 0.01), co) )| 24.5 (4.2) 21.5 (3.7)* 16.8 (4.2) 23.2 (6.8) -0.47 8
+as well as subscale scores of sleep SpO, < 90, % TST 5.2 (1.2) 4.7 (1.1) 3.6 (1.2) 5.2 (1.4) -0.37 2
+quality (F, ,, = 4.42, P = 0.04), sleep 2
+latency (F, ,, = 6.04, P = 0.02), and All data are presented as mean (standard error). Figure 3 summarizes change in AHI. N1-N3, NREM sleep g
+sleep disturbances (F,,, = 7.83, stages 1-3, respectively; ODI, oxygen desaturation index; SpO,, arterial oxygen saturation; SE, sleep Ss
+P < 0.01), were found following efficiency; SOL, sleep onset latency; TST, total sleep time; WASO, wakefulness after sleep onset. g indicates a
+exercise training compared to the Hedges’ g effect size measure. *Statistically significant difference between treatments at post-intervention =
+control treatment. When consid- following control for baseline values (P < 0.05). &
+ering only exercise training par- a
+ticipants, significant improvements s
+were noted for the PSQI global score Table 3—Actigraphic and subjective sleep quality variables Q
+(t,, = 2.68, P = 0.01) and sleep qual- - Pe x fe)
+ity subscale (t,, - 3.86, P< 0.01), but a _—_Exercise:training ___Stretening __ g
+not for the sleep latency (¢,, = 1.15, Waist Actigraphy BL POST BE POST 9 g
+P = 0.26) or sleep disturbance sub- TST, min 398.3(10.4) 390.2(9.3)  388.3(17.9) 385.3(45.9) 0.25 g
+scales (t,, = 1.80, P = 0.08). SOL, min 8.2(14) 6.2(0.7)" — 10.0(3.2)11.9(12.7)  -0.52 3
+WASO, min 57.4(4.9) 54.9 (4.8) 63.5(10.4) 63.5 (39.3) — -0.08 Z
+Mediators of OSA Improvements by SE, % 85.8 (1.2) 86.7 (1.1)* 84.1 (2.0) 83.8 (7.1) 0.17 2
+Exercise Training Napping, min 29.0 (4.3) 26.7 (5.2) 30.7 (6.9) 31.2(32.6) —--0.12 5
+A summary of the changes in the Fragmentation index 42.4 (3.4) 41.1 (2.9)* 53.4 (9.0) 55.1 (35.2) -0.12 &
+proposed mediators by which ex- Pittsburgh Sleep Quality Index -
+ercise training could reduce AHI is Poor sleep quality, prevalence 48% 29% 75% 75% @
+provided in Table 4. Exercise train- Global score, 0-21 6.2(0.6)  4.7(0.5)* 8.1(1.0) 8.0(1.0)  -0.43 s
+ing resulted in no significant change Sleep quality, 0-3 1.6(0.1) 1.00.2)" 1.6(0.2)  14(02)  -0.60 3.
+in body weight (exercise change: Sleep latency, 0-3 0.7(0.2)  0.5(0.1) 13(03) 14(03) — -0.32 &
+0.9 + 0.6 kg; stretching change: Sleep duration, 0-3 0.5(0.1)  0.4(0.1) 1.1(0.3) 1.0 (0.2) 0.07 iN
+0.6 + 0.5 kg) or circumference Sleep efficiency, 0-3 0.2(0.1) — 0.2(0.1) 0.8(0.3) 0.6 (0.3) 0.26
+trad be on i significant ee Sleep disturbances, 0-3 16(0.1)  14(0.1)" 16(0.2)  18(0.1)  -0.62
+2 ele ve aie i Sleep medications, 0-3 04(02)  0.3(0.2) 04(03)  0.6(0.3) 0.24
+P<001), Beeraice weil resulted Daytime dysfunction, 0-3 13(01)  0.9(0.1) 1.3(0.2)  13(02) -0.48
+ina 1.1% & 0.3% reduction in body All data are presented as mean (standard error) unless otherwise noted. A PSQI global score > 5 was
+fen nn in 90554 fb SR ain considered to be poor sleep quality.” SE, sleep efficiency; SOL, sleep onset latency; TST, total sleep time;
+. . — ss : WASO, wakefulness after sleep onset. “Statistically significant difference between treatments at post-
+in body fat. Likewise, exercise train- | intervention following control for baseline values (P < 0.05).
+ing failed to significantly improve
+SLEEP, Vol. 34, No. 12, 2011 1637 Exercise Training and OSA Severity—Kline et al
+
+Table 5 provides a summary of the mediation pathway analy- volumes. Improvements in actigraphic and subjective sleep
+ses. None of the proposed variables were successful at explain- parameters were likewise noted following exercise training.
+ing how exercise training may reduce AHI. Previous research that documented the potential efficacy
+of exercise training for improving OSA had been limited by
+DISCUSSION small sample sizes (NV < 20)!?"'55’ and/or uncontrolled research
+The primary purpose of this study was to examine the ef- _designs.'*!**” The current study, which is the largest random-
+ficacy of exercise training for reducing the severity of OSA. ized trial to date on this topic, documented a reduction in AHI
+Compared to stretching control, exercise training resulted in that was similar to other studies in which minimal weight loss
+moderate improvements in AHI and ODL. The improvement in occurred.'*/* Although other studies have also documented
+AHI was attained despite a lack of change in body weight and similar or superior reductions of AHI following intensive life- 9
+was not found to be significantly mediated by exercise-induced _ style interventions which included exercise training,'’***° the $=
+changes in stage N3 sleep, respiratory muscle strength, or lung dietary interventions (and subsequent greater weight loss) in 8
+those trials made it difficult to sepa- &
+. 2 7 rate the effects of diet-induced weight =F
+Table 4—Changes in potential mediators 1 fi ise traini 3
+oss from exercise training per se. >
+Exercise Training Stretching The lack of robust reduction in other §
+Measure BL POST BL POST g markers of OSA severity noted in this =
+Anthropometry study is also consistent with previous 3
+Total body weight, kg 105.6 (3.0) 104.7 (3.1) 99.3(5.1) 98.7(5.0) -0.02 research, as studies have rarely re-  §
+Total body fat, % 42.1(1.9) 41.0 (1.9)* 40.6 (1.9) 40.8 (1.9)  -0.14 ported significant improvements in 2
+Trunk body fat, % 46.3(1.6) 44.9 (1.6) 43.6 (1.5) 43.6(1.4)  -0.19 SpO, measures following exercise 5
+Neck circumference, cm 40.7(0.6) 40.9 (0.6) 39.5(0.9)  39.8(1.0) -0.01 training." a 3
+Chest circumference, cm  109.9(1.8) 109.3(1.6)  106.9(3.7) 105.9(3.6) 0.04 While only 25% of individuals @
+Waist circumference, cm 110.8 (2.3) 110.2(2.3) 104.4(3.8) 1058(3.9) -0.16 who completed the exercise training 3
+Hip circumference, cm 120.1 (2.8) 120.0(2.8) 114.8 (2.9) 115.2(3.1) _-0.03 inferwention vexpetienced eaiment 2
+Spirometry suceess ies Si: 2 A) 8995 exe e
+and reduction > 50%), 63% ex- &
+BvGaL 37 (02) 3602) 35.108) 3608) 028 perienced an AHI reduction > 20%. s
+FEV, 9 L 3.2 (0.2) 3.1 (0.2) 3.1 (0.3) 3.1(0.3) — -0.11 Thus, when evaluated as a stand- 5
+PIF, L/min 203.6 (18.8) 209.3 (20.7) 223.0 (23.1) 255.6 (26.6) —-0.28 alone treatment for OSA, the efficacy =
+PEF, Limin 400.1 (25.7) 448.1 (29.5) 408.7 (36.0) 429.1 (51.7) 0.20 of exercise training seems to be lower =
+Respiratory muscle strength than oral appliance use or multilevel a
+MIP, cm H,O 94.2(7.6) 114.4(6.6) 106.8 (8.5)111.1(7.4) 0.48 survety: ‘but similar fo other sare.
+MEP, cm H,O 119.8 (8.9) 139.0 (8.7) 115.3 (12.7) 124.7 (14.7) 0.21 cal treatments“! and approximately
+Global strength, cmH,O 107.0 (7.6) 126.7 (6.9) 111.0(9.2)  117.9(10.1) 0.34 equivalent to a 10% reduction in body 3
+weight.” However, it is worth noting @
+All data are presented as mean (standard error). FEV, ,, forced expiratory volume in 1 s; FVC, forced vital that the present data suggest a chronic g
+capacity; MEP, maximum expiratory pressure; MIP, maximum inspiratory pressure; PEF, peak expiratory effect of exercise training, with the 2
+flow; PIF, peak inspiratory flow. *Statistically significant difference between treatments at post-intervention post-intervention AHI reduction oc- &
+following control for baseline values (P < 0.05). curring following a day of non-ex- =
+ercise. In contrast, even one night of 2
+non-use of CPAP and oral appliances §
+Table 5—Mediation pathway analysis results results in a return of AHI to near pre- &
+a coefficient 8 coefficient treatment levels.’ >
+(intervention effect (mediator effect Asymmetric None of the variables that were ex- g
+Potential Mediators on mediator) on outcome) confidence limits plored to explain how exercise train- &
+Stage N3 sleep % -3.800 (1.585)* -0.021 (0.356) -2.708, 2.920 ing may reduce AHI were found to 3
+Total body weight 0.247 (0.915) 0.784 (0.601) -1.257, 1.885 be significant mediators. It is possible
+Neck circumference 0.024 (0.454) -0.673 (1.186) -0.698, 0.643 that there was insufficient statistical
+Trunk BF % 1.294 (0.706) -0.365 (0.826) -2.984, 1.615 power to detect significant mediation
+Trunk body weight -0.478 (0.688) 0.575 (0.837) 1.671, 0.707 or that the mediators chosen were ei-
+PEF 28.463 (28.137) 0.009 (0.020) -0.887, 1.764 ther incorrect or lacked sensitivity. To
+PIF -28.777 (20.321) 0.030 (0.028) -3.337, 0.681 determine how exercise training re-
+Respiratory muscle strength -12.145 (6.241) -0.058 (0.090) 1.371, 3.369 dices AMI, it will likely besnecessaty
+to include more specific mechanistic
+Data are expressed as coefficient (standard error). All mediation analyses were performed using the assessments, such as measurement
+complete sample (N = 43). N3, NREM sleep stage 3; PEF, peak expiratory flow; PIF, peak inspiratory flow. of UPPSr airway’ Size and_collaps-
+*Statistically significant effect (P < 0.05). ibility,°“* measurement of nasal re-
+sistance,** assessment of changes in
+SLEEP, Vol. 34, No. 12, 2011 1638 Exercise Training and OSA Severity—Kline et al
+
+upper airway dilator activity’ and strength/fatigability,*” and © ACKNOWLEDGMENTS
+evaluation of lung volume alterations during sleep.** This work was supported by Public Health Dissertation
+The improvements in PSG sleep that were observed in the Grant 1R36CD000695-1 from the Centers for Disease Control
+present study are generally consistent with previous research, and Prevention (CDC). Its contents are solely the responsibil-
+as significant improvements in PSG-measured sleep have rarely ity of the authors and do not necessarily represent the official
+been noted following exercise training in populations with or views of the CDC. Additional funding support for this work
+without OSA.” Although robust improvements in PSG-mea- was provided by NHLBI T32 HL082610-04.
+sured TST, SE, and arousals have been noted following exercise The authors gratefully acknowledge the assistance of
+training in one study of adults with OSA," others have found SleepMed of South Carolina and the WJB Dorn VA Sleep Lab-
+no change in PSG sleep'*" or only selected improvements.” To _ oratory for their assistance with recruitment and data collection, 9
+our knowledge, the improvements in actigraphic and subjective respectively. The authors also are indebted to Colin Kane and §
+sleep, which in some respects are preferred because they esti- DeAnna Milton for their assistance with data collection, and to 3
+mate sleep in the home setting over multiple nights, have not Dr. Xuemei Sui and Dr. Meghan Baruth for their help with sta-  &
+been previously documented following exercise in this popula- tistical analyses. The work was performed in Dr. Youngstedt’s =
+tion. However, these improvements have not been uncommon Chronobiology Laboratory, the Clinical Exercise Research 2.
+following exercise training in individuals with sleep complaints Center at the University of South Carolina, and the WJB Dorn s
+unrelated to OSA.” VA Medical Center Sleep Laboratory. =
+One of the main limitations of the study was the single night 3
+of laboratory PSG performed at pre- and post-intervention, | DISCLOSURE STATEMENT 8
+which likely introduced additional variability in measures of This was not an industry supported study. Dr. Blair receives
+OSA severity.” A lack of snoring measurement was a further —_ book royalties from Human Kinetics, and has received hono- 5
+limitation. Snoring has been associated with adverse cardiovas- raria for service on the scientific/medical advisory boards for 8
+cular health outcomes independent of OSA,*! and anecdotally, Alere, Technogym, Santec, Clarity, and Jenny Craig. The other &
+bed partners of many participants reported robust decreases in authors have indicated no financial conflicts of interest. 2
+snoring following exercise training. 2
+Like most adults treated for OSA, many participants in the REFERENCES 2
+present study had either failed to adhere to traditional treat- 1. Young T, Shahar E, Nieto FJ, et al. Predictors of sleep-disordered breath-
+. . L ing in community-dwelling adults: the Sleep Heart Health Study. Arch =
+ments or experienced treatment failure. Therefore, even mod Intern Med 2002:162:893-900. 8
+erately efficacious effects, such as what was found for exercise 2. Beebe DW, Groesz L, Wells C, Nichols A, McGee K. The neuropsycho- &
+training, would be more beneficial than lack of treatment. When logical effects of obstructive sleep apnea: a meta-analysis of norm-refer-_
+considering that exercise training may also alleviate many of enced and case-controlled data. Sleep 2003;26:298-307. ; Zz
+the health: consequences of OSA, a case can be made for the 3. Shahar E, Whitney CW, Redline S, et al. Sleep-disordered breathing and a
+. ae . . . cardiovascular disease: cross-sectional results of the Sleep Heart Health oO
+potential utility of exercise in the management of OSA. Addi- Study, Am J Respir Crit Care Med 2001;163:19-25. g
+tionally, these findings provide evidence that exercise training 4. Reichmuth KJ, Austin D, Skatrud JB, Young T. Association of sleep apnea O.
+may be a desirable first trial of treatment before progression to and type II diabetes: a population-based study. Am J Respir Crit CareMed 5
+: . 2005;172:1590-5. n
+TORS ADVASIVE DIEASULES.. Loy . 5. Young T, Finn L, Peppard PE, et al. Sleep disordered breathing and =
+It has been suggested that individuals with OSA may have mortality: eighteen-year follow-up of the Wisconsin sleep cohort. Sleep =
+a difficult time adhering to an exercise training program. Al- 2008;31:1071-8. 2
+though the excessive sleepiness associated with OSA has been 6. Lam B, Sam K, Mok WY, et al. Randomised study of three non-sur-
+hypothesized to contribute to the disinclination to exercise,” oe ae mn mild foumoderaterabstructiversicep apnoea, ‘Thorax <
+CPAP therapy has not been shown to increase activity patterns, 7. Kribbs NB, Pack AI, Kline LR, et al. Effects of one night without nasal =
+even after sleepiness has been reduced.*? We found that, us- CPAP treatment on sleep and sleepiness in patients with obstructive sleep  §
+ing a carefully progressed supervised exercise intervention, apnea. Am Rev Respir Dis 1993;147:1162-8. 2
+sos wos 8. Lim J, Lasserson TJ, Fleetham J, Wright J. Oral appliances for obstructive 5
+participant adherence was excellent, and most Participants sleep apnoea. Cochrane Database Syst Rev 2006;CD004435. =
+reported intentions to continue exercising following comple- 9. Franklin KA, Anttila H, Axelsson S, et al. Effects and side-effects of sur- 2
+tion of the supervised intervention. However, the participants gery for snoring and obstructive sleep apnea--a systematic review. Sleep 2
+were self-selected and thus may have had higher motivation 2009;32:27-36. 3
+to Skercise thansmay he expecteddin the general population 10. Peppard PE, Young T. Exercise and sleep-disordered breathing: an asso- =
+y P 8 . Pop . ciation independent of body habitus. Sleep 2004;27:480-4. y
+Future research should evaluate whether EXCERCISE under less 11. Quan SF, O’Connor GT, Quan JS, et al. Association of physical activity
+controlled conditions still produces a significant reduction in with sleep-disordered breathing. Sleep Breath 2007; 11:149-57. =
+OSA severity. 12. Giebelhaus V, Strohl KP, Lormes W, Lehmann M, Netzer N. Physical ex-
+In conclusion, this study found that exercise training resulted ee ee therapy an'sleep apnea: anopen.(al,.Sleep: Breath
+in a modest reduction in AHI despite minimal change in body 13. Norman JE, Von Essen SG, Fuchs RH, McElligott M. Exercise training ef
+weight. Moderate improvements in objective and subjective fect on obstructive sleep apnea syndrome. Sleep Res Online 2000;3:121-9.
+sleep quality also occurred following exercise training. The 14. Sengul YS, Ozalevli S, Oztura I, Itil O, Baklan B. The effect of exer-
+results suggest that exercise training exerts a significant effect oath eee a apnea: @ randomized and eoutrolled trial.:Sleep
+on OSA severity and sleep quality, and that exercise training 15. Ueno LM, Drager LF, Rodrigues AC, et al. Effects of exercise training in
+may provide benefit for the management of OSA beyond that of patients with chronic heart failure and sleep apnea. Sleep 2009;32:637-47.
+solely facilitating weight loss.
+SLEEP, Vol. 34, No. 12, 2011 1639 Exercise Training and OSA Severity—Kline et al
+
+See corresponding editorial on page 1007.
+. sys 413
+The cost of US foods as related to their nutritive value
+Adam Drewnowski
+ABSTRACT energy than did strawberries (4480 compared with 280 kcal) was
+Background: Comparisons of the cost of different foods relative to not viewed as relevant (3).
+their energy and nutritive value were conducted in the 1800s by the In 1894, Atwater recognized that different foods varied greatly
+US Department of Agriculture (USDA). in the proportion of water they contained (1). Because water
+Objective: The objective was to reestablish the relations between contributed to food weight but supplied neither nutrients nor
+food cost, energy, and nutrients by using contemporary nutrient calories, Atwater ignored food weight and calculated instead the
+composition and food prices data from the USDA. amounts of energy and nutrients that could be obtained from
+Design: The USDA Food and Nutrient Database for Dietary Studies —_ different foods for a given price. At the time, corn meal, wheat
+1.0 (FNDDS 1.0) and the Center for Nutrition Policy and Promotion flour, and sugar provided the most calories for 25 cents (1).
+food prices database were used for analysis. For 1387 foods, key Writing on the nutritive value and cost of food in 1902, Milner
+variables were as follows: energy density (keal/g), serving size (g), (4) had this to say about the cost of fresh produce compared with
+unit price ($/100 8), serving price (S/serving), and energy cost grains: “Cabbage at 2.5 cents per pound seems cheap, but 10 cents
+(Sikcal). A ‘Tegtession model tested associations between nutrients Worth of cabbage furnishes 500 calories of energy while 10 cents
+and unit De ($/100 g). Comparisons between food groups were worth of wheat flour at 3 cents per pound furnishes 5490 calories
+tested by using one-factor analyses of variance. Relations between of energy and is truly cheap” (4). In 2009, an article in the Journal
+energy density and price within food groups were:tested by using sin) questioned whether energy-dense grain snacks were really
+Spearman's sorrelations: ; . a cheaper than fresh produce—on the basis of prices per package
+Results: Grains and fats food groups supplied the lowest-cost di- and prices per gram (2). Yet, calculations of energy cost, whether
+etary energy. The energy cost for vegetables was higher than that for ¢ z
+, oe : expressed as dollars per calorie or calories per dollar, have been
+any other food group except for fruit. Serving sizes increased with
+sae , ; around for more than one hundred years.
+water content and varied inversely with energy density of foods. The .
+‘ : ‘ The 1902 yearbook of the US Department of Agriculture
+highest prices per serving were for meats, poultry, and fish, and the : :
+: . (USDA) even grouped foods according to their energy costs (4).
+lowest prices per serving were for the fats category. Although car- Sas z
+. ‘ é Cheap foods, providing >1900 calories for 10 cents were ce-
+bohydrates, sugar, and fat were associated with lower price per :
+Z es Z . mont : reals, sugars, starches, lard, dried beans and peas, cheap cuts of
+100 g, protein, fiber, vitamins, and minerals were associated with
+i . =. meat, salt pork and bacon, potatoes, and sweet potatoes. By
+higher price per 100 g, after adjustment for energy. & aa :
+Hee Pinta cs s en . Han , contrast, “expensive” foods that provided <800 calories for 10
+Conclusions: Grains and sugars food groups were cheaper than _
+vegetables and fruit per calorie and were cheaper than fruit per cents were lean theats and fish, chicken, eggs, green vegetables,
+serving. These price differentials may help to explain why low- and most fresh fruit. Then as now, grains and Sugars were
+cost, energy-dense foods that are nutrient poor are associated with cheaper than fresh produce (4). Far from viewing such in-
+lower education and incomes. Am J Clin Nutr 2010;92:1181-8. formation as irrelevant (3), the 1902 USDA yearbook (4) pointed
+to the many applications that could be made of the knowledge of
+the relation between cost and the nutritive value of food.
+
+By using more contemporary nutrient composition data sets
+and food prices from France, Darmon et al (5) confirmed that dry,
+energy-dense foods provided lower-cost calories than did fresh
+
+INTRODUCTION produce. As confirmed in multiple studies (6-8), fats, grains,
+
+In comparing the cost of different foods, “we are apt to judge
+
+them by the prices per pound, quart or bushel, without much ' From the Center for Public Health Nutrition, School of Public Health,
+regard to the amounts or kinds of actual nutrients which they University of Washington, Seattle, WA.
+
+contain.” Those words, written by Wilbur Atwater in 1894 (1), 2 Supported by USDA Cooperative State Research, Education, and Exten-
+still hold true today. Recent articles in the Journal have ques- Sion Service grant 2004-35215-14441 on obesity and poverty and by NIH
+tioned the use of a calorie adjustment to compare the cost of grants RO] DK 076608 and R21 DK085406 on food environment, diet
+different foods, arguing instead for the use of prices per package. quality, and. dispanties/imiobestty:
+
+100 ° ¥ 2). One| a 3 d that i , 3 Address correspondence to A Drewnowski, 305 Raitt Hall #353410,
+per 8, oF per serving ( ). ne etter writer (3) stated t al ab was University of Washington, Seattle, WA 98195-3410. E-mail: adamdrew@
+not useful to know that tortilla chips were cheaper per calorie than _y washington.edu.
+were fresh strawberries, as long as the 2 packages cost the same, Received January 30, 2010. Accepted for publication July 27, 2010.
+$3.99. The fact that the tortilla chips provided 16 times more First published online August 18, 2010; doi: 10.3945/ajcn.2010.29300.
+Am J Clin Nutr 2010;92:1181-8. Printed in USA. © 2010 American Society for Nutrition 1181
+
+16. Vincent HK, Shanely RA, Stewart DJ, et al. Adaptation of upper air- 36. Mackinnon DP, Fritz MS, Williams J, Lockwood CM. Distribution of the
+way muscles to chronic endurance exercise. Am J Respir Crit Care Med product confidence limits for the indirect effect: program PRODCLIN.
+2002; 166:287-93. Behav Res Methods 2007;39:384-9.
+17. Series F, Roy N, Marc I. Effects of sleep deprivation and sleep fragmenta- 37. Barnes M, Goldsworthy UR, Cary BA, Hill CJ. A diet and exercise pro-
+tion on upper airway collapsibility in normal subjects. Am J Respir Crit gram to improve clinical outcomes in patients with obstructive sleep
+Care Med 1994;150:481-5. apnea—a feasibility study. J Clin Sleep Med 2009;5:409-15.
+18. Olson LG, Strohl KP. The response of the nasal airway to exercise. Am 38. Tuomilehto HP, Seppa JM, Partinen MM, et al. Lifestyle intervention with
+Rev Respir Dis 1987;135:356-9. weight reduction: first-line treatment in mild obstructive sleep apnea. Am
+19. Redolfi S, Yumino D, Ruttanaumpawan P, et al. Relationship between J Respir Crit Care Med 2009;179:320-7.
+overnight rostral fluid shift and obstructive sleep apnea in nonobese men. 39. Foster GD, Borradaile KE, Sanders MH, et al. A randomized study on
+Am J Respir Crit Care Med 2009;179:241-6. the effect of weight loss on obstructive sleep apnea among obese pa-
+20. Youngstedt SD, Kline CE. Epidemiology of exercise and sleep. Sleep tients with type 2 diabetes: the Sleep AHEAD study. Arch Intern Med
+Biol Rhythms 2006;4:215-21. 2009; 169:1619-26. 2
+21. Youngstedt SD. Effects of exercise on sleep. Clin Sports Med 40. Ferguson KA, Cartwright R, Rogers R, Schmidt-Nowara W. Oral ap- 2
+2005;24:355-65. pliances for snoring and obstructive sleep apnea: a review. Sleep 9
+22. Netzer NC, Stoohs RA, Netzer CM, Clark K, Strohl KP. Using the Berlin 2006;29:244-62. o
+Questionnaire to identify patients at risk for the sleep apnea syndrome. 41. Caples SM, Rowley JA, Prinsell JR, et al. Surgical modifications of the = =>
+Ann Intern Med 1999;131:485-91. upper airway for obstructive sleep apnea in adults: a systematic review gs
+23. Haskell WL, Lee IM, Pate RR, et al. Physical activity and public health: and meta-analysis. Sleep 2010;33:1396-407. =
+updated recommendation for adults from the American College of Sports 42. Peppard PE, Young T, Palta M, Dempsey J, Skatrud J. Longitudinal id
+Medicine and the American Heart Association. Med Sci Sports Exerc study of moderate weight change and sleep-disordered breathing. JAMA =
+2007;39:1423-34. 2000;284:3015-21. a
+24. American College of Sports Medicine. ACSM’s guidelines for exercise 43. Schwab RJ, Pasirstein M, Pierson R, et al. Identification of upper airway >>
+testing and prescription. 8th ed. Philadelphia: Lippincott Williams & anatomic risk factors for obstructive sleep apnea with volumetric mag- 3.
+Wilkins, 2010. netic resonance imaging. Am J Respir Crit Care Med 2003;168:522-30. 5
+25. Iber C, Ancoli-Israel S, Chesson AL, Quan SF. The AASM manual for the 44. Patil SP, Punjabi NM, Schneider H, O’Donnell CP, Smith PL, Schwartz s
+scoring of sleep and associated events: rules, terminology and technical AR. A simplified method for measuring critical pressures during sleep in iS}
+specifications. Westchester, IL: American Academy of Sleep Medicine, the clinical setting. Am J Respir Crit Care Med 2004;170:86-93. 3
+2007. 45. Li HY, Engleman H, Hsu CY, et al. Acoustic reflection for nasal airway 2
+26. Kushida CA, Chang A, Gadkary C, Guilleminault C, Carrillo O, Dement measurement in patients with obstructive sleep apnea-hypopnea syn- -§
+WC. Comparison of actigraphic, polysomnographic, and subjective as- drome. Sleep 2005;28:1554-9. 2
+sessment of sleep parameters in sleep-disordered patients. Sleep Med 46. Pierce R, White D, Malhotra A, et al. Upper airway collapsibility, di- @
+2001;2:389-96. lator muscle activation and resistance in sleep apnoea. Eur Respir J g
+27. Chae KY, Kripke DF, Poceta JS, et al. Evaluation of immobility time for 2007;30:345-53. &
+sleep latency in actigraphy. Sleep Med 2009;10:621-5. 47. Mortimore IL, Bennett SP, Douglas NJ. Tongue protrusion strength and =
+28. Buysse DJ, Reynolds CF III, Monk TH, Berman SR, Kupfer DJ. The fatigability: relationship to apnoea/hypopnoea index and age. J Sleep Res a
+Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice 2000;9:389-93. =
+and research. Psychiatry Res 1989;28:193-213. 48. Heinzer RC, Stanchina ML, Malhotra A, et al. Effect of increased lung iS
+29. McMinn D, Rowe DA, Stark M, Nicol L. Validity of the New Lifestyles volume on sleep disordered breathing in patients with sleep apnoea. Tho- g
+NL-1000 accelerometer for measuring time spent in moderate-to-vig- rax 2006;61:435-9. Fa
+orous physical activity in school settings. Meas Phys Educ Exere Sci 49. King AC, Pruitt LA, Woo §, et al. Effects of moderate-intensity exer-
+2010;14:67-78. cise on polysomnographic and subjective sleep quality in older adults ©
+30. Segal-Isaacson CJ, Wylie-Rosett J, Gans KM. Validation of a short dietary with mild to moderate sleep complaints. J Gerontol A Biol Sci Med Sci =
+assessment questionnaire: the Rapid Eating and Activity Assessment for 2008;63:997-1004. #
+Participants short version (REAP-S). Diabetes Educ 2004;30:774,776,778. 50. Levendowski DJ, Zack N, Rao S, et al. Assessment of the test-retest reli- a
+31. American Thoracic Society. Standardization of spirometry, 1994 update. ability of laboratory polysomnography. Sleep Breath 2009; 13:163-7. &
+Am J Respir Crit Care Med 1995;152:1107-36. 51. Lee SA, Amis TC, Byth K, et al. Heavy snoring as a cause of carotid 5
+32. American Thoracic Society, European Respiratory Society. ATS/ERS artery atherosclerosis. Sleep 2008;31:1207-13. 3
+Statement on respiratory muscle testing. Am J Respir Crit Care Med 52. Aguillard RN, Riedel BW, Lichstein KL, Grieve FG, Johnson CT, Noe g.
+2002;166:518-624. SL. Daytime functioning in obstructive sleep apnea patients: exercise tol- a
+33. Richard W, Kox D, den Herder C, van Tinteren H, de Vries N. One stage erance, subjective fatigue, and sleepiness. Appl Psychophysiol Biofeed- 2
+multilevel surgery (uvulopalatopharyngoplasty, hyoid suspension, radio- back 1998;23:207-17. A
+frequent ablation of the tongue base with/without genioglossus advance- 53. West SD, Kohler M, Nicoll DJ, Stradling JR. The effect of continuous ©
+ment), in obstructive sleep apnea syndrome. Eur Arch Otorhinolaryngol positive airway pressure treatment on physical activity in patients with
+2007;264:439-44. obstructive sleep apnoea: a randomised controlled trial. Sleep Med = w
+34. Hedges LV, Olkin I. Statistical methods for meta-analysis. New York: 2009;10:1056-8. a
+Academic Press, 1985. i)
+35. Mackinnon DP, Lockwood CM, Williams J. Confidence limits for the in- iow
+direct effect: distribution of the product and resampling methods. Multi- 2
+variate Behav Res 2004;39:99-128. a
+So
+IN
+SLEEP, Vol. 34, No. 12, 2011 1640 Exercise Training and OSA Severity—Kline et al
+
+&
+
+1164 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+a 8
+estimate of the effect of inadequate sleep on obesity. Al- model for meta-analyses that use adjustment based on mea- z
+though, in this review there were not many studies that ex- sured methodological heterogeneity between studies (16). It :
+plored inadequate sleep as a result of both sleep quality has also been demonstrated to be more reliable than the use z
+and duration, those that did reported a significant associa- of the random effects model that requires strong assump- 5
+tion between inadequate sleep and the Ow/Ob outcome tions that are unlikely to be valid in practice (46) and is z
+(29,30). known to produce spuriously positive results (47). Addi- 2
+Due to the fewer number of studies we could not con- tionally, lack of practical heterogeneity as indicated by the &
+duct a separate meta-analysis for subjects belonging to P estimate imparts some strength to the findings of this Fl
+different developmental stages, but the results from sensi- meta-analysis(48). z
+tivity analysis suggest that association between poor sleep e
+and Ow/Ob is stronger for children than adolescents and ; :
+young adults (Table S-2). Similarly, some studies also Conclusion z
+found a gender difference in the prevalence of inadequate The results of this systematic review and meta-analysis g
+sleep suggesting that gender could be a moderating factor indicate a potential role of sleep quality in the sleep- 2g
+in sleep-obesity association (26). Therefore, future studies obesity association in children, adolescents, and young Z
+on the sleep quality-obesity link should also consider the adults, with some evidence for this association to be in- 2
+potential moderation by developmental stages and dependent of sleep duration. Therefore, it follows that z
+gender. short sleep duration should not be used as the only 2
+Emerging evidence from epidemiological and clinical benchmark of inadequate sleep, and we suggest that ex- =
+studies have not provided a clear link between other aspects ploring for the cumulative effect of both poor quality A
+of sleep and glucose homeostasis independent of total sleep and short duration would be perhaps the better approach 2
+duration(42,43). One approach is to explore the association for future research on sleep-obesity. Although the existing a
+by considering the link between energy balance and the spe- evidence for the sleep quality and obesity association is E
+cific parts of the sleep cycle, i.e., SWS and rapid eye move- weak, these preliminary findings are interesting enough ES
+ment (REM) sleep (44). There is some evidence that a to herald future research in this area. Considering that 4
+decrease in insulin sensitivity correlates with a reduction in the bulk of the existing evidence is coming from cross- =
+SWS (7). SWS is also seen to be associated with decreased sectional studies, further evidence from longitudinal stud- :
+secretion of cortisol and increased secretion of growth hor- ies would be the next step in establishing whether im- 2
+mone (45). It is postulated that the hormonal changes asso- proving sleep quality can help prevent childhood 5
+ciated with less time spent in SWS and alterations in REM obesity. Future epidemiological studies based on a longi- 2
+sleep support weight gain. tudinal design using validated tools that measure both S
+Our meta-analysis pooled estimate for the association be- quantitative and quantitative aspects of sleep will help z
+tween poor sleep quality and Ow/Ob is comparable to the us better understand the strength as well as the causal i
+pooled estimate for the association between short sleep du- nature (or not) of the association between sleep and obe- ?
+ration and Ob/Ob (11). However, unlike the latter, this sity. The alternative to a causal effect could be that both El
+study is based on mainly cross-sectional studies. Therefore, (disturbed sleep and obesity) are simply effects or proxies EI
+the causal link and stability of the association between sleep for deeper underlying causes. z
+dimensions and Ow/Ob could not be confirmed. Addition- Z
+ally, visual inspection of the forest plot suggested that the a
+study by Quick et al. was assigned the highest weight. Re- Authors’ contribution 2
+view of this study reveals that to maximize sample size, data 2
+from two contemporaneous studies with same variables YF conceptualized the study, handled the literature review z
+were combined. That perhaps had affected the overall OR and data extraction, conducted meta-analyses and drafted i
+for Ow/Ob and led to a narrow confidence interval, the initial manuscript. AAM and SD critically reviewed the 2
+explaining the higher weight allocation. The removal of this systematic review protocol, helped in the drafting of the 4
+study had a minor effect on the pooled estimate and did not manuscript and critical review of the final version of the a
+change the direction of association or statistical significance. manuscript. SD assisted in designing the risk of bias tool :
+Considering that the quality of this study was also better and developed the model used in this analysis. All authors z
+than some other studies included in the review, it was kept approved the final manuscript. ‘
+in the meta-analysis and indeed the results of this study Ei
+might reflect the magnitude of the real effect of poor sleep 2
+quality. Conflicts of interest i
+Despite these limitations mentioned above, one of the ig
+strengths of our study is that we used the quality effects No conflict of interest was declared. 3
+6
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity 3
+RIGHTS LIN Kd z
+&
+
+&
+
+obesity reviews Sleep quality and obesity Y. Fatima et al. 1165 g
+Fi
+
+Supporting Information 13. Shamliyan TA, Kane RL, Ansari MT et al. Development qual- z
+ity criteria to evaluate nontherapeutic studies of incidence, B
+
+Additional Supporting Information may be found in the prevalence, or risk factors of chronic diseases: pilot study of new e
+online version of this article, http://dx.doi.org/10.1111/ checklists. J Clin Epidemiol 2011; 64: 637-57. :
+obr.12444 14. National Heart Lung and Blood Institute (2014). Quality As- g
+sessment Tool for Observational Cohort and Cross-Sectional z
+
+Studies. [WWW document]. http://www.nhlbi.nih.gov/health-pro/ &
+
+Table $1. Quality Assessment tool for studies exploring the im- guidelines/in-develop/cardiovascular-risk-reduction/tools/cohort i
+. . aes 15. Doi SA, Barendregt JJ, Khan $, Thalib L, Williams GM. Ad- 8
+
+pact of inadequate sleep on overweight/obesity in young sub- vances in the meta-analysis of heterogeneous clinical trials II: The 2
+jects (References: 18-35) quality effects model. Contemp Clin Trials 2015; 45: 123-9. 5
+Table $2. Sensitivity analysis of meta-analysis of inadequate 16. Doi SA, Thalib L. A quality-effects model for meta-analysis. =
+sleep and overweight/obesity in young subjects (References Epidemiology (Cambridge, Mass) 2008; 19: 94-100. :
+25-33) 17. Takkouche B, Cadarso-Suarez GC, Spiegelman D. Evaluation of E
+Figure $1. Funnel plot (right) and Doi plot (left) for the meta- pa oe lent ee he Gs epidemiologic. meta-analysis: 2
+analysis of studies exploring association between inadequate 18. Bailey BW, Allen MD, LeCheminant JD et al. Objectively mea- 2g
+sleep and overweight/obesity in young subjects after exclusion sured sleep patterns in young adult women and the relationship to £
+of Quick et al. Both plots demonstrate some melioration of the adiposity. Am J Health Prom: AJHP 20145 29: 46-54. ; 2
+serve positive asymmetry favoring studies with positive results, 12. Jasin. DC, McGr ath JJ, Dr ake CL. Beyond sleep dur. ation: dis- g
+. . : : . tinct sleep dimensions are associated with obesity in children and 2
+suggesting that the asymmetry is considerably driven by this adolescents, Int J Obes (2005) 2013; 37: 552-8. a
+study. The LFK index value of 3.68 concurs with positive 20. Michels N, Verbeiren A, whee W, De Henauw S, Sioen I. z
+asymmetry Children’s sleep quality: relation with sleep duration and adiposity. A
+Public Health 2014; 128: 488-90. S
+
+21. Bawazeer NM, Al-Daghri NM, Valsamakis G et al. Sleep dura- &
+
+References tion and quality associated with obesity among Arab children. z
+Obes (Silver Spring, Md) 2009; 17: 2251-3. 3
+
+1. Magee L, Hale L. Longitudinal associations between sleep dura- 22. Chen DR, Truong KD, Tsai MJ. Prevalence of poor sleep qual- &
+tion and subsequent weight gain: a systematic review. Sleep Med ity and its relationship with body mass index among teenagers: ¢
+Rev 2012; 16: 231-41. evidence from Taiwan. J Sch Health 2013; 83: 582-8. z
+2. Patel SR, Hu FB. Short sleep duration and weight gain: a system- 23. Bagley EJ, El-Sheikh M. Familial risk moderates the associa- 7
+atic review. Obesity (Silver Spring, Md) 2008; 16: 643-53. tion between sleep and zBMI in children. J Pediatr Psychol 2013; g
+3. Pilcher JJ, Ginter DR, Sadowsky B. Sleep quality versus sleep 38: 775-84. 5
+quantity: Relationships between sleep and measures of health, 24. de Vasconcelos HC, Fragoso LV, Marinho NB e¢ al. Correla- 3
+well-being and sleepiness in college students. J Psychosom Res tion between anthropometric indicators and sleep quality among a
+1997; 42: 583-96. Brazilian university students. Revista da Escola de Enfermagem 3
+4, Bonnet MH, Arand DL. Clinical effects of sleep fragmentation da US P 2013; 47: 852-9. z
+versus sleep deprivation. Sleep Med Rev 2003; 7: 297-310. 25. Liu J, Hay J, Joshi D, Faught BE, Wade T, Cairney J. Sleep dif- z
+5. Stamatakis KA, Punjabi NM. Effects of Sleep Fragmentation on ficulties and obesity among preadolescents. Canadian J Public é
+Glucose Metabolism in Normal Subjects. Chest 2010; 137: 95-101. Health = Revue canadienne de sante publique 2011; 102: 139-43. Es
+6. Punjabi NM, Shahar E, Redline S$, Gottlieb DJ, Givelber R, 26. Sivertsen B, Pallesen S, Sand L, Hysing M. Sleep and body E
+Resnick HE. Sleep-disordered breathing, glucose intolerance, and mass index in adolescence: results from a large population-based 3
+insulin resistance: the Sleep Heart Health Study. Am J Epidemiol study of Norwegian adolescents aged 16 to 19 years. BMC Pediatr 7
+2004; 160: 521-30. 2014; 14: 204-14. Ey
+7. Tasali E, Leproult R, Ehrmann DA, Van Cauter E. Slow-wave 27, Narang I, Manlhiot C, Davies-Shaw J et al. Sleep disturbance 2
+sleep and the risk of type 2 diabetes in humans. Proc Natl Acad and cardiovascular risk in adolescents. CMAJ : Canadian Medical 2
+Sci US A 2008; 105: 1044-49. Association journal = journal de l’Association medicale canadienne 2
+8. Leger D, Beck F, Richard JB, Godeau E. Total sleep time severely 2012; 184: E913-20. =
+drops during adolescence. PLoS One 2012; 7: 1-21 45204. 28. Mota J, Vale S. Associations between sleep quality with cardio- 2
+9. Chen X, Beydoun MA, Wang Y. Is Sleep Duration Associated With respiratory fitness and BMI among adolescent girls. Am J Human 5
+Childhood Obesity? A Systematic Review and Meta-analysis. Obesity Bio : official ] Human Bio Council 2010; 22: 473-5. a
+2008; 16: 265-74. 29. Quick V, Byrd-Bredbenner C, White AA et al. Eat, sleep, work, 2
+10. Cappuccio FP, Taggart FM, Kandala NB e¢ al. Meta-analysis play: associations of weight status and health-related behaviors a
+of short sleep duration and obesity in children and adults. Sleep among young adult college students. Am J Health Prom: AJHP e
+2008; 31: 619-26. 2014; 29: e64-72. 2
+11. Fatima Y, Doi SA, Mamun AA. Longitudinal impact of sleep 30. Firouzi S, Poh BK, Ismail MN, Sadeghilar A. Sleep habits, food A
+on overweight and obesity in children and adolescents: a systematic intake, and physical activity levels in normal and overweight and e
+review and bias-adjusted meta-analysis. Obes Rev: offic] Int Assoc _ bese Malaysian children. Obes Res Clin Prac 2014; 8: e70-8. ¢
+Study Obes 2015; 16: 137-49. 31. Vargas PA, Flores M, Robles E. Sleep quality and body mass in- g
+12. Stroup DF, Berlin JA, Morton SC et al. Meta-analysis of obser- dex in college students: the role of sleep disturbances. J Am College E
+vational studies in epidemiology: a proposal for reporting. Meta- Health : ] of ACH 2014; 62: 534-41. Fa
+analysis Of Observational Studies in Epidemiology (MOOSE) 32. Alamian A, Wang L, Pitts M, Ikekwere J, Hall AM. Abstract 3
+group. Jama 2000; 283: 2008-12. P106: Infant Sleep Problems Increase the Odds of Childhood E
+4
+
+FA
+
+6
+
+© 2016 World Obesity Obesity Reviews 17, 1154-1166, November 2016 3
+RIGHTS LIN Kd g
+g
+
+a
+
+1166 Sleep quality and obesity Y. Fatima et al. obesity reviews g
+Overweight at Grade 6: Differential Effects of Commonly Used Def- 41. Dewald JF, Meijer AM, Oort FJ, Kerkhof GA, Bogels SM. The z
+initions of Sleep Problems. Circulation 2014; 129: AP106. influence of sleep quality, sleep duration and sleepiness on school B
+33. Lumeng JC, Somashekar D, Appugliese D, Kaciroti N, performance in children and adolescents: A meta-analytic review. e
+Corwyn RF, Bradley RH. Shorter sleep duration is associated with Sleep Med Rev 2010; 14: 179-89. 4
+increased risk for being overweight at ages 9 to 12 years. Pediatrics 42. Rao MN, Blackwell T, Redline S$ et al. Association Between g
+2007; 120: 1020-9. Sleep Architecture and Measures of Body Composition. Sleep z
+34. Arora T, Hosseini-Araghi M, Bishop J, Yao GL, Thomas GN, 2009; 32: 483-90. &
+Taheri $. The complexity of obesity in U.K. adolescents: relation- 43. Bidulescu A, Din-Dzietham R, Coverson DL e¢ al. Interaction i
+ships with quantity and type of technology, sleep duration and of sleep quality and psychosocial stress on obesity in African Amer- 8
+quality, academic performance and aspiration. Pediatric obes icans: the Cardiovascular Health Epidemiology Study (CHES). 2
+2013; 8: 358-66. BMC Public Health 2010; 10: 581-91. s
+35. Arora T, Taheri S. Associations among late chronotype, body 44. Gonnissen HK, Adam TC, Hursel R, Rutters F, Verhoef SP, =
+mass index and dietary behaviors in young adolescents. Int J Westerterp-Plantenga MS. Sleep duration, sleep quality and body Ee
+Obes(2005) 2015; 39: 39-44. weight: parallel developments. Physiol Behav 2013; 121: 112-6.
+36. Barendregt JJ, Doi SA. MetaXL User Guide: Version 3.0. 45. Rutters F, Gonnissen HK, Hursel R, Lemmens SG, Martens g
+Queensland, Australia. 2015; 1-56. EA, Westerterp-Plantenga MS. Distinct associations between energy e
+37. Harvey AG, Stinson K, Whitaker KL, Moskovitz D, Virk H. balance and the sleep characteristics slow wave sleep and rapid eye 2
+The Subjective Meaning of Sleep Quality: A Comparison of Individ- movement sleep. Int J Obes (2005) 2012; 36: 1346-52. £
+uals with and without Insomnia. Sleep 2008; 31: 383-93. 46. Al Khalaf MM, Thalib L, Doi SA. Combining heterogenous 2
+38. Krystal AD, Edinger JD. Measuring sleep quality. Sleep Med studies using the random-effects model is a mistake and leads to in- g
+2008; 9(Suppl 1): $10-7. conclusive meta-analyses. J Clin Epidemiol 2011; 64: 119-23. 2
+39. Backhaus J, Junghanns K, Broocks A, Riemann D, Hohagen F. 47. Noma H. Confidence intervals for a random-effects meta-analysis Z
+Test-retest reliability and validity of the Pittsburgh Sleep Quality In- based on Bartlett-type corrections. Stat Med 2011; 30: 3304-12. g
+dex in primary insomnia. J Psychosom Res 2002; 53: 737-40. 48. Higgins JPT, Thompson SG, Deeks JJ, Altman DG. Measuring A
+40. Liu X, Zhou H. Sleep duration, insomnia and behavioral prob- inconsistency in meta-analyses. BMJ (Clinical research ed) 2003; 5
+lems among Chinese adolescents. Psychiatry Res 2002; 111: 75-85. 327: 557-60. &
+g
+
+a
+
+:
+
+Ej
+
+2
+
+3
+
+&
+
+B
+
+=
+
+Fy
+
+s
+
+2
+
+=
+
+2
+
+2
+
+a
+
+i
+
+$
+
+3
+
+E
+
+e
+
+5
+
+g
+
+Obesity Reviews 17, 1154-1166, November 2016 © 2016 World Obesity :
+RIGHTS LIN Kd B
+&
+
+1182 DREWNOWSKI
+sugar, beans, and potatoes had substantially lower energy costs _ price ($/100 g), serving price ($/serving), and energy cost
+than did lean meat, fish, lettuce, or fresh fruit (3). ($/kcal).
+Given suggestions that the low energy cost of grains relative to
+fresh produce was the result of an autocorrelation (2), itistimeto — Fygd and Drug Administration serving sizes
+revisit the concept of food prices per calorie compared with prices Common food ‘portions provided inthe FNDDS were replaced
+per bushel. The present research updates the seminal work of z Ae 5
+Atwater by using USDA nutrient composition and food prices wae US Food aad DIUe pdounis ation (ebay aneadated
+daia (9, 10). To counter'suegestions that the:low costiof energy: serving sizes—ie, Reference Amounts Customarily Consumed or
+z . . : RACC values (11). The FDA uses 139 different values for serving
+dense foods was merely an arithmetic artifact (2), random variables . a :
+for calculating enerey density and energy cost were generated for S12°S obtainable from a list of FDA standards. RACC values are
+g sy ry By g -
+all foods tested set lower for energy-dense sugar (4 g), fats and oils (15 g), and
+cereals (30 g) than for lower-energy-density meats (85 g), vegetables
+and fruit (120 g), or soups, fluid milk, and beverages (240 g). By
+METHODS definition then, typical serving sizes are higher for fresh produce
+. . than for dry, energy-dense snacks. In the present data set, and
+Nutrient and food prices datahases depending . fol can the weight of a bas serving of food
+The nutrient composition database ranged from 1 to 280 g, and calories per serving ranged from | to
+The USDA Food and Nutrient Database for Dietary Studies 1.0 533 kcal. Serving sizes and water content of foods were inversely
+(FNDDS 1.0) is used to code, process, and analyze the What We __ linked (Spearman’s correlation coefficient: 0.68). The relation
+Eat in America food intake data (9). The files include detailed between serving sizes (RACC values) and the energy density of
+food descriptions for 6940 foods from all food groups, typical foods is shown in Figure 1.
+food portions and weights, method of preparation (where
+available), nutrient values for energy and 60 nutrients, and links — Exclusion criteria
+to the USDA Standard Release (SR) Ruede cOmpasifion The present analyses were limited to those foods for which the
+databases @). The primary description of'a given food : linked frequency of consumption in the NHANES database was >5
+watt a unique B-digit identification: code. The finsts digit in the eating occasions. On the basis of second- and third-digit codes,
+code identifies. one of the major food groups: J) milk and milk infant formulas, baby foods, alcohol, and mixed foods were
+products; 2) meat, poultry, and fish; 3) eggs; 4) dry beans, legumes, removed. Foods such as human milk, dry flour and biscuit
+nuts and seeds; 5) grain products, 6) fruit; 7) vegetables, 8) fats, mixes, intense sweeteners and nondairy creamers, chewing gum,
+oils, and salad dressings; and 9) sugars, sweets, and beverages. ang therapeutic formulas including electrolyte solutions and
+These food Broups will be referred to in text as milk, meat, £888, meal replacements were also removed. The database was edited
+beans, grains, fruit, vegetables, fats, and sugars, respectively. further to remove all duplicate lines, items for which no further
+The full USDA appellation will be used in the tables and figures. specification was provided (eg, “meat, NFS” or “sandwich, NES)”,
+The second digit identifies subgroups within each major food and other nonspecific items (eg, “vegetable, NS as to type”). To
+group (eg, milk and milk drinks, creams, cheeses, and milk allow calculations of nutrient density and cost per 100 kcal,
+desserts), including mixed foods, whereas the third and sub- bottled water (0 kcal) and diet foods and diet beverages with an
+sequent digits provide ever-finer discrimination down to the energy density close to zero (<10 kcal/100 g) were excluded.
+individual food item. The 9 major food groups created for an-
+alytic purposes were based on the first digit of the 8-digit food 200 >
+identification code. As is common in all nutrient composition
+databases, nutrient values are provided per 100 g of food 800
+product, edible portion corrected for preparation and waste. 700 | .
+The food prices database & coi ° f,
+The Center for Nutrition Policy and Promotion (CNPP) food 2 a laef . °¢
+prices database (10), released in May 2008, was based on in- § LH |
+formation from the 2001-2002 National Health and Nutrition > 400 ‘| q ‘<
+Evaluation Survey (NHANES), the FNDDS 1.0, the National Fy e e 3
+Nutrient Database for Standard Reference (SR 16.1 and 18), and ww 300 7 a Py é
+the Nielsen Homescan Consumer Panel. To arrive at food prices, 200 e on? ? e
+foods reported as consumed by 2001-2002 NHANES partic- ik $: 38 ae ec;
+ipants were disaggregated into components. Yield factors were 100 © hee 8 t 8 ° .% we
+applied to individual ingredients and to the entire dish. This 0 af “a ge . 8 e
+procedure converted foods-as-consumed to foods-as-purchased, 0 100 200 300
+with prices obtained from the Nielsen panel. One national price,
+corrected for preparation and waste and expressed per gram of PDAiseming: size In. 6 (RACC)
+edible portion, was provided for each food that was listed as FIGURE 1. The relation between serving sizes defined by the US Food
+frequency of consumption was >1). All foods carried the same foods in the US Department of Agriculture Food and Nutrient Database
+8-digit code as the FNDDS 1.0. Food price measures were unit for Dietary Studies (FNDDS) (9).
+
+COST AND NUTRITIVE VALUE 1183
+Foods that cost between 0 and 5 cents per 100 g were also ex- Price per 100 g = 5, calories + by nutrient (J)
+cluded. The final analyses were based on a total of 1387 foods,
+which represented all 9 major USDA food groups. and b represent regression coefficient. Within food groups, the
+relations between energy density and unit price and serving price
+were examined by using Spearman’s correlation analyses. An
+Observational compared with randomly generated data level of 0.05 was used to determine statistical significance.
+The observation that energy-dense grains cost more per calorie
+than does fresh produce was recently called an algebraic artifact
+(2). The suggestion was that the apparent low cost of energy- | RESULTS
+dense foods was the result of having calories in the numerator and
+denominator, and that comparable results could be obtained by Energy density and prices by food group
+using a random-number data set (2). A random-number generator The characteristics of the 1387 foods, separately for each
+was therefore used to create 3 variables—A, B, and C—for the major food group, are shown in Table 1. The number of different
+present study. Each variable had 1387 values drawn independently —_ foods in each group is also indicated. Tests across food groups
+from a uniform distribution between 1 and 100 to avoid dividing were conducted by using one-factor ANOVA followed by
+by zero. From these randomly generated variables, 2 ratio vari- comparisons of means by using the Bonferroni correction. For
+ables A/B and C/A were constructed to represent “energy density” energy density, the effect of food group was significant [F(8,
+(kcal/g) and “energy cost” ($/kcal), respectively, so that obser- 1378) = 122.1, P < 0.001]. The mean energy density of fats was
+vational data could be compared directly with randomly generated significantly higher than for all the other food groups except for
+results (2). grains and beans (P < 0.001). The mean energy density of
+grains and beans was significantly higher than for all other food
+co groups except for fats (P < 0.01). The mean energy density of
+Statistical analyses sugars was significantly lower than for fats, grains, and beans
+All analyses were performed by using the Statistical Package —_ and significantly higher than for milk, vegetables, and fruit. Milk
+for the Social Sciences (SPSS) version 11.0 (SPSS Inc, Chicago, and eggs did not differ. Vegetables and fruit had significantly
+IL). Differences in energy density and energy cost across food _ lower energy density than did all of the other food groups except
+groups were established by using one-factor analysis of vari- for eggs.
+ance (ANOVA) followed by post hoc comparisons between For mean water content (g/100 g), the effect of food group was
+means by using Bonferroni correction. Scatter plots were used also significant [F(8, 1378) = 164.6, P < 0.001]. The water
+to show the relation between energy density and energy cost content of grains was significantly lower than that for any other
+in the observational data and between the A/B and C/Avariables — food group. The water content of vegetables and fruit was sig-
+in the randomly generated data set. Additional analyses based __ nificantly higher than that for every other food group except for
+on a regression model applied to the observational data ex- eggs. The water content of beans was significantly higher than
+amined the relation between nutrient content of foods and unit __ that for grains but significantly less than for vegetables and fruit.
+price ($/100 g) controlled for calories. Those analyses were Mean serving sizes for fats were significantly lower than those
+based on the standard multivariate model proposed by Willett for every other food group except for eggs. Mean serving sizes for
+(12), where fruit were significantly higher than those for every other food
+TABLE 1
+Characteristics of 1387 foods from the Food and Nutrient Database for Dietary Studies and the Center for Nutrition Policy and Promotion food prices
+database by 9 major food groups as defined by the US Department of Agriculture (USDA)!
+Energy Serving size Price per Price per
+Major USDA food groups No. of foods density Water content (RACC) 100 g serving Energy cost
+kcal/100 g 9/100 g g $/100 g S/serving $/100 keal
+Milk and milk products 134 182+ 112% 66 +17" 112 + 89°” 0.40 + 031°? 0.26 + 0.17 0.23 + 0.13
+Meat, poultry, and fish 196 224 + 98" = 60 + 14" so+si** 0.80 + 0.44" 0.63 + 0.38” 0.41 + 0.31°
+Eggs 8 71+ 7484-724 10" 65 + 2874"F 09.32 + 0.162" 0.24 + 0.21 0.22 + 0.142
+Dry beans, legumes, 62 330+ 217° 40 + 334 16 + 62° 0.50 + 0.47** 0.26 + 0.22" 0.18 + 0.17°
+nuts, and seeds
+Grain products 435 337 + 110° 24 + 23° 63 + 53° 0.47 + 0.3%" 0.23 + 0.20*° 0.14 + 0.10*
+Fruit 93 67 + 56° 82 + 15° 187 + 77 0.28 + 0.22°¢ 0.40 + 0.334* 0.54 + 0.48?
+Vegetables 257 83 + 80° so+17 102+ 59°" 0.33 + 0.26 0.29 + 0.33°°*" 0.68 + 0.69
+Fats, oils, and salad dressings 51 390 + 226° 47 + 23°4 22 + 9° 0.37 = 0.18°°*"= 0,09 + 0.08° 0.17 = 0.19*
+Sugars, sweets, and beverages 151 242+ 1904 45 + 304 119 + 102" 0.40 + 0.41%" 0.23 + 0.18" 0.22 + 0.21*
+P values (one-factor ANOVA) _ <0.001 <0.001 <0.001 <0.001 <0.001 <0.001
+’ Data are from references 9 and 10. RACC, Reference Amounts Customarily Consumed. Statistical tests are based on post hoc comparisons after one-
+factor ANOVA and by using Bonferroni correction. Values with different superscript letters are significantly different from each other.
+? Mean + SD (all such values).
+
+1184 DREWNOWSKI
+0.9
+0.8 Meat, poultry, fish e
+B ov
+°
+S
+5 06
+— Dry beans, legumes, nuts, seeds
+a
+3% Milk and milk product ®
+= MS Ane mubprocucys Fats and oils
+5 04 eo @ crins @
+= Vegetables
+rd Eggé @ Sugars, sweets, beverages
+g os Fruit
+c
+S 0.2
+=
+0.1
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+FIGURE 2. The observed relation between median energy density (kcal/100 g) and median unit cost ($/100 g) for 9 major food groups as defined by the US
+Department of Agriculture. Total number of foods = 1387.
+group. Mean serving sizes for grains were significantly different | were not systematically linked to food category. As shown in
+from every other food group except for eggs and beans. Table 1, the meat group had the highest mean prices per 100 g
+There were significant differences across food groups in unit —_ ($0.80/100 g), which was significantly higher than that for every
+prices per 100 g [F(8, 1378) = 33.1, P < 0.001]; however, those other food group. Prices for beans ($0.50/100 g) and grains
+0.7
+Vegetables
+0.6 +
+g Fruit
+3 @
+S05 5
+Pe Meat, poultry, fish
+504 4 t )
+°
+203 -
+5 . Milk and milk products
+a Dry beans, legumes, nuts, seeds
+Bo - Fags @ e@
+° Sugars, sweets, beverag' t )
+Bo. ¥ Fats and oils
+= Grains
+0
+0 50 100 150 200 250 300 350 400 450
+Mean energy density (kcal/100 g)
+0.7
+90.6 7
+4
+°
+$0.5
+Ps
+% nm Qvesetaries
+=x" e@ Fruit Meat, poultry, fish
+: @
+L034
+Es
+s Milk and milk products
+90.2 4 Sugars, sweets, beverages
+g @
+s
+30.1 - Eggs @ con®
+= Dry beans, legumes, nuts, seeds Fate sad on
+ats and oils
+0
+0 50 100 150 200 250 300 350 400 450
+Median energy density (kcal/100 g)
+FIGURE 3. The relation between energy density of foods (kcal/100 g) and energy cost ($/100 kcal). Data are means (top panel) and medians (bottom panel)
+for 9 major food groups as defined by the US Department of Agriculture. Total number of foods = 1387.
+
+COST AND NUTRITIVE VALUE 1185
+($0.47/100 g) were significantly lower than those for meat and _ groups had to adjust for energy. There were significant differ-
+significantly higher than those for vegetables and fruit. Prices ences in food price per 100 kcal by food group [F(8, 1378) =
+for vegetables and fruit ($0.32 and $0.28, respectively) were 55.8, P < 0.001]. Energy cost ($/100 kcal) was lowest for
+significantly lower than those for meats, grains, and beans. — grains, fats, eggs, and milk. Energy cost for vegetables was
+However, the water content of vegetables and fruit was higher higher than that for every other food group except for fruit.
+and energy density was lower than for the other food groups. Mean energy cost for vegetables was more than 5 times that of
+The relation between mean energy density of foods and mean __ grains and fats and more than double the cost of sugars.
+unit cost per 100 g is shown in Figure 2. Meat commanded the
+highest price per 100 g, which was significantly higher than that .
+for any other food group. For the other food groups, higher Energy density and energy cost
+prices per 100 g were obtained for the more-energy-dense Scatter plots that visually depict the relation between energy
+grains, beans, and fats than for lower-energy-density vegetables _ density of foods (kcal/100 g) and their energy cost ($/100 kcal) in
+and fruit. the observational data are shown in Figure 3. The top panel
+There were significant differences across groups in food price — shows group means, and the bottom panel shows group medians.
+per serving [F(8, 1378) = 49.4, P < 0.001]. Mean prices per Grains, beans, and fats were associated with higher energy
+serving for meat ($0.63/serving) were significantly higher than density and lower energy costs. By contrast, vegetables and fruit
+those for every other food group. Mean prices per serving for were associated with lower energy density and higher energy
+fats ($0.09/serving) were significantly lower than those for every costs. The observed relation was similar to the previously pub-
+other food group except for eggs. Mean prices for fruit were lished charts (5-8), which indicated the position of vegetables
+significantly lower than those for meat but higher than those for _and fruit relative to grains, fats, and sugars.
+every other food group except for vegetables and beans. The relation between randomly generated variables A/B
+Given that a single serving of food could supply from 1 to (“energy density”) and C/A (“energy cost”) is shown in Figure 4.
+>500 kcal, meaningful price comparisons across foods or food The top panel shows group means, and the bottom panel shows
+0.7
+0.6
+0.5
+Fruit
+Loa Meat, poultry, fish
+° Fats and ois® @
+E rai Vegetables
+203 rains,
+= Sugars, sweets, beverages e@ e@
+0.2
+Milk and milk products
+0.1
+ros@ Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 200 «250, 300 «350 400s s«s«450=— 500
+Mean A/B
+0.7
+0.6
+0.5 Milk and milk products
+Sos Meat, poultry, fish
+cI Eggs
+ps)
+303 Grains
+= Fruit
+0.24 Fats and oil Vegetables
+oA Sugars, sweets, beverages
+Dry beans, legumes, nuts, seeds
+0
+0 50 100 «150 «200 «250 300 «350 4400S 450 = 500
+Median A/B
+FIGURE 4. The relation between randomly generated variable A/B (“energy density”) and randomly generated variable C/A (“energy cost”) following
+procedures outlined in reference 2. Data are means (top panel) and medians (bottom panel) for 9 major food groups as defined by the US Department of
+Agriculture. Total number of randomly generated numbers per variable = 1387.
+
+1186 DREWNOWSKI
+TABLE 2
+Spearman’s correlation coefficients between energy density of foods (kcal/100 g) and different price measures based on
+the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) and the linked Center for Nutrition Policy and
+Promotion food prices database’
+Food price measures
+Major FNDDS food groups No. of foods Unit price Serving price Energy cost
+$/100 g S/serving $/100 kcal
+Milk and milk products 134 0.76 —0.03 0.00
+Meat, poultry, and fish 196 0.13 —0.157 —0.567
+Eggs 8 0.48 0.38 ~0.33
+Dry beans, legumes, nuts, and seeds 62 0.657 —0.13 —0.25
+Grain products 435 0.49? —0.08 —0.01
+Fruit 93 0.10 —0.09 =0.55°
+Vegetables 257 0.00 —0.05 -0.75?
+Fats, oils, and salad dressings 51 —0.07 —0.27 -0.77
+Sugars, sweets, and beverages 151 0.79 0.05 —0.437
+Total foods 1387 _ _ _
+’ Data are from references 9 and 10. Analyses are based on 1387 foods from 9 major food groups as defined by the US
+Department of Agriculture.
+? P< 0.05.
+group medians. The results were completely random, as might — defined group. For example, within the milk group, cheese was
+be expected, given that the 3 variables (A, B, C) were randomly —_ more expensive per calorie than was fluid milk, whereas within
+generated. The present data contradict the argument (2) that the the bean group, some nuts were more expensive than legumes.
+complex relations in the price hierarchies of the food supply can
+be replicated by using a random number data set. . . .
+The relations between energy density and food price measures Food cost in relation to nutrient content
+were then examined within food groups. As shown in Table 2, on The final analyses dealt with the nutrient content of foods and
+the basis of 1387 foods, energy density was correlated with their cost per 100 g, after adjustment for energy. Adjustment for
+measures of food price within some food groups. In general, the | energy is a standard technique in epidemiologic studies (12).
+relation between energy density and food price per 100 g was _ Nutrient-by-nutrient analyses were conducted on those foods in
+positive within each food group, whereas the relation between _—_ which the amount of the nutrient was >0. As shown in Table 3,
+energy density and energy cost was negative. Significant cor- _ polyunsaturated fats (ie, vegetable oils), total fats, carbohydrates
+relations within food group for energy density and energy cost (ie, grains), and total and added sugars were significantly as-
+were obtained for meat, fruit, vegetables, fats, and sugars. sociated with lower food costs per 100 g after adjustment for
+However, the number of foods within a food group was in some __ energy. By contrast, protein, calcium, iron, potassium, magne-
+cases inadequate to obtain significant correlations (2). In other sium, and vitamin C were associated with higher food costs per
+cases, both energy density and price structure varied within the 100 g after adjustment for energy (13). The present data are
+TABLE 3
+Results of regression with price per 100 g as a dependent variable and nutrient content and calories as independent
+variables!
+Regression results
+Nutrient No. of foods Standardized B t P
+Total fat 1346 —0.09 2.37 <0.05
+Polyunsaturated fat 1338 —0.19 —6.45 <0.001
+Total carbohydrate 1295 —0.09 —2.81 <0.005
+Total sugar 1228 —0.09 —3.34 <0.001
+Added sugar 688 —0.10 —2.58 <0.01
+Protein 1353 0.47 19.78 <0.001
+Calcium 1376 0.12 4.79 <0.001
+Tron 1367 0.12 4.79 <0.001
+Potassium 1381 0.23 9.18 <0.001
+Magnesium 1370 0.17 6.44 <0.001
+Vitamin C 873 0.07 2.32 <0.05
+! Data are from the Food and Nutrient Database for Dietary Studies (FNDDS 1.0) (9) and the linked Center for
+Nutrition Policy and Promotion (CNPP) (10) food prices database. Analyses are based on 1387 foods from 9 food groups as
+defined by the US Department of Agriculture.
+
+COST AND NUTRITIVE VALUE 1187
+consistent with the earlier demonstration that grains, fats and to higher education and incomes (17, 18). Studies conducted by
+sweets were associated with lower energy costs than were the USDA have shown that the poor spend less on food and have
+vegetables and fruit. more-energy-dense, lower-quality diets (see reference 16).
+
+Added sugar consumption, another index of lower cost diets, is
+highest among lower-income and minority groups (16, 19).
+DISCUSSION Poverty and financial constraints may be one reason for low
+The present analyses, based on USDA nutrient composition consumption of fresh produce by the poor and near poor (20, 21).
+and food prices data sets, showed that different food groups had Ensuring access to affordable healthy foods has recently be-
+different energy costs. ANOVA by food group showed that grains — come a national priority for public health nutrition (22). Claims
+and fats had substantially lower energy costs than did vegetables _ that the lower energy cost of snacks relative to fresh fruit is
+and fruit. On a per calorie basis, grains, sugars, and fats were a mathematical artifact (2, 3) would imply that all food groups are
+cheap, whereas fruit and vegetables were more expensive. These equally affordable. If fresh fruit and added sugar really cost the
+analyses, based on contemporary data sets, replicate analogous _ same (2), then the current USDA efforts to make healthful foods
+results obtained by the USDA in 1894 (1) and again in 1902 (4). _ more affordable to the average consumer could be regarded as
+Athough calculations of energy cost as an appropriate measure of —_ misplaced.
+food price have been made by the USDA for the past 100 y, not all The fact that healthful foods cost more than less healthy
+nutritionists are convinced of the need to adjust for calories, options is a formidable real-world challenge for nutrition
+preferring instead to stay with prices per unit weight (2, 3). interventions (23, 24). No wonder that many of us would prefer to
+Regression analyses with price per 100 g as the dependent _ focus on intricate personal preferences and other psychosocial
+variable further examined the contribution of individual nutrients _ factors (2). However, the fact is that the distinction between cheap
+to food prices. Whereas carbohydrates, fats, and sugars were —_ and expensive foods has been made by US nutritionists for a very
+associated with lower food prices per 100 g, protein, vitamins, long time (1, 4). A continuing appreciation of how food costs
+and minerals were associated with higher food prices per 100g, drive food choices is needed for a more effective food and nu-
+after adjustment for energy. These analyses confirmed that  trition policy (25-27).
+nutrients associated with grains, sugars, and fats were cheaper, . . .
+" 4 ; , The author did not report any conflicts of interest.
+whereas vitamins and minerals associated with fruit and vege-
+tables were more expensive.
+Water is the main determinant of energy density of foods.
+Whereas dry grains are energy dense, low-energy-density lettuce REFERENCES . ;
+is 96% water. As noted above, larger serving sizes (RACC values) 1. Atwater WO. Foods: nutritive value and cost. Washington, DC: Gov-
+we . ernment Printing Office, 1894. (USDA Farmers Bulletin No. 23.)
+were strongly and positively linked to the foods’ water content 2. Lipsky LM. Are energy dense foods really cheaper? Reexamining the
+(Spearman’s r = 0.68). However, even though a serving of let- relation between food price and energy density. Am J Clin Nutr 2009;90:
+tuce (85 g) weighs more than a serving of grains (30 g), it is not 1397-401. ; ; oo
+clear that the lettuce provides more “food” (2). Water, which has 2 Trazag: Es Lese-enerey-denserdielsyof ow fo OED 1. Cabforta
+. . . are associated with higher energy adjusted costs but not with higher
+no nutrients or energy, is not generally recognized as “food.” daily diet costs. Am J Clin Nutr 2009:90:701.
+Atwater himself noted that, although lettuce was a very palatable 4. Milner RD. The cost of food as related to its nutritive value. Agriculture
+vegetable, it furnished practically no nutrients of concern (1). Yearbook 1902, pp. 387-406. National Agricultural Library Digital
+Protein-was the shoréfall nuftient of the fime because:vilamins Repository. Available from: http://naldr.nal.usda.gov/exe/zynet.exe/
+, YOA190204330387.xml (cited 24 July 2010).
+had not been discovered. 5. Darmon N, Briend A, Drewnowski A. Energy dense diets are associated
+According to economic historians, there was a political mo- with lower diet costs: a community study of French adults. Public Health
+tivation behind linking the nutritive value of foods with their cost. Nutr 2004;7:21-7. ; ; ;
+The first generation of nutrition scientists claimed that nutrition O. Fenliemuil ice onectench A. Replacing ts and sweets na
+could improve the living conditions of the working class, without 1555-9.
+raising wages, by showing workers how to eat more economically 7. Drewnowski A, Darmon N. Food choices and diet costs: an economic
+(14-16). The noted historian Harvey Levenstein went even analysis. J Nutr 2005;135:900-4. ; oo
+further in suggesting that Atwater wanted to reshape the diets of ° EM) Oey eae SearTiA Nie ROR ae ae,
+the working class to avoid social unrest (16). Radical political 9 USDA Food and Nutrient Database for Dietary Studies, 1.0. 2004.
+movements and labor unions of the time blamed free market Monograph on the Internet. Beltsville, MD: Agricultural Research
+capitalism for poor diets and worse living conditions (15, 16). Berace, Epo! Surveys Research ORs Oey vom aie
+The nutritionists of the time focused on making the diets of the 10. TeDRCNDE, ‘Development sithe CNPP prices vcaeditae 2008. Avail-
+working poor more thrifty and more affordable (15, 16). able from: http://www.cnpp.usda.gov/Publications/FoodPlans/MiscPubs/
+Arguably, subsidies to commodity crops (wheat, soybeans, PricesDatabaseReport.pdf (cited 24 July 2010).
+corn), as opposed to vegetables and fruit, have led to increasingly 11. US Food and Drug Administration. 2007. CFR Sec 101.9. Nutrition
+cheap calories and a food supply that is energy rich but nutrient Tebeling 01 food, ved able ron: Bp ye ny: acoessdala tda:goc/seniptsy
+poor (16). The current disparity in food prices is not an algebraic 12. Willett WE. Nutritional epidemiology. New York, NY: Oxford Univer-
+artifact but the result of long-established agricultural policies sity Press, 1998.
+(15, 16). As might be expected, lower-cost calories are prefer- 13. Maillot M, Darmon N, Darmon M, Lafay L, Drewnowski A. Nutrient
+entially consumed by lower income groups (16). dense food groups have high energy costs: an econometric approach to
+ain . . 2 . . nutrient profiling. J Nutr 2007;137:1815-20.
+Within the United States, higher diet quality—often indexed 14. Nesheim MC. Atwater initiative in food consumption. J Nutr 1994;124:
+by higher consumption of vegetables and fruit—has been linked 1833S-5S.
+
+1188 DREWNOWSKI
+
+15. Levenstein HA. The politics of nutrition in North America. Neurosci 21. Darmon N, Drewnowski A. Does social class predict diet quality? Am J
+Biobehav Rev 1996;20:75-8. Clin Nutr 2008;87:1107-17.
+
+16. Drewnowski A. Obesity and the food environment: dietary energy 22. Treuhaft S, Karpyn A. The grocery gap: who has access to healthy foods
+density and diet costs. Am J Prev Med 2004;27(3S):154—62. In: Hill and why it matters. Available from: http://vww.thefoodtrust.org/pdf/
+JO, Sturm R, Orleans CT, eds. An economic analysis of eating and GroceryGap.pdf (cited 5 August 2010).
+physical activity behaviors: exploring effective strategies to combat 23. Wilde PE, Llobrera J. Using the Thrifty Food Plan to assess the cost of
+obesity nutritious diets. J Consum Aff 2009;43:274-304.
+
+17. Drewnowski A. The real role of added sugars and fats in obesity. Epi- 24. Maillot M, Darmon N, Vieux F, Drewnowski A. Low energy density and
+demiol Rev 2007;29:160-71. high nutritional quality are each associated with higher diet costs in
+
+18. Beydoun MA, Wang Y. Do nutrition knowledge and beliefs modify the French adults. Am J Clin Nutr 2007;86:690-6.
+association of socio-economic factors and diet quality among US adults. 25. Drewnowski A, Monsivais P, Maillot M, Darmon N. Low-
+Prev Med 2008;46:145-53. energy-density diets are associated with higher diet quality and higher
+
+19. Thompson FE, McNeel TS, Dowling EC, Midthune D, Morrisette M, diet costs in French adults. J Am Diet Assoc 2007;107:1028-32.
+Zeruto CA. Interrelationships of added sugars intake, socioeconomic 26. Drewnowski A, Specter SE. Poverty and obesity: diet quality, energy
+status, and race/ethnicity in adults in the United States: National Health density and energy costs. Am J Clin Nutr 2004;79:6-16.
+
+Interview Survey, 2005. J Am Diet Assoc 2009;109:1376-83. 27. Townsend MS, Aaron GJ, Monsivais P, Keim NL, Drewnowski A.
+
+20. Drewnowski A, Barratt-Fornell A. Do healthier diets cost more? Nutr Less-energy-dense diets of low income women in California are associated
+Today 2004;39:161-8. with higher energy adjusted diet costs. Am J Clin Nutr 2009;89: 1220-6.
+
