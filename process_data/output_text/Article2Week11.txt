@@ -1,0 +1,923 @@
+cat RESEARCH
+righ e Original Research
+° ° °
+Association Between Frequency of Eating
+°
+Away-From-Home Meals and Risk of All-Cause
+y F . ®
+and Cause-Specific Mortality =o
+Yang Du, MD; Shuang Rong, PhD; Yangbo Sun, MD, PhD; Buyun Liu, MD, PhD; Yuxiao Wu, MS; Linda G. Snetselaar, PhD;
+Robert B. Wallace, MD; Wei Bao, MD, PhD
+ARTICLE INFORMATION ABSTRACT
+Article history: Background Dining out is a popular activity worldwide. Evidence on the association
+Submitted 10 March 2020 between eating meals away from home and long-term health outcomes is still limited.
+Accepted 15 January 2021 Objective The objective of this study was to examine the association of frequency of
+eating meals prepared away from home with all-cause and cause-specific mortality.
+Participants/setting This study included 35,084 adults aged 20 years or older from the
+Keywords: National Health and Nutritional Examination Survey 1999-2014, who reported their
+Etta EAS dietary habits including frequency of eating meals prepared away from home in a
+Away-from-home meals ; 3 a f ‘
+i rreetienaicetn questionnaire during face-to-face household interviews.
+Adults Main outcome measures All-cause mortality, cardiovascular mortality, and cancer
+Prospective cohort study mortality were ascertained by linkage to death records through December 31, 2015.
+Supplementary materials: Statistical analyses performed Multivariable Cox proportional hazards models were
+Table 3 is available at www.jandonline.org used to estimate adjusted hazard ratios of mortality from all-cause, cardiovascular, and
+cancer mortality.
+
+. Results During 291,475 person-years of follow-up, 2,781 deaths occurred, including 511
+aie oe ean? eS deaths from cardiovascular disease and 638 death from cancer. After adjustment for. age,
+https://doi.org/10.1016/j,jand.2021.01.012 sex, race/ethnicity, socioeconomic status, dietary and lifestyle factors, and body mass
+
+index, the hazard ratio of mortality among participants who ate meals prepared away
+from home very frequently (2 meals or more per day) compared with those who seldom
+ate meals prepared away from home (fewer than 1 meal/wk) was 1.49 (95% CI 1.05 to
+2.13) for all-cause mortality, 1.18 (95% CI 0.55 to 2.55) for cardiovascular mortality, and
+1.67 (95% CI 0.87 to 3.21) for cancer mortality.
+Conclusions Frequent consumption of meals prepared away from home is significantly
+associated with increased risk of all-cause mortality. The association of eating meals
+prepared away from home with cardiovascular mortality and cancer mortality warrants
+additional investigation.
+J Acad Nutr Diet. 2021;121(9):1741-1749.
+ATING OUT IS A POPULAR ACTIVITY WORLDWIDE.!~” increased risk of obesity,'’ °° diabetes,”’ °° and biomarkers of
+The US Department of Agriculture recently estimated other chronic diseases. ’'’* However, little is known about the
+that Americans’ daily energy intake from food away association between eating meals away from home and risk
+from home increased from 17% in 1977-1978 to 34% of mortality.
+in 2011-2012.° At the same time, the number of restaurant In this study, data from the National Health and Nutritional
+establishments has grown steadily, and restaurant-industry Examination Survey (NHANES) were used to examine the
+sales are forecasted to increase significantly. association of frequency of eating meals prepared away from
+Americans eat out for many reasons, including conve- home with all-cause, cardiovascular, and cancer mortality in
+nience, ambience, and fine dining.? However, evidence has this large, nationally representative sample of US adults.
+shown that meals away from home tend to be higher in en-
+ergy density, fat, and sodium, but lower in fruits, vegetables, METHODS
+whole grains, and protective nutrients such as dietary fibers
+and antioxidants." Although some restaurants provides Study Participants
+high-quality foods, the dietary quality for meals away from NHANES is a multistage, ongoing, cross-sectional, nationally
+home, especially from fast-food chains, is usually lower representative survey of the noninstitutionalized US popu-
+compared with meals cooked at home.'”'° As a result, lation, using a stratified multistage probability design.
+frequently dining out has been reported to be related with NHANES is administered by the National Center for Health
+© 2021 by the Academy of Nutrition and Dietetics. JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS 1741
+
+RESEARCH
+Statistics (NCHS) at the US Centers for Disease Control and
+Prevention. Questionnaire data on demographics, socioeco- RESEARCH SNAPSHOT
+nomic status, health conditions, and health-related behaviors . .
+eae , A z Research Question: Is frequently eating meals prepared
+was collected for each participant by trained interviewers . i P
+through household interviews. In addition, standardized ae from home associated with all-cause and cause-specific
+physical examinations are performed for medical, dental, and mortality?
+anthropometric measurements at a mobile examination Key Findings: In this prospective cohort study, among 35,084
+center. NHANES protocols have been approved by the NCHS adults aged 20 years or older, very frequent consumption (2
+Ethics Review Board. Informed consent was obtained from all meals or more per day) of meals prepared away from home
+Participants. Detailed descriptions of NHANES are available was significantly associated with increased risk of all-cause
+elsewhere.” mortality.
+In the present study, the analytic population consisted of
+adults 20 years or older who participated in NHANES from
+1999-2000 through 2013-2014 and reported their frequency income to poverty ratio’’ was categorized as less than 1,1 to
+of eating meals prepared away from home (n = 42,874). 1.9, 2 to 3.9, and 4 or more. Participants were categorized as
+Participants with cardiovascular disease (n = 4,696) or cancer nonsmokers, former smokers, and current smokers. Dietary
+(n = 2,903) at baseline were excluded. In addition, partici- information was collected through two 24-hour dietary recall
+pants who died within 12 months (n = 191) of their exami- interviews. The first dietary recall interview was collected in-
+nation were excluded because they might have severe health person in the mobile examination center and the second
+conditions and their deaths are likely to be attributable to interview was collected by telephone 3 to 10 days later.*®
+reasons other than diet. Participants with complete information on both 24-hour di-
+etary recalls were included, and dietary intake was expressed
+Outcome Ascertainment as the average intake of each food or nutrient. Overall diet
+To determine the mortality status for each participant, the ‘ality was assessed by the Healthy Eating Index (HEI) 2010,
+NHANES Public-Use Linked Mortality File through December Which is scored on the basis of the intake levels of 12 dietary
+31, 2015 was used, which linked NHANES and the National components, including total fruit, whole fruit, total vegeta-
+Death Index records based on a previously validated proba- _ les, greens and beans, whole grains, dairy, total protein
+bilistic matching algorithm by the NCHS.** Underlying causes f00ds, seafood and plant proteins, fatty acids, refined grains,
+of death were classified according to the codes of the Inter- Sodium, and empty calories (ie, energy from solid fats,
+national Classification of Diseases, 10th Revision (ICD-10)*2  @!cohol, and added sugars). HEI was calculated based on the
+for deaths occurring between 1999 and 2015. Cardiovascu- Simple HEI Scoring Algorithm (per person)."” Total energy
+lar disease deaths were identified according to ICD-10 codes intake and alcohol intake were calculated using the Food and
+100 to 178. Cancer deaths were identified according to ICD-10 Nutrient Database for Dietary Studies, the database of foods
+codes COO to C97. Persons who survived were administra- used to code dietary intakes in What We Eat in America,
+tively censored on December 31, 2015. Follow-up time for NHANES. Current alcohol intake was categorized as none (0
+each person was calculated as the difference between the _ 8/4), moderate drinking (0.1 to 28 g/d for men and 0.1 to 14 g/
+NHANES survey date and the last known date alive or 4 for women), and heavy drinking (28 g/d or more for men
+censored from the NHANES mortality study. and 14 gid or more for women). Because there were some
+changes in physical activity questionnaires in NHANES 1999-
+Exposure Measurement 2014, physical activity was classified into 3 categories ac-
+. . . . . cording to whether met the current physical activity guide-
+During the household interview, participants in the NHANES ines for aerobic activity“? (below: <600 metabolic equivalent
+1999-2004 cycles were asked “On average, how many times of task [ MET] min/wk or 150 min moderate-intensity activity/
+per week do you eat meals that were prepared in a restau- wk; meet: 600 to 1,200 MET min/wk or 150 to 300 min
+rant? "A similar but more detailed question was asked among moderate-intensity activity/wk ; or exceed: >1,200 MET min/
+participants in the NHANES 2005-2014 cycles: “During the = wk or 300 min moderate-intensity activity/wk) based on
+past 7 days, how many meals did you get that were prepared — standards appropriate for each cycle.*? Weight and height
+away from home in places such as restaurants, fast food were measured by trained technicians. Body mass index
+Places, food stands, grocery stores, or from vending ma- (BMI) was calculated as weight in kilograms divided by
+chines?""* The weekly frequency of eating meals prepared height in meters squared (kg/m7), and was further classified
+away from home was classified as fewer than 1 meal per as <25, 25 to 29.9, and 30 or higher.
+week, 1 to 3 meals per week, 4 to 6 meals per week, 7 to 13 , , .
+meals per week, and 2 meals or more per day.
+Statistical Analysis
+Covariate Assessment NHANES sampling weights, strata, and primary sampling
+Information on participants’ age, sex, race/ethnicity, educa- units provided by the NCHS were incorporated in all analyses
+tion, family income, cigarette smoking, and physical activity to account of the complex survey design and, therefore, the
+was collected during the interview.°° Race/ethnicity was findings would be generalizable to the general population of
+categorized as non-Hispanic White, non-Hispanic Black, the United States. Characteristics of the study participants
+Hispanic (Mexican and non-Mexican Hispanic), and other were presented as means (standard error) for continuous
+race/ethnicity. Education was classified as less than high variables or percent (standard error) for categorical variables.
+school, high school, and more than high school. Family Generalized linear models were used to compare differences
+1742 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS September 2021 Volume 121 Number 9
+
+in continuous variables, and x? tests were used for categorical 2004 data with linkage to 2011 mortality file found that
+variables. eating restaurant-prepared meals was not significantly
+Multivariable Cox proportional hazards regression was related to risk of mortality,*° which may be attributed to the
+used to estimate hazard ratios and 95% Cls of mortality in smaller sample size and shorter follow-up years compared
+relation to frequency of eating meals prepared away from with this study. In addition, the previous study*® categorized
+home. Model 1 was adjusted for age, sex, and race/ethnicity. frequency of eating restaurant-prepared meals into 3 cate-
+Model 2 was further adjusted for education, ratio of family gories: fewer than 1 time/wk, 1 to 2 times/wk, or 3 times or
+income to poverty, marital status, smoking status, alcohol more/wk, which were not able to determine the potential
+intake, total energy intake, overall diet quality indicated by effect associated with even higher frequency of dining out.
+HEI-2010 score and physical activity levels. Model 3 was Fast food and ultra-processed food represent a large pro-
+further adjusted for BMI. Stratified analyses were performed portion of food prepared away from home, and recent reports
+according to age (20-44 years vs 45 years or older), sex (male indicated that eating at a full-service restaurant is compara-
+vs female), race (White vs non-White), ratio of family income ble with eating at a fast-food outlet.*”°° Consistent with
+to poverty (<2 vs >2), and BMI (<30 vs >30). Interaction results from this current study, several previous studies have
+tests were conducted by including multiplicative interaction linked fast food to increased risk of mortality.4°°'°? For
+terms in the multivariable models. example, a study conducted among Canadians found that
+All analyses were performed using survey procedures in people living in regions high in fast-food restaurant density
+SAS Software, version 9.4." P < .05 was considered statisti- are at 2.52 times higher risk of all-cause mortality.*° Simi-
+cally significant. larly, another study found that each 10% increase in the
+concentration of fast-food restaurants in a region is associ-
+RESULTS ated with a 1.39 times greater risk of cardiovascular mortality
+. . os and a 1.36 times greater risk of noncardiovascular disease
+This shidy included 35,084 participants aged 20 Yeats “OF mortality.°* In addition, evidence has shown that lower-
+older. During 291,475 person-years of follow-up (median z
+: : income households spent more money at carry-out places
+follow-up 7.83 years; maximum follow-up 16.75 years), 2,781 ar 54 .
+‘ : i" than high-income households.” In this study, there appeared
+deaths occurred, including 511 deaths from cardiovascular ane c
+: ‘ i a stronger association between frequent consumption of
+disease and 638 deaths from cancer. Compared with partic- :
+. . meals prepared away from home and mortality among those
+ipants who seldom (<1 times/wk) ate meals prepared away 7 ae : ‘  s
+pas with lower family income than those with higher family in-
+from home, participants who ate meals prepared away from :
+come. Because healthier food usually cost more than un-
+home on average 2 or more meals per day were more likely to 55 sa: . i : =
+: . : : healthy food,”” it is possible that food choices and diet quality
+be younger, males, non-Hispanic White, single, nonsmoker, : Sass
+: : 3 z vary according to family income level when people eat meals
+physically active, obese, with more total energy intake, and
+? e prepared away from home.
+poorer dietary quality (Table 1). . . . .
+: Eas - 7 This study suggests that there is a relationship between
+After adjustment for age, sex, race/ethnicity, socioeconomic :
+. : A frequent consumption of meals prepared away from home
+status, dietary and lifestyle factors, and BMI, the hazard ratio A : ;
+ae , and increased risk of all-cause mortality. There are several
+of mortality among participants who dined out very . . - .
+fi A possible explanations for those findings. First, food prepared
+requently (2 meals or more per day) compared with those a)
+A 5 away from home contains, in general, more saturated fat and
+who seldom dined out (less than 1 meal/wk), was 1.49 (95% z ; 4
+. 5 sodium, and less calcium, iron, and fiber than food prepared
+CI 1.05 to 2.13) for all-cause mortality, 118 (95% CI 0.55 to 110-14 : i i
+: at home.” According to the findings from a meta-analysis
+2.55) for cardiovascular mortality, and 1.67 (95% CI 0.87 to Dine : 5
+R that demonstrated the potential impact of suboptimal diet on
+3.21) for cancer mortality (Table 2). : . A wae .
+i" 2 r " noncommunicable disease mortality and morbidity, high
+Stratified analyses (Table 3 available at www.jandonline. Z 5 i : :
+ee : intake of sodium, low intake of whole grains, and low intake
+org) showed that the associations between eating 2 or s i
+of fruits were the leading dietary risk factors for deaths
+more meals prepared away from home per day and all-cause 56 “a r : a.
+; . : globally.°° In addition, findings from this study indicated that
+mortality appeared stronger among those with lower family pes
+: : eae participants who frequently ate out had lower HEI 2010
+income (hazard ratio 2.04; 95% CI 1.19 to 3.49) than those a
+ae " scores than those who ate more home-prepared food. This is
+with higher family income (hazard ratio 1.47; 95% C1 0.91 to : : ious findi
+2.36) (P for interaction = .02). consistent with previous findings that the average household
+HEI score for food away from home was lower than for food
+at home.'*'° Prior studies have demonstrated the inverse
+DISCUSSION association between HEI scores and adverse health out-
+In this population-based study using data from NHANES — comes,’’“° especially all-cause mortality.°' Second, a recent
+1999-2014, results showed that frequent consumption (2 study found that people who dine out had higher levels of
+meals or more per day) of meals prepared away from home toxic chemicals, including phthalates, than those who ate
+was associated with an increased risk of all-cause mortality home-cooked meals.” Exposure to phthalates can increase
+during up to 16.75 years of follow-up. tisk of cardiovascular diseases.°’ Third, frequent dining out
+Although dining out is a popular eating habit in the United due to a lack of time for cooking could also be a marker of
+States and worldwide, |’ knowledge on the association be- busy schedule and stressful work burden, or other lifestyle
+tween consumption of food away from home and risk of factors that can increase risk. Job constraints have been
+mortality is still limited. Studies have shown that participants associated with increased risk of mortality in previous
+consuming more meals away from home are at greater risk of studies.” Further investigation is needed to decipher the role
+having obesity,'”?°*? diabetes,?”*° and biomarkers of other —_ of dining out per se and job constraints in association with
+chronic diseases.*"’* An earlier study using NHANES 1999- mortality risk. The nonsignificant association of frequent
+September 2021 Volume 121 Number 9 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS 1743
+
+RESEARCH
+Table 1. Characteristics of population, according to frequency of eating meals prepared away from home, NHANES® 1999-2014
+Frequency of Eating Meals Prepared Away From Home
+
+Characteristic All <1 time/wk __ 1-3 times/wk__4-6 times/wk _7-13 times/wk _ 22 times/d__P value
+OOOO Ns
+
+Population 35,084 8,430 15,937 5,920 3,593 1,204
+weighted mean (standard error) __________
+
+Age, y 43.5 (0.2) 48.4 (0.3) 44.0 (0.2) 41.0 (0.3) 40.1 (0.3) 374 (0.6) <.001
++ veeighted % (standard error) —-—___—____—_
+
+Sex <.001
+
+Male 48.4 (0.3) 42.6 (0.5) 53.6 (0.7) 53.6 (0.7) 64.5 (1.0) 67,7 (1.5)
+
+Female 51.6 (0.3) 57.4 (0.5) 46.4 (0.7) 46.4 (0.7) 35.5 (1.0) 32.3 (1.5)
+
+Race/ethnicity <.001
+
+Non-Hispanic White 66.9 (1.2) 54.6 (1.8) 67.9 (1.2) 71.0 (1.2) 744 (1.2) 69.3 (1.9)
+
+Non-Hispanic Black 11.7 (0.6) 15.3 (0.9) 11.2 (0.7) 11.4 (0.7) 9.4 (0.7) 11.0 (1.1)
+
+Hispanic 14.7 (0.9) 20.5 (1.3) 15.1 (0.9) 11.5 (0.8) 10.7 (0.9) 13.0 (1.4)
+
+Other 6.6 (0.4) 9.6 (0.7) 5.9 (0.4) 6.2 (0.4) 5.5 (0.5) 6.8 (0.7)
+
+Education <.001
+
+Less than high school 18.0 (0.5) 31.5 (0.9) 17.2 (0.6) 12.8 (0.6) 10.92 (0.67) 11.90 (1.29)
+
+High school 23.9 (0.4) 24.2 (0.7) 25.7 (0.6) 22.4 (0.7) 19.5 (0.8) 23.9 (1.8)
+
+College or above 58.1 (0.7) 44.3 (0.9) 57.2 (0.8) 64.9 (1.0) 69.6 (1.1) 64.2 (2.2)
+
+Ratio of family <.001
+
+income to poverty
+
+<1 13.5 (0.4) 23.4 (0.7) 12.8 (0.5) 9.0 (0.5) 8.1 (0.5) 13.6 (2.9)
+
+1-1.9 18.5 (0.4) 24.9 (0.8) 19.0 (0.5) 15.0 (0.6) 14.1 (0.8) 14.3 (1.2)
+
+2-3.9 27.1 (0.5) 24.9 (0.8) 28.4 (0.7) 27.5 (0.8) 25.5 (1.0) 25.0 (1.7)
+
+24 34.0 (0.7) 17.2 (0.7) 33.1 (0.8) 42.2 (1.1) 47.0 (1.3) 39.2 (2.2)
+
+Missing 7.0 (0.3) 9.6 (0.6) 6.7 (0.4) 6.2 (0.4) 5.3 (0.5) 7.9 (1.0)
+
+Marital status <.001
+
+Single 20.0 (0.6) 16.6 (0.6) 16.4 (0.5) 23.2 (0.9) 27.0 (1.2) 38.4 (3.0)
+
+Married 62.5 (0.6) 60.2 (0.9) 66.9 (0.7) 61.3 (0.9) 57.4 (1.25) 43.5 (2.5)
+
+Widowed 3.9 (0.1) 7.7 (0.3) 3.8 (0.2) 2.6 (0.3) 1.8 (0.2) 1.8 (0.4)
+
+Divorced 12.1 (0.3) 13.5 (0.6) 11.3 (0.3) 11.7 (0.6) 12.4 (0.8) 15.5 (1.3)
+
+Missing 1.6 (0.4) 1.9 (0.5) 1.7 (0.5) 1.2 (0.4) 1.5 (0.5) 0.7 (0.4)
+
+Smoking status <.001
+
+Nonsmoking 54.9 (0.6) 52.5 (1.0) 54.6 (0.6) 55.5 (0.9) 58.3 (1.1) 56.5 (1.9)
+
+Current smoking 21.7 (0.4) 21.9 (0.7) 22.6 (0.5) 20.9 (0.6) 20.8 (0.9) 19.0 (1.5)
+
+Past smoking 23.3 (0.5) 25.7 (0.8) 22.8 (0.5) 23.6 (0.8) 21.0 (0.83) 24.6 (1.4)
+
+Alcohol intake” <.001
+
+Nondrinker 63.9 (0.6) 67.6 (0.8) 65.7 (0.7) 60.9 (1.0) 57.3 (1.2) 61.1 (1.7)
+
+Moderate drinking 9.6 (0.2) 8.2 (0.4) 9.6 (0.3) 10.2 (0.5) 11.4 (0.7) 8.5 (0.9)
+
+Heavy drinking 17.3 (0.4) 12.7 (0.6) 16.5 (0.5) 20.5 (0.8) 21.7 (0.9) 18.1 (1.3)
+
+Missing 9.2 (0.3) 11.5 (0.5) 8.2 (0.4) 8.4 (0.5) 9.6 (0.6) 12.3 (1.1)
+
+(continued on next page)
+1744 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS September 2021 Volume 121 Number 9
+
+Table 1. Characteristics of population, according to frequency of eating meals prepared away from home, NHANES®* 1999-2014
+(continued)
+Frequency of Eating Meals Prepared Away From Home
+Characteristic All <1 time/wk 1-3 times/wk _4-6 times/wk _7-13 times/wk 22 times/d__P_ value
+Physical activity,“ <.001
+MET*-min/wk
+
+Below 36.97 (0.5) 46.0 (0.9) 37.3 (0.6) 33.3 (0.8) 31.1 (1.1) 28.5 (1.8)
+
+Meet 13.34 (0.3) 11.9 (0.5) 13.7 (0.4) 14.1 (0.5) 13.9 (0.8) 10.2 (1.0)
+
+Exceed 49.56 (0.5) 41.9 (0.9) 48.9 (0.7) 52.6 (0.8) 54.9 (1.2) 61.2 (1.9)
+
+Missing 0.13 (0.02) 0.2 (0.1) 0.1 (0.03) 0.1 (0.1) 0.1 (0.04) 0.2 (0.1)
+
+TEL, quartiles <.001
+
+1 19.9 (0.3) 274 (0.7) 21.1 (0.4) 16.2 (0.6) 13.2 (0.7) 10.6 (1.0)
+
+2 22.1 (0.3) 21.7 (0.6) 23.8 (0.5) 21.0 (0.6) 19.6 (0.9) 16.4 (1.2)
+
+3 23.6 (0.3) 21.2 (0.7) 23.7 (0.4) 25.1 (0.7) 24.7 (0.8) 22.6 (1.4)
+
+4 25.3 (0.3) 18.2 (0.6) 23.2 (0.5) 29.4 (0.7) 32.8 (0.9) 38.0 (1.8)
+
+Missing 9.2 (0.3) 11.5 (0.5) 8.2 (0.4) 8.4 (0.5) 9.6 (0.6) 12.3 (1.1)
+
+HEL,’ quartile <.001
+
+1 23.8 (0.5) 20.3 (0.7) 23.2 (0.6) 26.9 (0.8) 24.5 (0.9) 29.6 (1.8)
+
+Z 22.5 (0.3) 20.5 (0.6) 22.3 (0.5) 23.0 (0.7) 25.1 (1.0) 23.8 (1.4)
+
+3 224 (0.3) 22.5 (0.6) 22.8 (0.5) 23.0 (0.7) 20.9 (0.8) 19.3 (1.3)
+
+4 22.1 (0.5) 25.2 (0.7) 23.4 (0.6) 18.7 (0.7) 19.8 (1.0) 15.0 (1.4)
+
+Missing 9.2 (0.3) 11.5 (0.5) 8.2 (0.4) 8.4 (0.5) 9.6 (0.6) 12.3 (1.1)
+
+Body mass index? <.001
+
+<25 31.32 (0.5) 33.11 (0.7) 31.2 (0.6) 30.4 (0.9) 30.6 (1.0) 30.9 (2.4)
+
+25-29.9 32.04 (0.4) 31.23 (0.6) 32.4 (0.5) 32.1 (0.7) 32.6 (1.0) 29.7 (1.9)
+
+>30 31.38 (0.4) 28.67 (0.7) 31.6 (0.6) 32.9 (0.8) 31.3 (1.1) 33.4 (1.9)
+
+Missing 5.26 (0.2) 6.99 (0.4) 47 (0.3) 4.6 (0.4) 5.4 (0.5) 6.0 (0.8)
+
+*NHANES = National Health and Nutritional Examination Survey.
+
+®Nondrinker was defined as had alcohol consumption 0 g/d. Moderate drinker was defined as had alcohol consumption 0.1 to 28 g/d for men and 0.1 to 14 g/d for women. Heavy drinker
+
+was defined as had alcohol consumption >28 g/d for men and >14 g/d for women.
+
+“Physical activity level was classified according to whether met the 2018 Physical Activity Guidelines for aerobic activity. Below: <600 metabolic equivalent [MET] min/wk or 150 min
+
+moderate-intensity activity/wk. Meet: 600-1,200 MET rin/wk or 150-300 minutes moderate-intensity activity/wk. Exceed: >1,200 MET min/wk or 300 min moderate-intensity activity/wk.
+
+“MET = metabolic equivalent of task.
+
+“TEI = total energy intake; interquartile range for TEl = 1,215 kcal.
+
+‘HEI = Healthy Eating Index 2010; interquartile range for HEI = 20.5
+
+8Calculated as kg/m*.
+consumption of meals prepared away from home with car- increasing number of people in the United States choosing to
+diovascular mortality and cancer mortality can be partially eat out, a lot of people could benefit from policies that
+explained by the relatively small sample size. Future studies improve the quality of prepared food in restaurants and fast-
+with large sample size and longer follow-up time are still food chains. For instance, the New York City Board of Health
+warranted to explore the potential relationships. has restricted trans-fatty acid use in New York restaurants
+
+This study has significant public health implications. Pre- since 2006, which led to a decline in serum trans-fatty acids
+vious reports have shown an increasing number of people in between 2004 and 2014.°° It is noteworthy that several pol-
+the United States choosing to eat out.'~“ This current study, in icies have been implemented in the United States, although
+line with the previous studies that linked consumption of their effectiveness remains largely unknown. For instance,
+meals away from home with adverse health outcomes, !”*?:*° the US Food and Drug Administration published the final rule
+provides evidence that very frequently eating meals away for menu labeling on December 1, 2014, and the rule came
+from home may not be healthy, and people should be into effect on May 7, 2018.°° The rule requires certain res-
+encouraged to consider preparing more meals at home. In taurants and similar retail food establishments, which are
+addition, actions should be taken to improve the quality of part of a chain with 20 or more locations, to provide calorie
+foods that are prepared away from home.'”'° Due to the and nutrition information for standard menu items. In
+September 2021 Volume 121 Number 9 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS 1745
+
+Table 2. Association of frequency of eating meals prepared away from home with all-cause and cause-specific mortality among
+US adults-NHANES® 1999-2014
+Frequency of eating meals prepared away from home
+Variable <1 time/wk 1-3 times/wk 4-6 times/wk 7-13 times/wk 22 times/d
+All-cause mortality
+py SF
+Deaths/person-years 1,099/70,819 1,209/137,173 267/48,451 143/27,277 63/7,755
+ ——veeighted hazard ratio (95% Cl ———_—_————
+Model 1° 1 (ref) 0.85 (0.76-0.94) 0.70 (0.59-0.83) 0.64 (0.50-0.83) 1.23 (0.86-1.77)
+Model 2° 1 (ref) 1.03 (0.93-1.15) 0.89 (0.75-1.05) 0.83 (0.65-1.06) 1.47 (1.02-2.10)
+Model 3° 1 (ref) 1.04 (0.94-1.16) 0.90 (0.76-1.06) 0.85 (0.66-1.09) 1.49 (1.05-2.13)
+Cardiovascular mortality
+9
+Death/person-years 229/70,819 200/137,173 45/48,451 24/27,277 13/7,755
+ —— veeighted hazard ratio (95% Cl) —_————
+Model 1 1 (ref) 0.77 (0.61-0.96) 0.62 (0.41-0.94) 0.58 (0.34-0.97) 0.97 (0.46-2.07)
+Model 2 1 (ref) 0.97 (0.77-1.23) 0.81 (0.54-1.21) 0.75 (0.44-1.27) 1.17 (0.54-2.52)
+Model 3 1 (ref) 0.98 (0.78-1.25) 0.81 (0.54-1.22) 0.77 (0.46-1.29) 1.18 (0.55-2.55)
+Cancer mortality
+"li
+Death/person-years 227/70,819 285/137,173 77/48,451 33/27,277 16/7,755
+——— _ veeighted hazard ratio (95% Cl_——___—______—.
+Model 1 1 (ref) 0.99 (0.77-1.25) 1.06 (0.77-1.47) 0.74 (0.45-1.21) 1.39 (0.71-2.70)
+Model 2 1 (ref) 1.13 (0.89-1.43) 1.27 (0.91-1.76) 0.92 (0.57-1.49) 1.67 (0.87-3.21)
+Model 3 1 (ref) 1.13 (0.89-1.43) 1.26 (0.91-1.74) 0.92 (0.57-1.50) 1.67 (0.87-3.21)
+*NHANES = National Health and Nutrition Examination Survey.
+‘Model 1: adjusted for age, sex, and race/ethnicity.
+“Model 2: model 1 + education level, ratio of family income to poverty, marital status, smoking status, alcohol intake, physical activity level, total energy intake, and overall diet quality
+indicated by Healthy Eating Index 2010.
+‘Model 3: model 2 + body mass index.
+addition, the covered establishments are required to do questions in the 1997-2004 cycle asked only about frequency
+business under the same name and offer for sale substantially of eating meals prepared in restaurants, which might un-
+the same menu items. To provide flexibility to these covered derestimate the frequency of eating meals prepared away
+establishments during the COVID-19 (coronavirus disease from home. Second, the effects of changes in dining-out
+2019) pandemic, US Food and Drug Administration will not habits during the follow-up on the risk of mortality could
+object if establishments do not meet menu labeling re- not be assessed because information on dining-out habits in
+quirements during the COVID-19 public health emergency.” NHANES was collected at baseline only. Similarly, the infor-
+However, results from a systematic review indicated that mation on other covariates, such as smoking status and
+menu labels did not consistently influence the food choices of alcohol intake, was also collected at baseline only. In addition,
+most people because many people either did not notice them the survey question in the 2005-2014 cycle asked about the
+or did not understand their significance.°* frequency of eating out during the past 7 days, which might
+The major strength of this study was the use of data from a not represent their habitual eating habits. Third, there was no
+large and nationally representative sample of US adults, information in the present study about which meals (eg,
+which facilitates the generalizability of the findings to the breakfast, lunch, or dinner) the participants chose to eat away
+general US adult population. There are also several limita- from home or what foods the participants chose when they
+tions. First, the information on frequency of eating prepared ate meals away from home. Previous studies have shown that
+away from home was collected based on self-reports, which daily energy comes mostly from dinner*? rather than from
+might be subject to recall bias. In addition, there were small lunch in the US population. Future studies with more infor-
+changes in the 2005-2014 vs 1999-2004 cycles in terms of the mation on specific meals or foods consumed away from home
+wording of survey questionnaire item regarding the fre- will be helpful to unveil the mechanism of its potential as-
+quency of eating meals away from home. The survey sociations with adverse health outcomes. Last, although
+1746 =JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS September 2021 Volume 121 Number 9
+
+many potential confounders were adjusted, residual con- 19. Moore ae Roux i etl erortla, Jace OR Franco M. oat
+A F ji consumption, diet quality, and neighborhood exposure to fast food:
+founding by unmeasured factors may still exist. The multi-ethnic study of atherosclerosis. Am J Epidemiol.
+2009;170(1):29-36.
+CONCLUSIONS 20. Fleischhacker SE, Evenson KR, Rodriguez DA, Ammerman_ AS.
+2. as . e A systematic review of fast food access studies. Obes Rev. 2011;12(5):
+Findings from a large population-based study of a nationally e460-e471,
+representative sample of US adults show that frequent con 21. Pereira MA, Kartashov Al, Ebbeling CB, et al. Fast-food habits, weight
+sumption of meals prepared away from home is significantly gain, and insulin resistance (the CARDIA study): 15-year prospective
+associated with increased risk of all-cause mortality. The as- analysis. Lancet. 2005;365(9453):36-42.
+sociation of eating meals prepared away from home with = 22. puitey KI, one el a ale saan rn Jr. ponin EM.
+A F Fi egular consumption from fast food establishments relative to other
+cardiovascular mortality and cancer mortality warrants restaurants is differentially associated with metabolic outcomes in
+further investigation. young adults. J Nutr. 2009;139(11):2113-2118.
+23. Boggs DA, Rosenberg L, Coogan PF, Makambi KH, Adams-
+References Campbell LL, Palmer JR. Restaurant foods, sugar-sweetened soft
+1. Guthrie JF, Lin BH, Frazao E. Role of food prepared away from home drinks, ang obesity. tisk among young African American women. Ethn
+in the American diet, 1977-78 versus 1994-96: Changes and con- Dis. 2013;23(4):445-451.
+sequences. J Nutr Educ Behav. 2002;34(3):140-150. 24. Duffey KJ, Gordon-Larsen P, Jacobs DR Jr, Williams OD, Popkin BM.
+2. Kant AK, Graubard BI. Eating out in America, 1987-2000: Trends and Differential associations of fast food and restaurant food consump-
+nutritional correlates. Prev Med. 2004;38(2):243-249. Fee wit 3-y change in bay es ndet ie Coronary Artery
+3. Zick CD, Stevens RB. Trends in Americans’ food-related time use: oon lopmentinVouns Aduits studi Gln ub: AOU: Batt):
+1975-2006. Public Health Nutr. 2010;13(7):1064-1072. °
+4. Smith LP, Ng SW, Popkin BM. Trends in US home food preparation 25. French SA, Harnack L, Jeffery RW. Fast food Bestalirant: wae \amotiy:
+and consumption: Analysis of national nutrition surveys and time women in the Found et HET ObEE HERE NEAR BRE DOO CALIEY
+use studies from 1965-1966 to 2007-2008. Nutr J. 2013;12:45. agi iaae : ay :
+5 fat Fo Sea Seeiiee ie innaene are bes 26. Bes-Rastrollo M, Basterra-Gortari FJ, Sanchez-Villegas A, Marti A,
+Economic Research Service: 2018. , Martinez JA, Martinez-Gonzalez MA. A prospective study of eating
+. . . . away-from-home meals and weight gain in a Mediterranean popu-
+6. Orfanos P, Naska A, Trichopoulos D, et al. Eating out of home and its lation: The SUN (Seguimiento Universidad de Navarra) cohort. Public
+correlates in 10 European countries. The European Prospective Health Nutr. 2010;13(9):1356-1363.
+Investigation into Cancer and Nutrition (EPIC) study. Public Health A x
+Nutr. 2007;10(12):1515-1525. 27. Zong G, Eisenberg DM, Hu FB, Sun Q. Consumption of meals prepared
+peace tus a . at home and risk of type 2 diabetes: An analysis of two prospective
+7. Bezerra IN, Sichieri R. Characteristics and spending on out-of-home cohort studies. PLoS Med. 2016;13(7). 2016;e1002052.
+eating in Brazil. Rev Saude Publica. 2010;44(2):221-229. et oni ae é ae 6 i Cenk,
+- a . Dominguez LJ, Martinez-Gonzalez MA, Basterra-Gortari FJ, Gea A,
+8. Restaurant Industry 2030: Actionable insights for the future. Na- Bamagalls 4 Bes-Rastrollo M. Fast food consumption th gesta~
+tional Restaurant Association. Published 2020. Accessed September tional diabetes incidence in the SUN project. PLoS One. 2014:9(9).
+2020, _https://restaurant.org/downloads/pdfs/research/restaurant2 2014:e106627. . : .
+030.pdf. , 7
+" 29. Krishnan S, Coogan PF, Boggs DA, Rosenberg L, Palmer JR. Con-
+9. pewatt fe DOLLIES EC en tore in Heute ok sumption of restaurant foods and incidence of type 2 diabetes in
+healthfully? J Agric Resource Econ. 2005;30(3):520-536. 40 po i ye = = ete —— i”
+. ‘ 7 ). Cahill LE, Pan A, Chiuve SE, et al. Fried-food consumption and risk o}
+10. arourboutaloy fe Seminal Azal Pabbe Mi. ce AMG Tee type 2 diabetes and coronary artery disease: A prospective study in 2
+Med. 2013;173(14):1373-1374, teen 7 eee i i tes se eee
+. . . Kant AK, Whitley MI, Graubard BI. Away from home meals: Associ-
+11. Wu HW, Sturm R. What's on the menu? A review of the energy and ations with biomarkers of chronic disease and dietary intake in
+nutritional content of US chain restaurant menus. Public Health Nutr. American adults, NHANES 2005-2010. Int J Obes (Lond). 2015:39(5):
+2013;16(1):87-96. 820-827. ’ ° ° : ‘
+12. ree ve Weber JL, pen He etal. Fey anes of frequently 32. Fulkerson JA, Farbakhsh K, Lytle L, et al. Away-from-home family
+food lal Seiya Te De sesh etter vt rae mest! 4 ny dinner sources and associations with weight status, body composi-
+GUN EE ORS: ane TLS: Departinent ok Agneliitire database mn Eee tion, and related biomarkers of chronic disease among adolescents
+Hone Amultiaie randomized study. J Acad Nutr Diet. 2016;116(4): and their parents. J Am Diet Assoc. 2011;111(12):1892-1897.
+}-598.e596.
+33. National Health and Nutrition Examination Survey. National Center
+13. Lachat ©, Nago E, Verstraeten R, Roberfroid D, Van Camp J, for Health Statistics Centers for Disease Control and Prevention.
+Kolsteren P. Eating out of home and its association with dietary Accessed September 18, 2019, https://www.cdc.gov/nchs/nhanes/
+intake: A systematic review of the evidence. Obes Rev. 2012;13(4): dbeut-snhanes htm, a i
+329-346. - ee
+, - . . 34. NCHS 2011 Linked Mortality Files Matching Methodology. National
+14. Urban LE, Roberts SB, Fierstein JL, Gary CE, Lichtenstein AH. Tem- Center for Health Statistics. Accessed September 18, 2019, https://
+poral trends in fast-food restaurant energy, sodium, saturated fat, www.cde.gov/nchs/data/datalinkage/2011_linked_mortality_file
+and trans fat content, United States, 1996-2013. Prev Chronic Dis. matching_methodology. pdf. m= 7 ieee
+2014;11:E229, ae
+7 5 A A 35. World Health Organization. International Statistical Classification of
+15. McGuire S, Todd JE, Mancino L, Lin B-H. The impact of food away ‘ th
+from home on adult diet quality. ERR-90, U.S. Department of Agri- pene a ne Health Problems. 10™ rev, 2nd ed. World Health
+culture, Econ. Res. Serv., February 2010. Adv Nutr. 2011;2(5):442- Teanizallon,
+443. 36. National Health and Nutrition Examination Survey. NHANES Ques-
+16. Kirkpatrick SI, Reedy J, Kahle LL, Harris JL, Ohri-Vachaspati P, Krebs- tionnaires, Datasets, and Related Documentation. National Center for
+Smith SM. Fast-food menu offerings vary in dietary quality, but are Health Statistics. Accessed Semptember 18, 2019, https://wwwn.cde.
+consistently poor. Public Health Nutr. 2014;17(4):924-931. gov/nchs/nhanes/Default.aspx.
+17. Mehta NK, Chang VW. Weight status and restaurant availability: A 37. How the Census Bureau measures poverty. US Census Bureau.
+multilevel analysis. Am J Prev Med. 2008;34(2):127-133. Accessed September 18, 2019, https://www.census.gov/topics/
+18. LiF, Harmer P, Cardinal BJ, Bosworth M, Johnson-Shelton D. Obesity inGME: ROVEnH) | ROVER [EMllllannce/ poverty messes HHA.
+and the built environment: Does the density of neighborhood fast- 38. Ahluwalia N, Dwyer J, Terry A, Moshfegh A, Johnson C. Update on
+food outlets matter? Am J Health Promot. 2009;23(3):203-209. NHANES dietary data: Focus on Collection, release, analytical
+September 2021 Volume 121 Number 9 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS 1747
+
+considerations, and uses to inform public policy. Adv Nutr. 54. French SA, Wall M, Mitchell NR. Household income differences in
+2016;7(1):121-134, food sources and food items purchased. Int J Behav Nutr Phys Act.
+
+39. Guenther PM, Kirkpatrick SI, Reedy J, et al. The Healthy Eating Index- 2010;7. 77-77.
+
+2010 is a valid and reliable measure of diet quality according to the 55. Darmon N, Drewnowski A. Contribution of food prices and diet cost
+2010 Dietary Guidelines for Americans. J Nutr. 2014;144(3):399-407. to socioeconomic disparities in diet quality and health: A systematic
+
+40. How to choose an analysis method dependent on purpose. National review and analysis. Nutr Rev. 2015;73(10):643-660.
+
+Cancer Institute. Accessed Semptember 18, 2019, https://epi.grants. 56. GBD 2017 Diet Collaborators. Health effects of dietary risks in 195
+cancer.gov/hei/tools.html. countries, 1990-2017: A systematic analysis for the Global Burden of
+
+41. Food and Nutrient Database for Dietary Studies (FNDDS). US Disease Study 2017. Lancet. 2019;393(10184):1958-1972.
+Department of Agriculture, Agricultural Research Service. Accessed 57. McCullough ML, Feskanich D, Rimm EB, et al. Adherence to the Di-
+September 18, 2019, https://catalog.data.gov/dataset/food-and- etary Guidelines for Americans and risk of major chronic disease in
+nutrient-database-for-dietary-studies-fndds. men. Am J Clin Nutr. 2000;72(5):1223-1231.
+
+42. US Department of Health and Human Services. Physical Activity 58. McCullough ML, Feskanich D, Stampfer MJ, et al. Adherence to the
+Guidelines for Americans. 2nd ed. US Department of Health and Hu- Dietary Guidelines for Americans and risk of major chronic disease in
+man Services; 2018. women. Am J Clin Nutr. 2000;72(5):1214-1222.
+
+43. Global Physical Activity Questionnaire (GPAQ) analysis guide. 59. Tande DL, Magel R, Strand BN. Healthy Eating Index and abdominal
+World Health Organization. Accessed November 11, 2019, https:// obesity. Public Health Nutr. 2010;13(2):208-214.
+www.who.int/ncds/surveillance/steps/resources/GPAQ_Analysis_ 60. Fung TT, McCullough ML, Newby PK, et al. Diet-quality scores and
+Guide.pdf. plasma concentrations of markers of inflammation and endothelial
+
+44. SAS. Version. 9.4. SAS Institute Inc; 2019. dysfunction. Am J Clin Nutr. 2005;82(1):163-173.
+
+45, Bezerra IN, Curioni C, Sichieri R. Association between eating out of 61. Rathod AD, Bharadwaj AS, Badheka AO, Kizilbash M, Afonso L.
+home and body weight. Nutr Rev. 2012;70(2):65-79. Healthy Eating Index and mortality in a nationally representative
+
+46. Kant AK, Graubard BI. A prospective study of frequency of eating elderly cohort. Arch Intern Med. 2012;172(3):275-277.
+restaurant prepared meals and subsequent 9-year risk of all-cause 62. Varshavsky JR, Morello-Frosch R, Woodruff TJ, Zota AR. Dietary
+and cardiometabolic mortality in US adults. PLoS One. 2018;13(1). sources of cumulative phthalates exposure among the U.S. general
+2018;e0191584. population in NHANES 2005-2014. Environ Int. 2018;115:417-429,
+
+47, Nguyen BT, Powell LM. The impact of restaurant consumption 63. Mariana M, Feiteiro J, Verde I, Cairrao E. The effects of phthalates in
+among US adults: Effects on energy and nutrient intakes. Public the cardiovascular and reproductive systems: A review. Environ Int.
+Health Nutr. 2014;17(11):2445-2452. 2016;94:758-776.
+
+48. Fryer CD, Ervin RB. Caloric intake from fast food among adults: 64. Sabbath EL, Mejia-Guevara I, Noelke C, Berkman LF. The long-term
+United States, 2007-2010. NCHS Data Brief. 2013;(114):1-8. mortality impact of combined job strain, and family circumstances:
+
+49. Alter DA, Eny K. The relationship between the supply of fast-food deere SSTEANESERLEY PATE REE NT HE orca GLY
+chains and cardiovascular outcomes. Can J Public Health. ae ;
+2005;96(3):173-177. 65. Wright M, McKelvey W, Curtis CJ, et al. Impact of a municipal policy
+
+. : : restricting trans fatty acid use in New York City restaurants on serum
+
+50. An R. Fast-food and full-service restaurant consumption and daily trans fatty acid levels in adults. Am J Public Health. 2019;109(4):634-
+
+energy and nutrient intakes in US adults. Eur J Clin Nutr. 2016;70(1): 636.
+97-103.
+. . - 5 poset 66. Menu labeling requirements. US Food and Drug Administration.
+
+51. Barrington WE, White E. Mortality outcomes associated with intake Accessed September 18, 2019, https://www.fda.gov/food/food-
+of fast-food items and sugar-sweetened drinks among older adults in labeling-nutrition/menu-labeling-requirements.
+the Vitamins and Lifestyle (VITAL) study. Public Health Nutr. " . a 5
+
+3 z 67. Temporary policy regarding nutrition labeling of standard menu
+2016; 19(18):3319-3326. 2 ‘ & Re z
+: . items in chain restaurants and similar retail food establishments
+
+52. Rico-Campa A, Martinez-Gonzalez MA, Alvarez-Alvarez I, et al. As- during the COVID-19 public health emergency. US Food and Drug
+sociation between consumption of ultra-processed foods and all Administration. Accessed November 8, 2020, https://www.fda.gov/
+cause mortality: SUN prospective cohort study. BMJ. 2019;365: regulatory-information/search-fda-guidance-documents/temporary-
+11949. policy-regarding-nutrition-labeling-standard-menu-items-chain-
+
+53. Daniel M, Paquet C, Auger N, Zang G, Kestens Y. Association of fast- Testaurants-and-similar.
+food restaurant and fruit and vegetable store densities with car- 68. Swartz JJ, Braxton D, Viera AJ. Calorie menu labeling on quick-service
+diovascular mortality in a metropolitan population. Eur J Epidemiol. restaurant menus: an updated systematic review of the literature. Int
+2010;25(10):711-719. J Behav Nutr Phys Act. 2011;8:135.
+
+1748 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS September 2021 Volume 121 Number 9
+
+AUTHOR INFORMATION
+Y. Du is a PhD candidate, Department of Epidemiology, College of Public Health, University of lowa, lowa City. S. Rong is an associate professor,
+Department of Nutrition and Food Hygiene, School of Public Health, Medical College, Wuhan University of Science and Technology, Wuhan,
+China. Y. Sun is a postdoctoral research scholar, Department of Epidemiology, College of Public Health, University of lowa, lowa City. B. Liu is a
+postdoctoral research scholar, Department of Epidemiology, College of Public Health, University of lowa, lowa City. Y. Wu is a PhD candidate,
+Department of Epidemiology, College of Public Health, University of lowa, lowa City. L. G. Snetselaar is a professor and chair, Preventive Nutrition
+Education, Department of Epidemiology, College of Public Health, University of lowa, lowa City. R. B. Wallace is a professor and Irene Ensminger
+Stecher Professorship in Cancer Research, Department of Epidemiology, College of Public Health, University of lowa, lowa City. W. Bao is an
+assistant professor, Department of Epidemiology, College of Public Health, University of lowa, lowa City, and a member, Obesity Research and
+Education Initiative, and Fraternal Order of Eagles Diabetes Research Center, University of lowa, lowa City.
+Address correspondence to: Wei Bao, MD, PhD, Department of Epidemiology, College of Public Health, University of lowa, 145 N. Riverside Drive,
+Room $431 CPHB, lowa City, IA 52242. E-mail: wei-bao@uiowa.edu
+STATEMENT OF POTENTIAL CONFLICT OF INTEREST
+No potential conflict of interest was reported by the authors.
+AUTHOR CONTRIBUTIONS
+Y. Du and W. Bao contributed to the conception and design of the study. Y. Du analyzed data and wrote the paper. All authors contributed to the
+acquisition, analysis, or interpretation of the data, and revised the manuscript for important intellectual content. W. Bao had primary re-
+sponsibility for final content. All authors read and approved the final manuscript.
+THE ART OF DIETETICS _ _
+As a student | have heard a number of opinions on what area is the most important in order to achieve proper nutrition. What | feel is most
+important is family meals. Moderation is key, but socializing over a meal encourages positive mental health and healthy eating patterns. This
+is a picture of the people | love. My health is a reflection of my diet and they give me a reason to cherish it.
+Photo taken by Edith Classen (student).
+(Images featured in “The Art of Dietetics” are available for educational use at www.jandonline.org/content/photocontestgallery. Want
+to make your own Art of Dietetics contribution? Submission details are available at: www.jandonline.org/artofdietetics.)
+~- “Va ‘ ad - :
+ad —
+r 7
+» - “} a
+7 a < 2
+> : . A | eS Pen. RES: ;
+. = Tie) So :
+Bi - f —— ae ~ ~,.
+tip fm — Yar.
+: PR 4 ; ‘ c Pan. |
+= 7 * ~
+<4 <
+—<4 ——
+= ‘
+sg t= Pg wy Jp \
+
+ae BF » | Bee
+
+on — “ ‘ | a?
+
+— = a wap if
+
+—_ - a jee oF
+‘ _ ees "
+seer - a to age ’ al
+* oan a r a
+September 2021 Volume 121 Number 9 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS 1749
+
+RESEARCH
+Table 3. Association of frequency of eating meals away from home with all-cause mortality in US adults stratified by age, sex,
+race, family income, and obesity status, NHANES® 1999-2014
+Frequency of eating meals away from home P value for
+Variable <1 times/wk _1-3 times/wk 4-6 times/wk 7-13 times/wk _ 22 times/d interaction
+weighted hazard ratio (95% qe—______
+Age
+<45 y 1 (ref) 0.93 (0.70-1.22) 0.74 (0.52-1.05) 0.91 (0.58-1.42) 1.25 (0.62-2.50) .10
+45 y or older 1 (ref) 0.90 (0.79-1.02) 0.68 (0.57-0.82) 0.59 (0.44-0.79) 1.20 (0.78-1.85)
+Sex
+Male 1 (ref) 1.19 (1.01-1.42) 1.01 (0.81-1.26) 0.87 (0.63-1.21) 1.61 (1.07-2.43) .09
+Female 1 (ref) 0.91 (0.79-1.05) 0.77 (0.61-0.97) 0.85 (0.63-1.16) 1.34 (0.75-2.41)
+Race
+White 1 (ref) 1.12 (0.94-1.33) 0.86 (0.68-1.08) 0.83 (0.62-1.11) 1.60 (1.01 2.57) .09
+Non-White 1 (ref) 0.91 (0.78-1.07) 1.01 (0.77-1.33) 0.84 (0.51-1.38) 1.44 (0.91-2.29)
+Ratio of family
+income to poverty
+<2 1 (ref) 1.07 (0.91-1.25) 0.94 (0.71-1.25) 1.04 (0.74-1.47) 2.04 (1.19-3.49) 02
+22 1 (ref) 0.98 (0.81-1.19) 0.85 (0.67-1.08) 0.72 (0.50-1.04) 1.47 (0.91-2.36)
+Body mass index
+<30 1 (ref) 1.16 (0.99-1.34) 1.02 (0.83-1.26) 1.06 (0.78-1.44) 1.75 (1.11-2.77) 05
+>30 1 (ref) 0.82 (0.67-1.02) 0.66 (0.49-0.88) 0.46 (0.28-0.75) 1.21 (0.66-2.21)
+® adjusted for age, sex, race, education level, ratio of family income to poverty, marital status, smoking status, alcohol intake, physical activity level, total energy intake, overall diet quality
+indicated by Healthy Eating Index 2010, and body mass index.
+1749.e1 JOURNAL OF THE ACADEMY OF NUTRITION AND DIETETICS September 2021 Volume 121 Number 9
+
+ene
+13) 7 PLOS | ONE Sprint Interval Training versus Moderate Intensity Continuous Training
+of individuals do not meet the current physical activity recommendations [56,57], there is
+value in exploring the potential benefits of exercise strategies that involve reduced time com-
+mitment. Large-scale randomized clinical trials are needed to advance the field.
+Supporting Information
+S1 Fig. Descriptive Characteristics and Markers of Glycemic Control. Values represent
+change scores (95% confidence intervals). VO2peak, maximal oxygen uptake; CSy, insulin sen-
+sitivity index from IVGTT; Kg, glucose rate of disappearance during 10-50 min of IVGTT;
+AAUCyyzg, insulin area under the curve from 10-50 min of IVGTT; AInsulin AUC, insulin
+area under the curve from 0-50 min of IVGTT; AGlucose AUC, glucose area under the curve
+from 0-50 min of IVGTT; FPG, fasting plasma glucose; FPI, fasting plasma insulin.
+(PDF)
+Acknowledgments
+We thank Rachel Tan and Micaela Gregory for assistance with exercise training.
+Author Contributions
+Conceived and designed the experiments: JBG MJG. Performed the experiments: JBG BJM
+MJM LES MAT MJG. Analyzed the data: JBG BJM MJM LES. Contributed reagents/materials/
+analysis tools: MAT MJG. Wrote the paper: JBG MJG.
+References
+1. Hawley JA. Exercise as a therapeutic intervention for the prevention and treatment of insulin resistance.
+Diabetes Metab Res Rev. 2004; 20: 383-393. doi: 10.1002/dmrr.505 PMID: 15343584
+2. Warburton DER, Nicol CW, Bredin SSD. Health benefits of physical activity: the evidence. Can Med
+Assoc J. 2006; 174: 801-809. doi: 10.1503/cmaj.051351
+3. Blomqvist CG, Saltin B. Cardiovascular adaptations to physical training. Annu Rev Physiol. 1983; 45:
+169-189. doi: 10.1146/annurev.ph.45.030183.001125 PMID: 6221687
+4. Holloszy JO, Coyle EF. Adaptations of skeletal muscle to endurance exercise and their metabolic con-
+sequences. J Appl Physiol. 1984; 56: 831-838. PMID: 6373687
+5. World Health Organization. Global Recommendations on Physical Activity For Health. WHO Library
+Cataloguing-in-Publication Data. 2010. ISBN 978 92 4 159 997 9
+6. Garber CE, Blissmer B, Deschenes MR, Franklin B a, Lamonte MJ, Lee I-M, et al. American College of
+Sports Medicine position stand: Quantity and quality of exercise for developing and maintaining cardio-
+respiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for pre-
+scribing exercise. Med Sci Sports Exerc. 2011; 43: 1334-59. doi: 10.1249/MSS.0b013e31821 3fefb
+PMID: 21694556
+7. Tremblay MS, Warburton DER, Janssen I, Paterson DH, Latimer AE, Rhodes RE, et al. New Canadian
+Physical Activity Guidelines. App| Physiol Nutr Metab. 2011; 36: 36-46. doi: 10.1139/H11-009 PMID:
+21326376
+8. Trost SG, Owen N, Bauman AE, Sallis JF, Brown W. Correlates of adults’ participation in physical activ-
+ity: review and update. Med Sci Sports Exerc. 2002; 34: 1996-2001. doi: 10.1249/01.MSS.
+0000038974.76900.92 PMID: 12471307
+9. Weston KS, Wislaff U, Coombes JS. High-intensity interval training in patients with lifestyle-induced
+cardiometabolic disease: a systematic review and meta-analysis. Br J Sports Med. 2014; 48: 1227-34.
+doi: 10.1136/bjsports-2013-092576 PMID: 24144531
+10. Burgomaster KA, Howarth KR, Phillips SM, Rakobowchuk M, Macdonald MJ, McGee SL, et al. Similar
+metabolic adaptations during exercise after low volume sprint interval and traditional endurance training
+in humans. J Physiol. 2008; 586: 151-60. doi: 10.11 13/jphysiol.2007.142109 PMID: 17991697
+11. Gibala MJ, Little JP, van Essen M, Wilkin GP, Burgomaster KA, Safdar A, et al. Short-term sprint inter-
+val versus traditional endurance training: similar initial adaptations in human skeletal muscle and exer-
+cise performance. J Physiol. 2006; 575: 901-11. doi: 10.1113/jphysiol.2006.112094 PMID: 16825308
+PLOS ONE | DOI:10.1371/journal.pone.0154075 April 26, 2016 11/14
+
+ene
+13) - PLOS | ONE Sprint Interval Training versus Moderate Intensity Continuous Training
+
+12. Shepherd SO, Cocks M, Tipton KD, Ranasinghe AM, Barker TA, Burniston JG, et al. Sprint interval and
+traditional endurance training increase net intramuscular triglyceride breakdown and expression of peri-
+lipin 2 and 5. J Physiol. 2013; 591: 657-75. doi: 10.1113/jphysiol.2012.240952 PMID: 23129790
+
+13. Cocks M, Shaw CS, Shepherd SO, Fisher JP, Ranasinghe AM, Barker TA, et al. Sprint interval and
+endurance training are equally effective in increasing muscle microvascular density and eNOS content
+in sedentary males. J Physiol. 2013; 591: 641-56. doi: 10.1113/jphysiol.2012.239566 PMID: 22946099
+
+14. Gillen JB, Gibala Mu. Is high-intensity interval training a time-efficient exercise strategy to improve
+health and fitness? Appl Physiol Nutr Metab. 2014; 39: 409-12. doi: 10.1139/apnm-2013-0187 PMID:
+24552392
+
+15. Metcalfe RS, Babraj JA, Fawkner SG, Vollaard NBJ. Towards the minimal amount of exercise for
+improving metabolic health: beneficial effects of reduced-exertion high-intensity interval training. Eur J
+Appl Physiol. 2011; 112: 2767-75. doi: 10.1007/s00421-011-2254-z PMID: 22124524
+
+16. Ma JK, Scribbans TD, Edgett BA, Boyd JC, Simpson CA, Little JP, et al. Extremely low-volume, high-
+intensity interval training improves exercise capacity and increases mitochondrial protein content in
+human skeletal muscle. J Mol Integr Physiol. 2013; 3: 202-210.
+
+17. Gillen JB, Percival ME, Skelly LE, Martin BU, Tan RB, Tarnopolsky MA, et al. Three minutes of all-out
+intermittent exercise per week increases skeletal muscle oxidative capacity and improves cardiometa-
+bolic health. PLoS One. 2014; 9: 111489. doi: 10.1371/journal.pone.0111489 PMID: 25365337
+
+18. Tarnopolsky MA, Pearce E, Smith K, Lach B. Suction-modified Bergstrém muscle biopsy technique:
+experience with 13,500 procedures. Muscle Nerve. 2011; 43: 717-25. doi: 10.1002/mus.21945 PMID:
+21462204
+
+19. TuraA, Sbrignadello S, Succurro E, Groop L, Sesti G, Pacini G. An empirical index of insulin sensitivity
+from short IVGTT: validation against the minimal model and glucose clamp indices in patients with dif-
+ferent clinical characteristics. Diabetologia. 2010; 53: 144-52. doi: 10.1007/s00125-009-1547-9 PMID:
+19876614
+
+20. Ortega J, Hamouti N, Fernandez-Elias V, Mora-rodriguez R. Comparison of glucose tolerance tests to
+detect the insulin sensitizing effects of a bout of continuous exercise. Appl Physiol Nutr Metab. 2014;
+39: 787-792. doi: 10.1139/apnm-2013-0507 PMID: 24971679
+
+21. Ortega J, Fernandez-Elias V, Hamouti N, Garcia-Pallares J, Mora-Rodriguez R. Higher Insulin-sensitiz-
+ing Response after Sprint Interval Compared to Continuous Exercise. Int J Sport Med. 2015; 36: 209—
+14.
+
+22. Matsuda M, DeFronzo RA. Insulin sensitivity indices obtained from oral glucose tolerance testing. Dia-
+betes Care. 1999; 22: 1462-1470. PMID: 10480510
+
+23. Carter SL, Rennie CD, Hamilton SJ, Tarnopolsky MA. Changes in skeletal muscle in males and
+females following endurance training. Can J Physiol Pharmacol. 2001; 79: 386-392. doi: 10.1139/cjpp-
+79-5-386 PMID: 11405241
+
+24. Little JP, Gillen JB, Percival M, Safdar A, Tarnopolsky MA, Punthakee Z, et al. Low-volume high-inten-
+sity interval training reduces hyperglycemia and increases muscle mitochondrial capacity in patients
+with type 2 diabetes. J App! Physiol. 2011; 111: 1554-1560. doi: 10.1152/jappliphysiol.00921.2011
+PMID: 21868679
+
+25. Kodama S. Cardiorespiratory Fitness as a Quantitative Predictor of All-Cause Mortality and Cardiovas-
+cular Events. JAMA. 2009; 301: 2024-35. doi: 10.1001/jama.2009.681 PMID: 19454641
+
+26. Barry VW, Baruth M, Beets MW, Durstine JL, Liu J, Blair SN. Fitness vs. fatness on all-cause mortality:
+a meta-analysis. Prog Cardiovasc Dis. Elsevier Inc.; 2014; 56: 382-90. doi: 10.1016/j.pcad.2013.09.
+002 PMID: 24438729
+
+27. Knuttgen HG, Nordesjo LO, Ollander B, Saltin B. Physical Conditioning through interval training with
+young male adults. Med Sci Sports. 1973; 5: 220-226. doi: 10.1249/00005768-197300540-00002
+PMID: 4774198
+
+28. Tabatal, Nishimura K, Kouzaki M, Y H, Ogita F, Miyachi M, et al. Effects of moderate-intensity endur-
+ance and high-intensity intermittent training on anaerobic capacity and VO2max. Med Sci Sports Exerc.
+1996; 28: 1827-1330. PMID: 8897392
+
+29. Murias JM, Kowalchuk JM, Paterson DH. Time course and mechanisms of adaptations in cardiorespi-
+ratory fitness with endurance training in older and young men. J Appl Physiol. 2010; 108: 621-627. doi:
+10.1152/japplphysiol.01 152.2009 PMID: 20056848
+
+30. Samjoo IA, Safdar A, Hamadeh MJ, Raha S, Tarnopolsky MA. The effect of endurance exercise on
+both skeletal muscle and systemic oxidative stress in previously sedentary obese men. Nutr Diabetes.
+Nature Publishing Group; 2013; 3: e88. doi: 10.1038/nutd.2013.30 PMID: 24042701
+
+PLOS ONE | DOI:10.1371/journal.pone.0154075 April 26, 2016 12/14
+
+ene
+13) - PLOS | ONE Sprint Interval Training versus Moderate Intensity Continuous Training
+
+31. Boulé NG, Kenny GP, Haddad E, Wells GA, Sigal RJ. Meta-analysis of the effect of structured exercise
+training on cardiorespiratory fitness in Type 2 diabetes mellitus. Diabetologia. 2003; 46: 1071-1081.
+doi: 10.1007/s00125-003-1160-2 PMID: 12856082
+
+32. Gormley SE, Swain DP, High R, Spina RJ, Dowling EA, Kotipalli US, et al. Effect of intensity of aerobic
+training on VO2max. Med Sci Sports Exerc. 2008; 40: 1336-1343. doi: 10.1249/MSS.
+0b013e31816c4839 PMID: 18580415
+
+33. TjonnaAE, Lee SJ, Rognmo @, Stalen TO, Bye A, Haram PM, et al. Aerobic interval training versus
+continuous moderate exercise as a treatment for the metabolic syndrome: a pilot study. Circulation.
+2008; 118: 346-54. doi: 10.1161/CIRCULATIONAHA.108.772822 PMID: 18606913
+
+34. Karstoft K, Thomsen C, Winding K, Pedersen B, Knudsen S, Solomon T, et al. The Effects of Free-Liv-
+ing Interval- Walking Training on Glycemic Control, Body Composition, and Physical Fitness in Type 2
+Diabetes Patients. Diabetes Care. 2012; 36: 228-36. doi: 10.2337/dc12-0658 PMID: 23002086
+
+35. Ross R, de Lannoy L, Stotz PJ. Separate Effects of Intensity and Amount of Exercise on Interindividual
+Cardiorespiratory Fitness Response. Mayo Clin Proc. Elsevier Inc; 2015; 1-9. doi: 10.1016/j.mayocp.
+2015.07.024 PMID: 26455890
+
+36. Trilk JL, Singhal A, Bigelman KA, Cureton KJ. Effect of sprint interval training on circulatory function
+during exercise in sedentary, overweight/obese women. Eur J Appl Physiol. 2011; 111: 1591-1597.
+doi: 10.1007/s00421-010-1777-z PMID: 21190036
+
+37. MacPherson REK, Hazell TJ, Olver TD, Paterson DH, Lemon PWR. Run sprint interval training
+improves aerobic performance but not maximal cardiac output. Med Sci Sports Exerc. 2011; 43: 115-
+22. doi: 10.1249/MSS.0b013e3181e5eacd PMID: 20473222
+
+38. Matsuo T, Saotome K, Seino S, Shimojo N, Matsushita A, lemitsu M, et al. Effects of a low-volume aero-
+bic-type interval exercise on VO 2max and cardiac mass. Med Sci Sports Exerc. 2014; 46: 42-50. doi:
+10.1249/MSS.0b013e3182a38da8 PMID: 23846165
+
+39. Sloth M, Sloth D, Overgaard K, Dalgas U. Effects of sprint interval training on VO2max and aerobic
+exercise performance: A systematic review and meta-analysis. Scand J Med Sci Sports. 2013; 23:
+341-352. doi: 10.1111/sms.12092
+
+40. Richards JC, Johnson TK, Kuzma JN, Lonac MC, Schweder MM, Voyles WF, et al. Short-term sprint
+interval training increases insulin sensitivity in healthy adults but does not affect the thermogenic
+response to beta-adrenergic stimulation. J Physiol. 2010; 588: 2961—72. doi: 10.1113/jphysiol.2010.
+189886 PMID: 20547683
+
+41. Babraj JA, Vollaard NBJ, Keast C, Guppy FM, Cottrell G, Timmons JA. Extremely short duration high
+intensity interval training substantially improves insulin action in young healthy males. BMC Endocr Dis-
+ord. 2009; 9: 1-8. doi: 10.1186/1472-6823-9-3 PMID: 19175906
+
+42. Houmard JA, Tanner CJ, Slentz CA, Duscha BD, McCartney JS, Kraus WE. Effect of the volume and
+intensity of exercise training on insulin sensitivity. J App! Physiol. 2004; 96: 101-106. doi: 10.1152/
+japplphysiol.00707.2003 PMID: 12972442
+
+43. Ross R, Hudson R, Stotz PJ, Lam M. Effects of Exercise Amount and Intensity on Abdominal Obesity
+and Glucose Tolerance in Obese Adults. Ann Intern Med. 2015; 162: 325-41. doi: 10.7326/M14-1189
+PMID: 25732273
+
+44. Cocks M, Shaw CS, Shepherd SO, Fisher JP, Ranasinghe A, Barker TA, et al. Sprint interval and mod-
+erate-intensity continuous training have equal benefits on aerobic capacity, insulin sensitivity, muscle
+capillarisation and endothelial eNOS/NAD(P)Hoxidase protein ratio in obese men. J Physiol. 2015; 1—
+15. doi: 10.1113/jphysiol.2014.285254 PMID: 25645978
+
+45. Akerstrom T, Laub L, Vedel K, Brand CL, Pedersen BK, Lindqvist AK, et al. Increased skeletal muscle
+capillarization enhances insulin sensitivity. AJP Endocrinol Metab. 2014; 307: E1105-E1116. doi: 10.
+1152/ajpendo.00020.2014
+
+46. Stephenson EJ, Hawley JA. Mitochondrial function in metabolic health: a genetic and environmental
+tug of war. Biochim Biophys Acta. Elsevier B.V.; 2014; 1840: 1285-94. doi: 10.1016/j.bbagen.2013.12.
+004 PMID: 24345456
+
+47. Larsen S, Nielsen J, Hansen CN, Nielsen LB, Wibrand F, Stride N, et al. Biomarkers of mitochondrial
+content in skeletal muscle of healthy young human subjects. J Physiol. 2012; 590: 3349-60. doi: 10.
+1113/jphysiol.2012.230185 PMID: 22586215
+
+48. Burgomaster KA, Hughes SC, Heigenhauser GJF, Bradwell SN, Gibala MJ. Six sessions of sprint inter-
+val training increases muscle oxidative potential and cycle endurance capacity in humans. J App! Phy-
+siol. 2005; 98: 1985-90. doi: 10.1152/japplphysiol.01095.2004 PMID: 15705728
+
+49. EganB, O'Connor PL, Zierath JR, O’Gorman DJ. Time Course Analysis Reveals Gene-Specific Tran-
+script and Protein Kinetics of Adaptation to Short-Term Aerobic Exercise Training in Human Skeletal
+Muscle. PLoS One. 2013; 8: €74098. doi: 10.137 1/journal.pone.0074098 PMID: 24069271
+
+PLOS ONE | DOI:10.1371/journal.pone.0154075 April 26, 2016 13/14
+
+ene
+13) - PLOS | ONE Sprint Interval Training versus Moderate Intensity Continuous Training
+
+50. Bishop DJ, Granata C, Eynon N. Can we optimise the exercise training prescription to maximise
+improvements in mitochondria function and content? Biochim Biophys Acta. Elsevier B.V.; 2014; 1840:
+1266-75. doi: 10.1016/j.bbagen.2013.10.012 PMID: 24128929
+
+51. Biddle SJH, Batterham AM. High-intensity interval exercise training for public health: a big HIT or shall
+we HIT it on the head? Int J Behav Nutr Phys Act. International Journal of Behavioral Nutrition and
+Physical Activity; 2015; 12: 95. doi: 10.1186/s12966-015-0254-9 PMID: 26187579
+
+52. Ekkekakis P. Let Them Roam Free? Sport Med. 2009; 39: 857-888. doi: 10.2165/11315210-
+000000000-00000
+
+53. Parfitt G, Hughes S. The Exercise Intensity—Affect Relationship: Evidence and Implications for Exercise
+Behavior. J Exerc Sci Fit. Elsevier (Singapore) Pte Ltd; 2009; 7: S34—S41. doi: 10.1016/S1728-869X
+(09)60021-6
+
+54. Jung ME, Bourne JE, Little JP. Where does HIT fit? An examination of the affective response to high-
+intensity intervals in comparison to continuous moderate- and continuous vigorous-intensity exercise in
+the exercise intensity-affect continuum. PLoS One. 2014; 9: e114541. doi: 10.1371/journal.pone.
+0114541 PMID: 25486273
+
+55. Jung ME, Bourne JE, Beauchamp MR, Robinson E, Little JP. High-Intensity Interval Training as an Effi-
+cacious Alternative to Moderate-Intensity Continuous Training for Adults with Prediabetes. J Diabetes
+Res. 2015; 2015: 1-9.
+
+56. Colley RC, Garriguet D, Janssen |, Craig CL, Clarke J, Tremblay MS. Physical activity of Canadian
+adults: accelerometer results from the 2007 to 2009 Canadian Health Measures Survey. Stat Canada.
+2011; 22: 7-14.
+
+57. Troiano RP, Berrigan D, Dodd KW, Masse LC, Tilert T, Mcdowell M. Physical activity in the United
+States measured by accelerometer. Med Sci Sports Exerc. 2008; 40: 181-188. doi: 10.1249/mss.
+0b013e31815a51b3 PMID: 18091006
+
+PLOS ONE | DOI:10.1371/journal.pone.0154075 April 26, 2016 14/14
+
