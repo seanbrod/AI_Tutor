@@ -1,0 +1,672 @@
+Reduced Disability and Mortality
+Among Aging Runners
+A 21-Year Longitudinal Study
+Eliza F. Chakravarty, MD, MS; Helen B. Hubert, PhD; Vijaya B. Lingala, PhD; James F. Fries, MD
+Background: Exercise has been shown to improve many (SD) HAQ-DI score was higher for controls than for run-
+health outcomes and well-being of people of all ages. Long- ners at all time points and increased with age in both
+term studies in older adults are needed to confirm dis- groups, but to a lesser degree in runners (0.17 [0.34])
+ability and survival benefits of exercise. than in controls (0.36 [0.55]) (P<.001). Multivariate
+analyses showed that runners had a significantly lower
+Methods: Annual self-administered questionnaires were risk of an HAQ-DI score of 0.5 (hazard ratio, 0.62; 95%
+sent to 538 members of a nationwide running club and 423 confidence interval, 0.46-0.84). At 19 years, 15% of run-
+healthy controls from northern California who were 50 years ners had died compared with 34% of controls. After ad-
+and older beginning in 1984. Data included ee and justment for covariates, runners demonstrated a sur-
+exercise frequency, body mass index, and disability a vival benefit (hazard ratio, 0.61; 95% confidence interval,
+sessed by the Health Assessment Questionnaire Disability 0.45-0,82). Disability and survival curves continued to
+Index (HAQ-DI; scored from 0 [no difficulty] to 3 [un- di ~b : y
+iverge between groups after the 21-year follow-up as par-
+able to perform]) through 2005. A total of 284 runners and i hhed their ninth decade of lif
+156 controls completed the 21-year follow-up. Causes of Herpants approached their ninth decade of lite.
+death through 2003 were ascertained using the National . . . .
+Death Index. Multivariate regression techniques com- Conclusion: Vigorous CREICISS, (running) al middle and
+pared groups on disability and mortality. older ages is associated with reduced disability in later
+life and a notable survival advantage.
+Results: At baseline, runners were younger, leaner, and
+less likely to smoke compared with controls. The mean Arch Intern Med. 2008;168(15):1638-1646
+GE-ADJUSTED DEATH RATES _ nersand control subjects initially aged 50 to
+have reached record lows _—72 years, suggesting that reduction of disabil-
+and life expectancy has ity among runners continued to increase over
+reached record highs in re- time. In this study, we report the outcomes
+cent years,' likely due to a of disability and mortality in this cohort af-
+combination of behavior and societal changes ter 21 years.
+as well as improved medical and surgical
+therapies. With the rise in life expectancy, —_ Ei
+it becomes necessary to focus on improving
+the quality of life and functional abilities as STUDY SUBJECTS
+people reach older ages. Regular exercise, in-
+cluding running, may contribute to improved Subjects were recruited in January 1984 to par-
+health among older adults.27 ticipate inalongitudinal study of the effect of long-
+The compression of morbidity hypoth- distance running on health outcomes. Runners
+« , —_ : 50 years and older were enrolled from a nation-
+esis posits that preventive lifestyle behaviors, ide running club, the 50+ Runners Association.
+including regular exercise, will postpone dis- Control subjects were recruited from the roster
+ability by at least as much as it does mortal- of the Stanford University Lipid Research Clin-
+ity, thus compressing morbidity betweena _ics Prevalence Study (LRC),'* which identified all
+later onset and the age at death.*° Evaluation —_ permanent university staff and faculty aged be-
+of this hypothesis requires that cohorts of sub- tween 26 and 70 years. This group was chosen to
+aoe . jects be followed over long periods of time provide a sample of subjects with demographic
+Author Affiliations: Division of 44 compare cumulative disabilityand mor- characteristics similar to those of the running club.
+Immunology and oe clear Details regarding the development of the cohort
+Rheumatology, Department of tality between groups. We have previously have been described elsewhere.'*"> Briefly, study
+Medicine, Stanford University reported 8-year'? and 13-year' results of a descriptors were sent to all 1311 runners club and
+School of Medicine, Stanford, longitudinal study comparing disabilityand 2181 Stanford LRC participants in January 1984.
+California. mortality outcomes between cohorts ofrun- Of these, 654 members of the runners club (run-
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 WWW.ARCHINTERNMED.COM
+1638
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+ners) and 568 LRC participants (controls) expressed interest in the Progression of Disability. Mean HAQ-DI scores over time were
+study, met eligibility requirements (age =50 years, high school gradu- compared between runners and controls. Analyses by initial
+ate, and English as primary language), and were sent consent forms group assignment included all participants enrolled at study
+and questionnaires. inception. Separate analyses were performed on the subset of
+A total of 538 runners and 423 controls returned com- runners and controls who completed the entire 21-year follow-
+pleted consent documents and questionnaires indicating agree- up. Differences between groups at each time point were com-
+ment to participate. Subjects were not excluded based on lipid pared using unpaired t tests. Comparisons were considered sta-
+levels. Participants completed annual self-administered ques- tistically significant at P<.05.
+tionnaires containing information on demographic variables, The progression of disability over time for each group (analy-
+medical history, exercise habits (running and other vigorous sis restricted to completers only) was expressed as a slope un-
+exercise including biking, aerobic dance, and swimming), der the assumption that the rate of progression of disability is
+and the Health Assessment Questionnaire Disability Index linear and constant over the study period. General linear mixed
+(HAQ-DI)."*°"" Validation studies in a subset of runners and models were fitted to the data using compound symmetry as
+controls, performed at the baseline visit, showed excellent cor- the correlation structure.*! This assumes that the correlation
+relation between self-reported data and that obtained by phy- between observations for a given participant is constant, re-
+sicians or trained observers.'* The LRC subjects who reported gardless of the distance between pairs of repeated measure-
+regular vigorous exercise, including running, were retained as ments. The progression of disability for each group was ad-
+controls so that the group represented an average of exercise justed for baseline HAQ-DI, age, sex, smoking, and body mass
+habits in the community. Baseline variables and disability of index (BMI) and was estimated as the difference between groups
+subjects who withdrew from the study were compared with those in the mean time before a specified level of disability was at-
+who completed the 21-year follow-up. All subjects provided tained. Ninety-five percent confidence intervals (CIs) were
+informed consent prior to participation. formed using 1000 bootstrap replications.
+To identify the role of confounding variables on the pro-
+gression of disability, multivariate Cox proportional hazards
+GROUP ASSIGNMENT BY RUNNING HISTORY models using the subset of all initial participants (completers
+_— ; and noncompleters) with a baseline HAQ-DI score of 0 and time-
+The primary longitudinal analysis focused on the 284 runners dependent covariates were developed. End points of HAQ-DI
+and 156 controls who continued to participate in 2005. How- scores of 0.5 and 1.0 were chosen as clinically meaningful bench-
+ever, to control for potential self-selection bias based on group marks of moderate and severe disability. All clinically relevant
+membership rather than running status and to include those variables, including time-dependent BMI and weekly exercise
+who began to run but later discontinued, we created groups of (minutes per week), were included in univariate and multivar-
+“ever runners” and “never runners” based on the following ques- iate analyses; final models were constructed of statistically sig-
+tion, “Have you ever run for exercise for a period of greater than nificant variables!
+1 month?” Here, the ever-runners group includes subjects who
+currently run regularly but are not necessarily members of the ‘ ¥
+ines Ai ee wa may have run i the past but dis- Survival Analysis and Cause of Death
+continued before study onset. This procedure shifted 143 par- . ; ;
+ticipants (73 participating in 2005) from the control group to Survival analysis for runners compared with controls was per-
+the ever-runners group. Over time, all groups decreased run- formed Using all 961 participants enrolled at study inception. Crude
+ning activity, but the runners groups continued to accumulate survival estimates were obtained USMS, Kaplan-Meier methods.
+more minutes per week of vigorous activity of all kinds. Cox proportional hazards regression models adjusted for base-
+line age, sex, BMI, smoking history, initial disability, and weekly
+aerobic exercise.
+ASSESSMENT OF OUTCOMES Causes of death were divided into the following 5 major
+causes: cardiovascular, malignancy related, neurological, in-
+Disability fectious, and other. Rates of death by cause were compared be-
+tween the 2 groups.
+The HAQ-D1 is a self-reported instrument assessing functional
+ability in 8 areas: rising, dressing and grooming, hygiene, eating,
+walking, reach, grip, and routine physical activities. Each area is ees RESULTS ee
+scored from 0 (no difficulty) to 3 (unable to perform), account-
+ing for the use of special aids or devices or the assistance of an- Characteristics of study participants by group member-
+ther Petson sTHe HAC Digeoreis the ee SCOTESOF the Sarees ship (runners vs controls) are listed in Table 1. Values
+It has been validated in numerous studies, is sensitive to change, forall subiecarstudyi ti listed in the first’col-
+and is widely used in observational studies and clinical trials.'°"* sia asa? Tein sails S19 4 ie amma e maed aps ae
+umns. Baseline values (1984) for those subjects in each
+Mortality group who continued to participate through 2005 (com-
+pleters) and for those who did not complete the follow-up
+Mortality data were obtained for 100% of original participants from period (noncompleters) are listed in subsequent col-
+annual searches of the National Death Index through 2003. Data umns. The last columns list characteristics of the com-
+on death were ascertained even if participants had previously with- pleters at 21 years of follow-up (2005). After the 21-year
+drawn from the study. The principal cause of death was deter- follow-up, 284 runners and 156 controls remained in the
+mined using the National Death Index Plus service. study. Annual attrition rates among living subjects were
+Lo approximately 3% for runners and 6% for controls. Differ-
+Statistical Analyses ences between groups were observed both at baseline and
+Analyses were performed using SAS version 9.1 statistical soft- at 21 years. Compared with controls, runners were younger,
+ware (SAS Institute Inc, Cary, North Carolina). Institutional leaner, tended to be male, smoked less, and exercised more.
+review board approval was obtained before initiating the study. Mean education level and alcohol intake were statistically
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 WWW.ARCHINTERNMED.COM
+1639
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+Table 1. Cohort Demographics (Runners Club vs Community Controls)
+SE
+All Subjects in 1984 Noncompleters in 1984 Completers in 1984 Completers in 2005
+ea en (| |
+Runners Controls Runners Controls Runners Controls Runners Controls
+Demographic (n=538) (n=423) (n=254) (n=267) (n=284) (n=156) (n=284) (n=156)
+Age, mean (SD), y 58 (5.6)? 62 (7.2) 59(6.4)° — 64(7.2)° 57 (4.4)8 59 (5.8) 78 (4.4) 80 (5.8)
+Male, % 84a 56 87 BYE 814 56 81 56
+White, % 97 96 95 97 98 95 98 95
+Education, mean (SD), y 16.6(25)  16.6(27)  165(26) 16.5(2.8) 16.6 (2.5) 16.8(24)  16.6(25) 16.8 (2.4)
+Smokers, % 1:08 9.5 28 9.0 ae 10.3 07 13
+BMI, mean (SD) 22.9(2.5)2 24.4(3.45) 22.9(25) 24.6 (3.5) 22.9(25)@  241(33)  23.7(34) 24.2 (3.9)
+HAQ-DI, mean (SD), score 0.029 (0.10) 0.095 (0.18) 0.043 (0.12) 0.112 (0.18)4 0.022 (0.07) 0.068 (0.16) 0.200 (0.35)* 0.430 (0.57)
+Running, mean (SD), minwk 237 (144)@ —-15 (49) 234 (141) 9 (38)° 240 (147)@ 25 (63) 76 (245)3 1 (12)
+Vigorous exercise, 311 (196)? 87 (123) 315 (208) 79 (125) 307 (185)@ 100.1 (118) 287 (398)@ 138 (189)
+mean (SD), min/wk
+Alcoholic drinks/wk, 4.1(1.3)" — 1.3.(1.5) 1.2 (15) 1.4 (1.6) 14 (1.2) 1.3 (1.2) 0.9 (1.2) 1.0 (1.1)
+mean (SD)
+HAQ-DI score of 0, % 86.64 61.0 84.7 54.3¢ 88.44 724 62.34 46.2
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); HAQ-DI, Health Assessment Questionnaire
+Disability Index.
+4P<.001, comparing runners club vs controls.
+> P<.05, comparing runners club vs controls.
+© P<.001, comparing the completers and noncompleters in the runners club and controls.
+4 p< 05, comparing the completers and noncompleters in the runners club and controls.
+Table 2. Cohort Demographics (Ever vs Never Runners)
+ee
+All Subjects in 1984 Noncompleters in 1984 Completers in 1984 Completers in 2005
+a i
+Ever Never Ever Never Ever Never Ever Never
+Runners Runners Runners Runners Runners Runners Runners Runners
+Demographic (n=681) (n=280) (n=324) (n=197) (n=357) (n=83) (n=357) (n=83)
+Age, mean (SD), y 58.4(5.9)@  63.1(7.0)  60.0(6.7) 64.0(7.0)>  56.9(4.6)2  60.0(6.1)  77.9(4.6)@ 81.0 (6.1)
+Male, % 834 45 86 48 804 40 80 40
+White, % 97 96 96 95 97 96 97 96
+Education, mean (SD),y 16.8 (2.5)@ 16.2(27)  168(26) 16.1 (2.8) 16.8(24) 16.2(23) 16.8(24)4¢ 16.2 (2.3)
+Smokers, % ane 12.9 20 11.7 AS 15:0 0.8 de?
+BMI, mean (SD) 23.1(2.7)@ 24.5 (3.6) 23.2 (2.7) 24.7 (8.7) 23.1 (2.6)@ © 24.2(3.6)  23.9(34) 23.9 (4.2)
+Disability index, 0.038 (0.12)? 0.100 (0.18) 0.045 (0.12) 0.120(0.19)° 0.032 (0.11)¢ 0.065 (0.13) 0.23 (0.41) 0.51 (0.57)
+mean (SD), score
+Running, mean (SD), 195 (155)? 3 (25) 188 (154) 4 (29) 201 (156)? 2 (8) 61 (221)8 0(0)
+min/wk
+Vigorous exercise, 270 (199)@ 72(121) 267 (210) 74 (134) 272 (189)? 67 (82) 269 (372)@ 87 (113)
+mean (SD), min/wk
+Alcoholic drinks/wk, 1.2 (1.3) 4.3 (1.4) 1.2 (1.4) 1.4 (1.6) 4.2 (1.2) 1.0(1.4) 0.9 (1.2) 0.7 (0.9)
+mean (SD)
+HAQ-DI score of 0, % 82.24 58.6 Has 55.3° 86.6° 66.3 61.6° 34.9
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); HAQ-DI, Health Assessment Questionnaire
+Disability Index.
+4P<.001, comparing ever runners vs never runners.
+5 P<.001, comparing the completers and noncompleters in the ever runners and never runners.
+© P<.05, comparing the completers and noncompleters in the ever runners and never runners.
+4 P< .05, comparing ever runners vs never runners.
+© P<.01, comparing ever runners vs never runners.
+similar between the 2 groups. Both groups had little dis- tistically significant difference was the 2-year age dispar-
+ability at baseline, but runners had lower HAQ-DI scores ity between completers and noncompleters (P<.001).
+and were more likely to have an HAQ-DI score of 0. Analy- Similar findings were observed when participants were
+sis of completers and noncompleters showed that, among divided into ever-runner and never-runner groups (Table 2).
+controls, completers tended to be younger (P< .001), run Figure 1 shows the progression of mean disability
+more (P<.001), have less baseline disability (P<.05), and levels by year. Mean disability levels increased with time
+were more likely to have a baseline HAQ-DI score of 0 com- in all groups. Figure 1A shows mean annual disability
+pared with noncompleters. Among runners, the only sta- levels for runners compared with controls; Figure 1B il-
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 = =WWW.ARCHINTERNMED.COM
+1640
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+06
+— Controls (all, n=423)
+—— Runners club (all, n=538)
+= = Controls (completers, n=156)
+- ~~ Runners club (completers, n=284)
+05
+04 id a
+A
+© 4
+2 A
+2 “7
+B03 Syne |
+g z I
+= .- i il
+02 . Pd 1
+L gel TS a2 i rae
+04 af 1 a aa
+eae wae pan aad
+aE nae
+0
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004
+06
+—— Ever runners (all, n=681)
+— Never runners (all, n=280)
+= = Ever runners (completers, n=357)
+--~- Never runners (completers, n=83)
+05 -
+|
+4
+04 2
+° ols *
+2 A ii tee
+= oe ee
+6 -
+§ at
+a
+02 , i - 1 . _
+o ee -T
+Peele . eT ele aa
+ot 7 Lee eee
+ree alii ea eee i en ae
+Soo ela
+in
+0
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004
+Year
+Figure 1. Mean disability levels by year. Solid lines represent data for all initial participants, and dashed lines represent data for those who continued participation
+through 2005. A, Runners club members vs community control subjects. B, Ever runners vs never runners. Error bars indicate SD.
+lustrates disability curves for ever-runner vs never- ferences in disability between completers and those who
+runner groups. Separate curves are shown for means com- dropped out or died.
+puted using data available for all 961 initial study Incontrast, there were significant differences in disabil-
+participants and for means computed for only those 440 ity levels between the inception cohortand completersamong
+subjects who completed the 21-year follow-up. the control groups in both Figure 1A and B. Baseline disabil-
+Members of the running groups had significantly lower ity levels in 1984 were statistically lower when computed
+mean disability levels at all time points. Members of both for completers than when all initial study participants were
+running groups had nearly identical mean disability lev- included. This disability pattern among completers in the
+els irrespective of completer status, indicating few dif- control groups continued at almost all time points, indicat-
+ns
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 WWW.ARCHINTERNMED.COM
+1641
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+06
+4 Female controls (n=69)
+A Female runners (n=54)
+AMale controls (n=87) A
+0.5 Male runners (n=230) ZF
+EI ; ”’
+a 7 oe a
+2 act [ «
+3 03 ”
+a 3 °
+§ oo t wha A
+* week? a
+vet ]----4---]---*
+04 at eae te
+0
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004
+Year
+Figure 2. Mean disability levels by year separated by sex. Solid lines represent data for runners, and dashed lines represent data for controls who continued
+participation through 2005. Only subjects who completed the 21-year follow-up are included. Error bars indicate SD.
+0.50
+© Community controls
+0.45
+e
+0.40
+E e
+S 035
+s
+5 e
+= 030 e
+8
+So e
+© 025
+8 e
+£ e
+| 0.20 ‘i °
+s e ° PD °
+3 0s ; Op
+e oo
+_9-o 0
+0.10 ae
+Coen)
+ee °o (CO
+0.05 o 2 90 pF 2 8
+o 9° ——— 0
+o 2 —
+0
+1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004
+Year
+Figure 3. Progression of disability (PD). Linear mixed models of PD and postponement of disability. Regression lines are derived from linear mixed models and
+adjusted for the following covariates: age, sex, body mass index, smoking, and initial disability level. The PD is defined as the absolute difference between the 2
+groups in the time required to cross a given level of disability. The example shown is to reach a Health Assessment Questionnaire Disability Index score of 0.15.
+ing differential dropout of the subjects with higher disabil- male and female runners maintained low disability levels
+ity among the control groups, creating a potential bias to- at all time points, which were significantly lower than those
+ward lower disability in the observed control groups. How- of controls. The difference between runners and controls
+ever, even when restricting the cohort to completers, runners was most striking for women. Male controls had higher
+had significantly lower disability compared with controls, disability levels than male runners at all time points ex-
+and disability curves continued to diverge at 21 years of follow- cept during the initial few years of the study. Few differ-
+up. Analyses by ever- vs never-runners showed comparable ences existed between male and female runners.
+results. The rate of disability progression over 21 years of ob-
+Mean disability levels for completers in each group (run- servation using general linear mixed models is shown in
+ners and controls) are separated by sex in Figure 2. Both Figure 3. The rate of disability progression was signifi-
+ns
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 = WWW.ARCHINTERNMED.COM
+1642
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+Table 3. Multivariate Cox Regression Analyses for Disability and Mortality
+EE
+Hazard Ratio (95% Confidence Interval)
+napyisaepuyept=“‘S*S”*~‘ PW epee ee
+Variable HAQ-DI Score of 0.504 HAQ-DI Score of 1.07 Death?
+Runner 0.62 (0.46-0.84) 0.66 (0.41-1.08) 0.61 (0.45-0.82)
+Age, y 1.07 (1.05-1.09) 1.10 (1.06-1.14) 1.12 (1.10-1.14)
+Male 0.63 (0.47-0.85) 0.63 (0.40-1.01) 1.52 (1.12-2.07)
+BMI 1.09 (1.05-1.13) 1.10 (1.04-1.17) NS
+Baseline HAQ-DI score of 0.1 NA NA 1.16 (1.07-1.25)
+Exercise, min/wk 0.96 (0.91-1.00) 0.92 (0.85-1.00) NS
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); HAQ-DI, Health Assessment Questionnaire
+Disability Index; NA, not applicable; NS, not significant.
+Analysis was restricted to participants with baseline HAQ-DI scores of 0. Variables included in the final model include group (runners vs controls), age (year),
+sex, BMI (measured 1 year prior to disability measure), and vigorous exercise (measured 1 year prior to disability measure).
+> analysis includes all participants at study inception. The final model includes group, age (year), sex, and baseline HAQ-DI score of 0.1. Smoking, BMI, and
+exercise did not meet statistical significance to be included in the final model.
+1.0
+09
+=
+5
+a
+508
+a
+07
+— Runners club
+06
+0 2 4 6 8 10 12 4 16 18 20 22
+Years (Time to Death)
+Figure 4. Kaplan-Meier unadjusted survival curves for all cause mortality in runners club members and community controls from study onset through 19 years of
+follow-up. All 941 subjects at study inception are included. The difference between groups remained significant (P<.001 by log rank test).
+cantly lower for runners (0.007 points per year) com- bership, age (year), sex, BMI (lagged by 1 year), and
+pared with controls (0.016 points per year) (P<.001). weekly vigorous exercise minutes (lagged by 1 year).
+The time required to reach specified levels of disabil- These analyses were restricted to participants (com-
+ity was significantly longer for runners than for con- pleters and noncompleters) with a baseline HAQ-DI score
+trols. The mean time to reaching an HAQ-DI score of 0.075 of 0. For the outcome of an HAQ-DI score of 0.5, run-
+from study onset was approximately 2.6 years for con- ners had a hazard ratio (HR) of 0.62 (95% CI, 0.46-
+trols and 8.7 years for runners, yielding a difference of 0.84) compared with controls. Analysis of covariates
+approximately 6.2 years (95% CI, 3.9-8.9 years). Simi- showed that greater BMI within 1 year was associated with
+larly, the time to reach an HAQ-DI score of 0.10 was 8.2 an increased risk (HR, 1.09; 95% CI, 1.05-1.13), as was
+years (95% CI, 5.1-11.7 years) and to reach an HAQ-DI age (HR, 1.07; 95% CI, 1.05-1.09), but male sex was as-
+score of 0.15 was 12.1 years (95% CI, 8.1-18.3 years) for sociated with decreased risk (HR, 0.63; 95% CI, 0.47-
+runners. These data illustrate that the slower rate of dis- 0.85). Weekly vigorous exercise from all activities was
+ability progression continued to increase over time among marginally significant (HR, 0.96; 95% CI, 0.91-1.00)
+runners through at least the 21 years of observation. (P=.05). Nearly identical results were obtained for the
+Results of multivariate Cox regression analyses using outcome of an HAQ-DI score of 1.0.
+time-dependent covariates are given in Table 3. The fi- By the end of 2003, 81 (15%) of the runners and 144
+nal model for disability outcomes (HAQ-DI scores of 0.5 (34%) of controls had died. The Kaplan-Meier plot of sur-
+and 1.0) included the following variables: group mem- vival estimates for each group (Figure 4) shows that run-
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 WWW.ARCHINTERNMED.COM
+1643
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+Table 4. Causes of Death Since Study Inception (1984)
+SS
+Runners Club Members Community Controls Rate Ratio,
+Total No. | 1 Controls/ P
+Cause of Death of Deaths No. of Deaths Rate@ No. of Deaths Rate# Runners Value
+Total 225 81 810 144 1999 26 <.001
+Cardiovascular 72 29 290 43 597 24 001
+Coronary artery disease/MI 38 14 140 25 347 25 .003
+Stroke 10 3 30 If 97 3.2 04
+Congestive heart failure 4 2 20 a 28 14 38
+Cancer 71 30 300 ca 569 id 004
+Prostate? 7 4 40 3 42 1.0 28
+Lung 14 5 50 9 125 26 051
+Colon 10 4 40 6 83 24 13
+Breast® 4 1 10 3 42 42 38
+Hematologic 11 6 60 5 69 We A
+Esophageal 3 1 10 a 28 2.8 23
+Pancreas 3 1 10 2. 28 28 23
+Other 19 8 80 uy 153 2.0 09
+Neurological 20 6 60 14 194 3.2 007
+Infections 16 1 10 15 208 20.8 <.001
+Pneumonia 9 0 0) 9 125 NA NA
+Other 39 hl 110 28 389 3.5 <.001
+Unknown 7 4 40 3 42 1.0 AT
+Abbreviations: MI, myocardial infarction; NA, not applicable.
+4Expressed per 100 000 person-years.
+> Male subjects only.
+Female subjects only.
+ners had a significant reduction in early mortality that was ners had a mean HAQ-DI score of nearly 0.2, equivalent
+maintained or increased over the study period (P<.001). to having mild functional disability in 1 to 2 of the 8 areas
+Multivariate Cox proportional hazard models gener- of daily activity. In contrast, the mean HAQ-DI score of
+ated to adjust for other variables at baseline that were as- controls at 21 years approached 0.5, equivalent to mod-
+sociated with survival (Table 3) found that runners con- erate functional disability in 2 of the 8 areas or complete
+tinued to demonstrate a significant survival advantage inability to perform in at least 1 area of daily function-
+(AR, 0.61; 95% CI, 0.45-0.82). As expected, older age ing. Although these levels are lower than what is seen in
+(CAR, 1.12; 95% CI 1.10-1.14), male sex (HR, 1.52; 95% subjects with chronic musculoskeletal diseases (the mean
+CI, 1.12-2.07), and initial HAQ-DI level (HR, 1.16; 95% HAQ-DI score in rheumatoid arthritis is 0.7 to 1.0 and
+Cl, 1.07-1.25) were associated with an increased risk of osteoarthritis 0.87*), the higher levels among controls
+mortality. Body mass index, smoking, and baseline ex- translate into important differences in overall daily func-
+ercise did not meet sufficient significance to be in- tional limitations.2°
+cluded in the final model. In addition to confirming an overall survival advan-
+Causes of death are summarized in Table 4. A total tage and reduction in cardiovascular-related deaths among
+of 225 deaths (23% of all study participants) were seen persons who participate in regular exercise, we also found
+over 17 201 person-years of observation. Rates of death areduced rate of deaths from other causes including ma-
+ere increased in controls compared with runners, not lignant neoplasms and neurologic disorders. This is con-
+only for cardiovascular outcomes as anticipated but also sistent with reports associating regular exercise with re-
+for nearly all identified causes. duced incidence of dementia’ and several cancer types.’°**
+Potential reasons for improved functional status and sur-
+os COMMENT = es vival among regular exercisers may include increased car-
+diovascular fitness and improved aerobic capacity and
+This study demonstrates that participation in long-term organ reserve,”’*! increases in skeletal mass and meta-
+running and other vigorous exercise among older adults bolic adaptations of muscle with decreased frailty,"
+is associated with less disability and lower mortality over lower levels of circulating inflammatory markers,” im-
+2 decades of follow-up. We prospectively followed a co- proved response to vaccinations,” and improved higher-
+hort of healthy adults from a mean age of 59 years in 1984 order cognitive functions.*
+to 78 years in 2005. Not only were mean disability lev- This study follows our report of disability and mortal-
+els lower among runners at all time points, but the rate ity in this cohort after 13 years, showing significantly bet-
+of disability progression strongly favored runners through- ter outcomes for runners compared with controls.'' We had
+out the study. Results were similar when all participants anticipated that, with an additional 8 years of observation
+or completers were analyzed. At baseline, both groups encompassing an additional 132 deaths among partici-
+had negligible disability, however, after 21 years, run- pants (93 deaths were reported after 13 years), we would
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25,2008  WWW.ARCHINTERNMED.COM
+1644
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+begin to see a convergence of disability and survival curves; advantage associated with physical exercise remaining af-
+however, this was not the case. Differences between run- ter adjustment for relevant confounders.
+ners and controls for all outcomes continued to diverge af- With the exception of death, outcome variables in the
+ter 21 years of follow-up. Interestingly, in our analysis of study were obtained by self-report. The HAQ-DI has been
+21 years of data, aerobic exercise was no longer a statisti- validated in multiple independent studies using varied
+cally significant independent predictor of mortality. Sixty populations of healthy subjects as well as those with ar-
+percent of deaths occurred during the 8-year period be- thritis and other chronic conditions with excellent reli-
+tween our last report and the present analysis, and it is pos- ability.'°'” Validation of self-report variables against ob-
+sible that with this additional mortality data, vigorous ex- served performance at cohort inception demonstrated
+ercise has become more collinear with running and no excellent correlation for both groups."
+longer is identified as an independent predictor of death. Because our cohorts of runners and controls were rela-
+Further observation of this cohort, as the remaining 440 tively homogeneous at baseline (the majority were white,
+participants reach the biological limits of life expectancy, completed college education, had a BMI within normal
+may be required to further clarify the independent role of limits, and had low alcohol and tobacco consumption),
+nonrunning, vigorous exercise. it is possible that these results may not be generalizable
+
+There are limitations in this study that are important to a broader range of persons with different ethnic back-
+to consider. Self-selection bias is always a concern in ob- grounds, educational opportunities, access to preven-
+servational study designs lacking random assignment of tive health care, or lifestyle habits. Alternatively, a study
+external interventions. Unmeasured lifestyle variables, in- of “privileged” persons has the advantage of lessening con-
+cluding eating habits and use of routine preventive medi- cern over poverty, insurance status, education, access to
+cal care, may have influenced results. However, great care heath care, and other social variables that might other-
+was taken to minimize possible selection biases. The con- wise be different across groups and constitute a signifi-
+trol group was selected from a larger group of relatively cant bias.
+healthy adults who worked in a university community Our findings of decreased disability in addition to pro-
+in 1972 and were socioeconomically similar to the run- longed survival among middle-aged and older adults par-
+ners club members. Analyses included statistical adjust- ticipating in routine physical activities further support rec-
+ments made for the following covariates that differed be- ommendations to encourage moderate to vigorous physical
+tween the groups at study onset: age, sex, BMI, smoking, activity at all ages. Increasing healthy lifestyle behaviors may
+weekly exercise, and initial disability. not only improve length and quality of life but also hope-
+
+To control for potential self-selection bias based on fully lead to reduced health care expenditures associated
+group membership rather than running status, we con- with disability and chronic diseases.”
+servatively created groups of ever and never runners to This study was originally designed asa test of the com-
+account for people who discontinued running prior to pression of morbidity hypothesis*° with the assumption
+study inception due to injury, disability, or other rea- that runners compared with controls would show a greater
+sons. Results of analyses comparing these groups did not compression of disability in the remaining years of life.
+differ appreciably from those obtained by analysis of The present results are suggestive of such an effect. To
+groups based on club membership. date, only a quarter of participants have died, and al-
+
+Dropout rates are always a concern in longitudinal though it remains possible that these trends may be dif-
+studies. Overall, 60% of initial study participants who were ferent in the final three-fourths of ultimate decedents, it
+still alive at the 21-year assessment continued to partici- is unlikely, given that mortality rates between groups are
+pate (62% of surviving runners compared with 54% of expected to converge entirely after age 100 years, and cu-
+surviving controls). Given that observation spanned 2 de- mulative lifetime disability seems unlikely to ultimately
+cades, the proportion who continued to participate and favor controls given the huge differences favoring run-
+were not lost to follow-up is good, and the absolute rate ners through the age of 80 years, with relatively few years
+of discontinuation is similar in both groups. However, of life remaining. We believe, therefore, that this study
+there were greater differences in baseline characteristics contributes to arguments supporting the compression of
+between completers and noncompleters among control morbidity hypothesis.
+subjects. Control completers tended to be younger, have
+lower initial HAQ-DI scores, and exercise more than the Accepted for Publication: February 18, 2008.
+controls who died or withdrew from study participa- Correspondence: Eliza F. Chakravarty, MD, MS, Divi-
+tion; the most severely disabled among controls prefer- sion of Immunology and Rheumatology, Stanford Uni-
+entially discontinued participation in the study. In con- versity School of Medicine, 1000 Welch Rd, Ste 203, Palo
+trast, there was little difference between runners who did Alto, CA 94304 (echakravarty@stanford.edu).
+and did not complete the study. If anything, healthier con- Author Contributions: Study concept and design:
+trols preferentially remained in the study, likely biasing Chakravarty, Hubert, and Fries. Acquisition of data: Hubert,
+the results conservatively and underestimating differ- Lingala, and Fries. Analysis and interpretation of data:
+ences between runners and controls. Chakravarty, Hubert, Lingala, and Fries. Drafting of the
+
+Because we had complete data on mortality for all sub- manuscript: Chakravarty. Critical revision of the manu-
+jects, analysis of mortality rates and causes of death were script for important intellectual content: Hubert, Lingala,
+not subject to biases raised by selective discontinuation and Fries. Statistical analysis: Hubert and Lingala. Ob-
+from study participation. Analyses of mortality closely tained funding: Fries. Study supervision: Fries.
+mirrored those seen for disability, with a clear survival Financial Disclosure: None reported.
+
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 WWW.ARCHINTERNMED.COM
+1645
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+Funding/Support: This study was supported by grant lidity of questions about exercise in the Canadian study of health and aging. /nt
+
+AR43584 from the National Institute of Arthritis and Mus- Bsyehogenat COMA suppl |) 120-182,
+
+z : s, 3 18. Fries JF, Spitz PW, Young DY. The dimensions of health outcomes: the health
+
+culoskeletal and Skin Diseases and the National Insti- assessment questionnaire, disability and pain scales. J Rheumatol. 1982;9
+
+tute on Aging, National Institutes of Health, Bethesda, (5):789-793.
+
+Maryland. 19. Doody MM, Hayes HM, Bilgrad R. Comparability of National Death Index Plus
+
+and standard procedures for determining causes of death in epidemiologic studies.
+Ann Epidemiol. 2001;11(1):46-50.
+
+eee REFERENCES es 20. Cowper DC, Kubal JD, Maynard C, Hynes DM. A primer and comparative review
+
+of major US mortality databases. Ann Epidemiol. 2002;12(7):462-468.
+
+1. Centers for Disease Control and Prevention (CDC). National and state medical 21. Lindstrom ML, Bates DM. Nonlinear mixed effects models for repeated mea-
+expenditures and lost earnings attributable to arthritis and other rheumatic con- sures data. Biometrics. 1990;46(3):673-687.
+ditions—United States, 2003. MMWR Morb Mortal Wkly Rep. 2007;56(1): 22. Krishnan E, Tugwell P, Fries JF. Percentile benchmarks in patients with rheu-
+4-7. matoid arthritis: Health Assessment Questionnaire as a quality indicator (Ql). Ar-
+
+2. Burke GL, Arnold AM, Bild DE, et al. Factors associated with healthy aging: the thritis Res Ther. 2004;6(6):R505-R513.
+
+Cardiovascular Health Study. J Am Geriatr Soc. 2001;49(3):254-262. 23. Sokka T, Kautiainen H, Hannonen P, Pincus T. Changes in Health Assessment
+
+3. Larson EB, Wang L, Bowen JD, et al. Exercise is associated with reduced risk for Questionnaire Disability scores over five years in patients with rheumatoid ar-
+incident dementia among persons 65 years of age and older. Ann Intern Med. thritis compared with the general population. Arthritis Rheum. 2006;54(10):
+2006;144(2):73-81. 3113-3118.
+
+4. Newman AB, Simonsick EM, Naydeck BL, et al. Association of long-distance cor- 24. Bruce B, Fries J. Longitudinal comparison of the Health Assessment Question-
+ridor walk performance with mortality, cardiovascular disease, mobility limita- naire (HAQ) and the Western Ontario and McMaster Universities Osteoarthritis
+tion, and disability. JAMA. 2006;295(17):2018-2026. Index (WOMAC). Arthritis Rheum. 2004;51(5):730-737.
+
+5. Bijnen FC, Feskens EJ, Caspersen CJ, Nagelkerke N, Mostwerd WL, Kromhout 25. Tag U, Verhagen AP, Bierma-Zeinstra SMA, et al. Incidence and risk factors of
+D. Baseline and previous physical activity in relation to mortality in elderly men: disability in the elderly: the Rotterdam Study. Prev Med. 2007;44(3):272-278.
+the Zutphen Elderly Study. Am J Epidemiol. 1999;150(12):1289-1296. 26. Schnohr P, Gronbaek M, Petersen L, Hein HO, Sorensen TI. Physical activity in
+
+6. Paffenbarger RS Jr, Hyde RT, Wing AL, Lee IM, Jung DL, Kampert JB. The as- leisure-time and risk of cancer: a 14-year follow-up of 28,000 Danish men and
+sociation of changes in physical activity level and other lifestyle characteristics women. Scand J Public Health. 2005;33(4):244-249.
+with mortality among men. NV Eng/ J Med. 1993;328(8):538-545. 27. Samad AKA, Taylor RS, Marshall T, Chapman AS. A meta-analysis of the asso-
+
+7. Lee IM, Paffenbarger RS Jr. Associations of light, moderate, and vigorous in- ciation of physical activity with reduced risk of colorectal cancer. Colorectal Dis.
+tensity physical activity with longevity. Am J Epidemiol. 2000;151 (3):293-299. 2005;7(3):204-213.
+
+8. Fries JF. Aging, natural death, and the compression of morbidity. WV Eng/ J Med. 28. Tardon A, Lee WJ, Delgado-Rodriguez M, et al. Leisure-time physical activity and
+1980;303(3):130-135. lung cancer: a meta-analysis. Cancer Causes Control. 2005;16(4):389-397.
+
+9. Fries JF. Successful aging—an emerging paradigm of gerontology. Clin Geriatr 29. Colbert LH, Visser M, Simonsick EM, et al. Physical Activity, exercise, and in-
+Med. 2002;18(3):371-382. flammatory markers in older adults: findings from the Health, Aging, and Body
+
+10. Fries JF, Singh G, Morfeld D, Hubert HB, Lane NE, Brown BW Jr. Running and Composition study. J Am Geriatr Soc. 2004;52(7):1098-1104.
+the development of disability with age. Ann Intern Med. 1994;121(7):502-509. 30. Beere PA, Russell SD, Morey MC, Kitzman DW, Higgenbothan MB. Aerobic ex-
+
+11. Wang BWE, Ramey DR, Schettler JD, Hubert HB, Fries JF. Postponed develop- ercise training can reverse age-related peripheral circulatory changes in healthy
+ment of disability in elderly runners. Arch Intern Med. 2002;162(20):2285- older men. Circulation. 1999;100(10):1085-1094.
+
+2294. 31. Talbot LA, Morrell CH, Metter EJ, Fleg JL. Comparison of cardiorespiratory fit-
+
+12. The LRC Program Epidemiology Committee. Plasma lipid distributions in se- ness versus leisure time physical activity as predictors of coronary events in men
+lected North American populations: the Lipid Research Clinics Prevalence Study. aged =65 years and >65 years. Am J Cardiol. 2002;89(10):1187-1192.
+Circulation. 1979;60(2):427-439. 32. Ades PA, Waldmann ML, Meyer WL, et al. Skeletal muscle and cardiovascular
+
+13. Lane NE, Bloch DA, Wood PD, Fries JF. Aging, long-distance running, and the adaptations to exercise conditions in older coronary patients. Circulation. 1996;
+development of musculoskeletal disability. Am J Med. 1987;82(4):772-780. 94(3):323-330.
+
+14. Hubert HB, Fries JF. Predictors of physical disability after age 50: six year lon- 33. Kohut ML, Arntson BA, Lee W, et al. Moderate exercise improves antibody re-
+gitudinal study in a runners club and university population. Ann Epidemiol. 1994; sponse to influenza immunization in older adults. Vaccine. 2004;22(17-18):
+4(4):285-294. 2298-2306.
+
+15. Ward MM, Hubert HB, Shi H, Bloch DA. Physical disability in older runners: preva- 34. Dustman RE, Ruhling RO, Russell EM, et al. Aerobic exercise training and im-
+lence, risk factors, and progression with age. J Gerontol A Biol Sci Med Sci. 1995; proved neuropsychological function of older individuals. Neurobiol Aging. 1984;
+50(2):M70-M77. 5(1):35-42.
+
+16. Bruce B, Fries JF. The Health Assessment Questionnaire (HAQ). Clin Exp Rheumatol. 35. Fries JF, Koop CE, Sokolov J, Beadle CE, Wright D. Beyond heath promotion:
+2005;23(5) (suppl 39):S14-S18. reducing need and demand for medical care. Health Aff (Millwood). 1998;17
+
+17. Davis HS, MacPherson K, Merry HR, Wentzel C, Rockwood K. Reliability and va- (2):70-84.
+
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 15), AUG 11/25, 2008 = =WWW.ARCHINTERNMED.COM
+1646
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
+among children hospitalized with acute respiratory illness. Emerg Infect Dis. 2004; lence and clinical characteristics of human metapneumovirus infections in hos-
+10(4):700-705. pitalized infants in Spain. Pediatr Pulmonol. 2006;41 (9):863-871.
+
+13. Boivin G, De Serres G, Hamelin ME, et al. An outbreak of severe respiratory tract 23. Sloots TP, Mackay IM, Bialasiewicz S, et al. Human metapneumovirus, Austra-
+infection due to human metapneumovirus in a long-term care facility. Clin Infect lia, 2001-2004. Emerg Infect Dis. 2006;12(8):1263-1266.
+
+Dis. 2007;44(9):1152-1158. 24. Williams JV, Harris PA, Tollefson Su, et al. Human metapneumovirus and lower
+
+14, Falsey AR, Erdman D, Anderson LJ, Walsh EE. Human metapneumovirus infec- respiratory tract disease in otherwise healthy infants and children. W Engl J Med.
+tions in young and elderly adults. J Infect Dis. 2003;187(5):785-790. 2004;350(5):443-450.
+
+15. Louie JK, Schnurr DP, Pan C-Y, etal. A summer outbreak of human metapneu- 25. Madhi SA, Ludewick H, Kuwanda L, van Niekerk N, Cutland C, Klugman KP.
+movirus infection in a long-term-care facility. J Infect Dis. 2007;196(5):705- Seasonality, incidence, and repeat human metapneumovirus lower respiratory
+108; , F ‘ 7 tract infections in an area with a high prevalence of human immunodeficiency
+
+16. Peret TC, Boivin G, Li Y, etal. Characterization of human metapneumoviruses Virus type-t infection. Pediatr Infect Dis J. 2007:26(8):693-699.
+isolated from patients in North America. J Infect Dis. 2002;185(11):1660-1663. 26. Bosis S, Esposito §, Niesters HG, Crovari P, Osterhaus AD. Principi N. Impact of
+
+, Esposito S, Niesters HG, ’ f Pp. Pi
+
+17. van den Hoogen BG, van Doornum Bu, Fockens JC, otal. Prevalence a human metapneumovirus in childhood: comparison with respiratory syncytial
+symptoms of human metapneumovirus infection in hospitalized patients. J /n- . . .
+fect Dis. 2003;188(10):1571-1577. virus and influenza viruses. J Med Virol. 2005;75(1):101-104. : ;
+
+18. Freymouth F, Vabret A, Legrand L, et al. Presence of the new human metapneu- 27. Maggi F, Pifferi M, Vatteroni M, et al. Human metapneumovirus associated with
+movirus in French children with bronchiolitis. Pediatr Infect Dis J. 2003;22 respiratory tract infections in a 3-year study of nasal swabs from infants in Italy.
+(1):92-94. J Clin Microbiol. 2003;41(7):2987-2991.
+
+19. Peiris JSM, Tang W, Chan K, et al. Children with respiratory disease associated 28. Semple MG, Cowell A, Dove W, et al. Dual infection of infants by human meta-
+with metapneumovirus in Hong Kong. Emerg Infect Dis. 2003;9(6):628-633. pneumovirus and human respiratory syncytial virus is strongly associated with
+
+20. Hamelin ME, Cété S, Laforge J, et al. Human metapneumovirus infection in adults severe bronchiolitis. J Infect Dis. 2005;191(3):382-386.
+with community-acquired pneumonia and exacerbation of chronic obstructive 29. Falsey AR, Criddle MC, Walsh EE. Detection of respiratory syncytial virus and
+pulmonary disease. Clin Infect Dis. 2005;41(4):498-502. human metapneumovirus by reverse transcription polymerase chain reaction in
+
+21. Englund JA, Boeckh M, Kuypers J, et al. Brief communication: fatal human meta- adults with and without respiratory illness. J Clin Virol. 2006;35(1):46-50.
+Pneumovirus infection in stem-cell transplant recipients. Ann Intern Med. 2006; 30. Debiaggi M, Canducci F, Sampaolo M, et al. Persistent symptomless human meta-
+144(5):344-349. Pneumovirus infection in hematopoietic stem cell transplant recipients. J Infect
+
+22. Garcia-Garcia ML, Calvo C, Perez-Brena P, De Cea JM, Acosta B, Casas |. Preva- Dis. 2006;194(4):474-478.
+
+Correction
+
+Errors in Figures. In the Original Investigation by
+Chakravarty et al titled “Reduced Disability and Mor-
+tality Among Aging Runners: A 21-Year Longitudinal
+Study,” published in the August 11/25, 2008, issue of the
+Archives (2008;168[15]:1638-1646), an error occurred
+in the Figure 2 legend on page 1642. The corrected leg-
+end reads as follows: “Figure 2. Mean disability levels
+by year separated by sex. Solid lines represent data for
+male participants, and dashed lines represent data for fe-
+male participants who continued participation through
+2005. Only subjects who completed the 21-year fol-
+low-up are included. Error bars indicate SD.”
+
+An error also occurred in Figure 1B on page 1641.
+In the key, the dark dashed line should read “Never run-
+ners (completers, n=83)” and the light dashed line should
+read “Ever runners (completers, n=357).”
+
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 22), DEC 8/22, 2008 = =WWW.ARCHINTERNMED.COM
+2496
+©2008 American Medical Association. All rights reserved.
+Downloaded from jamanetwork.com by The Ohio State University Health Sciences Library user on 11/11/2024
+
