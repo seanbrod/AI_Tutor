@@ -1,0 +1,809 @@
+Dyer Sprin: # i
+porno 1186/s40064 015-1331 © Springer Plus
+a SpringerOpen Journal
+T t tst @ coset
+he controversy of sports technology:
+a systematic review
+Bryce Dyer"
+Abstract
+Changes or introductions of technology or equipment can affect how a sport is played or influence its performances.
+This article conducted a systematic review of peer-reviewed literature to identify any case studies of controversial
+events surrounding the implementation or use of sports technology. 56 articles were identified that highlighted 31
+different case studies found over a three decade time period. Thematic analysis revealed six distinctive themes when
+reviewing the articles. Whilst the sport of golf had the highest number of case studies, it was found that a significant
+level of attention had been recorded in the cases of Oscar Pistorius use of prosthetic legs in athletics and the use of
+full length swimsuits in swimming. The trend surrounding the number of articles was shown to be initially intermit-
+tent but saw a peak period from 2008 to 2010. However, the frequency of such articles since this peak has been more
+consistent. It is proposed that long periods of time without intervention or resolution by a governing body often
+increases the peer-reviewed attention paid to such cases in examples such as those identified in this systematic
+review.
+Keywords: Sport, Technology, Controversy, Fairness
+Background competitive sport is of paramount importance to athletes
+Whilst in many sports it has been proposed that per- looking to optimize their best possible performance in
+formance is starting to indicate a reducing or plateaued __ the future. Occasionally though, the introduction of new
+nature in their rate of improvement, it has been claimed _ technology can cause debate or controversy. A summary
+that any significant gains in the future will be as a result of the philosophical and hypothetical factors regarding
+of technical innovation (Balmer et al. 2011). For exam- the impact or introduction of a product or technology to
+ple, in speed skating, it has been claimed that half of the a sport was summarized by Dyer (2013, PhD theses) and
+progress of world records to date have been as a result _ is reproduced in Table 1.
+of changes in technology with the other half from real This criteria is typically relative in nature meaning
+athletic improvement (de Koning 2010). Additionally, that the best ethical outcome cannot always be clearly or
+if a change in sports technology is implemented, its robustly defined.
+impact in a sport can often be clearly identified (Haake The field of study that surrounds the decision making
+2009). The implementation of technology has a signifi- or debate with respect to the actual acceptability, inclu-
+cant impact in cycling, the 100 m sprint, and the jave- sion, or controversy of sport technology has been termed
+lin (Haake 2009) as well as the pole vault (Haake 2009; performance enhancement (Loland 2009), technosport
+Balmer et al. 2011), long jump, high jump, triple jump (Freeman 1991; Rintala 1995) human enhancement tech-
+(Balmer et al. 2011), amputee sprinting (Dyer 2015) and _nologies (James 2010) or mechanical ergogenics (Holow-
+swimming (Foster et al. 2012; Stefani 2012). As a result, chak 2002). In addition, if technology has been employed
+the innovation, design and application of technology to with questions of unfairness or negativity surrounding
+its use, this has also been termed technological doping
+(Marcinelli et al. 2012) or technodoping, (Wolbring and
+*Correspondence: brdyer@bournemouth.ac.uk Tynedal 2013).
+Faculty of Science and Technology, Bournemouth University, Fern Barrow,
+Poole BH12 5BB, UK
+© 2015 Dyer. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://
+GO) S rin er creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided
+P S' you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate
+— if changes were made.
+
+Dyer SpringerPlus (2015)4:524 Page 2 of 12
+Table 1 Summary of sports technology impact
+Criterion References
+Harm or health (to the athlete or others) Hemphill (2009); Kayser et al. (2007); Miah (2006); Lavin (2003); Loland
+(2002); Stoll et al. (2002); Bjerklie (1993); Brown (1980)
+Un-naturalness Hemphill (2009; Miah (2006); Loland (2002); Stoll et al. (2002)
+Unfair advantage or consideration of fairness Murray (2010); Hemphill (2009); Carr (2008); Miah (2006); Lavin (2003); Stoll
+et al. (2002); Loland (2002); Gardner (1989); Brown (1980)
+Coercion Lavin (2003); Gardner (1989)
+Safety, and spectator appeal Gelberg (1998)
+Integrity of the game, harm to or advantage over the sport itself, or the James (2010); Miah (2000); Gardner (1989)
+‘spirit of the sport’
+Deskilling and reskilling Miah (2006); Sheridan (2006); Miah (2000); Gardner (1989)
+Dehumanisation Miah (2000)
+Cost (or excess cost) James (2010); Froes (1997)
+The internal goods of a sport Schneider and Butcher (1993)
+Equal opportunity or access Lenk (2007); Gelberg (1998)
+No formalized review to date has investigated what Table 2 Systematic search terms
+case studies exist of contentious or controversial sources Keyword’ ~~ ANDkeyword2=—ss—=<“‘«‘éwANd@S «ze yword 3s
+of sports technology or equipment. In this paper, a sys—_—©—_§ A
+tematic review of peer-reviewed literature is conducted Sport Fairness
+into artifact-based sports technology controversy. This is  SP0't Technology Enhancement
+undertaken to identify the type of technology, the sport — SPo't Technology Fairness
+where this has been found and to conduct a thematic Sport Technology Controversy
+analysis to ascertain any commonality between them. An Sport Technology Ethics
+understanding of any consistent themes may help sports — Sport Technology Innovation
+stakeholders to be aware of any potential issues when Sport Performance Enhancement
+assessing any new sports technology that they might be — Sport Equipment Fair
+faced with. Sport Equipment Ethics
+Sport Engineering Ethics
+Methods Sport Technology Ban
+A systematic review of literature was conducted in March — Sport Unfair Advantage
+2015 by the author. The systematic review wascompleted ==
+in accordance with the Preferred Reporting Items for
+Systematic Review and Meta-Analyses (PRISMA) guide-
+lines (PRISMA 2009). However, this protocol was modi- some level of contention or controversy surrounding
+fied by incorporating the article screening process as it.
+each article was identified, rather than as a single solitary « Must be a technological introduction and not tech-
+stage later on in its process. The search strategy used a nology introduced later due to a change in athletes
+series of specific keywords. A primary keyword (key- technique to perform the sport.
+word 1) was used in direct combination with a second « Must be from English text.
+(keyword 2) and third keyword (keyword 3). These three
+keywords used the AND Boolean algebra denotation. The Any account of technology in sport was deemed con-
+database search terms are presented in Table 2. troversial if there was a suggested or implied dispute (or
+Four inclusion criteria were established to exist as a debate) between any of its sports stakeholders regarding
+specification for relevance once any sources were identi- _ its use or inclusion. Alternatively, any mention of a ban
+fied. The four criteria were: of a particular sports technology was also subsequently
+included in the review results.
+« Must be peer reviewed based literature. This study focused exclusively on artefact-based tech-
++ Must specifically mention an artefact-based form of | nology and did not review chemical technology (such
+sports technology itself and then insinuate (or infer) as drugs) or genetic-based technology (such as gene
+
+Dyer SpringerPlus (2015)4:524 Page 3 of 12
+therapy,) which were both decided as being outside the a relatively recent interest. Despite this, the philosophical
+scope of this particular study. In addition, editorials were debate surrounding the fairness of performance enhance-
+discounted as it was not always clear whether these had _ ment through sport technology use actually pre-dates this
+been through the same level of peer review as empirical _ by approximately two decades (Table 1). In addition, it was
+research articles. noted that there were larger volumes of publication in this
+Four relevant bibliographic databases were used for area in both 2008-2009 and 2011-2012. The reason for
+this purpose. These included the Sportdiscus, Science _ these increases can be attributed specifically to the cases
+Direct, PsycINFO and Medline bibliographic databases. surrounding both Oscar Pistorius use of prosthetic limbs
+Furthermore, as per the PRISMA protocol, additional and the use of full length swim suit design. The cause of
+records were identified through other sources. These these may well have been triggered by the close proximity
+sources included the use of article reference lists identi- of the Olympic Games (held in both 2008 and 2012) whilst
+fied through the primary search stage and use of Google also generating great interest due to the relatively long
+Scholar. period of time taken by the governing bodies to ultimately
+Once the duplicates had been removed, the remaining __ resolve them. For example, full length swimsuits were first
+publications were then filtered using the inclusion crite- debated in 2000, (Magdalinski 2000) but not banned until
+ria. Subsequently, 56 publications met these conditions 2011 (Craik 2011). Likewise, Pistorius’s prostheses first
+and were included in this review. drew attention in 2008, but took until 2012 until he finally
+used them in both the Olympic and Paralympic Games.
+Results These durations have provided a significant length of time
+The search process yielded the recorded results as shown and opportunity for researchers to investigate or debate
+in Table 3. their merits. It should be noted that the merits of non-
+A tabulated record of each sport and its case study are human based decision making systems is still not resolved
+listed in Table 4. in several sports, so it is expected that more publications
+31 different case studies were identified in this sys- regarding these will likely be seen in the future.
+tematic review. A high number of publications relating Golf as a sport had the greatest number of different
+to a single case study were the use of prosthetic limbs by _ cases occur within it, and these have taken place over the
+Oscar Pistorius (n = 25) and the use of full body swim- _ last 100 years. It is possible that the sports relatively long
+suits in swimming (n = 10). The highest number of case _ existence and the variety of the equipment’s performance
+studies attributed to a single sport was golf (n = 6). Eli- needs to facilitate the game (both ball and club) have pro-
+gible publications were within a three decade period vided plenty of opportunity for controversy. However,
+from 1986 up to 2015. The time series data of the publi- some of golfs governing bodies have pre-empted this by
+cation volume and rate is illustrated in Additional file 1: requiring any new equipment designs to be proactively
+Figure S1. submitted to them prior to obtaining any approval to
+Additional file 1: Figure S1 shows that there has been _ be used in matches (USGA 2011). A proactive approval
+only a relatively recent record of articles. The data shows _ policy such as this would reduce or minimise any future
+that the volume of such articles demonstrates a surge in cases of controversy in other sports and likely mini-
+publication from 2008 to 2012 with the highest amount mise extensive debate in peer reviewed publications like
+recorded in 2008. In addition, whilst the volume of arti- _ those that occurred in both swimming and sport with a
+cles seems to be reducing from this peak, the frequency _ disability.
+of such articles is now continuing to be seen annually. The concept of fairness (or unfairness) due to techno-
+logical introduction was an overarching major theme in
+Discussion every case study example. However, six consistent minor
+The debate surrounding controversy in sports technol- themes emerged from the case studies. These themes are
+ogy was clearly detected by this literature review, but itis proposed as:
+Table 3 Systematic review results « The use of assistive technology in able-bodied sport.
+« Access and parity of sports equipment.
+NUINberorarticlas*frarn firstearch 4996 « The introduction of safety equipment in sport.
+Number of articles removed due to article 4955 « ‘Re-skilling’ a sport through the use of new technol-
+duplication/application of eligibility criteria ogy.
+Number of eligible articles from first search 42 + ‘De-skilling’ a sport through the use of new technol-
+Number of article identified by other means 14 ogy.
+Total number of eligible articles 56 + Governing body oversight issues.
+
+Dyer SpringerPlus (2015)4:524
+Page 4 of 12
+Zug E
+EvtSuy 3
+Sseens # =
+"ey 5 os
+Stages 2 G
+Raa hs = G
+= 8 5B a =
+ALStEh a xs
+Sgesare 3 =s
+R8gsee 8 ea
+ge SSa a = oe
+weEeter Pa & 2
+gpvtgcd & a B
+2 s5e GIN g aS
+evogous a a
+BASS az mol OD
+eee = = ose
+Leesesys s = S
+sess se £ =o
+28868 = a =
+Amos as lo} Qos
+SBESESS i a)
+Orgauez eS Ss Pe a
+QYvsasg = SEU 8
+aueeeS = 8 Bee 3
+z 2 s 2
+§2$ess Ss Te” Ze pees "S a
+eagde Pa = oe
+CAgn Ls ES gN 258 2 8
+Psatdgia = So ss iS
+GpeBces ro 2sag § gS
+& SSesusz Y eae
+SSUSe 2 yes Be] aa UO c D
+D2 6Q@tAanege ES & eS wo os & i
+a 2.0 ASS = = GC Oe co Ss ¥
+oTZosese = oS a je ju, & a o val
+DP EBESSHES g S Zak s = S
+BEsssSssa FS zs £eess8 = $s
+S .gSyzessts § BS 2S seg as &
+~5 FOseresgs s £ zReacs =BB fence
+2k Sseaetsdstent ese eee tate Ses Seas
+g/S— SSLSSszP2 Sa SSESESSsse tts Fggss
+oO i etre ~ So bef z ns
+F/S87 ZSSsseSESS SQ SSESSSRSISSBEF FEOSBO
+o = TAaSoresgel avr apToagseggyg 2s €2rury@
+a|<¢ . N= DSSSHLSES FESBS 5 = oo geo pBrgees
+$/5e Se RRRSLSR PSR skal aes Pee eraee Fehags
+s Se ces = fw sa AS SAS
+4 Q 228 8G FESBEFSB GSEASS BESTA
+= -
+8 D
+2 £
+2 AD
+fel le}
+& g
+s Ss 2
+o & g
+g 3 g
+ao fe}
+& a 2 $
+Sy S Ss kf
+S x
+2 & oy ao]
+& a oy; oS Sg
+D 2 aeg =
+ee ec 8 D
+a Red Qs a ‘=
+89 B 28ers € nR
+we 2s Sawa © Q S
+ve a SoS = Ss =
+2 3 e Sse $3 8
+= x ite) O28 Q <
+= 6 2 20% Da ° € S
+2 AS 5 ok i ai &
+g c = g
+ae Py Do al s u s
+3s & Boy a ic if
+6 ao eee = & ec £ © oO
+oD oO Qe & oo ,, 6 oO wu o =
+o oO Ou = £ oD e ae a = &
+ed £ od 25% os S # = 8 w
+238 = @ fon) Lie s asV 3s olne=7 fo) = wv
+> o @ a S2a £B* a ow a S xo}
+Bo cee) G Bae €0 9 © gO 85 Beg &
+38g Ze 2 4 2 5 Ea £ S a 62s
+os G2 a E&BVeE aee 2 aS & o 385
+= so SB ce Gg wes = agus s Bos
+Bi|se 6 8 aA 6 BE v9 9 oD Qa EQS ao &
+P)es> £6 gS £83 £23 §$5_238 5% 502
+s/t sz & a B a £o 3 = €& Be g ee
+2/232 e 8 BD QSea22=6 e 52s wv
+e|o 2% — 2 ee ags Sofe PUB SOFYB ELSES
+s/2e8 585 £9 se 2555 GSE SEPESASHE
+s/2 eS 53 8 oY Gove spe yg Pe OF S20 ge
+o: oeec us Z ee S2#steos C$F6Cs8 GE EBT EBS
+f/2 ee goea oe FSFESSOS G¢lsRe0 Fe 2ZOoO
+5 eoesetes Zu zyoyevzpor esfszas cs G5
+Si/2£SE5 a4 an) 9fFSvtaeoRS RFBOCKE SB iy
+B/S stse8 SE g@£B85E28 SESES*SLRB®
+& a Oa ow £ Bo PULfeY, {>a Sad
+PA
+2
+3
+s
+Fj =
+3 a
+o iS
+g Ej
+7 3
+& 2
+a
+3 3
+>
+o a a 2
+£ e ae) =
+- S Qe s)
+= Ss Bee 8
+uv 8 BOS Boi 2
+i a as) fo)
+S a2 38 a8 ® & <
+a ed g<ose Ss fal <
+nn = © ges = Ss
+© a See = =) 2
+t+ De a [= = > oo
+af 85 38 oY B o g = YeEESS
+a S88 2. a aD os g
+si';/5 3 ba ES gee 2225278 seess
+ei/a/5E EE ES 2 PLVGFESsS Seeses Gosss
+Flal<< <<< 25 GSFTHLZLS FSEEEGESE FFSES
+
+Dyer SpringerPlus (2015)4:524 Page 5 of 12
+<
+z Ss
+$s e &
+ES 8 cS
+o~ Ss Ss
+2B
+2 & &
+= 3 &
+So Fit =
+fe) Ris x
+oe 2 =
+BS iS a
+Bee me 8
+eS os 8
+i
+Ss a
+ae _8 $8
+eS e¢ §
+Sse ss &
+Ao oe
+Sef as a
+~z (OSG @
+~e De 8
+SS €4 8
+O8 28 a
+=A os
+ao Ye 5s
+es S98 oO
+SE Ss2e9
+[SSB Suey
+BN Gwtae®
+a > es
+eS S528
+ASSEQR2R8 2
+Sagas
+ASS ae 8
+See 2S 20
+eglsigl ¢
+eiesg asses 8
+0@/SazZzgf 50S &
+ulso MS og ° a
+s|/S csS5é8 225 Sao
+= 22b 2% 2
+B)/BoeRE F288 2S
+sls 385 RP EQs
+eye GAunS iz
+S
+o
+a:
+a
+>
+3
+g
+— fy
+e 2
+> fe}
+s is Ss
+2 Ss =
+ag 2 Fa
+& w S g
+Zo D c
+a 2 Seesn &
+ee 53593
+ag >2osg §
+»|/£ 8 freee 2
+B| a 5 Ss oy Oe ©
+o| od 2 YPso 8
+o/UE GSeuy 8&8
+c= 5 ba
+E/s2 £238 8
+gio sERBS vB
+2|2s tog ct =
+Sia 8 Eee €
+ga oD HO [ey
+a) ss Sey B
+wfc S853 5
+3
+0
+3
+&
+=
+<
+&
+2
+‘s a
+2 DE »o &
+Vie ceé 22232 S
+= cce a
+2/3/55 555s §
+Flalea ee es =
+
+Dyer SpringerPlus (2015)4:524 Page 6 of 12
+Each of these themes does not have fixed boundaries consider the performance of the technology during the
+and it is possible that each case study may overlap with many phases of a longer sprint event such as the accel-
+other emerging themes. However, for the conciseness of _ eration from the starting blocks (Wolbring and Tynedal
+this review, each case study was categorised by which 2013), running the bends, or any other additional dis-
+theme was felt to be most dominant. advantages Pistorius felt he personally had (Jones and
+Wilson 2009). The net result of the report proposed that
+The use of assistive technology in able-bodied sport ESR’s manifest some advantages and Pistorius was subse-
+The most prevalent case study identified was that of bi- quently banned by the IAAF to run in able-bodied events
+lateral transtibial amputee Oscar Pistorius (n = 23) who —_(Zettler 2009; Moses 2009). Pistorius himself then com-
+wished to compete against able-bodied athletes using two _missioned a counter-study (Marcellini et al. 2012) that
+leg prostheses (Baker 2015, Wolbring and Tynedal 2013; _ ultimately demonstrated that whilst he was mechanically
+Marcellini et al. 2012; Wolbring 2012; Burkett et al. 2011; different to able-bodied equivalents, he was physiologi-
+Scholz et al. 2011; Dyer et al. 2011; Howe 2011; Dyeretal. cally similar. His ban was challenged at the Court of Arbi-
+2010; Burkett 2010; Murray 2010; Moses 2009; Lea 2009; _ tration for Sport (Marcellini et al. 2012; Jones and Wilson
+Jones and Wilson 2009; Weyand et al. 2009; Zettler 2009; 2009; Moses 2009) and was eventually overturned. Pisto-
+Grabowski et al. 2009; Swartz and Watermeyer 2008; _ rius ultimately then competed at both the London 2012
+Mokha and Conrey 2007; Hutzler 2008; Edwards 2008; Paralympic and Olympic Games using ESR technology
+Wolbring 2008; van Hilvoorde and Landeweerd 2008). (Wolbring and Tynedal 2013).
+During 2007, Pistorius signalled his intentions to qual- A more recent and similar case to Pistorius was that of
+ify for both the Beijing 2008 Paralympic (Wolbring and Markus Rehm. Rehm is a uni-lateral lower-limb ampu-
+Tynedal 2013; Edwards 2008; Wolbring 2008; Mokha and __ tee who also wished to compete in able-bodied sport in
+Conrey 2007) and Olympic Games (Burkett et al. 2011; the long jump event (Baker 2015). The controversy con-
+Burkett 2010; Edwards 2008; Jones and Wilson 2009). cerned the athlete specifically launching himself by using
+Pistorius uses energy storage and return (ESR) lower- _ his prosthesis rather than his biological limb. The Ger-
+limb prostheses. These products are comprised of curved man Athletics Association considered his prosthetic limb
+carbon fibre blades (Marcellini et al. 2012) which can an unfair advantage and would not allow him to partici-
+vary in shape and geometry (Scholz et al. 2011) and com- _ pate (Baker 2015). The exact nature of this advantage has
+press and extend under load (Scholz et al. 2011). These _ not been disclosed, nor investigated in peer reviewed lit-
+can therefore be treated as a perfect spring and subject _ erature to date.
+to Hooke’s Law (Scholz et al. 2011). Such technology ini- Another prominent case identified was that of Casey
+tially saw competitive use at the Paralympic Games in Martin (Baker 2015; Burkett et al. 2011; Dyer et al. 2010;
+1988 (Scholz et al. 2011). Hutzler 2008; Francis 2005). Martin was a professional
+It has been proposed that ESR’s may provide an unfair _golfer and a registered disabled citizen who suffered from
+advantage (Baker 2015; Wolbring 2012; Scholz et al. a circulatory disorder in his lower right leg (Baker 2015;
+2011; Dyer et al. 2011; Jones and Wilson 2009; Swartz Charlish and Riley 2008; Hutzler 2008) known as Klip-
+and Watermeyer 2008; van Hilvoorde and Landeweerd _ pel-Trenaunay-Webber syndrome (Francis 2005). Whilst
+2008) by either increasing the runners speed (or reducing _ attempting to qualify for the Professional Golf Associa-
+the energy required to do so) and that their design could __ tion (PGA) tour, Martin played golf using a powered golf
+be optimised to assist in providing it (Marcellini et al. cart (Hutzler 2008; Francis 2005). He attempted to use
+2012; Lea 2009). A stakeholder-based assessment has this technology to support his transit between strokes
+subsequently proposed that ESR technology should only (Burkett et al. 2011) but the PGA attempted to prevent
+be restorative in nature (Dyer et al. 2010, 2011). this (Francis 2005). Golf carts were banned in profes-
+The governing body of able-bodied athletics, the IAAF, sional golf at the time as it was felt that such technology
+commissioned a report in late 2007 to assess the technol- would change the nature of the game by reducing the
+ogy (Baker 2015; Marcellini et al. 2012; Jones and Wilson _ impact of the walk between each hole (Charlish and Riley
+2009; Lea 2009; Zettler 2009; Moses 2009). The results 2008) and provide players using them with an advantage
+of the report proposed that the technology provided over other golfers (Baker 2015; Burkett et al. 2011). Mar-
+Pistorius with a mechanical advantage over able bodied tin attempted to challenge the PGA decision using the
+athletes of more than 30 %, had a 25 % reduced energy American legal system (Francis 2005) by proposing that
+output for maintaining the same speed (Marcellini such technology was part of his professional occupation
+et al. 2012; Jones and Wilson 2009) and possessed iner- (Burkett et al. 2011). The Supreme Court ruled that use
+tial benefits due to the reduced mass of the prostheses _ of the cart would not be a fundamental alteration of the
+(Jones and Wilson 2009). However, this research did not —_ game (Francis 2005), was not considered part of the sport
+
+Dyer SpringerPlus (2015)4:524 Page 7 of 12
+and therefore would not disadvantage other players and The introduction of the Speedo suit in 2000 was shown
+organisers (Hutzler 2008). The Supreme Court ultimately to improve a swimmers performance by 0-9-1.4 % and
+ruled in Martin’s favour in 1998 (Silvers and Wasserman further developments yielded a further 1.5-3 % in 2008
+2000). (Foster et al. 2012). However, this has been countered by
+
+This wasn’t the first time that the specific needs of the suggesting that the recent return to more basic swimsuit
+disabled were called into question. There were safety designs has proved no handicap at all (Stefani 2012) and
+concerns regarding the use of wheelchairs at the Bos- _ therefore that the full suits proposed benefits might actu-
+ton Marathon which led to them being outlawed in 1975 ally be fundamentally psychological in nature (Zettler
+(Hutzler 2008). 2009).
+
+Whilst these case studies have generally been legally After 43 records were broken in 40 events at the 2009
+resolved, there still remains a lack of understanding of the | World Swimming Championships (Partridge 2011; Bur-
+role of prosthetic equipment use in able-bodied sport. kett 2011; Mountjoy et al. 2009) and 130 World Records
+
+were broken in less than a year, FINA’s congress finally
+Access and parity of sports equipment voted to ban the full length suits (Craik 2011; James 2010)
+The most cited case study of athlete access to sports to take effect from Jan 1st 2010 (Foster et al. 2012; Craik
+equipment surrounds the use of full body swimsuits 2011). However, any previously established records were
+(n = 10). For the 1992 Olympic Games, Speedo intro- _ still allowed to stand (Baker 2015).
+duced the $2000 fabric (Craik 2011) which reduced the
+drag of the swimmer by 15 % over more traditional fab- _ The introduction of safety equipment in sport
+rics (Stefani 2012). Speedo’s new fabric ultimately led to The impact of the call for or the introduction of safety
+them introducing full length swim wear in 1999 (Craik | equipment has occurred in three case studies identified
+2011) and at the Sydney 2000 Olympics (Zettler 2009; _ in this review.
+Magdalinski 2000). In 2000, a media frenzy occurred Controversy regarding American Football headgear
+when it was revealed that the ‘fastskin’ swimsuits would surrounded the introduction of plastic-based helmets in
+be only given to athletes sponsored by Speedo. These 1939 (Gelberg 1995) which were designed to replace the
+suits were described as a further technological advance- _ leather headgear that athletes had previously worn (Miah
+ment of the company’s ‘aquablade’ swimwear launched 2005). The new plastic helmets were lighter, stronger
+prior to the 1996 Olympic Games which had been and did not require re-branding after each game (Gel-
+approved by the governing body FINA (Foster et al. 2012; _ berg 1995). In was envisaged that the adoption of more
+Craik 2011; Magdalinski 2000). In 2000, the Australian effective materials and design would reduce head related
+Olympic Committee (AOC) wrote to the Court of Arbi- injuries to players (Miah 2005). However, whilst the num-
+tration for Sport (CAS) seeking a ruling on the technolo- _ ber of head injuries has been suggested as decreasing,
+gies legality (Magdalinski 2000) which supported that the _ the severity of those that did occur had been proposed
+suits would remain in service. The overarching contro- to actually increase (Miah 2005). The suggested reason-
+versy surrounding of the suit was whether such technol- _ ing behind this is that players would use the helmet itself
+ogy was fair (Craik 2011; James 2010; Magdalinski 2000; —_as an instrument to perform harder tackles (Miah 2005)
+Partridge 2011; Zettler 2009) accessible (Magdalinski or to create a greater sense of invulnerability (Gelberg
+2000) unfair (due to its sponsorship limitations) (Par- 1995). Whilst the American judicial system and in its law
+tridge 2011; Zettler 2009) or too expensive (Zettler 2009). _ ultimately clarified liability or blame in any contentious
+In addition, it was suggested the suits could trap air cases involving use of a helmet, it was suggested that
+(thereby improving their buoyancy) and was ultimately _ potentially dangerous and aggressive tackles have con-
+a ‘technical aid’ (Baker 2015). Furthermore, later designs __ tinued regardless (Gelberg 1995). Similar parallels were
+such as the ‘X-Glide’ by Arena and the ‘LZR’ by Speedo _also evident in amateur boxing whereby controversy was
+reduced the cross sectional area of swimmer and subse- _created with their introduction of safety head gear (Dyer
+quently lowered the drag coefficient (Foster et al. 2012; et al. 2010). Much like in American Football, the head-
+Zettler 2009; Mountjoy et al. 2009; Lea 2009). Finally, it gear was designed to reduce impact forces but may have
+was also claimed that the suits compressed muscles and __ indirectly created feelings of athlete invulnerability and
+reduced muscle vibration (Craik 2011), therefore improv- _ therefore encouraged boxers to hit harder or to defend
+ing endurance performance through the facilitation of _ their head less.
+venous return (Mountjoy et al. 2009). However, a defence Alternatively, despite any safety benefits, discomfort or
+was provided by Speedo that suggested the suit only intimidation has been an alternative problem for head-
+improved the management of existing forces rather gen- _ gear adoption. In ice hockey, the adoption of face masks
+erating new ones (Craik 2011). for the goalkeepers or helmets for the field players varied
+
+Dyer SpringerPlus (2015)4:524 Page 8 of 12
+in adoption from the 1950's up until the end of the 20th decision making, whilst only 50 of 11,000 games were
+century, despite possible face strikes from high speed actually reviewable, only half would have been over-
+pucks (Bachynski 2012). In the end, the governing body _ turned. This equated to a proportion of incorrect calls of
+implemented mandatory use from 1979 (Bachynski _ less than a quarter of one percent (Nafziger 2004). There-
+2012). fore, if human-based decision-making is robustly made,
+the philosophical debate surrounding line judgement
+The use of non-human decision-making in sport technology is not really a polarised outcome of whether it
+The key use of non-human decision-making technol- should be used at all but whether it should act as a deci-
+ogy has occurred in several sports including football sion-maker or merely a decision aid (Collins and Evans
+(Svantesson 2014; Nlandu 2012; Nafziger 2004), tennis 2008).
+(Collins and Evans 2008, 2011; Nafziger 2004), cricket
+(Singh 2012; Collins and Evans 2008, 2011; Nafziger Line judgement technology
+2004), rugby, golf, rowing, stock car racing, basketball, In football there has been some controversial decisions
+American football and wrestling (Nafziger 2004). It was made by a human referee with respect to awarding a
+felt in this review that these could be reviewed under _ free kick (Svantesson 2014), giving a penalty (Svantesson
+two distinctively different themes. These included video 2014) or knowing whether the ball has crossed the goal
+replay technology (Svantesson 2014; Collins and Evans _ line (Svantesson 2014; Singh 2012). It is argued that such
+2008; Nafziger 2004) or line judgement technology controversies could have been averted using line judge-
+(Svantesson 2014). ment technology.
+Criticism of line judgement technology has been pro-
+Video replay technology posed as dehumanising football (Svantesson 2014), are
+Video replay technology has proven controversial in too expensive (Svantesson 2014, Singh 2012; Nafziger
+examples such as golf, wrestling, rugby, American football 2004) or impractical to implement at all levels of the
+and sculling (Nafziger 2004). football game (Svantesson 2014; Singh 2012). The value
+Criticisms of video-replay technology when used in of this technology has been disputed by arguing that
+sport is that the stopping and starting of the game to human mistakes are a facet of both sport and everyday
+check the video of a contentious moment will disrupt _ life and that the role of the referee is intended to be based
+the flow and pace of football, (Svantesson 2014; Nafziger on their interpretation (Nlandu 2012), discretion and
+2004) cricket (Singh 2012) and in ice hockey (Nafziger instincts rather than just the outright objectivity of the
+2004). However, in both wrestling and rugby, the refusal _ facts (Svantesson 2014). Goal-line technology was fully
+by officials to review match footage at key moments adopted at the 2014 FIFA World Cup (Svantesson 2014)
+then caused controversy which led to legal challenges _ but it is still not currently used for typical domestic level
+(Nafziger 2004). Post-game video replay has been suc- league competition.
+cessfully implemented feasibly into sport. For example, In cricket, controversy has surrounded bowling an
+in 2000, golfer Brian Gay was credited with a birdie shot _ illegal delivery of the ball or detecting a ‘leg before
+at the Honda Classic. However, use of video replays after wicket’ infringement. This has been attempted to be
+the match indicated that a 16 s delay had taken place resolved using line judgement technology such as the
+between the ball reaching the edge of the hole and then ‘Hawkeye’ system (Collins and Evans 2008, 2011). How-
+falling in. As a result, the ball was deemed to be ‘out of _ ever, controversies over line judgements have occurred
+play’ and a stroke was added to his score (Nafziger 2004). | when using ‘Hawkeye’ in Tennis, whereby the technol-
+However, the use of such systems (either in real time ogy itself may have got a decision wrong (Collins and
+or after the sport has concluded) does not ensure a clear Evans 2008). This has occurred in a Wimbledon men’s
+decision or outcome. For example, a dispute between two _ singles final (Collins and Evans 2008) whereby the sys-
+sculls at the finish line of a women’s skull race at the 2000 tem judged the ball the wrong side of the line. As per
+Olympic Games was challenged when it was deemed any other form of measurement technology, the ‘Hawk-
+that video replay technology did not have the accuracy to eye’ system does carry a margin of error. It has been
+judge a difference between two boats separated by 12 one proposed that it carries an average degree of accuracy
+thousandths of a second and therefore relied on human- __ of 3.6 mm in Tennis (Collins and Evans 2008, 2011) or
+based judgement (Nafziger 2004). degree of error of 2.6 mm in Cricket (Collins and Evans
+However, the effectiveness of the official’s decisions 2011). Such errors will vary based on ball speed, size of
+without use of video replay has been credited. For exam- __ the playing area and recording rates, (Collins and Evans
+ple, when a pilot programme was formally implemented 2.011) but there are concerns that without knowing this,
+in collegiate American football to check judgement call naive spectators might overestimate the technology’s
+
+Dyer SpringerPlus (2015)4:524 Page 9 of 12
+ability to resolve disagreements (Collins and Evans known for a balls size, weight and bounce, it was argued
+2008). that American balls felt lighter in play than European
+balls (Sheridan 2006). This meant that any players from
+‘Re-skilling’ a sport through the use of new technology outside of the balls country of supply would be subjected
+Reskilling has been proposed to be an increased level of _ to a nature of response that they may not have trained
+skill required to perform a given task or a substantive for. To address this, the governing body introduced a
+change to the skillset (Sheridan 2006). compression based requirement for balls from 1926
+Technique-based re-skilling was found in golf (Carr (Sheridan 2006). However, the issue surrounding ball
+2008) and a croquet style putter design entered use which __ specification arose again in 1999 when tennis’s governing
+required a slightly different technique. Golfs govern- body decided to introduce three new designs of ball onto
+ing body banned it as they felt the skill required to use the male professional circuit, with each tailored to dif-
+the putter deviated too far from what was traditionally ferent playing surfaces (Miah 2000). This was due to the
+expected in the game of golf (Carr 2008). premise that tennis had become a game of power serv-
+Speed skating saw issues regarding the introduction — ing and that with serves now being in excess of 140 mph,
+of the ‘Klapskate’ ice skate design in the late 1990’s (van __ the service speeds were approaching the limits of human
+Hilvoorde et al. 2007). This involved an ice skating boot reaction time (Miah 2000). Whilst the ethical concerns of
+that had a blade that was hinged at its front. This allows adopting these balls were debated (Miah 2000), no result-
+the foot to rotate whilst the blade remains in contact ant outcome was identified in this review.
+with the ice fractionally longer when skating and there- However, in some cases, a technology which creates
+fore allows the skater to obtain a longer duration of push some level of re-skilling can be eventually adopted by a
+(van Hilvoorde et al. 2007). The skate design first entered _ sport’s governing body within its constitutive rules. For
+competitive use in 1997 and required some degree of re- example, the digging of holes to locate the athlete’s pole
+skilling based upon the change in technique required to in the sport of pole-vaulting was initially considered
+use it (van Hilvoorde et al. 2007). Not all athletes could unethical and subsequently banned by athletics’ govern-
+initially either access this technology or access effec- ing body. However its structure, dimensions and position
+tive versions of it (van Hilvoorde et al. 2007). US Speed- _ was actually later formally adopted by them (VerSteeg
+skating attempted to ban the innovation during the 2005). Likewise, the adoption of fibreglass vaulting poles
+1997-1998 season, citing that it was an unfair advan- in the 1950's radically altered the achievable heights by
+tage. However other countries objected and the designs _ athletes (Dyer et al. 2010) and required athletes to modify
+originator argued that the skater still had to provide the _ their technique (VerSteeg 2005). Fibreglass poles provide
+energy themselves. However he conceded that their use an increased mechanical advantage and increased vault-
+did require a change in skating technique. Whilst all ath- _ ing height to its user by bringing the ends closer together
+letes eventually have accessed the technology, some saw __as it bends, thereby temporarily lowering the vaulter’s
+their ability within the sport change (positively or nega- _ handgrip. As a result, the pole shortens its overall length
+tively) due to their achieved proficiency of the different by 15-25 % and allows the vaulter to raise their grip in
+design (van Hilvoorde et al. 2007). turn by 15-25 % above the height that they are capable
+In tennis, re-skilling-based controversy was gener- of holding without bending the pole (VerSteeg 2005).
+ated by the introduction of ‘spaghetti’ strung rackets The new material was initially sanctioned by the inter-
+(Dyer et al. 2010, 2011; Sheridan 2006; Savulescu 2006). national governing body in 1962 but then temporarily
+Spaghetti stringing was a double layer design of racket banned them in 1972 when it was felt they would have
+strings. These rackets seemed to grab the ball, hold it fora detrimental impact in the Munich Olympics (VerSteeg
+fractionally longer and therefore impart excessive spinon 2005). This ban was later overturned. The impact of any
+the ball (Sheridan 2006; Savulescu 2006) or to generate governing body changing its mind was also identified in
+greater power and accuracy (Dyer et al. 2010, 2011). The this review. In cycling, Graeme Obree introduced sev-
+controversy for this innovation originated in 1978 and _ eral revolutionary bicycle designs which were raced but
+involved opponents becoming confused when receiving then later legislated against (Trabal 2008). However,
+a ball delivered from this racket design and led to them __ this example is considered on the boundary of inclusion
+making an increasing level of mistakes (Sheridan 2006). _ in this review as it was felt that it was their novel riding
+The governing body determined that the spaghetti strung _ position (rather than the actual bicycle), that formed the
+racket design compromised the athletic challenge of the source of any controversy. One of Obree’s innovations
+game and therefore banned its use (Sheridan 2006). was the ‘superman’ riding position which provided a
+A similar problem in tennis also surrounded the design more aerodynamically efficient method of cycling (Miah
+of the ball itself. In 1924, despite specifications being 2006).
+
+Dyer SpringerPlus (2015)4:524 Page 10 of 12
+Likewise, this review detected that the introduction of _ such designs reduced the skill required to play the game
+movable handles on roller-skiffs in some way was conten- — (Miah 2006).
+tious to the governing body and reskilled the technique The golf ball also saw complaints and controversy
+of sculling or rowing (Trabal 2008). However, no further — when it moved from its original gutta percha construc-
+details of this case were found in this review. tion to the more modern rubber core (Vamplew 2007).
+In running, controversy arose over whether a chip- The newer ball design was able to achieve greater trav-
+based timing system should be used over that of a tra- _elling distance, therefore requiring fewer strokes to
+ditional starting pistol to record runners times (Sailors cover the course. The complaints for the new balls adop-
+2009). By using the newer timing chip technology, each tion originated from the players themselves who had
+individual would receive an accurate time when they per- become skilled in its use (Vamplew 2007). This was a
+sonally crossed the start and finish line. However, this case whereby a governing body formally adopted some
+would mean that the visible finishing order may not then _ level of de-skilling to the game it regulated. Conversely,
+be the true positions that they actually finished in. This the attempted introduction of the ‘Polara’ golf ball dec-
+example involves some level of reskilling as the lack of ades later comprised an optimised dimple pattern on its
+true positioning of competitors could alter how arunner — surface which reduced the balls tendency to hook or slice
+would approach their pacing strategy as the visual posi- (Dyer et al. 2011). This innovation was described as ben-
+tion of a runner might no longer be accurate. The govern- __efiting lower skilled players more than those who were
+ing body ultimately decided that the starting pistol would _ technically better at the game and was ultimately banned.
+remain as the official time (Sailors 2009). However, this In the end, the weight of widespread use of a new
+decision was challenged in 2008 at the Chicago Marathon _ technology in society can ultimately force a ruling body
+whereby a runner who had started 5 min behind the elite to accept a contentious technology. For example, the
+category, actually set the 4th fastest time when going by __rear derailleur used on a bicycle is a mechanism used to
+his chip time. The race organisers refused to award him change gear by driving a chain across a series of wheel
+the 4th place prize money as he did not start with the mounted sprockets on a bicycle. This innovation was not
+elites (Sailors 2009). A few weeks later, a similar situation _ allowed into the Tour de France until some 40 years after
+occurred again at the Nike Women’s Marathon in San __ its invention which was years after its initial introduction
+Francisco whereby a runner who had started in a citizens into commercial bicycles (Trabal 2008). The races direc-
+race (some 20 min after the elites), covered the course _ tor argued that it was dishonest and unfair and insinuated
+11 min faster than anyone else. Ultimately, the governing _ that possessing multiple gears degraded the challenge of
+body ruled that since these runners were not in the elite the event (Trabal 2008).
+starting event, they were in a separate race and as such
+were therefore not entitled to any prize money (Sailors Governing body oversight issues
+2009). In some cases, this review highlighted that a sport tech-
+nology’s controversy stemmed from an absence of any
+‘De-skilling’a sport through the use of new technology governing body at all. For example, in the America’s Cup,
+De-skilling insinuates that a sport is made easier to a large volume of rules but the lack of a specific govern-
+undertake as a result of the introduction of a technology _ ing body to apply them objectively has led to various dis-
+or product (Sheridan 2006). For example, the sport of putes over yacht hull design (Nafziger 2004).
+aeromodelling has suggested that performance enhance- Alternatively, having multiple governing bodies of the
+ments made to the planes design and controls would same sport which operated in different countries has
+reduce the technical skill required to fly the planes and caused issues whereby an innovation was accepted by
+perform complex manoeuvres (Norris 2011). Likewise, one governing body but not by another. This occurred
+innovations such as depth finders, bait casting reels and _ with the initial adoption of steel shafted clubs by golfs
+sonar, has increased anglings popularity but deskilled the | American governing body from circa 1922, but not by the
+requirement of fish detection and landing. This ultimately _ original governing body located within the Great Britain
+required the introduction of ‘technologically-designed | (Vamplew 2007).
+handicaps’ by the sport’s governing body to ensure fair The final example identified in this theme concerned a
+play (Hummel and Foster 1986). training technology that would straddle multiple sports.
+Golf has also seen several examples of such de-skilling In 2006, the World Anti-Doping Agency (WADA) initi-
+controversy. Controversies included club heads which ated a consultancy process about the use of hypoxic envi-
+used ‘U’ (or square) grooves (Carr 2008; Miah 2006). This ronments in sport (James 2010; Loland and Caplan 2008).
+feature provided a greater accuracy of the stroke (Miah Separate to this, an investigation was also launched by
+2006). The PGA outlawed the design after it was felt that the Australian Football League (AFL) (Spriggs 2005).
+
+Dyer SpringerPlus (2015)4:524 Page 11 of 12
+Hypoxic environment product systems are typically decision-making systems, governing body oversight and
+chamber-based (James 2010) or tent-based (Loland and the impact of de-skilling and re-skilling of a sport due
+Caplan 2008) and have been used by athletes since the _to the introduction of new technology. The overarching
+early 1990’s (Loland and Caplan 2008). These environ- theme that straddled all of these emerging areas was the
+ments are intended to provide the performance benefits _ issue surrounding their fairness.
+of altitude simulation (Miah 2005) by providing nitro- It is proposed that long periods of time without inter-
+gen rich air (Spriggs 2005) which increases red blood cell _ vention or resolution by a governing body often increases
+mass (Loland and Caplan 2008; Miah 2006), maximum __ the attention paid to such cases in examples such as those
+oxygen uptake (Loland and Caplan 2008) and thereby _ identified in this systematic review.
+improve an athlete’s endurance (Loland and Caplan 2008;
+Miah 2006). Ultimately, this technology allows anathlete additional file
+to obtain the benefits of training at altitude without hav-
+ing to move their geographical location (Miah 2005). The (| : :
+% - 5 Additional file 1: Figure $1. Graph of eligible example publication rate.
+Australian Institute of Sport has found that such hypoxic =U
+systems can produce on average 0.8 % improvement in
+endurance (Spriggs 2005). WADA felt that such technol- —_ Acknowledgements
+ogy violates its ‘spirit of sport’ (Loland and Caplan 2008). There areno acknowledgements.
+However, it has been argued that the criteria which Compliance with ethical guidelines
+determine whether a technology is against the ‘spirit of
+sport’ were generalised and hard to be practically applied peal ies ;
+aa t tl ting interest:
+
+(Loland and Caplan 2008). Not only this, it has been con- See ee a eee ere SOD E GINS ak
+sidered illogical to ban such technology as they are seem __ Received: 17 July 2015 Accepted: 10 September 2015
+equivalent to other methods such as weight training or Published online: 18 September 2015
+heat chambers, let alone that athletes would always have
+the option to train at a higher altitude instead (Spriggs
+2005). References
+
+Whilst it was proposed that this technology did breach Bachynski K (2012) Playing hockey, riding motorcycles, and the ethics of
+WADA’ ideli f hi h protection. Am J Public Health 102:2214-2220
+
+s guidelines for human enhancement (James Baker D (2015) The second place problem: assistive technology in sports and
+
+2010), it was not formally banned. Likewise, the AFL (re) constructing normal. Sci Eng Ethics 1-18
+declared that such technology did not breach its rules but Balmer N, Pleasence P, Nevill A (2011) Evolution and revolution: gauging the
+did ‘ d hi 2 he i f impact of technological and technical innovation on Olympic perfor-
+
+id ‘send out the wrong message concerning the image o! mance. J Sports Sci 30:1075-1083
+the game’ (Spriggs 2005). Bjerklie D (1993) High-tech olympians. Technol Rev 96:22-30
+
+Brown W (1980) Ethics, drugs, and sport. J Philos Sport 7:15-23
+
+C lusi Burkett B (2010) Technology in Paralympic sport: performance enhancement
+
+onclusion or essential for performance? Br J Sports Med 44:215-220
+Four bibliographic databases were used to systematically Burkett 8 (2011) Technology in Paralympic sport: performance enhancement
+identify peer reviewed literature regarding any contro- or essential for performance ? J Sports Med 44:215-220
+
+< Ivi h f hnol < * Burkett B, McNamee M, Potthast W (2011) Shifting boundaries in sports
+versy involving the use of technology or equipment in technology and disability: equal rights or unfair advantage in the case of
+competitive sport. The application of inclusion criteria Oscar Pistorius? Dis Soc 26:643-654
+to the results produced 56 relevant articles, spread over Carr C (2008) Fairness and performance enhancement in sport. J Philos Sport
+a 35:193-207
+a three decade period from 1986 to 2005. The greatest Charlish P, Riley S (2008) Should Oscar run ? Fordham Intell. Prop Media Enter-
+areas of interest over this time period were the contro- tain Law J 18:929-957
+versy surrounding Oscar Pistorius prosthetic legs in ath- Collins H (2010) The philosophy of umpiring and the introduction of decision-
+leti d th f full bod: ae i § Th aid technology. J Philos Sport 37:135-146
+letics and the use of fu ody suits in swimming. e Collins H, Evans R (2008) You cannot be serious! Public understanding of technol-
+sport of golf produced the most number of different case ogy with special reference to Hawk-Eye. Public Understan Sci 17:283-308
+studies. Whilst the majority of cases identified in this Collins H, Evans R (2011) Sport-decision aids and the “CSl-effect”: why cricket
+. 2 uses Hawk-Eye well and tennis uses it badly. Public Understan Sci
+
+review have now been resolved, the role and impact of 31:904-921
+technology used by an athlete with a disability remains Craik J (2011) The fastskin revolution: from human fish to swimming androids
+generally unclear and the debate surrounding non- Cult Unbound J Curr Cult Res 3:71-82
+hi dedisi ki _ " : de Koning JJ (2010) World records: how much athlete? how much technology.
+
+uman decision making systems in sport is on-going. Int J Sports Physiol Perform 5:262-267
+
+An analysis of the articles revealed six emerging themes _ Dyer 8 (2013) An insight into the acceptable use and assessment of lower-
+of sports technology controversy. These included issues limb running prostheses in disability sport. PhD Thesis, Bournemouth
+
+: a gl z A University, UK
+
+relating to assistive technology, safety equipment, wide- Dyer B (2015) The progression of male 100 m sprinting with a lower-Limb
+spread access and/or parity of equipment, non-human amputation 1976-2012. Sports 3:30-39
+
+Dyer SpringerPlus (2015)4:524 Page 12 of 12
+Dyer B, Noroozi S, Redwood S, Sewell P (2010) The design of lower-limb sports Moses B (2009) Eligibility of athletes receiving necessary gene therapy: the
+prostheses: fair inclusion in disability sport. Dis Soc 25:593-602 Oscar pistorius case as procedural precedent. Jurimetrics 49:343-373
+Dyer B, Noroozi S, Sewell P, Redwood S (2011) The fair use of lower-limb run- Mountjoy M, Gordon |, McKeown J, Constantini N (2009) Medical complica-
+ning prostheses: a Delphi study. Adapt Phys Act Quart 28:16-26 tions of an aquatic innovation. Br J Sports Med 43:979-980
+Edwards S (2008) Should Oscar Pistorius be excluded for the 2008 Olympic Murray T (2010) Making sense of fairness in sports. Hastings Cent Rep 40:13-15
+Games? Sport Ethics and Philos 2:112-125 Nafziger J (2004) Avoiding and resolving disputes during sports competition:
+Foster L, James D, Haake S (2012) Influence of full body swimsuits on competi- of cameras and computers. Marq Sports L Rev 15:13-27
+tive performance. Procedia Eng 34:712-717 NlanduT (2012) The fallacies of the assumptions behind the arguments for
+Francis L (2005) Competitive sports, disability, and problems of justice in goal-line technology in soccer. Sport Ethics Philos 6:45 1-466
+sports. J Philos Sport 32:127-132 Norris C (2011) Sport, craft Or technique? The case of competitive aeromodel-
+Freeman W (1991) Sport and technology: on the cutting edge. Presented at: ling. Sport Ethics Philos 5:124-148
+Sport Philosophy Academy Session, San Francisco, USA Partridge B (2011) Fairness and performance-enhancing swimsuits at the 2009
+Froes F (1997) Is the use of advanced materials in sports equipment unethical swimming world championships: the ‘asterisk’ championships. Sport
+? Memb J Miner Metals Miner 49:15-19 Ethics Philos 5:63-74
+Gardner R (1989) On performance enhancement substances and the unfair PRISMA (2009) PRISMA Statement. http://www.prisma-statement.org/state-
+advantage argument. J Philos Sport 16:59-73 ment.htm. Accessed 4/4/15
+Gelberg N (1995) The lethal weapon: how the plastic football helmet trans- Rintala J (1995) Sport and technology: human questions in a world of
+formed the game of football, 1939-1994. Bull Sci Technol Soc 15:301 machines. J Sport Soc Issues 19:62-75
+Gelberg N (1998) Tradition, talent, and technology: the ambiguous relation- Sailors P (2009) More than a pair of shoes: running and technology. J Philos
+ship between sports and innovation. In: Busch A (ed) Sports in design Sport 36:207-216
+Thames and Hudson, UK, pp 88-110 Savulescu J (2006) Justice, fairness, and enhancement. Ann N Y Acad Sci
+Grabowski A, McGowan C, McDermott W, Beale M, Kram R, Herr H (2009) 1093:321-338
+Running-specific prosthesis limit ground-force during sprinting. Biol Lett Schneider A, Butcher R (1993) Why Olympic athletes should avoid the use
+6:201-204 and seek the elimination of performance-enhancing substances and
+Haake S (2009) The impact of technology on sporting performance in Olympic practices from the Olympic Games. J Philos Sport 20:64-81
+sports. J Sports Sci 27:1421-1431 Scholz M, Blanchfield J, Bloom L, Coburn B, Elkington M, Fuller J, Bond | (2011)
+Hemphill D (2009) Performance enhancement and drug control in sport: ethi- The use of composite materials in modern orthopaedic medicine and
+cal considerations. Sport in Society 12:313-326 prosthetic devices: a review. Compos Sci Technol 71:1791-1803
+Holowchak M (2002) Ergogenic aids and the limits of human performance in Sheridan H (2006) Tennis technologies: de-skilling and re-skilling players and
+sport: ethical issues, aesthetic considerations. J Philos Sport 29:75-86 the implications for the game. Sport Soc 9:32-50
+Howe D (2011) Cyborg and supercrip: the paralympics technology and the Silvers A, Wasserman D (2000) Convention and competence: disability rights in
+(dis)empowerment of disabled athletes. Sociology 45:869-882 sports and education. Society 37:63-67
+Hummel R, Foster G (1986) A sporting chance: relationships between techno- Singh H (2012) In search of a level playing field: rules, morals and the jurispru-
+logical change and concepts of fair play in fishing. J Leisure Res 18:40-52 dence of sport. Int J Sport Soc 3:81-90
+Hutzler Y (2008) Ethical considerations in adapted physical activity practices. Spriggs M (2005) Hypoxic air machines: performance enhancement through
+Sports Ethics Philos 2:158-171 effective training—or cheating ? Sports Ethics 31:112-113
+Jarnes D (2010) The ethics of using engineering to enhance athletic perfor- Stefani R (2012) Olympic swimming gold: the suit or the swimmer in the suit ?
+mance. Procedia Eng 2:3405-3410 Significance 9:13-17
+Jones C, Wilson C (2009) Defining advantage and athletic performance: the Stoll S, Prisbey K, Froes F (2002) Advanced materials in sports: an advantage or
+case of Oscar Pistorius. Eur J Sports Sci 9:125-131 ethical challenge ? USA Today May 72-75
+Kayser B, Mauron A, Miah A (2007) Current anti-doping policy: a critical Svantesson DJB (2014) Could technology resurrect the dignity of the FIFA
+appraisal. BMC Medical Ethics 8: 2. Avaialble via http://www.biomedcen- World Cup refereeing? Comp Law Secur Rev 30:569-573
+tral.com/1472-6939/8/2. Accessed 4/12/7 Swartz L, Watermeyer B (2008) Cyborg anxiety: Oscar Pistorius and the
+Lavin M (2003) Are the current bans justified? In: Boxill J (ed) Sports ethics; an boundaries of what it means to be human. Dis Soc 23:187-190
+anthology. Blackwell, Oxford, pp 189-196 Trabal P (2008) Resistance to technological innovation in elite sport. Int Rev
+Lea R (2009) Ethical considerations of biotechnologies used for performance Sociol Sport 43:313-330
+enhancement. J Bone Joint Surg 91:2048-2054 USGA (2011) USGA: rules of golf. http://www.usga.org/content/dam/usga/
+Lenk C (2007) Is enhancement in sport really unfair? Arguments on the pdf/CompleteROGbook.pdf. Accessed 30/6/15
+concept of competition and equality of opportunities. Sport Ethics Philos Vamplew W (2007) Playing with the rules: influences on the development of
+1:218-228 regulation in sport. Int J History Sport 24:843-871
+Loland S (2002) Technology in sport: three ideal-typical views and their impli- van Hilvoorde |, Landeweerd L (2008) Disability or extraordinary talent—Franc-
+cations. Eur J Sport Sci 2:1-11 esco Lentini (three legs) versus Oscar Pistorius (no legs). Sports Ethics
+Loland S (2009) The ethics of performance enhancing technology in sport. J Philos 2:97-111
+Philos Sport 36:152-161 van Hilvoorde |, Vos R, De Wert G (2007) Flopping, klapping and gene doping:
+Loland S, Caplan A (2008) Ethics of technologically constructed hypoxic envi- dichotomies between ‘natural’ and artificial’ in elite sport. Soc Stud Sci
+ronments in sport. Scand J Med Sci Sports 18:70-75 37:173-200
+Magdalinski T (2000) Performance technologies: drugs and fastskin at the VerSteeg R (2005) Arresting vaulting pole technology. V J Ent Tech L 8:93
+Sydney 2000 Olympics. Media Int Aust Incorp Cult Policy 97:59-69 Weyand P, Bundle M, McGowan C, Grabowski A, Brown M, Kram R, Herr H
+Marcellini A, Ferez S, Issanchou D, De Léséleuc E, McNamee M (2012) Challeng- (2009) The fastest runner on artificial legs: different limbs, similar function
+ing human and sporting boundaries: the case of Oscar Pistorius. Perform ? J Appl Physiol 107:903-911
+Enhanc Health 1:3-9 Wolbring G (2008) Oscar Pistorius and the future nature of olympic, paralym-
+Miah A (2000) “New balls please”: tennis, technology, and the changing game. pic and other sports. Scripted 5:139-160
+In: Haake S, Coe A (eds) Tennis, science, and technology. Blackwell Sci- Wolbring G (2012) Paralympians outperforming olympians: an increasing chal-
+ence, London, pp 285-292 lenge for olympism and the paralympic and olympic movement. Sports
+Miah A (2005) From anti-doping to a ‘performance policy’ sport technology, Ethics Philos 6:251-266
+being human, and doing ethics. Eur J Sport Sci 5:51-57 Wolbring G, Tynedal J (2013) Pistorius and the media: missed story angles.
+Miah A (2006) Rethinking enhancement in sport. US NY Acad Sci Sports Technol 6:177-183
+1093:301-320 Zettler P (2009) Is it cheating to use cheetahs ?: the implications of technologi-
+Mokha M, Conrey R (2007) Prosthetic devices and performance enhancement. cally innovative prostheses for sports values and rules. Boston Univ Int
+Athl Therap Today 12:44-45 Law J 27:367-403
+
